@@ -1,0 +1,1014 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Best Anime Series",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:35:15.401740Z",
+  "description": "Top 50 highest rated anime TV series (TMDB)",
+  "items": [
+    {
+      "media_type": "animation",
+      "external_id": 302696
+    },
+    {
+      "media_type": "animation",
+      "external_id": 284445
+    },
+    {
+      "media_type": "animation",
+      "external_id": 209867
+    },
+    {
+      "media_type": "animation",
+      "external_id": 211057
+    },
+    {
+      "media_type": "animation",
+      "external_id": 246
+    },
+    {
+      "media_type": "animation",
+      "external_id": 94605
+    },
+    {
+      "media_type": "animation",
+      "external_id": 37854
+    },
+    {
+      "media_type": "animation",
+      "external_id": 31911
+    },
+    {
+      "media_type": "animation",
+      "external_id": 232230
+    },
+    {
+      "media_type": "animation",
+      "external_id": 60625
+    },
+    {
+      "media_type": "animation",
+      "external_id": 1429
+    },
+    {
+      "media_type": "animation",
+      "external_id": 46298
+    },
+    {
+      "media_type": "animation",
+      "external_id": 131378
+    },
+    {
+      "media_type": "animation",
+      "external_id": 92685
+    },
+    {
+      "media_type": "animation",
+      "external_id": 271607
+    },
+    {
+      "media_type": "animation",
+      "external_id": 42573
+    },
+    {
+      "media_type": "animation",
+      "external_id": 62741
+    },
+    {
+      "media_type": "animation",
+      "external_id": 137720
+    },
+    {
+      "media_type": "animation",
+      "external_id": 42705
+    },
+    {
+      "media_type": "animation",
+      "external_id": 85937
+    },
+    {
+      "media_type": "animation",
+      "external_id": 85937
+    },
+    {
+      "media_type": "animation",
+      "external_id": 31132
+    },
+    {
+      "media_type": "animation",
+      "external_id": 13916
+    },
+    {
+      "media_type": "animation",
+      "external_id": 65930
+    },
+    {
+      "media_type": "animation",
+      "external_id": 89456
+    },
+    {
+      "media_type": "animation",
+      "external_id": 95557
+    },
+    {
+      "media_type": "animation",
+      "external_id": 95269
+    },
+    {
+      "media_type": "animation",
+      "external_id": 44931
+    },
+    {
+      "media_type": "animation",
+      "external_id": 40075
+    },
+    {
+      "media_type": "animation",
+      "external_id": 100
+    },
+    {
+      "media_type": "animation",
+      "external_id": 60863
+    },
+    {
+      "media_type": "animation",
+      "external_id": 57706
+    },
+    {
+      "media_type": "animation",
+      "external_id": 94954
+    },
+    {
+      "media_type": "animation",
+      "external_id": 127532
+    },
+    {
+      "media_type": "animation",
+      "external_id": 35790
+    },
+    {
+      "media_type": "animation",
+      "external_id": 80040
+    },
+    {
+      "media_type": "animation",
+      "external_id": 256721
+    },
+    {
+      "media_type": "animation",
+      "external_id": 3854
+    },
+    {
+      "media_type": "animation",
+      "external_id": 79141
+    },
+    {
+      "media_type": "animation",
+      "external_id": 37419
+    },
+    {
+      "media_type": "animation",
+      "external_id": 220542
+    },
+    {
+      "media_type": "animation",
+      "external_id": 35610
+    },
+    {
+      "media_type": "animation",
+      "external_id": 82728
+    },
+    {
+      "media_type": "animation",
+      "external_id": 80564
+    },
+    {
+      "media_type": "animation",
+      "external_id": 86389
+    },
+    {
+      "media_type": "animation",
+      "external_id": 98214
+    },
+    {
+      "media_type": "animation",
+      "external_id": 240411
+    },
+    {
+      "media_type": "animation",
+      "external_id": 61663
+    },
+    {
+      "media_type": "animation",
+      "external_id": 61617
+    },
+    {
+      "media_type": "animation",
+      "external_id": 95479
+    }
+  ],
+  "media": {
+    "tv_shows": [
+      {
+        "tmdb_id": 302696,
+        "title": "KPop Demon Hunters Lyric Videos",
+        "original_title": "KPop Demon Hunters Lyric Videos",
+        "poster_url": "https://image.tmdb.org/t/p/w342/dTqYRhRzKayrCcDVqIS3bXOiRR5.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/qyj4vs8223qaaWRoa5V37NMKTYt.jpg",
+        "overview": "Some of the smash film's hottest hits come to life as lyric videos in a line-up featuring \"How It's Done,\" \"Golden,\" \"Soda Pop,\" \"Takedown\" and \"Free.\"",
+        "genres": "[\"16\"]",
+        "first_air_year": 2025,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 9.143,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/302696",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 284445,
+        "title": "Takopi's Original Sin",
+        "original_title": "タコピーの原罪",
+        "poster_url": "https://image.tmdb.org/t/p/w342/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
+        "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
+        "genres": "[\"16\",\"18\",\"10765\"]",
+        "first_air_year": 2025,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.8,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/284445",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 209867,
+        "title": "Frieren: Beyond Journey's End",
+        "original_title": "葬送のフリーレン",
+        "poster_url": "https://image.tmdb.org/t/p/w342/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+        "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+        "genres": "[\"16\",\"10759\",\"18\",\"10765\"]",
+        "first_air_year": 2023,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.8,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/209867",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 211057,
+        "title": "Berserk: The Golden Age Arc – Memorial Edition",
+        "original_title": "ベルセルク 黄金時代篇 MEMORIAL EDITION",
+        "poster_url": "https://image.tmdb.org/t/p/w342/7esafbDoMRZsVR7AHZYAMkrOnK7.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/1NHszOP9o8hpp3wlasnP1uUh7JJ.jpg",
+        "overview": "A wandering warrior ends up joining a mercenary group led by a charismatic leader, in this remastered, episodic cut of the film trilogy.",
+        "genres": "[\"10759\",\"18\",\"16\",\"10765\"]",
+        "first_air_year": 2022,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.8,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/211057",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 246,
+        "title": "Avatar: The Last Airbender",
+        "original_title": "Avatar: The Last Airbender",
+        "poster_url": "https://image.tmdb.org/t/p/w342/v2vn1coUMPKw0GI1KGC5J4IXtqp.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
+        "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+        "genres": "[\"16\",\"10759\",\"10765\"]",
+        "first_air_year": 2005,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.752,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/246",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 94605,
+        "title": "Arcane",
+        "original_title": "Arcane",
+        "poster_url": "https://image.tmdb.org/t/p/w342/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+        "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+        "genres": "[\"16\",\"10759\"]",
+        "first_air_year": 2021,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.751,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/94605",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 37854,
+        "title": "One Piece",
+        "original_title": "ワンピース",
+        "poster_url": "https://image.tmdb.org/t/p/w342/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "genres": "[\"10759\",\"35\",\"16\"]",
+        "first_air_year": 1999,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.7,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/37854",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 31911,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "original_title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+        "poster_url": "https://image.tmdb.org/t/p/w342/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg",
+        "overview": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+        "genres": "[\"16\",\"10759\",\"10765\",\"18\"]",
+        "first_air_year": 2009,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.703,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/31911",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 232230,
+        "title": "Lord of Mysteries",
+        "original_title": "诡秘之主",
+        "poster_url": "https://image.tmdb.org/t/p/w342/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/AdWWrcYKNXlpeWNJlmK4HCJ6Dj9.jpg",
+        "overview": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.",
+        "genres": "[\"16\",\"9648\",\"10765\"]",
+        "first_air_year": 2025,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.69,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/232230",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 60625,
+        "title": "Rick and Morty",
+        "original_title": "Rick and Morty",
+        "poster_url": "https://image.tmdb.org/t/p/w342/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
+        "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "genres": "[\"16\",\"35\",\"10765\",\"10759\"]",
+        "first_air_year": 2013,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.681,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/60625",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 1429,
+        "title": "Attack on Titan",
+        "original_title": "進撃の巨人",
+        "poster_url": "https://image.tmdb.org/t/p/w342/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+        "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+        "genres": "[\"16\",\"10765\",\"10759\"]",
+        "first_air_year": 2013,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.675,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/1429",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 46298,
+        "title": "Hunter x Hunter",
+        "original_title": "HUNTER×HUNTER",
+        "poster_url": "https://image.tmdb.org/t/p/w342/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+        "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+        "genres": "[\"16\",\"10759\",\"10765\"]",
+        "first_air_year": 2011,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.667,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/46298",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 131378,
+        "title": "Adventure Time: Fionna & Cake",
+        "original_title": "Adventure Time: Fionna & Cake",
+        "poster_url": "https://image.tmdb.org/t/p/w342/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/vRAM2el4bAygzUWfwXdt34E71Ee.jpg",
+        "overview": "Fionna and Cake – with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
+        "genres": "[\"16\",\"10759\",\"35\",\"10765\"]",
+        "first_air_year": 2023,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.7,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/131378",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 92685,
+        "title": "The Owl House",
+        "original_title": "The Owl House",
+        "poster_url": "https://image.tmdb.org/t/p/w342/rhzwpJBhi2WkfihXndS1xUdQlzB.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
+        "overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+        "genres": "[\"16\",\"10759\",\"35\",\"10765\",\"10751\"]",
+        "first_air_year": 2020,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.662,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/92685",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 271607,
+        "title": "The Fragrant Flower Blooms with Dignity",
+        "original_title": "薫る花は凛と咲く",
+        "poster_url": "https://image.tmdb.org/t/p/w342/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg",
+        "overview": "When the intimidating Rintaro meets the open-minded Kaoruko, the unlikely duo grows closer. The issue? Their neighboring high schools hate each other.",
+        "genres": "[\"16\",\"18\"]",
+        "first_air_year": 2025,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.669,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/271607",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 42573,
+        "title": "Slam Dunk",
+        "original_title": "スラムダンク",
+        "poster_url": "https://image.tmdb.org/t/p/w342/gpkM8VeiYyQuEg9qkAoNplktwe4.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/dEANXnVRmFkSD8jcJlZ0oy8EnB1.jpg",
+        "overview": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him.",
+        "genres": "[\"16\",\"35\"]",
+        "first_air_year": 1993,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.652,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/42573",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 62741,
+        "title": "Kamisama Kiss",
+        "original_title": "神様はじめました",
+        "poster_url": "https://image.tmdb.org/t/p/w342/5E7GL8KxpFemEFl3Lv8Fu4RuSwa.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/cttisz5q4LHwyRYlIj9S7oQa27v.jpg",
+        "overview": "Nanami was just a normal high school girl down on her luck until a stranger’s lips marked her as the new Land God and turned her world upside down. Now, she’s figuring out the duties of a deity with the help of Tomoe, a reformed fox demon who reluctantly becomes her familiar in a contract sealed with a kiss. The new responsibilities—and boys—are a lot to handle, like the crow demon masquerading as a gorgeous pop idol and the adorable snake spirit who’s chosen the newly minted god to be his bride. As the headstrong Tomoe tries to whip her into shape, Nanami finds that love just might have cute, pointed fox ears. With romance in the air, will the human deity be able to prove herself worthy of her new title?",
+        "genres": "[\"16\",\"35\",\"10765\"]",
+        "first_air_year": 2012,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/62741",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 137720,
+        "title": "Frankelda's Book of Spooks",
+        "original_title": "Los sustos ocultos de Frankelda",
+        "poster_url": "https://image.tmdb.org/t/p/w342/l7joGj61QSDC2jsIOgnUVftoiu2.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/nZeNGxCLzQTDLjMdRrgDYsnzCWv.jpg",
+        "overview": "Frankelda, a mysterious phantom writer, with the help of her grumpy enchanted book, tells terrifying stories in which girls and boys have encounters with monsters that will make them face their deepest fears.",
+        "genres": "[\"16\"]",
+        "first_air_year": 2021,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/137720",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 42705,
+        "title": "Fighting Spirit",
+        "original_title": "はじめの一歩",
+        "poster_url": "https://image.tmdb.org/t/p/w342/1LApB9C9kEkh2ZU2vzAhurNDipl.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/bHSgCHRYko757BdmntddESfEEgt.jpg",
+        "overview": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
+        "genres": "[\"16\",\"35\",\"18\",\"10759\"]",
+        "first_air_year": 2000,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.638,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/42705",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 85937,
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "original_title": "鬼滅の刃",
+        "poster_url": "https://image.tmdb.org/t/p/w342/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+        "overview": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
+        "genres": "[\"16\",\"10759\",\"10765\"]",
+        "first_air_year": 2019,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/85937",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 85937,
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "original_title": "鬼滅の刃",
+        "poster_url": "https://image.tmdb.org/t/p/w342/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+        "overview": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
+        "genres": "[\"16\",\"10759\",\"10765\"]",
+        "first_air_year": 2019,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/85937",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 31132,
+        "title": "Regular Show",
+        "original_title": "Regular Show",
+        "poster_url": "https://image.tmdb.org/t/p/w342/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+        "overview": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs as groundskeepers at the local park.",
+        "genres": "[\"16\",\"35\"]",
+        "first_air_year": 2010,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.629,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/31132",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 13916,
+        "title": "Death Note",
+        "original_title": "DEATH NOTE",
+        "poster_url": "https://image.tmdb.org/t/p/w342/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/mOlEbXcb6ufRJKogI35KqsSlCfB.jpg",
+        "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+        "genres": "[\"16\",\"9648\",\"10765\"]",
+        "first_air_year": 2006,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.625,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/13916",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 65930,
+        "title": "My Hero Academia",
+        "original_title": "僕のヒーローアカデミア",
+        "poster_url": "https://image.tmdb.org/t/p/w342/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/ol0H2DGp4ifBHA4JDlCpwJWxnY2.jpg",
+        "overview": "After he saves a bully from a Villain, a normal student is granted a superpower that allows him to attend a high school training academy for Heroes.",
+        "genres": "[\"10759\",\"16\",\"10765\"]",
+        "first_air_year": 2016,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/65930",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 89456,
+        "title": "Primal",
+        "original_title": "Primal",
+        "poster_url": "https://image.tmdb.org/t/p/w342/mf12pRakr3eYdJtv6klQtoznnbU.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/tbHQDtoDZGJsfe7Kx6BEShcrZAa.jpg",
+        "overview": "A caveman forms a bond with a dinosaur as they struggle to survive in a hostile world.",
+        "genres": "[\"10759\",\"16\",\"18\"]",
+        "first_air_year": 2019,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/89456",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 95557,
+        "title": "Invincible",
+        "original_title": "Invincible",
+        "poster_url": "https://image.tmdb.org/t/p/w342/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
+        "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+        "genres": "[\"16\",\"10765\",\"10759\",\"18\"]",
+        "first_air_year": 2021,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.615,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/95557",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 95269,
+        "title": "Toilet-Bound Hanako-kun",
+        "original_title": "地縛少年花子くん",
+        "poster_url": "https://image.tmdb.org/t/p/w342/h1X1G8Q9Ba9Vy1YIgXHduenP8nv.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/hhRhddxhSInMAuIqcx2rP61FmlS.jpg",
+        "overview": "To be united with her crush, a hopeless romantic summons the ghost in the girls' bathroom at her school. But she's shocked when the ghost is a boy!",
+        "genres": "[\"16\",\"9648\",\"10765\"]",
+        "first_air_year": 2020,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.615,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/95269",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 44931,
+        "title": "Superbook",
+        "original_title": "Superbook",
+        "poster_url": "https://image.tmdb.org/t/p/w342/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/gnIkkrus3fm6tEkivzQvg1RmLo6.jpg",
+        "overview": "Chris Quantum is your typical Middle School student -- except if you take into account one of his best friends is a robot named Gizmo. Add his best friend Joy Pepper into the mix and you have a recipe for adventure. The adventures begin for this trio when a mysterious device appears and takes them on journeys throughout the Bible. Travel back in time and get ready for the journey of a lifetime!",
+        "genres": "[\"16\",\"10762\",\"10751\"]",
+        "first_air_year": 2011,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.612,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/44931",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 40075,
+        "title": "Gravity Falls",
+        "original_title": "Gravity Falls",
+        "poster_url": "https://image.tmdb.org/t/p/w342/my3IKg5kSCn1Swf07hewcZKJS3K.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+        "overview": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
+        "genres": "[\"16\",\"10759\",\"35\",\"9648\",\"10765\",\"10751\"]",
+        "first_air_year": 2012,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.611,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/40075",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 100,
+        "title": "I Am Not an Animal",
+        "original_title": "I Am Not an Animal",
+        "poster_url": "https://image.tmdb.org/t/p/w342/zXhtWhYtlJVyyp5MdT7ggMJn5si.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/cJKGfZHkMFtbVA4m2kwmdGk8uHp.jpg",
+        "overview": "I Am Not An Animal is an animated comedy series about the only six talking animals in the world, whose cosseted existence in a vivisection unit is turned upside down when they are liberated by animal rights activists.",
+        "genres": "[\"16\",\"35\",\"10765\"]",
+        "first_air_year": 2004,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/100",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 60863,
+        "title": "Haikyu!!",
+        "original_title": "ハイキュー!!",
+        "poster_url": "https://image.tmdb.org/t/p/w342/rBXEmHQaYoIAyOWRpu8v3cBGKcT.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+        "overview": "Inspired by a small-statured pro volleyball player, Hinata creates a volleyball team in his last year of middle school. Unfortunately the team is matched up against the \"King of the Court\" Tobio Kageyama’s team in their first tournament and inevitably lose. After the crushing defeat, Hinata vows to surpass Kageyama After entering high school, Hinata joins the volleyball team only to find that Tobio has also joined.",
+        "genres": "[\"16\",\"35\",\"18\"]",
+        "first_air_year": 2014,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/60863",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 57706,
+        "title": "Ranma ½",
+        "original_title": "らんま1/2",
+        "poster_url": "https://image.tmdb.org/t/p/w342/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg",
+        "overview": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
+        "genres": "[\"35\",\"10759\",\"16\",\"10765\"]",
+        "first_air_year": 1989,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/57706",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 94954,
+        "title": "Hazbin Hotel",
+        "original_title": "Hazbin Hotel",
+        "poster_url": "https://image.tmdb.org/t/p/w342/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/muz4zF9dk1h7b9Nu8duOysvX823.jpg",
+        "overview": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
+        "genres": "[\"16\",\"35\",\"18\",\"10765\"]",
+        "first_air_year": 2024,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.609,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/94954",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 127532,
+        "title": "Solo Leveling",
+        "original_title": "俺だけレベルアップな件",
+        "poster_url": "https://image.tmdb.org/t/p/w342/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+        "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+        "genres": "[\"16\",\"10759\",\"10765\"]",
+        "first_air_year": 2024,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.603,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/127532",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 35790,
+        "title": "Cardcaptor Sakura",
+        "original_title": "カードキャプターさくら",
+        "poster_url": "https://image.tmdb.org/t/p/w342/dj0uI34MOkZMTE233tfRebs0YYx.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/9H6RuhggxRYzjJEm8nASlCUdhDU.jpg",
+        "overview": "Sakura Kinomoto, an elementary school student who discovers that she possesses magical powers after accidentally freeing a set of magical cards from the book they had been sealed in for years. She is then tasked with retrieving those cards in order to avoid an unknown catastrophe from befalling the world.",
+        "genres": "[\"16\",\"10765\",\"10759\"]",
+        "first_air_year": 1998,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.599,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/35790",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 80040,
+        "title": "Desafío Champions Sendokai",
+        "original_title": "Desafío Champions Sendokai",
+        "poster_url": "https://image.tmdb.org/t/p/w342/8dBMIQ2r8FdLABrZeGklAUAUYCH.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/9BeUFOmnq9rI6hXUAG9xEvPvao9.jpg",
+        "overview": "",
+        "genres": "[\"16\",\"35\",\"10759\",\"10751\"]",
+        "first_air_year": 2013,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/80040",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 256721,
+        "title": "Gachiakuta",
+        "original_title": "ガチアクタ",
+        "poster_url": "https://image.tmdb.org/t/p/w342/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/WUQNBzTAln6iANDoMWWtf5m4i1.jpg",
+        "overview": "Accused of murder and thrown into the Pit, a young orphan joins a group of monster fighters with special powers to uncover the truth and seek vengeance.",
+        "genres": "[\"16\",\"10759\",\"18\",\"10765\"]",
+        "first_air_year": 2025,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/256721",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 3854,
+        "title": "The Spectacular Spider-Man",
+        "original_title": "The Spectacular Spider-Man",
+        "poster_url": "https://image.tmdb.org/t/p/w342/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/fypGcrQCyb9vQ7L8AM6PHCjQSBC.jpg",
+        "overview": "Having spent the summer engaging common criminals with his new-found powers, not so typical 16-year-old Peter Parker must conceal his secret identity and battle super-villains in the real world as he enters his junior year of high school.",
+        "genres": "[\"10759\",\"16\",\"10762\",\"10751\"]",
+        "first_air_year": 2008,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/3854",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 79141,
+        "title": "Scissor Seven",
+        "original_title": "刺客伍六七",
+        "poster_url": "https://image.tmdb.org/t/p/w342/mSLSrOndwNoompAARPHBaxF2E6E.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/80AhZSbY4eYe7HZnmkqX18ZcAFj.jpg",
+        "overview": "Seeking to recover his memory, a scissor-wielding, hairdressing, bungling quasi-assassin stumbles into a struggle for power among feuding factions.",
+        "genres": "[\"16\",\"35\",\"10759\",\"10765\"]",
+        "first_air_year": 2018,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/79141",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 37419,
+        "title": "Zoids: Chaotic Century",
+        "original_title": "ゾイド",
+        "poster_url": "https://image.tmdb.org/t/p/w342/aVGuBvoBr9ujme4uUkAIRYk5vlt.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/zCJkiqMFoxcpYPKqhIhStEeVF2c.jpg",
+        "overview": "Set on the distant planet Zi, the story unfolds in a world where biomechanical creatures called Zoids serve as powerful weapons in the long-standing conflict between the Helic Republic and the Guylos Empire. A fragile ceasefire holds, but rising tensions and the return of ancient Zoidian technology threaten to plunge both nations back into war. The story follows Van Flyheight, a young boy who discovers Fiona, a mysterious girl with no memory, and Zeke, an Organoid capable of enhancing a Zoid’s combat abilities. Traveling with the resourceful Moonbay and the reserved mercenary Irvine, the group searches for clues to Fiona’s past. Their journey leads them across the Republic and eventually into the heart of a renewed conflict that will shape the future of Zi.",
+        "genres": "[\"10759\",\"16\",\"35\",\"10765\"]",
+        "first_air_year": 1999,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.591,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/37419",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 220542,
+        "title": "The Apothecary Diaries",
+        "original_title": "薬屋のひとりごと",
+        "poster_url": "https://image.tmdb.org/t/p/w342/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+        "genres": "[\"16\",\"18\",\"9648\"]",
+        "first_air_year": 2023,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.589,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/220542",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 35610,
+        "title": "InuYasha",
+        "original_title": "犬夜叉",
+        "poster_url": "https://image.tmdb.org/t/p/w342/jgvW9n0EwKtq9nbztWhyTvvoqjS.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+        "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+        "genres": "[\"16\",\"10759\",\"10765\"]",
+        "first_air_year": 2000,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.577,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/35610",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 82728,
+        "title": "Bluey",
+        "original_title": "Bluey",
+        "poster_url": "https://image.tmdb.org/t/p/w342/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/g88VMPtog8sl8riaIRtz4U80dMK.jpg",
+        "overview": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
+        "genres": "[\"16\",\"35\",\"10762\"]",
+        "first_air_year": 2018,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.576,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/82728",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 80564,
+        "title": "Banana Fish",
+        "original_title": "BANANA FISH",
+        "poster_url": "https://image.tmdb.org/t/p/w342/d2TW5Rtd0uCasHlQygsDfWCROl2.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/9I297AAuMFuKY0GgFmxKTo5tzrz.jpg",
+        "overview": "A teenaged gang leader in New York City faces his abuser and rival gangs alongside a photojournalist from Japan as they investigate a deadly new drug.",
+        "genres": "[\"16\",\"18\",\"10759\",\"9648\",\"80\"]",
+        "first_air_year": 2018,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.576,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/80564",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 86389,
+        "title": "Cyborg Kuro-chan",
+        "original_title": "サイボーグクロちゃん",
+        "poster_url": "https://image.tmdb.org/t/p/w342/rjTuVZBLV7DCNN7R0CtPziVFPb4.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/axCCTUxJcc8Ju03iCvsvK8OwT0o.jpg",
+        "overview": "Kuro is just an ordinary cat who only wants to protect his owners who are an old couple that can't fend for themselves. One day while on a date with his girlfriend Pooly who is a dog, he is kidnapped by an evil scientist and turned into a robot. Kuro somehow removes the chip that controlled him and notices that people get scared with his new robotic appearance and that he can now talk like a human. He decides to disguise himself with the skin of a stuffed toy and to continue living as a pet.",
+        "genres": "[\"35\",\"16\",\"10759\"]",
+        "first_air_year": 1999,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/86389",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 98214,
+        "title": "Villainous",
+        "original_title": "Villanos",
+        "poster_url": "https://image.tmdb.org/t/p/w342/uKtxJqOeB74Lm6ZNCyEqMaFlXbp.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/zavcRL1oOatiyZ7BcycVzjrELeh.jpg",
+        "overview": "Follow the misadventures of the Black Hat Org. with evil handyman Black Hat and his less evil aides Dr. Flugslys, Demencia, 5.0.5, Cam Bot, and Penumbra.",
+        "genres": "[\"16\"]",
+        "first_air_year": 2017,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/98214",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 240411,
+        "title": "Dan Da Dan",
+        "original_title": "ダンダダン",
+        "poster_url": "https://image.tmdb.org/t/p/w342/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+        "overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
+        "genres": "[\"16\",\"10759\",\"35\",\"10765\"]",
+        "first_air_year": 2024,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.572,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/240411",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 61663,
+        "title": "Your Lie in April",
+        "original_title": "四月は君の嘘",
+        "poster_url": "https://image.tmdb.org/t/p/w342/rRjfH3ckTYz8z8aSkJshFL4VyK9.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/x6jWDL4H9TaBLGEvyej0qKiirBU.jpg",
+        "overview": "Kousei Arima was a genius pianist until his mother's sudden death took away his ability to play. Each day was dull for Kousei. But, then he meets a violinist named Kaori Miyazono who has an eccentric playing style. Can the heartfelt sounds of the girl's violin lead the boy to play the piano again?",
+        "genres": "[\"16\",\"35\",\"18\"]",
+        "first_air_year": 2014,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/61663",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 61617,
+        "title": "Over the Garden Wall",
+        "original_title": "Over the Garden Wall",
+        "poster_url": "https://image.tmdb.org/t/p/w342/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/hozufHEzqIRpqJrlyGDqnsyFrAQ.jpg",
+        "overview": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
+        "genres": "[\"9648\",\"10765\",\"16\",\"10751\",\"35\"]",
+        "first_air_year": 2014,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.566,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/61617",
+        "cached_at": 1772210113
+      },
+      {
+        "tmdb_id": 95479,
+        "title": "JUJUTSU KAISEN",
+        "original_title": "呪術廻戦",
+        "poster_url": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+        "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+        "genres": "[\"16\",\"10759\",\"10765\"]",
+        "first_air_year": 2020,
+        "total_seasons": null,
+        "total_episodes": null,
+        "rating": 8.6,
+        "status": null,
+        "external_url": "https://www.themoviedb.org/tv/95479",
+        "cached_at": 1772210113
+      }
+    ]
+  }
+}
