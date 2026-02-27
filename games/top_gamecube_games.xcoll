@@ -1,0 +1,914 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Top GameCube Games",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:09:26.877127Z",
+  "description": "Top 50 highest rated Nintendo GameCube games of all time",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1105,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 3349,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 796,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 45142,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4174,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4034,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 1627,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4157,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4152,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 1204,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4043,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 24869,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 2240,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4036,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 974,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 1033,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4041,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 2143,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 3795,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4042,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4035,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 1108,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 1341,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 1036,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4181,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 2144,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 3932,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4001,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 911,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 3384,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 1441,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 45139,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 152,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 880,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 2765,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 3794,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4194,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 97,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 4006,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 96,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 2344,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 3907,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 874,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 837,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 3966,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 836,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 1075,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 3875,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 914,
+      "platform_id": 21
+    },
+    {
+      "media_type": "game",
+      "external_id": 748,
+      "platform_id": 21
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1105,
+        "name": "Metroid Prime",
+        "summary": "A 3D exploration-focused metroidvania with first-person shooting mechanics and the first 3D entry in the Metroid series, Metroid Prime follows Samus Aran after the events of Metroid (1986) as she boards a Space Pirate frigate, then chases her escaping archrival Ridley into the intricately structured Tallon IV, a planet full of deadly wildlife and former home to the advanced and ancient Chozo race.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3w4w.jpg",
+        "release_date": 1037491200,
+        "rating": 92.33938660671816,
+        "rating_count": 850,
+        "genres": "Shooter|Platform|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/metroid-prime",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 3349,
+        "name": "Paper Mario: The Thousand-Year Door",
+        "summary": "What sleeps behind the door?\n\nTime passes, the pages turn… and a new chapter unfolds in an unfamiliar land! Get ready for a two-dimensional role-playing adventure for the ages as Mario returns to paper form to discover a mystery that sleeps behind an ancient, legendary portal called the Thousand-Year Door. The quest is long, the dangers many, and this time, Mario will have to make full use of his papery qualities just to survive.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25us.jpg",
+        "release_date": 1090454400,
+        "rating": 92.17539538966356,
+        "rating_count": 523,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/paper-mario-the-thousand-year-door",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 796,
+        "name": "MVP Baseball 2005",
+        "summary": "MVP Baseball 2005 is a baseball video game developed and published by Electronic Arts. It features then-Boston Red Sox left fielder Manny Ramirez on its cover. The game features full Major League Baseball, Minor League Baseball, and Major League Baseball Players Association licenses. It holds the 98th spot on IGN's reader's choice top 100 games ever as of 2006. As with previous versions of the game, the announcers are Duane Kuiper and Mike Krukow, real-life announcers for the San Francisco Giants.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d4y.jpg",
+        "release_date": 1109030400,
+        "rating": 90.91207745346424,
+        "rating_count": 19,
+        "genres": "Sport",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/mvp-baseball-2005",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 45142,
+        "name": "The Legend of Zelda: Ocarina of Time - Master Quest",
+        "summary": "The Legend of Zelda: Ocarina of Time - Master Quest is a reworked version of the original Ocarina of Time for the Nintendo 64. Master Quest contains largely the same content as the original game but with more redesigned and difficult dungeons. Master Quest was available on a special bonus disc that also contained the original Ocarina of Time, it was given out in limited quantities with preorders of The Wind Waker. It was previously developed to be released as an expansion to the original game via the Nintendo 64DD, but that version was cancelled due to the lackluster sales of the hardware.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5zdv.jpg",
+        "release_date": 1038441600,
+        "rating": 89.997068969293,
+        "rating_count": 31,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "21,416",
+        "external_url": "https://www.igdb.com/games/the-legend-of-zelda-ocarina-of-time-master-quest",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4174,
+        "name": "SSX 3",
+        "summary": "Players can discover the open mountain in the newest version of the smash-hit SSX snowboarding franchise.\n\nSSX 3 allows gamers to go anywhere gravity will take them. Players will discover a colossal mountain where they can immerse themselves in a free-roaming snow paradise. The ultimate all-mountain experience, SSX 3 features all-new events and courses, awe-inspiring tricks and a cast of cool, customisable characters. Discover the open terrain, explore its hidden crevices, and conquer its peaks.\n\nProduced under the EA SPORTS BIG brand, the SSX 3 development team at EA Canada is adding technologies that bring to life rich natural graphics such as snow that sparkles and blows in the wind and realistic character shadowing. A new gameplay experience allows users to seamlessly ride from one awesome area to the next- entering competitions, taking on Big Challenges and discovering hidden collectibles. SSX 3 has blown out the trick component with unlimited combos and new, over-the-top tricks.\n\nIn addition to the new boarding venues, Big Challenges rewards players for completing any of the more than 100 unique challenges as they explore the mountain's vast world. Grind billboards, board press logs, even hand plant the fence line.\n\nThe musical soundtrack features a broad range of music from artists including the X-Ecutioners, Felix Da Housecat, Queens of the Stone Age, N.E.R.D., and many more.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1o4m.jpg",
+        "release_date": 1066608000,
+        "rating": 89.21268810717422,
+        "rating_count": 88,
+        "genres": "Racing|Sport",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/ssx-3",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4034,
+        "name": "NBA Live 06",
+        "summary": "NBA Live 06 is the first game in the franchise to reach next generation consoles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1oxr.jpg",
+        "release_date": 1127692800,
+        "rating": 89.15379910015774,
+        "rating_count": 26,
+        "genres": "Simulator|Sport",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/nba-live-06",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 1627,
+        "name": "Super Smash Bros. Melee",
+        "summary": "Super Smash Bros. Melee is the second installment in the Super Smash Bros. series and the follow-up to the Nintendo 64 title. It includes all playable characters from the first game, and also adds characters from franchises such as Fire Emblem, of which no games had been released outside Japan at the time. Super Smash Bros. Melee builds on the first game by adding new gameplay features and playable characters: it's major focus is the multiplayer mode, while still offering a number of single-player modes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21yv.jpg",
+        "release_date": 1006300800,
+        "rating": 89.07366573862456,
+        "rating_count": 1052,
+        "genres": "Fighting|Platform",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/super-smash-bros-melee",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4157,
+        "name": "Sonic Mega Collection",
+        "summary": "Sonic Mega Collection is a video game compilation developed by Sonic Team and published by Sega in 2002 for the GameCube. The compilation contains twelve to fourteen games (depending on region) originally released on the Sega Genesis. Ten of the included games are installments of the Sonic the Hedgehog series, while the remaining two to four games are only related to the series through its publisher, Sega.\n\nAccording to the director, Yojiro Ogawa, the purpose of the compilation was to introduce younger players to the original games in the Sonic series. The games are played through a Genesis emulator developed by Sonic Team themselves. Outside of the games, the compilation includes Sonic-themed videos and illustrations, as well as high-resolution scans of the instruction manuals and Sonic the Hedgehog comic covers.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2v6h.jpg",
+        "release_date": 1036886400,
+        "rating": 88.78241713960834,
+        "rating_count": 32,
+        "genres": "Platform|Puzzle",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/sonic-mega-collection",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4152,
+        "name": "Skies of Arcadia Legends",
+        "summary": "Battle to Save Arcadia!\n\nYou are Vyse, a young pirate on a quest to save Arcadia. Wage battle against an evil Empire as you make a name for yourself on land and in the sky. Will you become a Legend?\n\n-New \"Wanted\" Battles, new characters, weapons, and more!\n-An improved battle engine featuring spectacular special attacks\n-Experience the Director's Cut with hours of new gameplay!\n-Employ devastating weapons and magic\n-Explore a full 3D world to recruit up to 22 crew members",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ola.jpg",
+        "release_date": 1040860800,
+        "rating": 88.57399656885725,
+        "rating_count": 23,
+        "genres": "Puzzle|Role-playing (RPG)|Adventure",
+        "platform_ids": "21,8",
+        "external_url": "https://www.igdb.com/games/skies-of-arcadia-legends",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 1204,
+        "name": "Tales of Symphonia",
+        "summary": "In a dying world, legend has it that a Chosen One will one day rise from amongst the people and the land will be reborn. The line between good and evil blurs in this epic adventure where the fate of two interlocked worlds hangs in the balance.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1peo.jpg",
+        "release_date": 1062115200,
+        "rating": 88.26874199102795,
+        "rating_count": 120,
+        "genres": "Puzzle|Role-playing (RPG)",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/tales-of-symphonia",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4043,
+        "name": "NHL 2005",
+        "summary": "Capture all the speed, finesse, and action of professional hockey with NHL 2005, the successor to NHL 2004. The game's new EA Sports Open Ice Control lets you execute offensive plays, such as a give-and-go and a breakaway pass, and you can also call for defensive double-teams. Dynasty mode has been enhanced with more interactive GM/owner relationships, including a new e-mail system. NHL 2005 also delivers all the action of the World Cup of Hockey with International Teams and venues from North America and Europe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2got.jpg",
+        "release_date": 1095120000,
+        "rating": 87.93859166687233,
+        "rating_count": 17,
+        "genres": "Simulator|Sport",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/nhl-2005",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 24869,
+        "name": "Resident Evil",
+        "summary": "Resident Evil is the 2002 remake of the original 1996 video game of the same name featuring various improvements and gameplay overhaul. The game features all-new graphics and sound, and also incorporates gameplay elements from the earlier installments. While the overall plot remained mostly unchanged, several new areas and rooms were added to the game. This remake also features many additional modes, secrets and various endings over the original.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vz8.jpg",
+        "release_date": 1016755200,
+        "rating": 87.82425948484226,
+        "rating_count": 248,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/resident-evil--1",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 2240,
+        "name": "Pikmin 2",
+        "summary": "In Pikmin 2, Captain Olimar returns to the planet he was originally stranded on, to collect trinkets for his failing company to sell back at home. The game features a 2-character mechanic, which allows players to switch between two spacemen while collecting items. Two-player co-op challenge missions and a competitive mode are also available.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5y6q.jpg",
+        "release_date": 1083196800,
+        "rating": 87.5983972327738,
+        "rating_count": 107,
+        "genres": "Real Time Strategy (RTS)|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/pikmin-2",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4036,
+        "name": "NBA Street Vol. 2",
+        "summary": "NBA Street Vol. 2 is a basketball video game, published by EA Sports BIG and developed by EA Canada. It is the sequel to NBA Street and the second game in the NBA Street series. It was released on April 28, 2003 for the PlayStation 2, GameCube, and, for the first time in the series, on the Xbox. Japan was only able to see a PlayStation 2 release of this game. The GameCube version was also planned to be released in that region, but it was canceled for unknown reasons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2etl.jpg",
+        "release_date": 1051488000,
+        "rating": 87.5674061435354,
+        "rating_count": 42,
+        "genres": "Sport|Adventure",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/nba-street-vol-2",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 974,
+        "name": "Resident Evil 4",
+        "summary": "Resident Evil 4 is the sixth installment in the Resident Evil series and is often noted for its departure from the fixed camera angles of earlier titles. It introduced an over-the-shoulder third-person perspective, faster-paced gunplay, and more dynamic controls. The game features larger, more open environments and a new AI system that enables enemies to coordinate attacks and attempt to corner the player. Enemies exhibit more human-like behavior, such as climbing ladders, opening doors, and using weapons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wk8.jpg",
+        "release_date": 1105401600,
+        "rating": 87.44215112910966,
+        "rating_count": 1590,
+        "genres": "Shooter|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/resident-evil-4",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 1033,
+        "name": "The Legend of Zelda: The Wind Waker",
+        "summary": "The Legend of Zelda: The Wind Waker is the first Zelda game for the Nintendo GameCube and also the first in the series to employ cel-shading, a lighting and texturing technique that results in the game having a cartoon-like appearance. Like its predecessors, The Wind Waker is an action game with puzzle-solving and light role-playing elements. Basic gameplay mechanics are similar to those found in Ocarina of Time, but it differentiates itself with its massive Great Sea which must be explored using a boat named King of Red Lions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ohz.jpg",
+        "release_date": 1039737600,
+        "rating": 87.19146835527651,
+        "rating_count": 999,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/the-legend-of-zelda-the-wind-waker",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4041,
+        "name": "NFL Street",
+        "summary": "NFL Street is a series of sports video games developed by EA Tiburon and published by Electronic Arts. It combines the talent and big names of the NFL with the atmosphere of street football",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ekg.jpg",
+        "release_date": 1073952000,
+        "rating": 86.69008212444551,
+        "rating_count": 20,
+        "genres": "Sport",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/nfl-street",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 2143,
+        "name": "TimeSplitters 2",
+        "summary": "TimeSplitters 2 is a first-person shooter that requires players to kill enemies and complete objectives using a variety of weapons and tactics in different predefined scenarios. Armour and health bars on the sides of the screen lower when the player is shot, which can be increased by walking over body armor and medical kits.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1vn.jpg",
+        "release_date": 1034121600,
+        "rating": 86.33509125977409,
+        "rating_count": 135,
+        "genres": "Shooter",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/timesplitters-2",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 3795,
+        "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+        "summary": "An original roleplaying game for Nintendo GameCube from the team behind Xenosaga. The game makes heavy use of cards for everything from fighting battles to purchasing items. Cards are actually a central part of the story as well, as they are holders for \"Magnus\" which is short for \"Magna Essence.\" Magnus is the true nature of all things throughout the world, including swords, magic spells and even apples that are gathered in the town in which your adventures start out. A real item can be turned into Magnus form and stored in a blank card. It can then be taken out from the card and will turn back into real form. Features detailed CG cutscenes to tell the story and turn-based battle sequences.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tpk.jpg",
+        "release_date": 1070582400,
+        "rating": 86.20151661404671,
+        "rating_count": 25,
+        "genres": "Role-playing (RPG)|Card & Board Game",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/baten-kaitos-eternal-wings-and-the-lost-ocean",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4042,
+        "name": "NFL Street 2",
+        "summary": "NFL Street 2 is the second game in EA's arcade football series. Players try to become the world's best urban footballer by conquering other teams using several gravity-defying tricks like up-the-wall passes, off-the-wall catches, and highlight-reel wall jukes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7l5m.jpg",
+        "release_date": 1103673600,
+        "rating": 86.17758962277728,
+        "rating_count": 20,
+        "genres": "Sport",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/nfl-street-2",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4035,
+        "name": "NBA Street",
+        "summary": "Are you ready for extreme basketball? You'd better be, 'cause it's coming to your PS2 fresh from the developers of SSX! Hit the streets for some 3-on-3 hoop action, where flashy moves are your key to victory. Do tricks and combos to build up your Gamebreaker meter. Hit a Gamebreaker shot and you'll not only advance your own point total, but take away from your opponents'. One well-timed Gamebreaker can turn a match around! Create your own cool characters, and earn great new stuff for them as you unlock new courts and teams while taking on streetball and NBA legends. Beat a team in the tournament mode, and you have the option of adding its players to your roster, which will help as you advance up the ladder. You can also take on a friend in the two-player mode.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2eki.jpg",
+        "release_date": 992822400,
+        "rating": 86.14714192074473,
+        "rating_count": 63,
+        "genres": "Sport",
+        "platform_ids": "21,8",
+        "external_url": "https://www.igdb.com/games/nba-street",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 1108,
+        "name": "Metroid Prime 2: Echoes",
+        "summary": "An exploration-driven 3D metroidvania/first-person shooter hybrid and sequel to Metroid Prime (2002) in which Samus lands on Aether, an intricate planet torn into light and dark versions of itself, to help its remaining inhabitants defend against the invaders from its dark incarnation by traversing both the light and dark worlds, acquiring new power-ups and braving oppressive environments.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w7n.jpg",
+        "release_date": 1100476800,
+        "rating": 85.94720791900752,
+        "rating_count": 188,
+        "genres": "Shooter|Platform|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/metroid-prime-2-echoes",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 1341,
+        "name": "Beyond Good & Evil",
+        "summary": "Beyond Good & Evil is an action-adventure game with elements of puzzle-solving and stealth-based games. The player controls the protagonist, Jade, from a third-person perspective. Jade can run, move stealthily, jump over obstacles and pits, climb ladders, push or bash doors and objects, and flatten herself against walls. As Jade, the player investigates a number of installations in search of the truth about a war with an alien threat.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n6b.jpg",
+        "release_date": 1068508800,
+        "rating": 85.60136639931656,
+        "rating_count": 383,
+        "genres": "Shooter|Puzzle|Adventure",
+        "platform_ids": "11,21,6,12,8",
+        "external_url": "https://www.igdb.com/games/beyond-good-evil",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 1036,
+        "name": "The Legend of Zelda: Twilight Princess",
+        "summary": "The Legend of Zelda: Twilight Princess is the last Zelda game for GameCube, it was highly anticipated by many members of the gaming community and was regarded as finally fulfilling the dreams of those who wanted a much more realistic and mature game than the ones before. The art is similar to the naturalistic style of Ocarina of Time, rather than the cel-shaded look of The Wind Waker. The main adventure takes place in several provinces with dungeons and temples. New to this game is the ability for Link to transform into a Wolf when entering the Twilight. As a wolf, Link can use his senses to solve puzzles and get past obstacles, he can also dig holes to find hearts and rupees. Twilight Princess has received universal acclaim from reviewers and journalists, who cited it as the greatest Zelda game of all time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mtv.jpg",
+        "release_date": 1165017600,
+        "rating": 85.52043958216366,
+        "rating_count": 684,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/the-legend-of-zelda-twilight-princess",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4181,
+        "name": "Star Wars: Rogue Squadron II - Rogue Leader",
+        "summary": "In Star Wars Rogue Squadron II: Rogue Leader you get the chance to jump into the cockpit of an X-wing and join Luke Skywalker and the Star Wars galaxy's most daring pilots as they return to face off against the Empire.\n\nAs in the original hit game for N64, you'll relive favorite Star Wars battles including the perilous Death Star trench run, a daring space attack on a Star Destroyer and the legendary battle on the ice planet Hoth. Rogue Leader features stunning, movie like visuals and immerses players in an intense action-arcade experience.\n\nAerial conflict takes place in a variety of craft such as the legendary X-wing, A-wing, and B-wing. For the first time, the game also features on-foot ground combat in missions directly based on or inspired by the original movie trilogy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v76.jpg",
+        "release_date": 1005264000,
+        "rating": 85.44347081533333,
+        "rating_count": 58,
+        "genres": "Shooter",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/star-wars-rogue-squadron-ii-rogue-leader",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 2144,
+        "name": "TimeSplitters: Future Perfect",
+        "summary": "TimeSplitters: Future Perfect is a first-person shooter video game developed by Free Radical Design and published by EA Games for the PlayStation 2, GameCube and Xbox video game consoles.\n\nIt is the third game in the TimeSplitters series, after TimeSplitters 2, which was released in 2002 (itself the sequel to TimeSplitters released in 2000). The game features a single-player mode consisting of levels where the player assumes the role of Sergeant Cortez, a time-traveling marine from the 25th century.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21s3.jpg",
+        "release_date": 1111363200,
+        "rating": 85.17211875468473,
+        "rating_count": 100,
+        "genres": "Shooter",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/timesplitters-future-perfect",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 3932,
+        "name": "Gladius",
+        "summary": "Gladius is a turn-based gladiatorial RPG. Players try to build a championship gladiator school by gaining experience through fighting battles in the arenas and recruiting new members.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2q8t.jpg",
+        "release_date": 1067299200,
+        "rating": 85.16522579685981,
+        "rating_count": 15,
+        "genres": "Role-playing (RPG)|Strategy|Turn-based strategy (TBS)",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/gladius",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4001,
+        "name": "Mega Man X Collection",
+        "summary": "Mega Man X Collection contains the first six games in the Mega Man X series. Mega Man X and Mega Man X2 are based on their appearances on the SNES. Mega Man X3, also originally on the SNES, is based on its 32-bit update for the PlayStation, Sega Saturn, and PC. The remaining three games are based on their PlayStation renditions. All the games now use save files, including the first few titles that originally necessitated a password for continuation, though upon loading save data, the player is still greeted with the old, fully-functional password entry screen, complete with the correct password to access the saved game. Mega Man Battle & Chase is a game that is unlocked after completing the first three games. It is a classic series kart-racing game previously unreleased in North America. Mega Man X Collection also contains unlockable artwork and music.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2030.jpg",
+        "release_date": 1136851200,
+        "rating": 85.11337329193319,
+        "rating_count": 21,
+        "genres": "Platform|Adventure",
+        "platform_ids": "21,8",
+        "external_url": "https://www.igdb.com/games/mega-man-x-collection",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 911,
+        "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+        "summary": "You are Sam Fisher, the NSA's most elite black-ops agent. To achieve your mission you will kill from close range, attack with your combat knife, shoot with the prototype Land Warrior rifle, and use radical suppression techniques such as the inverted neck break. Also take on cooperative multiplayer infiltration missions, where teamwork is the ultimate weapon.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coamhg.jpg",
+        "release_date": 1111968000,
+        "rating": 84.62873664783697,
+        "rating_count": 346,
+        "genres": "Shooter|Tactical",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/tom-clancy-s-splinter-cell-chaos-theory",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 3384,
+        "name": "Harvest Moon: A Wonderful Life",
+        "summary": "Harvest Moon: A Wonderful Life will span a lifetime on the farm and follow the drama that goes with it. Not only must you build and successfully run a farm, but you must also build a successful life with family and friends! This new Harvest Moon experience will take the best qualities of the series and add more...more animals, more vegetables and more drama! What sort of life will you live?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ae6.jpg",
+        "release_date": 1063324800,
+        "rating": 84.51127609093595,
+        "rating_count": 32,
+        "genres": "Role-playing (RPG)|Simulator",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/harvest-moon-a-wonderful-life",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 1441,
+        "name": "Fire Emblem: Path of Radiance",
+        "summary": "Fire Emblem: Path of Radiance is a tactical role-playing video game developed by Intelligent Systems and Nintendo SPD, and published by Nintendo for the GameCube home console in 2005. It is the ninth main installment in the Fire Emblem series,[c] and the third to be released in the west. As with previous installments, gameplay revolves around positioning characters on a battlefield to defeat an opposing force. If characters are defeated in battle, they are removed from the rest of the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ofh.jpg",
+        "release_date": 1113955200,
+        "rating": 84.1537143296402,
+        "rating_count": 115,
+        "genres": "Role-playing (RPG)|Strategy|Turn-based strategy (TBS)|Tactical",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/fire-emblem-path-of-radiance",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 45139,
+        "name": "The Legend of Zelda: Collector's Edition",
+        "summary": "Receive Four Complete Classic Zelda games all on one disc when you buy the Zelda GameCube Bundle: The Legend of Zelda, Zelda II - The adventure of Link, The Legend of Zelda: Ocarina of Time, The Legend of Zelda: Majora's Mask. The disc also includes: Playable Demo of the Legend of Zelda: The Wind Waker, Zelda Retrospective Movie, The Legend of Zelda: The Wind Waker Movie Preview.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4n26.jpg",
+        "release_date": 1068163200,
+        "rating": 83.88622604415211,
+        "rating_count": 16,
+        "genres": "Platform|Puzzle|Role-playing (RPG)|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/the-legend-of-zelda-collectors-edition",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 152,
+        "name": "Star Wars: Jedi Knight II - Jedi Outcast",
+        "summary": "In the tradition of the highly acclaimed Star Wars: Jedi Knight series, Star Wars: Jedi Knight 2, Jedi Outcast features rebel agent Kyle Katarn in exhilarating first-person action. Several years have passed since Kyle avenged his father's death and saved the Valley of the Jedi from Jerec and his band of Dark Jedi. Allowing his Force powers to languish for fear of falling to the dark side, Kyle entrusted his lightsaber to Luke Skywalker, vowing never to use it again. But when a new and menacing threat to the galaxy emerges, Kyle knows he must reclaim his past in order to save his future.\n\nExplore breathtaking Star Wars locales such as Cloud City, the Jedi Academy on Yavin 4, Nar Shaddaa, and the smugglers' moon. Multiplayer options include deathmatch, saber-only deathmatch, and team capture the flag.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y67.jpg",
+        "release_date": 1017100800,
+        "rating": 83.85536151721176,
+        "rating_count": 314,
+        "genres": "Shooter|Adventure",
+        "platform_ids": "11,48,21,6,14,130",
+        "external_url": "https://www.igdb.com/games/star-wars-jedi-knight-ii-jedi-outcast",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 880,
+        "name": "Resident Evil 2",
+        "summary": "Resident Evil 2 is a sequel to the first Resident Evil title. Like the previous game in the series, Resident Evil 2 is a 3D action-adventure using three-dimensional polygon characters over two-dimensional pre-rendered backgrounds, with the action viewed through a variety of cinematic fixed camera angles in each room. Players can choose to play as one of two possible characters; each goes through the same initial scenario but with differences in the type of weaponry they find and the people they meet along the way.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vz0.jpg",
+        "release_date": 885340800,
+        "rating": 83.8080395832431,
+        "rating_count": 562,
+        "genres": "Shooter|Puzzle|Adventure",
+        "platform_ids": "9,21,6,7,38,23",
+        "external_url": "https://www.igdb.com/games/resident-evil-2",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 2765,
+        "name": "SpongeBob SquarePants: Battle For Bikini Bottom",
+        "summary": "The evil Plankton has set in motion his most diabolical plot ever! The fate of Bikini Bottom has been put into the unsuspecting hands of SpongeBob. Explore a huge world filled with unexpected surprises, challenges, and familiar friends. Join SpongeBob and his friends in his fearless crusade to end Plankton's evil scheme...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3iyp.jpg",
+        "release_date": 1067558400,
+        "rating": 83.6998671509647,
+        "rating_count": 112,
+        "genres": "Platform|Adventure",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/spongebob-squarepants-battle-for-bikini-bottom",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 3794,
+        "name": "Barnyard",
+        "summary": "Based on Paramount Pictures' and Nickelodeon Movies' theatrical release, this adventure game offers a humorous look at how farm animals really live when humans are not around. Players start as the new cow on the block and work their way though challenges to prove they are the biggest party animal of all.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31em.jpg",
+        "release_date": 1154390400,
+        "rating": 83.68300498062924,
+        "rating_count": 22,
+        "genres": "Adventure",
+        "platform_ids": "21,5,6,8",
+        "external_url": "https://www.igdb.com/games/barnyard",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4194,
+        "name": "Taz: Wanted",
+        "summary": "Taz: Wanted is an action-adventure video game featuring the Tasmanian Devil, from the Looney Tunes. Blast your way through 15 different levels, destroying \"Wanted\" posters to get your revenge against Yosemite Sam.\n\nThe game was nominated for 2002 BAFTA award in category 'Best Children's Entertainment'.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6va1.jpg",
+        "release_date": 1032220800,
+        "rating": 83.38547226669226,
+        "rating_count": 20,
+        "genres": "Platform|Adventure",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/taz-wanted",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 97,
+        "name": "Need for Speed: Underground 2",
+        "summary": "Need For Speed Underground 2 takes place in Bayview after the events of Need for Speed: Underground. The prologue begins with the player driving in a Nissan 350Z in Olympic City (though the racing scenes are actually in Bayview), the setting of NFS:UG. He then receives a race challenge from a rather ominous personality who offers him a spot on his crew, but \"won't take 'no' for an answer.\" The player races off — despite Samantha's warnings — only to be ambushed by a mysterious driver in a rage that totals his Skyline. The driver, who has a unique scythe tattoo, makes a call confirming the accident, and the flashback fades out.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co209h.jpg",
+        "release_date": 1099958400,
+        "rating": 83.30984594596256,
+        "rating_count": 831,
+        "genres": "Racing",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/need-for-speed-underground-2",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 4006,
+        "name": "Metal Gear Solid: The Twin Snakes",
+        "summary": "The Twin Snakes features graphical improvements over the original, new cutscenes written and directed by Ryuhei Kitamura, and gameplay functions originally introduced in Metal Gear Solid 2: Sons of Liberty. The game also includes a revised translation with re-recorded voice acting using all of the original English voice cast. Hideo Kojima and Shigeru Miyamoto oversaw development of the game. It was also intended to allow the player to play Metal Gear Solid as it was meant to be played",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v8c.jpg",
+        "release_date": 1078790400,
+        "rating": 83.28370385844593,
+        "rating_count": 92,
+        "genres": "Shooter|Tactical|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/metal-gear-solid-the-twin-snakes",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 96,
+        "name": "Need for Speed: Underground",
+        "summary": "Need for Speed: Underground is a 2003 racing video game and the seventh installment in the Need for Speed series. It rebooted the franchise, ignoring previous Need for Speed games that featured sports cars and exotics. Underground is the first game in the series to offer a career mode that features a comprehensive storyline, as well as a garage mode that allows players to fully customize their cars with a large variety of brand-name performance and visual upgrades.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co209g.jpg",
+        "release_date": 1069027200,
+        "rating": 83.08013699917397,
+        "rating_count": 802,
+        "genres": "Racing",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/need-for-speed-underground",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 2344,
+        "name": "Mario Kart: Double Dash!!",
+        "summary": "The Mushroom Kingdom just got a whole lot more hectic as Mario and friends double up for furious kart racing. This time around, each kart holds two racers that can switch places at any time, so choose from a huge cast of favorites and pair them up any way you see fit. The character in front handles the driving duties, while the character in the rear doles out damage with six normal items and eight special items that only specific characters can use. Get ready for some intense multiplayer mayhem with your favorite characters, including Mario, Luigi, Donkey Kong, Peach, Bowser, and Koopa.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ndu.jpg",
+        "release_date": 1068163200,
+        "rating": 83.00849864752678,
+        "rating_count": 375,
+        "genres": "Racing|Arcade",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mario-kart-double-dash",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 3907,
+        "name": "Eternal Darkness: Sanity's Requiem",
+        "summary": "Eternal Darkness: Sanity's Requiem is a psychological horror action adventure, released in 2002 by Nintendo for the Gamecube. It tells the stories of twelve characters that span across the world and two millennia who have to deal with ancient forces of evil which have been trying to manifest themselves in our world. Chapters take place in Ancient Rome, Persia, the Middle East, and modern-day Rhode Island. Throughout the game, the protagonists will have access to several weapons appropriate for their era, from bastard sword & gladius to flintlock pistol and shotgun.\n\nThe game features an involved Magic system, which allows different spells to be created through the combination of runes. These spells can attack enemies, dispel illusions, and heal both the body and items.\n\nEternal Darkness: Sanity's Requiem also has a unique feature called Sanity. If an enemy sees a character, their Sanity meter drops. When Sanity gets low, hallucinations begin to plague the character. Walls bleed, voices whisper from nowhere, the camera gets disoriented. Sanity can be restored by dealing a finishing move on a dying enemy, or with spells or some items.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sa8.jpg",
+        "release_date": 1024790400,
+        "rating": 82.26764901524108,
+        "rating_count": 92,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/eternal-darkness-sanity-s-requiem",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 874,
+        "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "summary": "Pandora Tomorrow takes place in Indonesia during the spring of 2006, in which the United States has established a military presence in the newly independent country of East Timor to train that country's military forces in their fight against anti-separatist Indonesian guerrilla militias. Foremost among these Indonesian militias is the Darah Dan Doa (Blood and Prayer), led by Suhadi Sadono.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9eos.jpg",
+        "release_date": 1080000000,
+        "rating": 82.21720780236541,
+        "rating_count": 234,
+        "genres": "Shooter|Tactical",
+        "platform_ids": "11,21,6,49,8",
+        "external_url": "https://www.igdb.com/games/tom-clancy-s-splinter-cell-pandora-tomorrow",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 837,
+        "name": "Prince of Persia: Warrior Within",
+        "summary": "Prince of Persia: Warrior Within is a video game and sequel to Prince of Persia: The Sands of Time. It picks up where The Sands of Time left off, adding new features, specifically, options in combat. The Prince now has the ability to wield two weapons at a time as well as the ability to steal his enemies' weapons and throw them. The Prince's repertoire of combat moves has been expanded into varying strings that allow players to attack enemies with more complexity than was possible in the previous game. Warrior Within has a darker tone than its predecessor adding in the ability for the Prince to dispatch his enemies with various finishing moves. In addition to the rewind, slow-down, and speed-up powers from The Sands of Time, the Prince also has a new sand power: a circular \"wave\" of sand that knocks down all surrounding enemies as well as damaging them.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1a.jpg",
+        "release_date": 1101772800,
+        "rating": 82.20230033500502,
+        "rating_count": 513,
+        "genres": "Platform|Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "11,21,6,39,8",
+        "external_url": "https://www.igdb.com/games/prince-of-persia-warrior-within",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 3966,
+        "name": "Killer7",
+        "summary": "Sneak into a world of underground assassins as Harman Smith, a man who manifests 7 deadly personalities, the killer7. Take control of this distinct murderers' row as they hunt down the sinister Kun Lan to thwart his plan of world dominance.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1owa.jpg",
+        "release_date": 1118275200,
+        "rating": 81.9897532511161,
+        "rating_count": 65,
+        "genres": "Shooter|Puzzle|Adventure",
+        "platform_ids": "21,6,8",
+        "external_url": "https://www.igdb.com/games/killer7",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 836,
+        "name": "Prince of Persia: The Sands of Time",
+        "summary": "Deceived by the treacherous Vizier, I was led to unleash the Sands of Time curse upon the Sultan's kingdom. With little but an ancient dagger and a devious princess to aid me, I must undo my fatal mistake. Mine is a fight for survival… not glory.\n\n• Reverse, accelerate, and slow time itself with the almighty Sands of Time.\n• Master the Prince's speed, agility, and ferocious fighting skills.\n• Explore and survive the vast kingdoms of medieval Persia.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4t8l.jpg",
+        "release_date": 1068508800,
+        "rating": 81.93943202839498,
+        "rating_count": 738,
+        "genres": "Platform|Puzzle|Adventure",
+        "platform_ids": "11,9,21,6,8",
+        "external_url": "https://www.igdb.com/games/prince-of-persia-the-sands-of-time",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 1075,
+        "name": "Super Mario Sunshine",
+        "summary": "Super Mario Sunshine is a Mario action-adventure 3D platformer. It follows Super Mario 64, and is the second 3D Mario platformer. Gameplay features a combination of action and puzzle solving, with numerous stages and multiple episodes to each stage, and plenty of hidden secrets and surprises. This game introduced many recurring characters and bosses in the Mario series, including Toadsworth, Bowser Jr., Petey Piranha, Gooper Blooper, Piantas, Nokis, Shadow Mario, and F.L.U.D.D. Super Mario Sunshine pays homage to Mario's Italian heritage and upbringing, with many of the locations in the game having Italian names and sometimes referencing Italian culture.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8q1.jpg",
+        "release_date": 1027036800,
+        "rating": 81.71469874748541,
+        "rating_count": 512,
+        "genres": "Platform|Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/super-mario-sunshine",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 3875,
+        "name": "Def Jam: Fight for NY",
+        "summary": "The ultimate hip-hop fueled fighting game, Def Jam Fight For NY challenges players to step into the shoes of a ruthless street fighter battling for control of the hip-hop underground.\n\nThe game features an all-new fighting engine including weapons, interactive environments and five unique fighting styles that can be combined to form dozens of customized hybrid styles for the ultimate edge on the streets.\n\nDef Jam Fight For NY features more than 40 of the most well-known artists and personalities in hip-hop today, including Busta Rhymes, Carmen Electra, Lil' Kim, Ludacris, Method Man, Redman, Sean Paul, Slick Rick, Snoop Dogg, and many more.\n* New Fighting Engine -- A new fighting engine challenges you to master multiple fighting disciplines, take advantage of interactive environments, and utilize dozens of weapons to make a name for yourself.\n\n* Three Times the Length of the Original Def Jam VENDETTA -- It's going to take more than 90 fights in 20-plus venues to win control of the streets.\n\n* 40 of the Biggest Hip Hop Artists and Celebrites -- Starring and music by the hottest names in hip hop from Def Jam and beyond -- look for appearances by Busta Rhymes, Carmen Electra, Fat Joe, Flava Flav, Freeway, Ghostface, Ice T, Joe Budden, Kimora Lee Simmons, Lil' Kim, Ludacris, Method Man, Redman, Sean Paul, Slick Rick, Snoop Dogg, Xzibit, and many more.\n\n* Five Brutal Fighting Styles -- Master each fighting style: street fighting, kickboxing, martial arts, wrestling, and submission fighting. Combine up to three styles to create devastating hybrid-styles, complete with new \"blazin' moves\" to finish off your opponent.\n\n* 22 Interactive Venues -- From destructible environmental objects to rowdy spectators who like to \"get involved,\" the 22 venues are the ultimate weapon.\n\n* Create-A-Street Fighter -- Build your own street-ready fighter and outfit him with thousands of pieces of unlockable licensed gear, tattoos, and even bling from the Jeweler to the stars, Jacob the Jeweler.\n\n* Represent Your Crew Online -- Join a crew and own the mean streets of NYC. Move onto the international stage and take on all-comers with online play for the PlayStation 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xme.jpg",
+        "release_date": 1095638400,
+        "rating": 81.51553177211825,
+        "rating_count": 82,
+        "genres": "Fighting|Sport",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/def-jam-fight-for-ny",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 914,
+        "name": "Tony Hawk's Pro Skater 3",
+        "summary": "Tony Hawk's Pro Skater 3 is a 2001 skateboarding video game and the third installment in the Tony Hawk's series. Skate as the legendary Tony Hawk or choose from a dream team of 12 top pro skaters, including old favorites like Lasek, Thomas, Muska, and Steamer, as well as new talent like Gilfberg, Caballero, Koston, and Mullen. Travel from L.A. to Tokyo, Suburbia to Skater's Island performing challenges and meeting goals with new moves that include the Revert, which allows you to link vert tricks, and flatland tricks such as Caspers, the Primo, and Handstand Manual.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nj3.jpg",
+        "release_date": 1004227200,
+        "rating": 81.41750060362185,
+        "rating_count": 272,
+        "genres": "Sport",
+        "platform_ids": "11,21,6,14,8",
+        "external_url": "https://www.igdb.com/games/tony-hawk-s-pro-skater-3",
+        "cached_at": 1772208565
+      },
+      {
+        "id": 748,
+        "name": "Hitman 2: Silent Assassin",
+        "summary": "Enter the realm of a retired assassin, forced back into action by treason. You may be a hired killer but you still have a sense of loyalty and justice. Visit the dark recesses of a world corrupted by crime, greed, degradation and dishonor. And a past that catches up with you.\n\nTrust no one - if the price is right, the finger of your most trusted ally will be on the trigger. Your targets may hide in the most remote areas of the planet, but their destruction is never prevented - only postponed.\n\nLearn your trade - master your tools - overcome your obstacles - outsmart your enemies - eliminate your targets. Remember: rash decisions bleed consequences. Know when to strike instantly, know when to take your time. Chance favors the prepared. Failure is not an option.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pdt.jpg",
+        "release_date": 1033344000,
+        "rating": 81.1655320378432,
+        "rating_count": 421,
+        "genres": "Shooter|Tactical",
+        "platform_ids": "11,21,6,8",
+        "external_url": "https://www.igdb.com/games/hitman-2-silent-assassin",
+        "cached_at": 1772208565
+      }
+    ]
+  }
+}

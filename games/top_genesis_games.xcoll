@@ -1,0 +1,914 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Top Sega Genesis Games",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:09:15.714713Z",
+  "description": "Top 50 highest rated Sega Genesis / Mega Drive games",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 11650,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 8257,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 86,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 15072,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 9232,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 11219,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 5423,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 2201,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 1230,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 8195,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 3000,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 20192,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 4438,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 12089,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 3197,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 16035,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 8775,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 5164,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 4519,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 1653,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 4275,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 2547,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 8389,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 6797,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 4469,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 38408,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 3192,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 6564,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 2162,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 6480,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 6405,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 8118,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 5519,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 51942,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 19508,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 4345,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 7659,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 8995,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 12118,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 18282,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 8052,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 8446,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 1621,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 16033,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 12183,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 4367,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 9475,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 9862,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 4401,
+      "platform_id": 29
+    },
+    {
+      "media_type": "game",
+      "external_id": 9540,
+      "platform_id": 29
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 11650,
+        "name": "NHL 96",
+        "summary": "NHL 96 was the first EA Sports game to feature Virtual Stadium technology, which resulted in a 3D feel and multiple camera angles. The NHL license ensures that real teams and players of the era are included, with a full league and playoff system. Many game options can be toggled - the infamous fighting is option, as are the penalties and offsides. The control system makes it possible to execute one-touch passes, and several special trick moves to quickly advance the ball. As a bonus feature, it included 'Hockey Card' profiles of every player on CD, and interviews with the stars of the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gox.jpg",
+        "release_date": 812505600,
+        "rating": 95.72058792066115,
+        "rating_count": 21,
+        "genres": "Sport",
+        "platform_ids": "19,29,50,13,7",
+        "external_url": "https://www.igdb.com/games/nhl-96",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 8257,
+        "name": "Centurion: Defender of Rome",
+        "summary": "The year is 275 B.C. Through conquest and careful diplomacy, the Roman republic has brought the petty kingdoms and city-states of Italia under its control. This is the moment at which the heirs of Romulus and Remus step onto the world stage. This is the humble beginning of an empire that will one day cover most of Europe, Asia Minor, and North Africa.\n\nAs an ambitious young officer, you duty is to defend Rome. Your hope is to become Caesar. Your fate - to rule the world.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zrp.jpg",
+        "release_date": 662601600,
+        "rating": 90.24791535655517,
+        "rating_count": 16,
+        "genres": "Strategy|Adventure",
+        "platform_ids": "149,29,13,118,16",
+        "external_url": "https://www.igdb.com/games/centurion-defender-of-rome",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 86,
+        "name": "Dune II: The Building of a Dynasty",
+        "summary": "Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.\n\nThe single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4vw0.jpg",
+        "release_date": 723168000,
+        "rating": 90.03056872586998,
+        "rating_count": 106,
+        "genres": "Real Time Strategy (RTS)|Strategy",
+        "platform_ids": "116,29,13,16",
+        "external_url": "https://www.igdb.com/games/dune-ii-the-building-of-a-dynasty",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 15072,
+        "name": "Landstalker",
+        "summary": "You are Nigel, an elf and treasure hunter extraordinaire. Assisted by his new partner Friday, Nigel will travel to a distant island in a search of a legendary treasure.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kb9.jpg",
+        "release_date": 720403200,
+        "rating": 89.79759472400025,
+        "rating_count": 25,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/landstalker",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 9232,
+        "name": "Pirates! Gold",
+        "summary": "As with the original, this is a blend of strategy, action and adventure. Pirates! Gold lets you play the role of a beginning buccaneer in the 17th century Spanish Main, in search of fame and fortune. Each town in this untamed raw region has different surprises and dangers.\n\nHow you acquire stature is up to you; you can make your living through honest trade and the search for hidden treasure, or you can be a little more daring and attack and plunder ships. As you can choose a specific skill to stand out in, the game can vary each time. Sword fighting is played out in side-view action sequences.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wp9.jpg",
+        "release_date": 757296000,
+        "rating": 89.64705649613876,
+        "rating_count": 16,
+        "genres": "Simulator|Strategy|Adventure",
+        "platform_ids": "114,29,6,14,13",
+        "external_url": "https://www.igdb.com/games/pirates-gold",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 11219,
+        "name": "Sonic the Hedgehog 3 & Knuckles",
+        "summary": "Sonic the Hedgehog 3 & Knuckles (or simply Sonic 3 & Knuckles or Sonic 3 Complete Edition) is a platform video game which is the result of locking-on Sonic & Knuckles with Sonic the Hedgehog 3 using the former catridge's unique \"lock-on\" technology. It is essentially a large combined game of its two lock-on components and contains all Zones from the said games and also contains special features unique to this game. This would have been the original Sonic the Hedgehog 3 the developers intended but time constraints by Sega resulted in the game being split into two.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c0w.jpg",
+        "release_date": 782438400,
+        "rating": 89.09150213237751,
+        "rating_count": 156,
+        "genres": "Platform",
+        "platform_ids": "29,6",
+        "external_url": "https://www.igdb.com/games/sonic-the-hedgehog-3-and-knuckles",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 5423,
+        "name": "PowerMonger",
+        "summary": "In a world without kings, power is the only law. No leader controls the destiny of this new world. Yet. Can you? Unite each territory by word or by sword or face bitter defeat at the hands of the other PowerMongers.\n\nEncounter a living world. Win the loyalty of farmers, shepherds, merchants, ranchers- even thieves. Hundreds of people with individual homes, jobs, and personalities.\n\nReact to changing seasons. Store food for the winter- your soldiers won't take orders on an empty stomach.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21zk.jpg",
+        "release_date": 662601600,
+        "rating": 88.98152932176808,
+        "rating_count": 16,
+        "genres": "Real Time Strategy (RTS)|Strategy",
+        "platform_ids": "19,29,63,14,13,16,78",
+        "external_url": "https://www.igdb.com/games/powermonger--1",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 2201,
+        "name": "The Duel: Test Drive II",
+        "summary": "The Duel: Test Drive II is a cross-platform racing game developed by Distinctive Software and published by Accolade in 1989. It is the second entry in the Test Drive series of video games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7wom.jpg",
+        "release_date": 631065600,
+        "rating": 88.3263440091527,
+        "rating_count": 20,
+        "genres": "Racing|Simulator|Arcade",
+        "platform_ids": "115,15,26,19,29,63,14,13,16,25,27",
+        "external_url": "https://www.igdb.com/games/the-duel-test-drive-ii",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 1230,
+        "name": "Phantasy Star IV: The End of the Millennium",
+        "summary": "You are Chaz Ashely, a rookie Hunter straight out of training who is supported by Alys Brangwin – a crafty veteran whose good looks and prowess with the blade have earned her an awesome reputation. The two Hunters along with a cast of supporting characters will go beyond Motavia to unwittingly save their entire solar system.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g92.jpg",
+        "release_date": 756086400,
+        "rating": 88.25061161648044,
+        "rating_count": 48,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/phantasy-star-iv-the-end-of-the-millennium",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 8195,
+        "name": "RoboCop Versus the Terminator",
+        "summary": "In the crumbling ruins of a world under siege, man-machine meets machine-man as legendary cyborgs clash to decide the fate of the Earth. As Robocop, you must travel across time into a bloody future ruled by the mechanical forces of Skynet. You'll face attack from every angle, every moment. An unwavering army of Terminators, robotic dogs, spiders, Endoskeletons and a relentless arsenal of automated weapons await you in this veritable hell on earth. To destroy this enemy, free its hostages and finally pierce the dark heart of a killer computer. It will take something more powerful than plasma rifles and laser guns: the human mind that still burns within you.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r6d.jpg",
+        "release_date": 769305600,
+        "rating": 87.18049638493719,
+        "rating_count": 22,
+        "genres": "Shooter|Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/robocop-versus-the-terminator",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 3000,
+        "name": "Shadowrun",
+        "summary": "Shadowrun is an action role-playing game.It was adapted from the cyberpunk role-playing game Shadowrun.The game is the second video game adapted from Shadowrun, and has a more open ended style of gameplay than its 1993 Super NES counterpart, Shadowrun by Beam Software.\nThe game is set in the Shadowrun universe, in the 2050s. A time where the blending of technology and human flesh is common; it is around the time the Matrix, a huge computer network, came online, with the ability to jack into its cyberspace directly. It was also a time of magic renewal: a phenomenon known as The Awakening occurred, where magic returned into the world. Sorcery was once again possible, and slowly and seemingly at random humans began to mutate into orcs, dwarves, elves or trolls. This time of upheaval was not without political conflicts: mega-corporations began to control the world. But with their magic, native shamans threatened them and the world geography came to a complete change. The Amerindians and Elves reclaimed an area called Salish-Shidhe, close to the free city of Seattle, a major city in the newly formed United Canadian and American States.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tp6.jpg",
+        "release_date": 733017600,
+        "rating": 87.06705767381519,
+        "rating_count": 18,
+        "genres": "Role-playing (RPG)|Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/shadowrun",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 20192,
+        "name": "Contra: Hard Corps",
+        "summary": "Kickin' cyborg butt... That's what it's all about, dude. Jack into this game of genetic engineering gone bad. Real bad. It's five years after the mother of all wars ended - and things still aren't right. Your job is to fix it. The ever-popular Contra series makes its Sega Genesis debut with a pulse-pounding new storyline. At 16 megs, HARD CORPS pushes the technology to bring you over ten gut-wrenching levels with huge boss characters, great graphics and dynamic sound. Find high powered weapons such as the homing gun, crush gun, needle laser or mine setter. Do you think you can handle it? Trust me, you can't. You still here? Okay, then get ready for the fight of your life. Pick one of the four heroes and begin your search across many dark levels of doom. The ending changes, depending on the paths you choose - but every pass crosses boss characters that will blow you away. Literally!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n11.jpg",
+        "release_date": 776304000,
+        "rating": 86.49027685149228,
+        "rating_count": 75,
+        "genres": "Shooter|Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/contra-hard-corps",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 4438,
+        "name": "Sonic the Hedgehog 2",
+        "summary": "Dr. Eggman (aka Dr. Robotnik) has returned, turning helpless animals into robots and forcing them to build his ultimate weapon, the Death Egg! But this time, Sonic has a friend that can help him: Tails! Find the 7 Chaos Emeralds and stop Dr. Robotnik’s evil scheme!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5kkj.jpg",
+        "release_date": 720576000,
+        "rating": 86.41869626781137,
+        "rating_count": 595,
+        "genres": "Platform",
+        "platform_ids": "9,37,5,29,6,41,12",
+        "external_url": "https://www.igdb.com/games/sonic-the-hedgehog-2",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 12089,
+        "name": "Fantastic Dizzy",
+        "summary": "Dizzy is an egg living in a world of magic and fantasy. The basic concept of the game is to move around the world, finding various items and collectibles, and to use them in the right locations. Dizzy has no special skills or abilities, save for his remarkable feats of somersaulting, and must solve all problems he faces with the clever use of one or more items.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b68.jpg",
+        "release_date": 748569600,
+        "rating": 85.94317331509087,
+        "rating_count": 19,
+        "genres": "Platform|Adventure|Arcade",
+        "platform_ids": "29,35,13,16,18,64",
+        "external_url": "https://www.igdb.com/games/fantastic-dizzy",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 3197,
+        "name": "Shining Force II",
+        "summary": "As a student of Astral the wizard, you and your friends study all the usual subjects: reading, writing, and sword fighting. As your time at school draws to an end, dark events are taking place on the island of Grans. The two Jewels which seal the Door to Darkness have been stolen, allowing a creature of awesome power to be unleashed. Finding where the Jewels were taken, and why, is a task only the bravest of adventurers can undertake.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97f0.jpg",
+        "release_date": 749433600,
+        "rating": 85.4173140002901,
+        "rating_count": 55,
+        "genres": "Role-playing (RPG)|Strategy|Turn-based strategy (TBS)",
+        "platform_ids": "3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/shining-force-ii",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 16035,
+        "name": "Kid Chameleon",
+        "summary": "Kid Chameleon is a 1992 platform game released for the Sega Genesis/Mega Drive. The premise of the game is that the main character, Casey, can use masks to change into different characters in order to use different abilities. It was later released in Japan as Chameleon Kid.\n\nThe game is also a part of the Sega Genesis Collection for the PlayStation 2 and PlayStation Portable. It was released for the Virtual Console in Japan on May 22, 2007; North America on May 28, 2007; and Europe on June 1, 2007. It was also released in addition to a series of other Sega games, including Shining Force and Comix Zone, in Sega Smash Pack 2. The game has also appeared in Sonic's Ultimate Genesis Collection for Xbox 360 and PlayStation 3.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6q7b.jpg",
+        "release_date": 707011200,
+        "rating": 85.01482977291003,
+        "rating_count": 37,
+        "genres": "Platform",
+        "platform_ids": "3,5,29,34,6,39,14",
+        "external_url": "https://www.igdb.com/games/kid-chameleon",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 8775,
+        "name": "Micro Machines 2: Turbo Tournament",
+        "summary": "Micro Machines 2: Turbo Tournament featured cars that require different handling techniques for each course and also hovercraft and helicopters. There are different playing modes including \"head-to-head\", in which each player earns points by driving a full screen ahead of the opponent. TV presenter Violet Berlin features as a playable driver. The MS-DOS version featured a track editor.\nA selling point for the Sega Genesis/Mega Drive version was the J-Cart, a cartridge including two control ports, thus eliminating the need for a 4-player adaptor. It also included a 'pad-sharing' feature which allowed 2 players to share a single joypad; thus it enabled 8 players to compete simultaneously, on certain tracks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4moc.jpg",
+        "release_date": 783648000,
+        "rating": 84.38726812447841,
+        "rating_count": 35,
+        "genres": "Racing",
+        "platform_ids": "19,29,13",
+        "external_url": "https://www.igdb.com/games/micro-machines-2-turbo-tournament",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 5164,
+        "name": "Turrican",
+        "summary": "Turrican is a 1990 video game programmed and designed by Manfred Trenz. It was first developed for the Commodore 64 by Rainbow Arts, but was ported to other systems later. In addition to concept design and character creation, Trenz personally programmed Turrican on the Commodore 64. A sequel, Turrican II, followed 1991 for the Commodore 64 and other platforms.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l0v.jpg",
+        "release_date": 662601600,
+        "rating": 84.36908702005523,
+        "rating_count": 28,
+        "genres": "Shooter|Platform",
+        "platform_ids": "73,15,26,29,63,86,158,16,25",
+        "external_url": "https://www.igdb.com/games/turrican",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 4519,
+        "name": "Jurassic Park",
+        "summary": "Jurassic Park is a SEGA Genesis/Mega Drive game based on the first movie.\nThe game was playable as either Dr. Alan Grant or a Velociraptor (presumably the The Big One). Grant is the default character but can be changed using the 'Player' option on the game's main menu to swich to the raptor.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zdt.jpg",
+        "release_date": 746323200,
+        "rating": 83.61262025181117,
+        "rating_count": 50,
+        "genres": "Shooter|Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/jurassic-park",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 1653,
+        "name": "Streets of Rage 2",
+        "summary": "Mr. X and the Syndicate are back, this time taking Adam hostage! Take on the role of Axel, Blaze, Skate, or Max to rescue Adam, and destroy Mr. X once and for all.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49sn.jpg",
+        "release_date": 723168000,
+        "rating": 83.48020327003427,
+        "rating_count": 188,
+        "genres": "Hack and slash/Beat 'em up|Arcade",
+        "platform_ids": "52,9,3,5,29,34,6,39,14,12",
+        "external_url": "https://www.igdb.com/games/streets-of-rage-2",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 4275,
+        "name": "Flashback: The Quest for Identity",
+        "summary": "Throughout the 20th century, an unprecedented political and economic crisis afflicted Earth, leading to the systematic disabling of it's programme to conquer outer space through lack of funding. The highest priority now was to carryout research into new energy sources, preservation of the enviro- ment and maintenance of the cultural heritage. However, at the dawn of the 21st century, provision of considerable funds from an unknown source released by the politicians of the new, unified government, permitted a return to the space research programme.\n\nThe conquest began gradually with the construction of huge, manned artificial satellites. Several lunar bases were created with the view to becoming future Earth colonies within the solar system. The considerable advancements made together with the supply of increasingly greater sums of money allowed man to explore, even as far as the planet Titan.\n\nYou play the part of Conrad Hart, controlling his every move through the 6 levels of the game. During your quest, you will come across many different friends and foes whom you may wish to help or vanquish using your gun. you will have to complete many challenges in order to restore your lost memory. Each level features its own unique graphics and hazards, linked by cinematic animation sequences.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fda.jpg",
+        "release_date": 723168000,
+        "rating": 82.9799441204994,
+        "rating_count": 107,
+        "genres": "Platform|Adventure",
+        "platform_ids": "116,117,19,29,50,14,13,16,62,78",
+        "external_url": "https://www.igdb.com/games/flashback-the-quest-for-identity",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 2547,
+        "name": "Zool: Ninja of the Nth Dimension",
+        "summary": "Zool is a fast-paced side-scrolling platformer. The protagonist can run, jump, climb walls, and shoot enemies. Power-ups for Zool are scattered across the levels. These include life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This \"twin\" makes imitates the original's motions a few seconds after he performs them.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jmu.jpg",
+        "release_date": 709948800,
+        "rating": 82.86470142933332,
+        "rating_count": 32,
+        "genres": "Fighting|Platform|Puzzle",
+        "platform_ids": "116,114,73,19,29,63,35,13,16,58",
+        "external_url": "https://www.igdb.com/games/zool-ninja-of-the-nth-dimension",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 8389,
+        "name": "ToeJam & Earl",
+        "summary": "ToeJam & Earl is an early 1990s dungeon crawler. The game features two alien rappers, who have crash-landed on Earth and parodies 1980s urban culture. The game's design was heavily influenced by the role-playing video game Rogue, and took from it such features as the random generation of levels and items. Played from a 2D-top-down perspective the game contains both single-player and two-player cooperative modes. The latter displays a single screen when both characters are near each other, but splits it apart when they are not. Playing the game with two players reveals dialogue and jokes between the characters not heard in the single player game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yry.jpg",
+        "release_date": 668736000,
+        "rating": 82.61357591305696,
+        "rating_count": 48,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "9,3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/toejam-and-earl",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 6797,
+        "name": "Sonic the Hedgehog 3",
+        "summary": "The game is a sequel to the Sonic the Hedgehog 2 for the same system and follows on directly from the end of the game, in which Sonic defeated his enemy, Dr. Robotnik; crash-landing on a floating island, Sonic encounters new character Knuckles the Echidna, and must once more retrieve the Chaos Emeralds while also working to stop Dr. Robotnik from relaunching his ship, the Death Egg.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zut.jpg",
+        "release_date": 760147200,
+        "rating": 82.56047372202511,
+        "rating_count": 280,
+        "genres": "Platform|Adventure",
+        "platform_ids": "5,29,12",
+        "external_url": "https://www.igdb.com/games/sonic-the-hedgehog-3",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 4469,
+        "name": "Volfied",
+        "summary": "Once in the game, using the arrow keys you can move the 'Scanner' ship around the 'Shield Line' at the parameter of the playing area. While moving around this edge the ship is protected from the aliens by a shield indicated by a glowing circle around the ship. This shield is not infinite and care should be taken to complete each level as quickly as possible. A counter indicates the level of shield that you have: when it reaches zero then any contact with an alien is deadly whether you are on the 'Shield Line' or not.\nThe idea of the game is to cut areas out of the screen without touching any of the aliens. This is done by pressing the SPACE key which initiates the 'Laser Cutter' and moving off the 'Shield Line' and rejoining it somewhere else. While you are in the process of drawing a line, your shield is inactive and touching an alien is fatal. Similarly, if one of the aliens touches the line then it will send a charge down the line towards you and you must quickly return to the safety of the edge before it reaches you.\n\nWhen you rejoin the 'Shield Line' the area that does not contain the 'Boss' alien will be filled (points are gained by trapping the other aliens) and the 'Shield Line' will be adjusted to surround the area that is left. The level is completed when a certain percentage of the total area has been filled in. This percentage starts at 80% but may increase in the later levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fjy.jpg",
+        "release_date": 611280000,
+        "rating": 82.191737580797,
+        "rating_count": 16,
+        "genres": "Puzzle|Arcade",
+        "platform_ids": "52,15,5,29,63,86,13,118,16,55",
+        "external_url": "https://www.igdb.com/games/volfied",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 38408,
+        "name": "WWF Royal Rumble",
+        "summary": "Control one of twelve World Wrestling Federation stars in a \"no holds barred brawl\" -- in other words, do whatever moves you want, from choke holds, piledrivers, and even chair slams, until your opponent is knocked out. You can even go outside the ring if you like. Several modes of play are available, including one-on-one, tag team (two-on-two), and three-on-three tag team. You can play as the following WWF wresters: Bret Hart, Razor Ramon, Randy Savage, Shawn Michaels, The Undertaker, Tatanka, Mr. Perfect, Crush, Ric Flair, Yokozuna, Ted Dibiase, and Lex Luger.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dir.jpg",
+        "release_date": 728524800,
+        "rating": 81.85805188138116,
+        "rating_count": 16,
+        "genres": "Fighting|Sport",
+        "platform_ids": "19,29",
+        "external_url": "https://www.igdb.com/games/wwf-royal-rumble",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 3192,
+        "name": "Sonic the Hedgehog",
+        "summary": "Sonic the Hedgehog is a 2D side-scrolling platformer developed by Sonic Team and published by Sega for the Genesis/Mega Drive. Players control Sonic the Hedgehog, who can run at near supersonic speeds and sets out on a quest to defeat Dr. Robotnik, a scientist who has imprisoned animals in robots and seeks the powerful Chaos Emeralds.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coanlj.jpg",
+        "release_date": 677635200,
+        "rating": 81.79153007584307,
+        "rating_count": 607,
+        "genres": "Platform",
+        "platform_ids": "52,9,5,29,6,39,12",
+        "external_url": "https://www.igdb.com/games/sonic-the-hedgehog",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 6564,
+        "name": "Rock n' Roll Racing",
+        "summary": "The game pits four racers against each other, with up to two of them being player-controlled and the rest being AI opponents. Each race consists of four laps around tracks viewed from an isometric perspective, which enables players to discern the presence of frequent sloping sections spread throughout the game's various tracks. In addition to navigating the turns, racers must also maneuver hills and dips without falling or jumping over the guard rail at the track's edge.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3o1q.jpg",
+        "release_date": 739152000,
+        "rating": 81.73499070848008,
+        "rating_count": 79,
+        "genres": "Puzzle|Racing|Sport",
+        "platform_ids": "19,29,6,24",
+        "external_url": "https://www.igdb.com/games/rock-n-roll-racing",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 2162,
+        "name": "Zombies Ate My Neighbors",
+        "summary": "In the game you are a male or female protagonist (Zeke or Julia), fighting the vampires, mummies, zombies, etc. on over 50 levels (not including secrets) and saving all of the people you find. There are defined number of neighbors you save on every level. When they are free then \"Exit\" door opens and you jump on next level.The levels differ from mall and grocery store to beaches and football fields. Using different weapons such as bazooka or water gun you have to kill the bosses such as huge babies, dragons or ants at the end of levels. You can play the game with two players cooperatively.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rxx.jpg",
+        "release_date": 748828800,
+        "rating": 81.72133906079713,
+        "rating_count": 103,
+        "genres": "Shooter|Hack and slash/Beat 'em up",
+        "platform_ids": "19,5,29",
+        "external_url": "https://www.igdb.com/games/zombies-ate-my-neighbors",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 6480,
+        "name": "Disney's The Jungle Book",
+        "summary": "The Jungle Book game is based on a Disney movie hero Mowgli. It's a scrolling arcade action game. You play as Mowgli and your goal is to gather all gems and return to one of your friends or your mother. The jungle is full of the nasty animals and you have to make your way through it safely.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2u3i.jpg",
+        "release_date": 773020800,
+        "rating": 81.56446144765695,
+        "rating_count": 54,
+        "genres": "Platform|Adventure|Arcade",
+        "platform_ids": "29,6",
+        "external_url": "https://www.igdb.com/games/disneys-the-jungle-book--3",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 6405,
+        "name": "Gunstar Heroes",
+        "summary": "The Gunstar family are the protectors of the planet Gunstar 9. After many years of peace, vicious dictator Colonel Red kidnapped the Gunstar twins’ older brother and used mind control to make him his slave.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wad.jpg",
+        "release_date": 747532800,
+        "rating": 81.32913206033848,
+        "rating_count": 81,
+        "genres": "Shooter|Platform|Arcade",
+        "platform_ids": "9,3,5,29,34,6,39,14,12",
+        "external_url": "https://www.igdb.com/games/gunstar-heroes",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 8118,
+        "name": "Disney's Aladdin",
+        "summary": "Disney's Aladdin is a platform video game developed by Virgin Interactive based on the 1992 motion picture of the same name. This version released on Genesis/Mega Drive, DOS, and various PC platforms.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaf2o.jpg",
+        "release_date": 750988800,
+        "rating": 81.02630169430924,
+        "rating_count": 178,
+        "genres": "Platform",
+        "platform_ids": "3,29,6,14,13,16",
+        "external_url": "https://www.igdb.com/games/disneys-aladdin",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 5519,
+        "name": "Cannon Fodder",
+        "summary": "Cannon Fodder is an action-strategy shoot 'em up game developed by Sensible Software and published by Virgin Interactive. The game is military-themed and based on shooting action but with a strategy game-style control system. The player directs troops through numerous missions, battling enemy infantry, vehicles and installations.\n\nCannon Fodder has a darkly humorous tone which commentators variously praised and condemned. Its creators intended it to convey an anti-war message, which some reviewers recognised, but the Daily Star and a number of public figures derided the game. In other respects, reviewers highly praised the game, which widely achieved scores of over 90% in Amiga magazines. Amiga Action awarded it an unprecedented score, calling it the best game of the year.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3o3f.jpg",
+        "release_date": 726537600,
+        "rating": 81.004302799493,
+        "rating_count": 61,
+        "genres": "Shooter|Strategy",
+        "platform_ids": "116,114,73,19,3,29,63,6,50,14,13,16,62,55",
+        "external_url": "https://www.igdb.com/games/cannon-fodder",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 51942,
+        "name": "The Flintstones",
+        "summary": "This is a platform game based on the famous Flintstones series. The game features many original Flintstones characters, such as Fred, Wilma, Barney, and others. Instead of the usual \"save the princess\" or \"liberate the world\" kinds of a plot, \"The Flintstones\" is mainly based on small quests: Fred has to retrieve a lost item, etc. The large levels are divided into smaller stages. In the end of each level there is a boss battle. The gameplay involves mostly jumping and hitting the enemies on the heads with a club. The health is measured by hearts. During the game Fred will find many useful items, including some that will increase his health level.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4eb8.jpg",
+        "release_date": 730339200,
+        "rating": 80.99427922849236,
+        "rating_count": 18,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/the-flintstones--1",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 19508,
+        "name": "Alisia Dragoon",
+        "summary": "The pace is intense. Enemies come at Alisia from everywhere. And nowhere. Battle hordes of crazed barbarians, mow down mobs of poisonous centipedes, and slay squadrons of winged gargoyels. Blast enemies in waves or one by one with multi-directional, auto-targeting laser fire.\n\nRecruit killer companions like the DragonFrye, Ball O'Fire, Thunder Raven and Boomerang Lizard. Use them to hurl blistering boomerangs, fireballs, and electrical attacks. With Alisia's super-tough fighting skills, fry enemies to a crisp. And prove once and for all that you can go hand-to-hand with evil and come out the champion!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97f5.jpg",
+        "release_date": 698457600,
+        "rating": 80.62404600742197,
+        "rating_count": 25,
+        "genres": "Shooter|Platform|Arcade",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/alisia-dragoon",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 4345,
+        "name": "FIFA International Soccer",
+        "summary": "FIFA International Soccer is a 1993 association football video game developed by EA Canada's Extended Play Productions team and published by Electronic Arts. The game was released for the Sega Mega Drive/Genesis console in December 1993 and ported to numerous other systems in 1994. It is the first game in the FIFA series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co207r.jpg",
+        "release_date": 754704000,
+        "rating": 80.53568653088078,
+        "rating_count": 37,
+        "genres": "Sport",
+        "platform_ids": "19,29,13,16",
+        "external_url": "https://www.igdb.com/games/fifa-international-soccer",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 7659,
+        "name": "Lotus Turbo Challenge 2",
+        "summary": "The second Lotus game shifted focus to arcade-oriented gameplay. Being the first of the series released for a game console (for Sega Genesis/Mega Drive under the title Lotus Turbo Challenge), the fuel limit and difficulty levels were dropped, and the lap-based levels were replaced with course-based time trials, (not unlike arcade games such as Out Run), with the player required to complete each course within a specified time to qualify for the next one.\n\nIn addition to the Esprit Turbo SE, Lotus Turbo Challenge 2 also featured the Lotus Elan SE, hence 'Esprit' being dropped from the title. There was no choice of car however; the player runs with the Elan SE on odd levels, and with the Esprit on even levels.\n\nLotus 2's single-player mode uses all of the game screen instead of half, and opponent cars appear in a variety of colors (opponent cars in the original game were all white). However, music is absent from racing altogether; the player instead hears the car's engine sound.\n\nLotus 2 was developed for the Amiga and then converted for the other platforms.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jmy.jpg",
+        "release_date": 694137600,
+        "rating": 80.42100263525879,
+        "rating_count": 21,
+        "genres": "Racing",
+        "platform_ids": "29,63,16",
+        "external_url": "https://www.igdb.com/games/lotus-turbo-challenge-2",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 8995,
+        "name": "NBA Jam",
+        "summary": "NBA Jam is a basketball arcade game published and developed by Midway in 1993. It is the first entry in the NBA Jam series. The main designer and programmer for this game was Mark Turmell. Midway had previously released such sports games as Arch Rivals in 1989, High Impact in 1990, and Super High Impact in 1991. The gameplay of NBA Jam is based on Arch Rivals, another 2-on-2 basketball video game. However, it was the release of NBA Jam that brought mainstream success to the genre.\nThe game became exceptionally popular, and generated a significant amount of money for arcades after its release, creating revenue of $1 billion in quarters. In early 1994, the Amusement & Music Operators Association reported that NBA Jam had become the highest-earning arcade game of all time.\nThe release of NBA Jam gave rise to a new genre of sports games which were based around fast, action-packed gameplay and exaggerated realism, a formula which Midway would also later apply to the sports of football (NFL Blitz), and hockey (2 on 2 Open Ice Challenge).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ze0.jpg",
+        "release_date": 738979200,
+        "rating": 80.17193656393239,
+        "rating_count": 83,
+        "genres": "Sport",
+        "platform_ids": "52,19,29,78",
+        "external_url": "https://www.igdb.com/games/nba-jam--1",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 12118,
+        "name": "Gods",
+        "summary": "Who would have thought that a man would be so foolish or so daring as to accept a challenge set down by the Gods? And yet one came forward to claim the right to test his skills and strengths against a city so legendary its name alone struck fear in the hearts of all who heard it spoken.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6vh.jpg",
+        "release_date": 667785600,
+        "rating": 80.1321326186634,
+        "rating_count": 20,
+        "genres": "Platform|Puzzle|Adventure",
+        "platform_ids": "116,73,125,19,29,63,13,16,62",
+        "external_url": "https://www.igdb.com/games/gods",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 18282,
+        "name": "Monster World IV",
+        "summary": "Experience the fourth chapter in the classic Monster World series! One day, a young, green-haired girl names Asha, hears spirits calling out for help. Upon hearing the spirits, she leaves her village and sets forth on a grand adventure into Monster World. One her journey, she comes across a small blue monster named Pepe and a magical Genie. Together they must fight through Monster Land to defeat evil and save the troubled Elemental Spirits.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2xzh.jpg",
+        "release_date": 765158400,
+        "rating": 80.0028091314677,
+        "rating_count": 18,
+        "genres": "Platform|Role-playing (RPG)",
+        "platform_ids": "9,48,5,29",
+        "external_url": "https://www.igdb.com/games/monster-world-iv",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 8052,
+        "name": "Tiny Toon Adventures: Acme All-Stars",
+        "summary": "Now those crazy Tiny Toon Adventures characters are creating sporting havoc! Create teams from amongst your favorite toons - each with their own individual techniques - for the wackiest games of soccer and basketball you've ever seen!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xxm.jpg",
+        "release_date": 788832000,
+        "rating": 79.92023569314202,
+        "rating_count": 20,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tiny-toon-adventures-acme-all-stars",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 8446,
+        "name": "QuackShot Starring Donald Duck",
+        "summary": "QuackShot starring Donald Duck is a steady Disney run-and-jump platformer, with a little puzzle-solving element. Characters are mostly based on Disney's cartoon series Duck Tales.\n\nDonald and his three nephews get their hands on a treasure map and set out to hunt the big prize. Donald travels throughout the world, to places like Egypt, India, South Pole, and even Transylvania, while his nephews fly an airplane.\n\nAs a weapon Donald uses plungers that can freeze the enemies or stick to walls which can then be used for climbing. Other wacky weapons are popcorn and bubblegum.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y89.jpg",
+        "release_date": 684028800,
+        "rating": 79.91760091643178,
+        "rating_count": 44,
+        "genres": "Platform",
+        "platform_ids": "29,32",
+        "external_url": "https://www.igdb.com/games/quackshot-starring-donald-duck",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 1621,
+        "name": "Ultimate Mortal Kombat 3",
+        "summary": "Ultimate Mortal Kombat 3 combines the best of all the Mortal Kombats into a single cartridge. 23 playable characters are immediately available, such as Reptile, Cyrax, Scorpion, Sub-Zero, Jax, Katana, Sonya, and more. There are two bosses that are unlockable, as well as additional characters and a variety of new levels, some of which are interactive. Players can go against the computer one-on-one, two-on-two, or take part in the 8-fighter tournament.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65ka.jpg",
+        "release_date": 815616000,
+        "rating": 79.86379133843757,
+        "rating_count": 166,
+        "genres": "Fighting",
+        "platform_ids": "52,19,29,6,39,32,12",
+        "external_url": "https://www.igdb.com/games/ultimate-mortal-kombat-3",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 16033,
+        "name": "VectorMan",
+        "summary": "By the year 2049, Earth has been turned into a toxic waste dump. Humankind has fled into space leaving behind an army of mechanized “Orbots” to clean up the mess.\nBut when the Orbot leader “WarHead” goes haywire and starts a global revolt against the humans, it falls on the shoulders of the last Orbot loyal to its human masters to save the planet.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3s8c.jpg",
+        "release_date": 814492800,
+        "rating": 79.85722926297343,
+        "rating_count": 41,
+        "genres": "Platform|Adventure|Arcade",
+        "platform_ids": "3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/vectorman",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 12183,
+        "name": "Tyrants: Fight Through Time",
+        "summary": "First you choose one out of four different characters to represent you, Scarlet (red army), Oberon (yellow army), Caesar (green army), or Madcap (blue army). The game is split into 10 levels - the first 9 are groups of 3 territories which can be completed in any order, while the final 'Mother of All Battles' has its own surprises.\n\nLand is mostly of sand, grass or ice. You start with 100 men and you can use whatever quantity you find necessary on each island. The rest men left will go to another level with another new 100. In the second half of the game you can freeze men to save them for the Mother of All Battles. Once you select your island and place for your HQ, you must do some research for better weapons and defences. On the roof of your buildings you can put protectors like archers, gunmen, boiling oil men, and later on even laser turrets. If you send a team of unarmed men into an unoccupied square, they will build an additional base there, with larger armies completing this more quickly.\n\nLater on higher levels, you'll also build mines and factories, as you'll need to dig a certain material for higher level weapons, depending on whether the area you're on is rich with a certain material or not. With each next level, you'll start from a higher technology level and be able to progress to one higher level up than at the previous level",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5zfs.jpg",
+        "release_date": 694137600,
+        "rating": 79.78149266705063,
+        "rating_count": 16,
+        "genres": "Real Time Strategy (RTS)|Simulator|Strategy",
+        "platform_ids": "149,121,19,29,63,13,118,16",
+        "external_url": "https://www.igdb.com/games/tyrants-fight-through-time",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 4367,
+        "name": "Street Fighter II: Special Champion Edition",
+        "summary": "Street Fighter II: Special Champion Edition is an expanded version of Street Fighter II: Champion Edition with new features from Street Fighter II Turbo, released originally for the Sega Genesis/Mega Drive line of consoles. There are eight fighters to choose from, each with a unique fighting style and special attacks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3t2i.jpg",
+        "release_date": 749088000,
+        "rating": 79.72973391054941,
+        "rating_count": 19,
+        "genres": "Fighting",
+        "platform_ids": "5,29",
+        "external_url": "https://www.igdb.com/games/street-fighter-ii-special-champion-edition-c6119b36-b741-4f18-b839-ef685f020f7f",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 9475,
+        "name": "Sonic & Knuckles",
+        "summary": "Sonic and Knuckles join forces to defeat rotten Dr. Robotnik's Death Egg invasion! Play Sonic & Knuckles by itself or Lock-on with other Sonic games. This game's revolutionary Lock-on technology adds all new features to your other Sonic games for ultimate replays! Play as Sonic and let loose on Robotnik with amazing new powers. Play as Knuckles and tackle Robotnik and Metal Sonic with bare-fisted attacks, high-speed glides and wall-climbing power! Lock-on with Sonic 3 and transform Floating Island into a huge 34 meg Sonic-epic loaded with new secrets! Play as Sonic, Knuckles, and even Tails - with Game Save! Lock-on with Sonic 2 and play as Knuckles with all his signature moves!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ups.jpg",
+        "release_date": 782438400,
+        "rating": 79.64566280292571,
+        "rating_count": 191,
+        "genres": "Platform",
+        "platform_ids": "5,29,12",
+        "external_url": "https://www.igdb.com/games/sonic-and-knuckles",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 9862,
+        "name": "International Superstar Soccer Deluxe",
+        "summary": "International Superstar Soccer Deluxe is a football video game and the sequel to International Superstar Soccer.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vl4.jpg",
+        "release_date": 811728000,
+        "rating": 79.5613470857815,
+        "rating_count": 43,
+        "genres": "Sport",
+        "platform_ids": "19,29,7,58",
+        "external_url": "https://www.igdb.com/games/international-superstar-soccer-deluxe",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 4401,
+        "name": "Midnight Resistance",
+        "summary": "Midnight Resistance is a side-scrolling action shooting game produced by Data East for the arcades in 1989. The game was ported by Data East to the Sega Mega Drive in 1990 and by Ocean Software to various home computer platforms during the same year. The game is set in a dystopian future where the player controls a member of a resistance movement who goes on a mission to rescue his kidnapped family from a mad scientist.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i7w.jpg",
+        "release_date": 631065600,
+        "rating": 79.43552496842503,
+        "rating_count": 23,
+        "genres": "Shooter|Platform|Arcade",
+        "platform_ids": "52,15,26,29,63,16,25",
+        "external_url": "https://www.igdb.com/games/midnight-resistance",
+        "cached_at": 1772208554
+      },
+      {
+        "id": 9540,
+        "name": "Wonder Boy in Monster World",
+        "summary": "Monsters have taken over the land, and every day the citizens fear for their lives, hoping that a hero will step forth and bring peace to the embattled country.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52cu.jpg",
+        "release_date": 688348800,
+        "rating": 78.97254373236149,
+        "rating_count": 25,
+        "genres": "Platform|Role-playing (RPG)",
+        "platform_ids": "9,3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/wonder-boy-in-monster-world",
+        "cached_at": 1772208554
+      }
+    ]
+  }
+}

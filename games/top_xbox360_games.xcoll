@@ -1,0 +1,914 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Top Xbox 360 Games",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:09:28.814822Z",
+  "description": "Top 50 highest rated Xbox 360 games of all time",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 65755,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 45131,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 41888,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 99821,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 21704,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 13690,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 7194,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 222485,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 45181,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 1128,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 9143,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 74,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 72,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 21737,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 21040,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 233,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 732,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 1020,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 21988,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 21892,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 824,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 47445,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 339,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 434,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 11781,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 3322,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 5233,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 13923,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 9740,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 6456,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 41595,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 27912,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 55041,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 78460,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 5056,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 782,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 472,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 8749,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 501,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 2155,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 247,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 3088,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 20734,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 53818,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 16,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 20341,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 2692,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 9112,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 20065,
+      "platform_id": 12
+    },
+    {
+      "media_type": "game",
+      "external_id": 27862,
+      "platform_id": 12
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 65755,
+        "name": "Trailer Park King",
+        "summary": "He's a gamer, a bootlegger, a photographer and a connoisseur of the ladies! Can you juggle all the responsibilities and become the Trailer Park King?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/zafkhbxdk5hcuru6fxwf.jpg",
+        "release_date": 1311897600,
+        "rating": 100.0,
+        "rating_count": 34,
+        "genres": "Point-and-click|Adventure",
+        "platform_ids": "12",
+        "external_url": "https://www.igdb.com/games/trailer-park-king",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 45131,
+        "name": "Grand Theft Auto V: Special Edition",
+        "summary": "The Grand Theft Auto V Special Edition includes: Full retail copy of Grand Theft Auto V; Collectible SteelBook with Exclusive Artwork - features custom color and metallic treatments to bring out the detail of the Michael, Trevor and Franklin artwork created exclusively for this SteelBook; Blueprint Map - exclusive, 21.5” x 26.75” map displays a blueprint view of Los Santos and Blaine County; Special Ability Boost - Michael, Franklin and Trevor each have a unique special ability. With this boost, the special ability bar will generate 25% faster; Stunt Plane Trials – single-player Stunt Plane Trials let players take on additional aerial challenges spread throughout Los Santos and Blaine County; Bonus Outfits, Tattoos and More - Michael, Franklin and Trevor get bonus outfits in their wardrobes, character specific tattoos at tattoo parlors, and special deals from shopkeepers across Los Santos and Blaine County; Additional Weapons - when visiting Ammunation stores in single-player, merchants will have special weapons in their inventory available for free: the Pistol .50, Bullpup Shotgun and melee Hammer.\n\nGrand Theft Auto V is the largest and most ambitious game Rockstar Games has yet created, and takes full advantage of every ounce of processing power available in the current generation of consoles. In order to provide the best possible experience for such a massive and detailed world, the game will have installation requirements on the Xbox 360.\n\nGrand Theft Auto V will ship on two discs; Disc 1 will be used for a one-time mandatory install and Disc 2 will be used to play the game. After the install, players will be able to enjoy both Grand Theft Auto V and Grand Theft Auto Online without any need to switch discs.\n\nThis initial install will require an Xbox 360 Hard Drive or an external 16GB USB flash drive (sold separately) with at least 8 GB of free space. If using a USB flash drive it must be at least USB 2.0 with a minimum 15mb/s read speed and formatted for Xbox 360 use. A new USB flash drive is recommended to ensure optimum performance.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nbc.jpg",
+        "release_date": 1379376000,
+        "rating": 99.31009332738878,
+        "rating_count": 81,
+        "genres": "Shooter|Racing|Sport",
+        "platform_ids": "9,12",
+        "external_url": "https://www.igdb.com/games/grand-theft-auto-v-special-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 41888,
+        "name": "Battlefield 3: Premium Edition",
+        "summary": "Take your Battlefield 3 multiplayer experience to the next level with Battlefield 3: Premium Edition! Containing a staggering amount of content, Battlefield 3 Premium offers all expansion packs with early access, new soldier and weapon camos, and a number of exclusive in-game items all for a one-time fee. Battlefield 3: Premium Edition includes expansion packs Back to Karkand, Close Quarters, Armored Kill, End Game, and Expansion Pack #5.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoaj.jpg",
+        "release_date": 1347321600,
+        "rating": 96.65475531217531,
+        "rating_count": 37,
+        "genres": "Shooter",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/battlefield-3-premium-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 99821,
+        "name": "Metal Gear Solid 3: Snake Eater - HD Edition",
+        "summary": "A remastered version of Metal Gear Solid 3: Snake Eater, featuring updated controls and graphical improvements.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98hv.jpg",
+        "release_date": 1320710400,
+        "rating": 94.73360427675723,
+        "rating_count": 52,
+        "genres": "Shooter|Tactical|Adventure",
+        "platform_ids": "169,9,48,34,6,167,46,12,130",
+        "external_url": "https://www.igdb.com/games/metal-gear-solid-3-snake-eater-hd-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 21704,
+        "name": "Batman: Arkham City - Game of the Year Edition",
+        "summary": "Batman: Arkham City - Game of the Year Edition includes the following DLC:\n\nCatwoman Pack\nNightwing Bundle Pack\nRobin Bundle Pack\nHarley Quinn’s Revenge\nChallenge Map Pack\nArkham City Skins Pack\n\nBatman: Arkham City - Game of the Year Edition packages new gameplay content, seven maps, three playable characters, and 12 skins beyond the original retail release:\n\nMaps: Wayne Manor, Main Hall, Freight Train, Black Mask, The Joker's Carnival, Iceberg Long, and Batcave\nPlayable Characters: Catwoman, Robin and Nightwing\nSkins: 1970s Batsuit, Year One Batman, The Dark Knight Returns, Earth One Batman, Batman Beyond Batman, Animated Batman, Sinestro Corps Batman, Long Halloween Catwoman, Animated Catwoman, Animated Robin, Red Robin and Animated Nightwing",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kia.jpg",
+        "release_date": 1338249600,
+        "rating": 93.32516533188465,
+        "rating_count": 137,
+        "genres": "Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "9,6,14,12",
+        "external_url": "https://www.igdb.com/games/batman-arkham-city-game-of-the-year-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 13690,
+        "name": "Mass Effect 3: Citadel",
+        "summary": "When a sinister conspiracy targets Commander Shepard, you and your team must uncover the truth, through battles and intrigue that range from the glamour of the Citadel's Wards to the top-secret Council Archives. Uncover the truth and fight alongside your squad – as well as the cast from the original Mass Effect and Mass Effect 2, including Urdnot Wrex!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5716.jpg",
+        "release_date": 1362441600,
+        "rating": 93.09937773647209,
+        "rating_count": 95,
+        "genres": "Shooter|Role-playing (RPG)|Tactical",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/mass-effect-3-citadel",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 7194,
+        "name": "Steins;Gate",
+        "summary": "Steins;Gate is a Japanese visual novel developed by 5pb. and Nitroplus. It is the second game in the Science Adventure series following Chaos;Head. The game is described by the development team as a \"hypothetical science ADV\" and explores time and time travel in 2010 Akihabara. The gameplay follows non-linear plot lines which offer branching scenarios with courses of interaction.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ff7.jpg",
+        "release_date": 1255564800,
+        "rating": 92.88383322193972,
+        "rating_count": 320,
+        "genres": "Adventure|Visual Novel",
+        "platform_ids": "9,48,34,6,39,46,38,12",
+        "external_url": "https://www.igdb.com/games/steins-gate",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 222485,
+        "name": "Silent Hill 2",
+        "summary": "This version of Silent Hill 2 is a remaster included in the Silent Hill HD Collection. The graphics have been re-mastered to 720p, the in-game voice-over was updated along with a re-mastering of the soundtrack and achievements/trophies were added.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wkr.jpg",
+        "release_date": 1332201600,
+        "rating": 92.80371299848508,
+        "rating_count": 32,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "9,12",
+        "external_url": "https://www.igdb.com/games/silent-hill-2--2",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 45181,
+        "name": "Mass Effect Trilogy",
+        "summary": "Experience all three award winning Mass Effect titles at an amazing value with the Mass Effect Trilogy.\n\nAs Commander Shepard, rise to become the galaxy’s most elite soldier and lead an all-out war to stop an ancient and ruthless enemy: the Reapers. With over 75 hours of content and more than 300 awards, one of gaming’s most acclaimed franchises is available for the first time in a premium foiled box set.\n\nHeart-pounding action meets gripping interactive storytelling where you decide how your unique story unfolds. Assemble and lead your team aboard the SSV Normandy, the most advanced ship in the galaxy, and travel to distant and unexplored star systems. On your journey, meet a cast of intriguing characters each with their own story to tell. Wield devastating weapons and customize them with upgrades to create new and devastating attacks. All the thrilling action and your decisions culminate into a heroic battle against the greatest threat ever known.\n\nThe fate of the galaxy lies in your hands—how will you chose to fight for it?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a7a.jpg",
+        "release_date": 1352160000,
+        "rating": 92.55481012883482,
+        "rating_count": 644,
+        "genres": "Shooter|Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/mass-effect-trilogy",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 1128,
+        "name": "Castlevania: Symphony of the Night",
+        "summary": "Having been awoken from his eternal slumber by the reappearance of Castlevania, Alucard must once again face the evil minions of darkness. Use your vampiric powers, along with weapons, potions, and other magical relics to change the tide of battle.\n\nA mixture of platform and role-playing action with many hidden areas and secrets. Can you discover them all?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53m8.jpg",
+        "release_date": 858816000,
+        "rating": 92.19657139859524,
+        "rating_count": 796,
+        "genres": "Platform|Role-playing (RPG)|Adventure",
+        "platform_ids": "9,7,38,12",
+        "external_url": "https://www.igdb.com/games/castlevania-symphony-of-the-night",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 9143,
+        "name": "Guilty Gear X2 #Reload",
+        "summary": "As humanity endeavored to better themselves, they created the biological marvel known as Gears. Originally intended as the next step of human evolution, they were instead fitted for war and turned against their own creators.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co41if.jpg",
+        "release_date": 1048636800,
+        "rating": 91.46679268150405,
+        "rating_count": 33,
+        "genres": "Fighting|Arcade",
+        "platform_ids": "52,11,6,38,12,8",
+        "external_url": "https://www.igdb.com/games/guilty-gear-x2-number-reload",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 74,
+        "name": "Mass Effect 2",
+        "summary": "Are you prepared to lose everything to save the galaxy? You'll need to be, Commander Shephard. It's time to bring together your greatest allies and recruit the galaxy's fighting elite to continue the resistance against the invading Reapers. So steel yourself, because this is an astronomical mission where sacrifices must be made. You'll face tougher choices and new, deadlier enemies. Arm yourself and prepare for an unforgettable intergalactic adventure.\n\nGame Features:\n\nShift the fight in your favour. Equip yourself with powerful new weapons almost instantly thanks to a new inventory system. Plus, an improved health regeneration system means you'll spend less time hunting for restorative items.\n\nMake every decision matter. Divisive crew members are just the tip of the iceberg, Commander, because you'll also be tasked with issues of intergalactic diplomacy. And time's a wastin' so don't be afraid to use new prompt-based actions that let you interrupt conversations, even if they could alter the fate of your crew...and the galaxy.\n\nForge new alliances, carefully. You'll fight alongside some of your most trustworthy crew members, but you'll also get the opportunity to recruit new talent. Just choose your new partners with care because the fate of the galaxy rests on your shoulders, Commander.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.jpg",
+        "release_date": 1264464000,
+        "rating": 91.3660636156911,
+        "rating_count": 2657,
+        "genres": "Shooter|Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/mass-effect-2",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 72,
+        "name": "Portal 2",
+        "summary": "Sequel to the acclaimed Portal (2007), Portal 2 pits the protagonist of the original game, Chell, and her new robot friend, Wheatley, against more puzzles conceived by GLaDOS, an A.I. with the sole purpose of testing the Portal Gun's mechanics and taking revenge on Chell for the events of Portal. As a result of several interactions and revelations, Chell once again pushes to escape Aperture Science Labs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.jpg",
+        "release_date": 1303084800,
+        "rating": 91.27729046039514,
+        "rating_count": 4225,
+        "genres": "Platform|Puzzle|Adventure",
+        "platform_ids": "9,3,6,14,12,130",
+        "external_url": "https://www.igdb.com/games/portal-2",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 21737,
+        "name": "Pac-Man: Championship Edition DX",
+        "summary": "PAC-MAN Championship Edition DX continues to uphold NAMCO BANDAI's tradition of enhancing a classic franchise for today's gamer. Building upon PAC-MAN Championship Edition’s original six courses, the new game features more than 100 varied and mind-boggling mazes to navigate. Several new modes will also be available to test a player's pellet-munching aptitude. In Time Attack Mode, players will vie for the quickest clear time. Fulfill a series of objectives in Mission Mode or compete to devour the most number of ghosts gobbled in Ghost Mode.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qx6.jpg",
+        "release_date": 1289952000,
+        "rating": 91.01380702428273,
+        "rating_count": 25,
+        "genres": "Puzzle|Strategy|Arcade",
+        "platform_ids": "9,34,39,12",
+        "external_url": "https://www.igdb.com/games/pac-man-championship-edition-dx",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 21040,
+        "name": "Dark Souls: Prepare to Die Edition",
+        "summary": "Dark Souls: Prepare to Die Edition is the PC release, as well as the PS3 and Xbox 360 re-release, of Dark Souls, including the Artorias of the Abyss DLC.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84kp.jpg",
+        "release_date": 1345766400,
+        "rating": 90.51898214857998,
+        "rating_count": 218,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/dark-souls-prepare-to-die-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 233,
+        "name": "Half-Life 2",
+        "summary": "1998. HALF-LIFE sends a shock through the game industry with its combination of pounding action and continuous, immersive storytelling.\n\nNOW. By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player's presence affects everything around them, from the physical environment to the behaviors even the emotions of both friends and enemies.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmw.jpg",
+        "release_date": 1100563200,
+        "rating": 90.26746412255491,
+        "rating_count": 3257,
+        "genres": "Shooter",
+        "platform_ids": "11,9,3,34,6,14,12",
+        "external_url": "https://www.igdb.com/games/half-life-2",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 732,
+        "name": "Grand Theft Auto: San Andreas",
+        "summary": "Returning after his mother's murder to the semi-fictional city of Los Santos (based on Los Angeles), Carl Johnson, a former gang banger, must take back the streets for his family and friends by gaining respect and once again gaining control over the streets. However, a story filled with crime, lies and corruption will lead him to trudge the entire state of San Andreas (based on California and Nevada) to rebuild his life.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb9.jpg",
+        "release_date": 1098748800,
+        "rating": 90.06531208981397,
+        "rating_count": 3802,
+        "genres": "Shooter|Racing|Adventure",
+        "platform_ids": "11,9,48,34,6,39,14,12,8",
+        "external_url": "https://www.igdb.com/games/grand-theft-auto-san-andreas",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 1020,
+        "name": "Grand Theft Auto V",
+        "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
+        "release_date": 1379376000,
+        "rating": 89.6967156094962,
+        "rating_count": 5548,
+        "genres": "Shooter|Racing|Adventure",
+        "platform_ids": "9,48,6,12,49",
+        "external_url": "https://www.igdb.com/games/grand-theft-auto-v",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 21988,
+        "name": "Dark Souls: Artorias of the Abyss",
+        "summary": "Artorias of the Abyss is additional content for the game Dark Souls. It was originally released for PC as part of the Dark Souls: Prepare to Die Edition, and later for consoles as the eponymous DLC. A console version of the Prepare To Die Edition was also released at a later date.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95nf.jpg",
+        "release_date": 1345766400,
+        "rating": 89.63789148692811,
+        "rating_count": 63,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/dark-souls-artorias-of-the-abyss",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 21892,
+        "name": "Fallout 3: Game of the Year Edition",
+        "summary": "Prepare for the Future with Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yc1.jpg",
+        "release_date": 1255392000,
+        "rating": 89.5065554210646,
+        "rating_count": 201,
+        "genres": "Shooter|Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/fallout-3-game-of-the-year-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 824,
+        "name": "NHL 09",
+        "summary": "NHL 09 is the 17th video game in the NHL series released by EA Sports in 2008. Both the Nintendo DS and Wii versions had been planned, but canceled. It was the last installment of the NHL series to be released on Playstation 2 and the last to get a PC release",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jw7.jpg",
+        "release_date": 1220918400,
+        "rating": 89.44541878574628,
+        "rating_count": 36,
+        "genres": "Sport",
+        "platform_ids": "9,6,12,8",
+        "external_url": "https://www.igdb.com/games/nhl-09",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 47445,
+        "name": "The Elder Scrolls V: Skyrim - Legendary Edition",
+        "summary": "Live Another Life, In Another World: Play any type of character you can imagine, and do whatever you want; the freedom of choice, storytelling, and adventure of The Elder Scrolls comes to life in one legendary experience from all three official add-ons.\n\nDawnguard: The Vampire Lord Harkon has returned to power. By using the Elder Scrolls, he seeks to do the unthinkable - to end the sun itself. Will you join the ancient order of the Dawnguard and stop him? Or will you become a Vampire Lord?\nHearthfire: Purchase land and build your own home from the ground up - from a simple one-room cottage to a sprawling compound complete with an armory, alchemy laboratory, and more.\n\nDragonborn: Journey off the coast of Morrowind, to the vast island of Solstheim. Traverse the ash wastes and glacial valleys of this new land as you become more powerful with shouts that bend the will of your enemies and even tame dragons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dcm.jpg",
+        "release_date": 1370304000,
+        "rating": 89.36708276178263,
+        "rating_count": 83,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim-legendary-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 339,
+        "name": "The Orange Box",
+        "summary": "The Orange Box is a bundle that includes five titles from Valve: Half-Life 2; Half-Life 2:Episode 1; Half-Life 2: Episode Two; Team Fortress 2, the sequel to the game that put class-based, multiplayer team warfare on the map; and Portal, the game that blends puzzles, first person action, and adventure gaming to produce an experience like no other.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2yez.jpg",
+        "release_date": 1191974400,
+        "rating": 89.33215869687986,
+        "rating_count": 148,
+        "genres": "Shooter|Puzzle",
+        "platform_ids": "9,3,6,14,12",
+        "external_url": "https://www.igdb.com/games/the-orange-box",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 434,
+        "name": "Red Dead Redemption",
+        "summary": "A modern-day Western epic, Red Dead Redemption takes John Marston, a relic from the fast-closing time of the gunslinger, through an open world filled with wildlife, mini-games, and shootouts. Marston sets out to hunt down his old gang mates for the government, who have taken away his family. Along his journey, he meets many characters emblematic of the Wild West, heroism, and the new civilization.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lcv.jpg",
+        "release_date": 1274140800,
+        "rating": 89.30965477046465,
+        "rating_count": 2367,
+        "genres": "Shooter|Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/red-dead-redemption",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 11781,
+        "name": "Muv-Luv Alternative",
+        "summary": "\"A destiny tossed about, in an insane world---\nA flame of life blazing forth, in a dying world---\nAnd now, one more future that is spun---\n\nThis is the alternative ending unable to be told before:\nA very great, a very tiny, a very precious...\nTale of love and courage.\"\n\nMuv-Luv Alternative continues the story of Shirogane Takeru after the events of the original Muv-Luv. This is a tale of a love so deep it breaks all barriers; about courage in the face of adversity and overcoming hardships. Takeru encounters insurmountable odds while his entire world is turned upside down around him.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ksc.jpg",
+        "release_date": 1140739200,
+        "rating": 89.21799363895775,
+        "rating_count": 20,
+        "genres": "Visual Novel",
+        "platform_ids": "9,6,46,12",
+        "external_url": "https://www.igdb.com/games/muv-luv-alternative",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 3322,
+        "name": "Project Gotham Racing 3",
+        "summary": "Project Gotham Racing 3 (PGR3 for short) is an arcade-style racing game that was released with the launch of the Xbox 360 on November 22, 2005 for the US market and December 2, 2005 in Europe, and was released on January 12, 2006 in Japan. Developed by Bizarre Creations, it is the third installment in the Project Gotham Racing series. Project Gotham Racing 3 was rated by Official Xbox Magazine (OXM) to be Xbox 360 \"Game Of The Year\" (2005). OXM also rated it \"Best 1st Person (Not Shooter) of the Year\", because of its realistic inside-car view.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uoj.jpg",
+        "release_date": 1132617600,
+        "rating": 89.11896681771609,
+        "rating_count": 21,
+        "genres": "Racing",
+        "platform_ids": "12",
+        "external_url": "https://www.igdb.com/games/project-gotham-racing-3",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 5233,
+        "name": "Top Spin 4",
+        "summary": "The game features licensed professional players, venues and equipment. Some of the confirmed professional players include Roger Federer, Rafael Nadal, Andy Murray, Novak Djokovic, Pete Sampras and Andre Agassi.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3a8h.jpg",
+        "release_date": 1300147200,
+        "rating": 89.07748549851712,
+        "rating_count": 21,
+        "genres": "Simulator|Sport|Strategy",
+        "platform_ids": "9,5,12",
+        "external_url": "https://www.igdb.com/games/top-spin-4",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 13923,
+        "name": "Borderlands 2: Tiny Tina's Assault on Dragon Keep",
+        "summary": "Tiny Tina's Assault on Dragon Keep is DLC for Borderlands 2.\n\nSorcerers, Wizards and Crumpets, oh my! Join vault hunters, old and new, in Tiny Tina epic quest of revenge and redemption. Tiny Tina’s Assault on Dragon Keep, the biggest and most inspired add-on content in Borderlands history, features a game within a game, as Tiny Tina takes on the role of Bunker Master in a game of “Bunkers & Badasses”. Travel through a dark and ever changing world of castles, dungeons and magic forests as you fight off skeletons, orcs, dragons and more. Explore side missions and answer riddles as you roll your insight stat to gain new and amazing loot. Join with friends to save the queen and restore peace and order to the world once more.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27fo.jpg",
+        "release_date": 1372118400,
+        "rating": 88.95144332043925,
+        "rating_count": 56,
+        "genres": "Shooter|Role-playing (RPG)",
+        "platform_ids": "9,48,3,6,14,12,49",
+        "external_url": "https://www.igdb.com/games/borderlands-2-tiny-tinas-assault-on-dragon-keep",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 9740,
+        "name": "Deus Ex: Human Revolution - Director's Cut",
+        "summary": "Deus Ex: Human Revolution - Director's Cut features approximately 8 hours of director's commentaries and a 45 minute “Making Of” video. It also features an improved visual engine and a complete overhaul of the boss battles.\n\nDeus Ex: Human Revolution - Director's Cut is an expanded game for Deus Ex: Human Revolution which is an action role-playing game. It is the third game in the Deus Ex series, and a prequel to the original Deus Ex (2000). The gameplay—combining first-person shooter, stealth, and role-playing elements—features exploration and combat in environments connected to multiple city-based hubs, in addition to quests that grant experience and allow customization of the main character's abilities with items called Praxis Kits. Conversations between characters feature a variety of responses, with options in conversations and at crucial story points affecting how some events play out.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tgb.jpg",
+        "release_date": 1382400000,
+        "rating": 88.89952658369961,
+        "rating_count": 158,
+        "genres": "Shooter|Puzzle|Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,14,41,12",
+        "external_url": "https://www.igdb.com/games/deus-ex-human-revolution-directors-cut",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 6456,
+        "name": "Beautiful Katamari",
+        "summary": "Experience the new high-definition, next generation sights and sounds of Beautiful Katamari as the Prince takes on a new high-rolling adventure, with his famous cousins in tow, to save the Katamari universe once again after the King of All Cosmos has a very un-royal and unfortunate accident. As usual, the King of All Cosmos demands the service of his son, the Prince, to roll anything and everything up into massive clumps and set things right, bringing harmony once again to the Katamari Cosmos. To keep his son inspired, the King of All Cosmos will provide another fresh and memorable soundtrack that will have players moving and grooving to the beat as they roll through the absurd, yet wonderful world of Beautiful Katamari.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48qa.jpg",
+        "release_date": 1192492800,
+        "rating": 88.5973850260922,
+        "rating_count": 27,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "12",
+        "external_url": "https://www.igdb.com/games/beautiful-katamari",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 41595,
+        "name": "BioShock Infinite: The Complete Edition",
+        "summary": "BioShock Infinite: The Complete Edition is a re-release of BioShock Infinite including all its downloadable content.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co50k0.jpg",
+        "release_date": 1415059200,
+        "rating": 88.5579201011803,
+        "rating_count": 50,
+        "genres": "Shooter|Adventure",
+        "platform_ids": "9,48,6,14,12,49,130",
+        "external_url": "https://www.igdb.com/games/bioshock-infinite-the-complete-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 27912,
+        "name": "Grand Theft Auto IV: Complete Edition",
+        "summary": "This standalone retail title spans three distinct stories, interwoven to create one of the most unique and engaging single-player experiences of this generation. This definitive Grand Theft Auto bundle boasts hundreds of hours of single-player gameplay; a full suite of open-world multiplayer game types limited only by players’ creativity; dozens of eclectic radio stations with hours of music and original dialogue.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1twe.jpg",
+        "release_date": 1288051200,
+        "rating": 88.32018081717591,
+        "rating_count": 108,
+        "genres": "Shooter|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/grand-theft-auto-iv-complete-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 55041,
+        "name": "Metal Gear Solid 2: Sons of Liberty - HD Edition",
+        "summary": "Metal Gear Solid 2: Sons of Liberty - HD Edition feature an increased 720p resolution and a 16:9 aspect ratio, providing a clearer and wider view of the player's surroundings compared to the original 480p resolution and 4:3 ratio of the PlayStation 2 version. Cutscenes can now be viewed in full-screen or letterboxed format, while online achievements/trophies have been added as well. Most of the additional content from Metal Gear Solid 2: Substance has also been ported in this version, such as the Missions and Snake Tales modes, although the Skateboarding mini-game that was present in the PlayStation 2 version of Substance is absent.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co982l.jpg",
+        "release_date": 1320710400,
+        "rating": 88.23046096002585,
+        "rating_count": 32,
+        "genres": "Shooter|Tactical|Adventure",
+        "platform_ids": "169,9,48,508,34,6,167,46,12,130",
+        "external_url": "https://www.igdb.com/games/metal-gear-solid-2-sons-of-liberty-hd-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 78460,
+        "name": "Mass Effect 3: Extended Cut",
+        "summary": "The Extended Cut downloadable content adds to and modifies the ending of Mass Effect 3, in response to fan feedback.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5rwr.jpg",
+        "release_date": 1341360000,
+        "rating": 88.02898932262082,
+        "rating_count": 24,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/mass-effect-3-extended-cut",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 5056,
+        "name": "NBA 2K11",
+        "summary": "NBA 2K11 is a basketball video game developed by Visual Concepts and 2K Sports and published by 2K Sports. It was released on October 5, 2010 on the Xbox 360, PlayStation 2, PlayStation 3, PSP, Windows, while the Wii version came out on October 21, 2010. Michael Jordan is the cover athlete of the game and is featured in the game in different ways.NBA 2K11 is the successor to NBA 2K10.\n\nNBA 2K11 is widely considered one of the best sports video games of all time and the best basketball simulation of the seventh generation of video game consoles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gih.jpg",
+        "release_date": 1286150400,
+        "rating": 87.78579580293422,
+        "rating_count": 65,
+        "genres": "Sport",
+        "platform_ids": "113,9,5,6,38,12,8",
+        "external_url": "https://www.igdb.com/games/nba-2k11",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 782,
+        "name": "Mass Effect 2: Lair of the Shadow Broker",
+        "summary": "Liara T'Soni is tracking down the mysterious Shadow Broker, and no one is safe. She'll do anything to recover the man the Broker kidnapped... and the Shadow Broker's agents will do anything to stop her. Team up with Liara and chase clues from the luxurious heights of Illium to the Shadow Broker's own secret lair. This DLC adds the Shadow Broker intel center, new research, and five new achievements – and the chance to continue a relationship with Liara.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k9f.jpg",
+        "release_date": 1283817600,
+        "rating": 87.71331299647596,
+        "rating_count": 88,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/mass-effect-2-lair-of-the-shadow-broker",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 472,
+        "name": "The Elder Scrolls V: Skyrim",
+        "summary": "Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose. Play any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnw.jpg",
+        "release_date": 1320883200,
+        "rating": 87.693358239491,
+        "rating_count": 4108,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 8749,
+        "name": "N+",
+        "summary": "N+ is a port of the original Adobe Flash based PC game, N, to console and handheld systems with new features.\n\n\"N+ is a peerless action-puzzle platformer with more than 300 levels in which to hone your ninja reflexes, plus a built-in level editor for when you're hungry for more. N+ also features unique, physics-based controls, stylish graphics, unlimited lives, competitive and cooperative multiplayer, plenty of gold, and several flavors of sweet, sweet action.\"\n\n\"N+ features N doesn't have:\n-Redesigned graphics and visual effects: a more detailed version of N's in-your-face minimalist style\n-New objects and enemies: Pulse Drone, Laser Turret and Zap Doors\n-Background music and next-gen 5.1 surround sound\n-Way over 400 all-new levels\n-3 pants-wettingly good modes of multiplayer: Co-op, Race and Survival\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ejo.jpg",
+        "release_date": 1203465600,
+        "rating": 87.64357069578546,
+        "rating_count": 23,
+        "genres": "Platform|Puzzle|Indie",
+        "platform_ids": "38,12,20",
+        "external_url": "https://www.igdb.com/games/n-plus",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 501,
+        "name": "Batman: Arkham City",
+        "summary": "Batman: Arkham City builds upon the intense, atmospheric foundation of Batman: Arkham Asylum, sending players soaring into Arkham City, the new maximum security \"home\" for all of Gotham City's thugs, gangsters and insane criminal masterminds.\n\nSet inside the heavily fortified walls of a sprawling district in the heart of Gotham City, this highly anticipated sequel introduces a brand-new story that draws together a new all-star cast of classic characters and murderous villains from the Batman universe, as well as a vast range of new and enhanced gameplay features to deliver the ultimate experience as the Dark Knight.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1voh.jpg",
+        "release_date": 1318896000,
+        "rating": 87.58623674527472,
+        "rating_count": 2561,
+        "genres": "Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "113,9,6,12,130",
+        "external_url": "https://www.igdb.com/games/batman-arkham-city",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 2155,
+        "name": "Dark Souls",
+        "summary": "Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in September 2011 as a spiritual sequel to Demon's Souls, it is set in a dark, medieval fantasy world. It is renowned for its challenging gameplay, intricate level design, and deep lore. Players control a customizable character known as the Chosen Undead, embarking on a perilous journey to uncover the secrets of the cursed land of Lordran.\n\nDark Souls is known for its punishing difficulty, requiring players to carefully manage combat, stamina, and resources while navigating hostile environments filled with dangerous enemies and formidable bosses. The game features a unique multiplayer component, allowing players to leave messages for others, summon allies for cooperative play, or invade other players' worlds for PvP combat.\n\nThe original release of Dark Souls received critical acclaim for its atmospheric world, innovative mechanics, and rewarding gameplay, solidifying its place as a seminal title in the action RPG genre.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x78.jpg",
+        "release_date": 1316649600,
+        "rating": 87.49425827094562,
+        "rating_count": 1608,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/dark-souls",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 247,
+        "name": "Half-Life 2: Episode Two",
+        "summary": "The second episodic sequel to one of the most influential first-person shooters of its time, Half-Life 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mw2.jpg",
+        "release_date": 1191888000,
+        "rating": 87.46176644291526,
+        "rating_count": 1448,
+        "genres": "Shooter|Puzzle",
+        "platform_ids": "9,3,6,14,12",
+        "external_url": "https://www.igdb.com/games/half-life-2-episode-two",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 3088,
+        "name": "Rocksmith 2014",
+        "summary": "Plug any electric guitar or bass into your PC, Mac, Xbox 360, or PlayStation 3, Playstation 4 or Xbox One and join over 1.5 million people who have learned to play guitar with award-winning Rocksmith method. Learn to play guitar in 60 days. Get started, now!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48zw.jpg",
+        "release_date": 1382400000,
+        "rating": 87.4235735666004,
+        "rating_count": 41,
+        "genres": "Music",
+        "platform_ids": "9,48,6,14,12,49",
+        "external_url": "https://www.igdb.com/games/rocksmith-2014",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 20734,
+        "name": "Devil May Cry HD Collection",
+        "summary": "Devil May Cry HD Collection is a collection of high-definition remasters of the PS2 games of the first three games in the Devil May Cry franchise. In addition to the reworked graphics, it also contains trophies/achievements.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n18.jpg",
+        "release_date": 1332374400,
+        "rating": 87.31917990914779,
+        "rating_count": 59,
+        "genres": "Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "9,48,6,12,49",
+        "external_url": "https://www.igdb.com/games/devil-may-cry-hd-collection",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 53818,
+        "name": "Tomb Raider: Game of the Year Edition",
+        "summary": "Tomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara, 8 multiplayer maps, and 4 characters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3h8v.jpg",
+        "release_date": 1390867200,
+        "rating": 87.31037360309413,
+        "rating_count": 40,
+        "genres": "Shooter|Platform|Puzzle|Adventure",
+        "platform_ids": "9,34,6,39,12",
+        "external_url": "https://www.igdb.com/games/tomb-raider-game-of-the-year-edition",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 16,
+        "name": "Fallout: New Vegas",
+        "summary": "In this first-person Western RPG, the player takes on the role of Courier 6, barely surviving after being robbed of their cargo, shot and put into a shallow grave by a New Vegas mob boss. The Courier sets out to track down their robbers and retrieve their cargo, and winds up getting tangled in the complex ideological and socioeconomic web of the many factions and settlements of post-nuclear Nevada.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u60.jpg",
+        "release_date": 1287446400,
+        "rating": 87.10857131117542,
+        "rating_count": 2295,
+        "genres": "Shooter|Role-playing (RPG)",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/fallout-new-vegas",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 20341,
+        "name": "Dark Souls II: Crown of the Ivory King",
+        "summary": "Dark Souls II: Crown of the Ivory King is the third DLC expansion for Dark Souls II, released in September 2014. It transports players to the frozen wasteland of Eleum Loyce, where they face new enemies, perilous environments, and challenging bosses. The expansion adds new weapons, armour, and spells, along with additional lore detailing the history of the Ivory King and his kingdom.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vv0.jpg",
+        "release_date": 1412035200,
+        "rating": 86.93962278944826,
+        "rating_count": 40,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/dark-souls-ii-crown-of-the-ivory-king",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 2692,
+        "name": "Rock Band 2",
+        "summary": "Rock Band 2 is the sequel to the 2007 musical simulation game Rock Band and offers similar gameplay. Directly competing with Guitar Hero: World Tour, the game allows different people to play together as in a band, with the same peripherals as the first game: lead guitar, bass guitar, microphone and a drum set.\n\nThe new drum and guitar controllers for this version, bundled or sold separately, have been revised and older controllers are also supported. The guitar controller, modelled after the Fender Stratocaster, has five additional fret buttons near the neck, for fast fingertapping sessions. There is also an effect switch to toggle between five different effects. Players use the instruments to match notes on the screen, divided in different portions for different instruments, along with the lyrics for the singer who need to match the pitch.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wp9.jpg",
+        "release_date": 1221350400,
+        "rating": 86.92164742581939,
+        "rating_count": 107,
+        "genres": "Music",
+        "platform_ids": "9,5,12,8",
+        "external_url": "https://www.igdb.com/games/rock-band-2",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 9112,
+        "name": "The Book of Unwritten Tales 2",
+        "summary": "Every world needs its heroes. However unlikely they may seem. Join Wilbur, Ivo, Nate and Critter in another classic point-and-click adventure in the wicked world of Aventásia. Help them fulfill their destiny. A destiny as yet unwritten.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sbg.jpg",
+        "release_date": 1424217600,
+        "rating": 86.80370957417293,
+        "rating_count": 21,
+        "genres": "Point-and-click|Puzzle|Adventure",
+        "platform_ids": "9,48,3,6,39,14,41,12,49,130",
+        "external_url": "https://www.igdb.com/games/the-book-of-unwritten-tales-2",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 20065,
+        "name": "Resident Evil 4",
+        "summary": "Resident Evil 4 is directly based off the Wii port, having all the new features that the Wii added. Some of the key features of this version are stunning HD graphics running at a smooth 60 frames per second for the first time. It also features a complete visual overhaul to bring this revered title to the highest graphical quality ever. It has been fully optimized for the wide screen, texts have been sharpened and textures have been upgraded on characters, backgrounds and in-game objects.\n\nHowever, it should be noted that the cutscenes of the Separate Ways scenario are not in HD and have had their resolution lowered and placed in sepia format. Aside from the updated HUD, the Movie Browser is fixed to now display real time cut-scenes instead of the PS2 pre-rendered cut-scene, like it was the Wii version. The Mercenaries costumes cheat remain and fully work.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ci.jpg",
+        "release_date": 1315440000,
+        "rating": 86.76825916932722,
+        "rating_count": 181,
+        "genres": "Shooter|Adventure",
+        "platform_ids": "9,48,12,49,130",
+        "external_url": "https://www.igdb.com/games/resident-evil-4--3",
+        "cached_at": 1772208568
+      },
+      {
+        "id": 27862,
+        "name": "Batman: Arkham Asylum - Game of the Year Edition",
+        "summary": "Batman: Arkham Asylum is an action-adventure game developed by Rocksteady Studios and published by Warner Bros. Interactive Entertainment. Released in 2009, it follows Batman as he battles the Joker, who seizes control of Arkham Asylum and frees its inmates. The game features stealth, combat, and detective elements, with players using Batman's gadgets and skills to subdue enemies and solve puzzles.\n\nSet in a dark, immersive version of Gotham, the story explores Batman’s psychological battle with his foes, including Harley Quinn, Bane, and Scarecrow. The game received critical acclaim for its gameplay, atmosphere, and storytelling, becoming a defining title in superhero video games.\n\nThe Game of the Year Edition features 4 DLC Challenge Maps, and a full copy of Batman: Arkham Asylum. It also featured the ability for the game to be played in 3D with the use of 3D pink and green lensed glasses.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vok.jpg",
+        "release_date": 1269561600,
+        "rating": 86.71483996079219,
+        "rating_count": 158,
+        "genres": "Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "9,6,14,12",
+        "external_url": "https://www.igdb.com/games/batman-arkham-asylum-game-of-the-year-edition",
+        "cached_at": 1772208568
+      }
+    ]
+  }
+}

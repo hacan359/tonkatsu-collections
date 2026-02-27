@@ -1,0 +1,914 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Top PC Games",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:09:33.931956Z",
+  "description": "Top 50 highest rated PC (Windows) games of all time",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 112659,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 47304,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 136482,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 135478,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 143761,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 165192,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 11631,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 52440,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 22439,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 51267,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 224415,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 117526,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 119402,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 41888,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 13166,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 228530,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 279634,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 1046,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 3126,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 119171,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 14173,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 94873,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 106819,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 305296,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 178264,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 27844,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 99821,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 98753,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 27857,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 37138,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 277807,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 240168,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 141540,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 114283,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 307930,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 164664,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 1942,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 84197,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 109241,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 14544,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 139403,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 119133,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 140133,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 98077,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 5563,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 21704,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 8773,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 25076,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 13690,
+      "platform_id": 6
+    },
+    {
+      "media_type": "game",
+      "external_id": 10039,
+      "platform_id": 6
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 112659,
+        "name": "Batman: Arkham Collection",
+        "summary": "Batman: Arkham Collection includes the definitive versions of Rocksteady's Arkham Trilogy games, including all post-launch content, in one complete collection.\n\nBatman: Arkham Asylum and Batman: Arkham City have been remastered with updated visuals. The collection is completed by Batman: Arkham Knight.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wgm.jpg",
+        "release_date": 1543276800,
+        "rating": 99.60802340264476,
+        "rating_count": 23,
+        "genres": "Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "48,6,49",
+        "external_url": "https://www.igdb.com/games/batman-arkham-collection",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 47304,
+        "name": "American Chopper",
+        "summary": "Be hired into the shop of the hit TV series American Chopper. Here's your chance to ride the bikes built by the Teutuls. Choose from the POW/MIA Bike, Jet Bike, Black Widow Bike, and others. You're also sent on missions to create your very own, original themed chopper that rivals those built by Paul Sr. and Paul Jr. Experience first-hand all of the hard work, drama, and thrill of creating one of the most beautiful bikes on the road today.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/igvuatzgxvdwvcmpd07f.jpg",
+        "release_date": 1103673600,
+        "rating": 99.25925925925925,
+        "rating_count": 36,
+        "genres": "Racing",
+        "platform_ids": "11,6,8",
+        "external_url": "https://www.igdb.com/games/american-chopper",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 136482,
+        "name": "Undertale Yellow",
+        "summary": "Welcome to Undertale Yellow. In this fan made prequel to the RPG Undertale, you control a human who falls underground into the world of monsters... but will you make it out alive?\n\nGrab your cowboy hat and your gun and take the place of Undertale’s Yellow soul in their journey through the Underground on an original adventure.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2el1.jpg",
+        "release_date": 1702080000,
+        "rating": 99.22111611289549,
+        "rating_count": 24,
+        "genres": "Role-playing (RPG)|Turn-based strategy (TBS)|Adventure|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/undertale-yellow",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 135478,
+        "name": "Hrot",
+        "summary": "Hrot is a single-player retro FPS set in a small socialist country neighboring Soviet Union (Czechoslovakia) after an unspecified disaster in 1986. Those times were dark and terrifying and so is the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2omv.jpg",
+        "release_date": 1684195200,
+        "rating": 99.07481576312067,
+        "rating_count": 26,
+        "genres": "Shooter|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/hrot",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 143761,
+        "name": "Pokémon Infinite Fusion",
+        "summary": "Pokémon Infinite Fusion is a fangame RPG based on the Pokémon fusion generator trend, featuring sprite art from many different artists.\n\nWith thousands of fusions available, even Professor Oak doesn't expect you to \"catch 'em all\"!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k5u.jpg",
+        "release_date": 1429660800,
+        "rating": 98.4708050193513,
+        "rating_count": 21,
+        "genres": "Role-playing (RPG)|Adventure|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/pokemon-infinite-fusion",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 165192,
+        "name": "The Elder Scrolls V: Skyrim - Anniversary Edition",
+        "summary": "The Elder Scrolls V: Skyrim - Anniversary Edition contains the full game plus all three expansions and over 500 pieces of unique content from Creation Club, including pre-existing and new quests, dungeons, bosses, weapons, spells and more!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9tq.jpg",
+        "release_date": 1636588800,
+        "rating": 98.30040090810701,
+        "rating_count": 69,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,508,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim-anniversary-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 11631,
+        "name": "Hiveswap: Act 1",
+        "summary": "Hiveswap is a hand-drawn tribute to '90s point-and-click adventure games. Play as Joey Claire, a puzzle-solving teen snatched out of her time (1994) and place (Earth) and stranded on a hostile alien planet on the brink of rebellion.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1s8t.jpg",
+        "release_date": 1505347200,
+        "rating": 98.1826684825902,
+        "rating_count": 21,
+        "genres": "Point-and-click|Puzzle|Role-playing (RPG)|Adventure|Indie",
+        "platform_ids": "3,6,14",
+        "external_url": "https://www.igdb.com/games/hiveswap-act-1",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 52440,
+        "name": "Batman: Arkham Knight - Premium Edition",
+        "summary": "Batman: Arkham Knight is an action-adventure game developed by Rocksteady Studios, released in 2015. It is the final installment in the Arkham series. Players control Batman as he faces Scarecrow, who unites Gotham's criminals to destroy the Dark Knight. The mysterious Arkham Knight, a new adversary, aids Scarecrow in his plan.\n\nThe game features open-world exploration, stealth, combat, and puzzle-solving. A key addition is the Batmobile, used for traversal and combat. The story explores Batman’s psychological struggles and the collapse of his alliances as Gotham spirals into chaos.\n\nIt includes the main game and the season pass.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fr0.jpg",
+        "release_date": 1435017600,
+        "rating": 98.04115086735466,
+        "rating_count": 21,
+        "genres": "Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "48,6,49",
+        "external_url": "https://www.igdb.com/games/batman-arkham-knight-premium-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 22439,
+        "name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+        "summary": "The Witcher 3: Wild Hunt – Game of the Year Edition is a complete version of the game released in August 2016 for PC, PlayStation 4, and Xbox One. It includes the base game along with all post-launch content, including the two major expansions, Hearts of Stone and Blood and Wine, and all free DLCs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wz4.jpg",
+        "release_date": 1472428800,
+        "rating": 97.96779324948508,
+        "rating_count": 564,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "48,6,49",
+        "external_url": "https://www.igdb.com/games/the-witcher-3-wild-hunt-game-of-the-year-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 51267,
+        "name": "Umineko no Naku Koro ni Chiru",
+        "summary": "Umineko no Naku Koro ni Chiru is the sequel to Umineko no Naku Koro Ni. It is also referred to as When They Cry 4 in the overall When They Cry franchise.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4szy.jpg",
+        "release_date": 1314835200,
+        "rating": 97.74226168366063,
+        "rating_count": 27,
+        "genres": "Adventure|Visual Novel",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/umineko-no-naku-koro-ni-chiru",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 224415,
+        "name": "Voices of the Void",
+        "summary": "You work as a scientist in the isolated research lab in the mountains of Switzerland. Your task is to gather signals from space, analyze them, process them and sell them to get points.\n\nYou can get regular signals and objects like dwarf planets and stars, or you can get something \"unusual\" or even \"strange\" and \"unexplainable\".",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uks.jpg",
+        "release_date": null,
+        "rating": 97.33112765370831,
+        "rating_count": 21,
+        "genres": "Simulator|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/voices-of-the-void--1",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 117526,
+        "name": "Lurkers",
+        "summary": "Lurkers is a chaotic 2D multiplayer sandbox where you can build, battle, and survive! Fight zombies, conquer game modes like Bedwars, and unleash your creativity in a world that’s yours to shape and destroy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hgu.jpg",
+        "release_date": 1555632000,
+        "rating": 97.30397394491462,
+        "rating_count": 36,
+        "genres": "Shooter|Platform|Role-playing (RPG)|Simulator|Hack and slash/Beat 'em up|Adventure|Indie",
+        "platform_ids": "82,6",
+        "external_url": "https://www.igdb.com/games/lurkers--2",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 119402,
+        "name": "The Witcher 3: Wild Hunt - Complete Edition",
+        "summary": "The Witcher 3: Wild Hunt – Complete Edition is a comprehensive release that includes the base game, both major expansions (Hearts of Stone and Blood and Wine), and all free DLCs. It has been issued in multiple versions over time:\n\n- 2016 (PC, PS4, Xbox One): Released alongside the Game of the Year Edition, functionally identical but branded differently depending on region.\n\n- 2022 (PS5, Xbox Series X|S, PC): Updated version including the next-gen enhancements, such as ray tracing, visual upgrades, and quality-of-life improvements, plus additional content inspired by the Netflix series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uct.jpg",
+        "release_date": 1472428800,
+        "rating": 96.71719162891915,
+        "rating_count": 185,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-witcher-3-wild-hunt-complete-edition--1",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 41888,
+        "name": "Battlefield 3: Premium Edition",
+        "summary": "Take your Battlefield 3 multiplayer experience to the next level with Battlefield 3: Premium Edition! Containing a staggering amount of content, Battlefield 3 Premium offers all expansion packs with early access, new soldier and weapon camos, and a number of exclusive in-game items all for a one-time fee. Battlefield 3: Premium Edition includes expansion packs Back to Karkand, Close Quarters, Armored Kill, End Game, and Expansion Pack #5.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoaj.jpg",
+        "release_date": 1347321600,
+        "rating": 96.65475531217531,
+        "rating_count": 37,
+        "genres": "Shooter",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/battlefield-3-premium-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 13166,
+        "name": "The Witcher 3: Wild Hunt - Blood and Wine",
+        "summary": "Blood and Wine is the second major expansion to The Witcher 3: Wild Hunt.\n\nThe players will accompany Geralt of Rivia to the region of Toussaint, one of the few places in the Witcher universe which has remained largely untouched by the war. The calm, laid-back atmosphere holds a dark and bloody secret that only the White Wolf can uncover; the expansion features new items for players to collect on their adventure and introduces previously unknown characters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lgo.jpg",
+        "release_date": 1464566400,
+        "rating": 96.39637750707884,
+        "rating_count": 457,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-witcher-3-wild-hunt-blood-and-wine",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 228530,
+        "name": "Death Stranding 2: On the Beach",
+        "summary": "Embark on an inspiring mission of human connection beyond the UCA. Sam — with companions by his side — sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ipx.jpg",
+        "release_date": 1750896000,
+        "rating": 96.22065623247119,
+        "rating_count": 58,
+        "genres": "Shooter|Adventure",
+        "platform_ids": "6,167",
+        "external_url": "https://www.igdb.com/games/death-stranding-2-on-the-beach",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 279634,
+        "name": "Dragon Ball: Sparking! Zero",
+        "summary": "Dragon Ball: Sparking! Zero takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Make yours the destructive power of the strongest fighters ever to appear in Dragon Ball!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bhn.jpg",
+        "release_date": 1728604800,
+        "rating": 96.08052935471227,
+        "rating_count": 68,
+        "genres": "Fighting",
+        "platform_ids": "169,508,6,167,130",
+        "external_url": "https://www.igdb.com/games/dragon-ball-sparking-zero",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 1046,
+        "name": "Star Control II",
+        "summary": "Star Control II, the sequel to the original Star Control, is a space adventure game that features role-playing elements alongside a 2D space ship melee combat system. The player assumes the role of The Captain of a single starship wandering a detailed environment of solar systems, gradually gathering information and resources in order to defeat a mysterious and implacable enemy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2d9l.jpg",
+        "release_date": 721958400,
+        "rating": 95.96717643338168,
+        "rating_count": 23,
+        "genres": "Simulator|Strategy|Adventure|Indie",
+        "platform_ids": "3,6,50,14,13",
+        "external_url": "https://www.igdb.com/games/star-control-ii",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 3126,
+        "name": "Ultima Online",
+        "summary": "Ultima Online is the product of Richard Garriott's idea for a fantasy game involving several thousand people who can all play in a shared fantasy world. It is responsible for grandfathering the genre of the MMO, and showing the industry that MMO's were the next era of gaming.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rru.jpg",
+        "release_date": 875059200,
+        "rating": 95.83118778212771,
+        "rating_count": 46,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/ultima-online",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 119171,
+        "name": "Baldur's Gate III",
+        "summary": "An ancient evil has returned to Baldur's Gate, intent on devouring it from the inside out. The fate of Faerun lies in your hands. Alone, you may resist. But together, you can overcome.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co670h.jpg",
+        "release_date": 1691020800,
+        "rating": 95.8152415004008,
+        "rating_count": 1332,
+        "genres": "Role-playing (RPG)|Strategy|Turn-based strategy (TBS)",
+        "platform_ids": "170,169,3,6,167,14",
+        "external_url": "https://www.igdb.com/games/baldurs-gate-iii",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 14173,
+        "name": "Heroes of Might and Magic III: Horn of the Abyss",
+        "summary": "Heroes of Might and Magic III: Horn of the Abyss also known as HotA is a fan-made full scale add-on for Heroes of Might and Magic III, designed to continue the classical Heroes 3 add-on series of RoE/AB/SoD.\nThe aim of the project is to create an add-on for Heroes of Might and Magic III: The Shadow of Death with lots of new features. The main focus of add-on is the quality of every single aspect of the modded game. This includes the careful fixes of the original game balance, removal of the graphical imperfections left by the developer, and of course, a huge amount of new content, like new campaigns, new map objects and even a new playable faction - The Cove. The project pretends to be fully lore-wise and keeps connection with the original Might and Magic universe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99tg.jpg",
+        "release_date": 1325289600,
+        "rating": 95.65457168059594,
+        "rating_count": 31,
+        "genres": "Role-playing (RPG)|Strategy|Turn-based strategy (TBS)|Tactical|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/heroes-of-might-and-magic-iii-horn-of-the-abyss",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 94873,
+        "name": "Sonic Mania Plus",
+        "summary": "Sonic Mania Plus is an updated version of Sonic Mania that includes the Encore DLC. Digital versions of Sonic Mania on all platforms can be upgraded to Sonic Mania Plus by purchasing the Encore DLC separately.\n\nPlus is also available as a physical release and marks the first time any version of Sonic Mania was available on physical media. Released for Xbox One, PlayStation 4 and Switch, in addition to including the complete version of Sonic Mania Plus on a disc/cartridge it also comes packaged with a reversible cover with alternate box art, an art book and a holographic outer sleeve.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8we.jpg",
+        "release_date": 1531785600,
+        "rating": 95.60341028157914,
+        "rating_count": 55,
+        "genres": "Platform",
+        "platform_ids": "48,34,6,39,49,130",
+        "external_url": "https://www.igdb.com/games/sonic-mania-plus",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 106819,
+        "name": "Final Fantasy XIV: Complete Edition",
+        "summary": "The complete edition includes the award-winning FINAL FANTASY XIV: A Realm Reborn and the Heavensward and Stormblood expansion packs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9heg.jpg",
+        "release_date": 1497916800,
+        "rating": 95.4439203146529,
+        "rating_count": 25,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "48,6,14",
+        "external_url": "https://www.igdb.com/games/final-fantasy-xiv-complete-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 305296,
+        "name": "Hunter Moonstrike",
+        "summary": "Hunter Moonstrike is the first survival game integrated with artificial intelligence. In this game, all npc have their own unique story and you can see the story of the game from their point of view. Talk to any person, ask any question you like, they will answer and think they are alive",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96tr.jpg",
+        "release_date": 1737590400,
+        "rating": 95.14242878560721,
+        "rating_count": 36,
+        "genres": "Shooter|Role-playing (RPG)|Adventure|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/hunter-moonstrike",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 178264,
+        "name": "Bad End Theater",
+        "summary": "Welcome to Bad End Theater! Select your protagonist and explore a variety of terrible fates! The decisions you make in one story will affect the others. you can toggle these behaviors to open up new paths! unfortunately, every path leads to a bad ending... Can you find a way to save this unlucky cast? Playtime: 2-3 hours to see all endings (it's a puzzle game, so this varies widely).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co44y4.jpg",
+        "release_date": 1635206400,
+        "rating": 94.99357321360237,
+        "rating_count": 23,
+        "genres": "Puzzle|Simulator|Adventure|Indie|Visual Novel",
+        "platform_ids": "169,48,3,34,6,167,14,49,130",
+        "external_url": "https://www.igdb.com/games/bad-end-theater",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 27844,
+        "name": "The Elder Scrolls IV: Oblivion - Game of the Year Edition Deluxe",
+        "summary": "The Elder Scrolls IV: Oblivion Game of the Year Edition presents one of the best RPGs of all time like never before. Step inside the most richly detailed and vibrant game-world ever created. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ymf.jpg",
+        "release_date": 1245110400,
+        "rating": 94.73744033510906,
+        "rating_count": 33,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 99821,
+        "name": "Metal Gear Solid 3: Snake Eater - HD Edition",
+        "summary": "A remastered version of Metal Gear Solid 3: Snake Eater, featuring updated controls and graphical improvements.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98hv.jpg",
+        "release_date": 1320710400,
+        "rating": 94.73360427675723,
+        "rating_count": 52,
+        "genres": "Shooter|Tactical|Adventure",
+        "platform_ids": "169,9,48,34,6,167,46,12,130",
+        "external_url": "https://www.igdb.com/games/metal-gear-solid-3-snake-eater-hd-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 98753,
+        "name": "My Grandfather's Farm",
+        "summary": "\"Your grandfather left you his old farm. With only a few coins and tools and with the help of your grandfather you have to go to the old farm \ngive new shine again! \n \nCan you live from what the land has to offer you? \n \nGive the old farm a new lease of life - expand your farm. Buy new fields, stables, equipment and animals. \nFarm your animals, farm your fields. \nSell ​​your goods to dealers or directly to the inhabitants of Lodo Paws to build your yard! Make friends with the inhabitants of Lodo Paws. \nHarvest various types of crops, potatoes, carrots, wheat, corn, sunflowers. Take care of your animals (cows, sheep, chickens, horses). \nWatch for the seasons to catch up with your harvest in time. \nCut down trees and transport the wood or your goods by horse and cart. \n \nAdapt your farmer! Buy new clothes or change your outfit! \n \nExplore Lodo Paws, explore the Thunder Mine and find valuable treasures. \nComplete tasks and quest's.\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/s9v8ggxiaqwtp3n0koas.jpg",
+        "release_date": 1535587200,
+        "rating": 94.67228738904788,
+        "rating_count": 22,
+        "genres": "Role-playing (RPG)|Simulator|Strategy|Adventure|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/my-grandfathers-farm",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 27857,
+        "name": "Assassin's Creed II: Deluxe Edition",
+        "summary": "An epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5r4g.jpg",
+        "release_date": 1267747200,
+        "rating": 94.59198519579687,
+        "rating_count": 25,
+        "genres": "Adventure",
+        "platform_ids": "6,39,14",
+        "external_url": "https://www.igdb.com/games/assassins-creed-ii-deluxe-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 37138,
+        "name": "Sengoku Rance",
+        "summary": "Sengoku Rance (also known as \"Rance 7\") is the tenth release of the Rance series launched by Alicesoft. The story takes place during the 4th sengoku (warring states) era of JAPAN, an area of the Rance World which parodies medieval real-world Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k0m.jpg",
+        "release_date": 1166140800,
+        "rating": 94.58266952002751,
+        "rating_count": 28,
+        "genres": "Role-playing (RPG)|Strategy|Turn-based strategy (TBS)|Adventure|Visual Novel",
+        "platform_ids": "6,372",
+        "external_url": "https://www.igdb.com/games/sengoku-rance",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 277807,
+        "name": "Cyberpunk 2077: Ultimate Edition",
+        "summary": "Cyberpunk 2077: Ultimate Edition is an open-world RPG containing two powerful adventures: the base game of Cyberpunk 2077, taking place in the dark future of Night City, and Phantom Liberty, a spy-thriller story set in the walled-off district of Dogtown. Players take on the role of V, a cyber-enhanced mercenary, and embark on a fight for survival filled with story-defining decisions, action-packed gameplay, and unforgettable characters, including rockerboy Johnny Silverhand (played by Keanu Reeves) and FIA sleeper agent Solomon Reed (played by Idris Elba).\n\nThis new release is the perfect way to experience every story of the dark future; it also contains the free Update 2.0, which overhauled many of the game’s systems, introducing dynamic skill trees, high-octane vehicle combat, and enhanced enemy and police AI — as well as adding new weapons, vehicles, and clothes. The release is bolstered with a set of previously released digital goodies available as part of the “My Rewards” program, available to all who register.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7iy1.jpg",
+        "release_date": 1695686400,
+        "rating": 94.39819843148175,
+        "rating_count": 96,
+        "genres": "Shooter|Role-playing (RPG)|Adventure",
+        "platform_ids": "169,508,6,167,14",
+        "external_url": "https://www.igdb.com/games/cyberpunk-2077-ultimate-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 240168,
+        "name": "PlayM2M",
+        "summary": "Unlock the secrets of magic and become a master in the massively multiplayer online role-playing game (MMORPG)! Show your skills to your enemies in epic PVE and take part in brutal Battleground PvP!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9l8q.jpg",
+        "release_date": 1743120000,
+        "rating": 94.3540647318955,
+        "rating_count": 28,
+        "genres": "Role-playing (RPG)|Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/playm2m",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 141540,
+        "name": "Disco Elysium: The Final Cut",
+        "summary": "Disco Elysium: The Final Cut is an enhanced edition of the original role-playing game developed and published by ZA/UM. It retains the core gameplay and narrative while adding full voice acting, new quests, additional endings, and other narrative revisions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ve1.jpg",
+        "release_date": 1617062400,
+        "rating": 94.3416715960634,
+        "rating_count": 195,
+        "genres": "Role-playing (RPG)|Adventure|Indie",
+        "platform_ids": "170,169,48,6,167,14,49,130",
+        "external_url": "https://www.igdb.com/games/disco-elysium-the-final-cut",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 114283,
+        "name": "Persona 5 Royal",
+        "summary": "An enhanced version of Persona 5 with some new characters and a third semester added to the game. Released Internationally in 2020.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobaqh.jpg",
+        "release_date": 1572480000,
+        "rating": 94.25983307251165,
+        "rating_count": 633,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/persona-5-royal",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 307930,
+        "name": "NextWorld2",
+        "summary": "NextWorld2 is a fantasy MMORPG set in the divided world of Kigan, where two rival kingdoms, Selakim and Quila, struggle for dominance. Players can choose from four classes: Warrior, Shaman, Assassin, and Ezra, and explore a vast open world filled with quests, mounts, dungeons, and large-scale community events.\n\nThe game emphasizes real-time combat, crafting, exploration, and both PvE and PvP content. Currently available in Hungary, NextWorld2 has thousands of active players and continues to grow with new content and future international expansion plans.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gqz.jpg",
+        "release_date": 1720224000,
+        "rating": 94.23458539562922,
+        "rating_count": 39,
+        "genres": "Role-playing (RPG)|Hack and slash/Beat 'em up",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/nextworld2--1",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 164664,
+        "name": "Sekiro: Shadows Die Twice - Game of the Year Edition",
+        "summary": "Sekiro: Shadows Die Twice received a free update following it's Game of the Year win, which included a handful of changes, outside of it's name change\n\nThis Game of the Year Edition update includes :\n\n- Reflection and Gauntlet of Strength - new boss challenge modes\n- Remnants - leave messages and recordings of your actions that other players can view and rate\n- 3 unlockable cosmetic skins",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67k9.jpg",
+        "release_date": 1603843200,
+        "rating": 94.11982571084636,
+        "rating_count": 51,
+        "genres": "Adventure",
+        "platform_ids": "48,6,49",
+        "external_url": "https://www.igdb.com/games/sekiro-shadows-die-twice-game-of-the-year-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 1942,
+        "name": "The Witcher 3: Wild Hunt",
+        "summary": "The Witcher 3: Wild Hunt is an open-world action role-playing game developed by CD Projekt Red.\n\nSet in a dark fantasy world, the game follows Geralt of Rivia, a monster hunter searching for his adopted daughter, Ciri, while navigating political conflicts and supernatural threats. Gameplay features exploration, combat, character progression, and branching narratives shaped by player choices. Widely acclaimed for its writing, world-building, and depth, it is considered one of the most influential RPGs of its generation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaarl.jpg",
+        "release_date": 1431993600,
+        "rating": 93.87756103537639,
+        "rating_count": 5107,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-witcher-3-wild-hunt",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 84197,
+        "name": "Faith",
+        "summary": "Faith is a pixel horror game inspired by the era of MS-DOS, Apple II, Atari, and ZX Spectrum classics.\n\nForget blue-and-pink neon. The 1980s were scary. No Internet, it was hard to reach you if you weren't home, and the U.S. was engrossed in the “Satanic Scare” which fueled widespread paranoia about devil-worshiping, witchcraft, and occult practices.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48pe.jpg",
+        "release_date": 1506988800,
+        "rating": 93.70948144404771,
+        "rating_count": 25,
+        "genres": "Adventure|Indie",
+        "platform_ids": "6,130",
+        "external_url": "https://www.igdb.com/games/faith",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 109241,
+        "name": "The Binding of Isaac: Repentance",
+        "summary": "The Binding of Isaac: Repentance is the ultimate edition of the genre-defining roguelike, with so many additions and improvements that it feels like a brand new game. Experience Isaac's adventures with new twists, terrifying turns and over 500 hours of new gameplay!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5dfa.jpg",
+        "release_date": 1617148800,
+        "rating": 93.62889156716591,
+        "rating_count": 73,
+        "genres": "Shooter|Role-playing (RPG)|Adventure|Indie|Arcade",
+        "platform_ids": "169,48,6,167,49",
+        "external_url": "https://www.igdb.com/games/the-binding-of-isaac-repentance",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 14544,
+        "name": "The Stanley Parable Demonstration",
+        "summary": "The Stanley Parable Demonstration is supposedly the demo for The Stanley Parable, but has an original storyline and can be considered a short stand-alone game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nqc.jpg",
+        "release_date": 1381363200,
+        "rating": 93.50672894287436,
+        "rating_count": 24,
+        "genres": "Adventure|Indie",
+        "platform_ids": "6,14",
+        "external_url": "https://www.igdb.com/games/the-stanley-parable-demonstration",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 139403,
+        "name": "Jungles of Maxtheria",
+        "summary": "Play as either \"Hot Spot\" Harvey, his cousin Roxy Roks, Junior or Missy searching for the lost treasure of the infamous \"Jaxton Max\". Your quest for fortune and glory will not be easy however. This adventure is full of baddies aimed at stopping you dead in your tracks. Use knives to dig through walls, bullets to battle the baddies, grappling hooks to jump over long distances, oxygen tanks to breath under water and torches to see what lurks underground. Collect keys to get past locked doors and to open treasure chests. Avoid the quicksand, tar pits, spikes, fire pits, thumpers and other traps along the way. Few ever return from their expeditions into the deep jungles. So, if you are brave enough, the \"Jungles of Maxtheria\" awaits!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i39.jpg",
+        "release_date": 1602633600,
+        "rating": 93.47721822541968,
+        "rating_count": 21,
+        "genres": "Platform|Adventure|Indie",
+        "platform_ids": "3,6,14",
+        "external_url": "https://www.igdb.com/games/jungles-of-maxtheria",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 119133,
+        "name": "Elden Ring",
+        "summary": "Elden Ring is an action RPG developed by FromSoftware and published by Bandai Namco Entertainment, released in February 2022. Directed by Hidetaka Miyazaki, with world-building contributions from novelist George R. R. Martin, the game features an expansive open world called the Lands Between. Players assume the role of a customisable character known as the Tarnished, who must explore this world, battle formidable enemies, and seek to restore the Elden Ring to become the Elden Lord.\n\nThe game builds on the challenging gameplay mechanics familiar from the Dark Souls series but introduces a more open-ended structure with vast exploration, dynamic weather, and a day-night cycle. It offers deep lore, complex characters, and an interconnected world filled with secrets, dungeons, and powerful bosses.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg",
+        "release_date": 1645747200,
+        "rating": 93.46843096673881,
+        "rating_count": 1991,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,508,6,167,49",
+        "external_url": "https://www.igdb.com/games/elden-ring",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 140133,
+        "name": "Enigma of Fear",
+        "summary": "Become Mia, a paranormal detective searching for her missing father inside the Perimeter - a place that doesn't exist. Investigate clues like a real detective and unravel the mysteries behind the Enigma of Fear, defeating the terrible monsters who'll try to stop you.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93ft.jpg",
+        "release_date": 1732752000,
+        "rating": 93.40816833214203,
+        "rating_count": 34,
+        "genres": "Puzzle|Adventure|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/enigma-of-fear",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 98077,
+        "name": "Grand Theft Auto V: Premium Online Edition",
+        "summary": "The Grand Theft Auto V: Premium Online Edition includes the complete Grand Theft Auto V story experience, free access to the ever-evolving Grand Theft Auto Online and all existing gameplay upgrades and content, including The Doomsday Heist, Gunrunning, Smuggler’s Run, Bikers and much more. Players also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart their criminal empire in Grand Theft Auto Online.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1twh.jpg",
+        "release_date": 1524182400,
+        "rating": 93.38952925571071,
+        "rating_count": 54,
+        "genres": "Shooter|Racing|Adventure",
+        "platform_ids": "48,6,49",
+        "external_url": "https://www.igdb.com/games/grand-theft-auto-v-premium-online-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 5563,
+        "name": "IL-2 Sturmovik: 1946",
+        "summary": "Oleg Maddox’s world famous IL-2 Sturmovik series of flight simulators continues to expand. The latest offering, IL-2 1946, adds 36 new planes, four new gigantic maps, over a hundred new ground objects, and nearly 200 new campaign missions. This new opus also includes all of the previous Il-2 series content. What years ago began as a one-aircraft study sim is now an astonishing anthology, with a whopping 229 flyable aircraft and over 300 aircraft total! Not to mention that players will have the opportunity to get a first glance at the future of the series arriving next year: Storm of War Battle of Britain via exclusive bonus videos.\n\nIL-2 1946 includes all of the original IL-2 series content: IL-2 Sturmovik: Forgotten Battles, Ace Expansion Pack, Pacific Fighters and alternate history campaigns of year 1946.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22aq.jpg",
+        "release_date": 1165449600,
+        "rating": 93.38078119966808,
+        "rating_count": 26,
+        "genres": "Shooter|Simulator|Tactical",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/il-2-sturmovik-1946",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 21704,
+        "name": "Batman: Arkham City - Game of the Year Edition",
+        "summary": "Batman: Arkham City - Game of the Year Edition includes the following DLC:\n\nCatwoman Pack\nNightwing Bundle Pack\nRobin Bundle Pack\nHarley Quinn’s Revenge\nChallenge Map Pack\nArkham City Skins Pack\n\nBatman: Arkham City - Game of the Year Edition packages new gameplay content, seven maps, three playable characters, and 12 skins beyond the original retail release:\n\nMaps: Wayne Manor, Main Hall, Freight Train, Black Mask, The Joker's Carnival, Iceberg Long, and Batcave\nPlayable Characters: Catwoman, Robin and Nightwing\nSkins: 1970s Batsuit, Year One Batman, The Dark Knight Returns, Earth One Batman, Batman Beyond Batman, Animated Batman, Sinestro Corps Batman, Long Halloween Catwoman, Animated Catwoman, Animated Robin, Red Robin and Animated Nightwing",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kia.jpg",
+        "release_date": 1338249600,
+        "rating": 93.32516533188465,
+        "rating_count": 137,
+        "genres": "Hack and slash/Beat 'em up|Adventure",
+        "platform_ids": "9,6,14,12",
+        "external_url": "https://www.igdb.com/games/batman-arkham-city-game-of-the-year-edition",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 8773,
+        "name": "Homeworld: Remastered Collection",
+        "summary": "Homeworld Remastered Collection updates and introduces the landmark space strategy games to modern audiences. The collection includes Homeworld and Homeworld 2, painstakingly remastered by Gearbox in cooperation with key members of the original development team and members of the series’ passionate fan community. As a free bonus, this collection also includes the original versions of Homeworld and Homeworld 2 with compatibility updates, preserving the purest form of the original releases. Anyone who purchases Homeworld Remastered Collection will also receive free access to the Homeworld Remastered Steam Multiplayer Beta when the collection releases on February 25, 2015.\n\nThe Homeworld series has a long legacy and is regarded by many as one of the best strategy series of all time. Following its release in 1999 by publisher Sierra and developer Relic Entertainment, Homeworld received several Game of the Year awards and redefined the RTS genre. Its sequel, Homeworld 2, launched in 2003, and was similarly praised by critics for its innovative controls and changes to multiplayer. Brian Martel, Gearbox Software's Chief Creative Officer, has great love and respect for Relic's brilliant, fun and innovative franchise and personally spearheaded Gearbox Software’s acquisition of Homeworld from THQ in 2013.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rg1.jpg",
+        "release_date": 1424822400,
+        "rating": 93.28470767401734,
+        "rating_count": 63,
+        "genres": "Real Time Strategy (RTS)|Simulator|Strategy|Adventure",
+        "platform_ids": "6,14",
+        "external_url": "https://www.igdb.com/games/homeworld-remastered-collection",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 25076,
+        "name": "Red Dead Redemption 2",
+        "summary": "Red Dead Redemption 2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
+        "release_date": 1540512000,
+        "rating": 93.2112388281804,
+        "rating_count": 3416,
+        "genres": "Shooter|Role-playing (RPG)|Adventure",
+        "platform_ids": "170,48,6,167,49",
+        "external_url": "https://www.igdb.com/games/red-dead-redemption-2",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 13690,
+        "name": "Mass Effect 3: Citadel",
+        "summary": "When a sinister conspiracy targets Commander Shepard, you and your team must uncover the truth, through battles and intrigue that range from the glamour of the Citadel's Wards to the top-secret Council Archives. Uncover the truth and fight alongside your squad – as well as the cast from the original Mass Effect and Mass Effect 2, including Urdnot Wrex!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5716.jpg",
+        "release_date": 1362441600,
+        "rating": 93.09937773647209,
+        "rating_count": 95,
+        "genres": "Shooter|Role-playing (RPG)|Tactical",
+        "platform_ids": "9,6,12",
+        "external_url": "https://www.igdb.com/games/mass-effect-3-citadel",
+        "cached_at": 1772208573
+      },
+      {
+        "id": 10039,
+        "name": "Superfighters Deluxe",
+        "summary": "Superfighters Deluxe is a multiplayer 2D action game where little flat-headed men fight to the death in small and highly destructible arenas. Surviving each round takes skill, strategy and luck.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r61.jpg",
+        "release_date": 1543536000,
+        "rating": 93.00621261589889,
+        "rating_count": 84,
+        "genres": "Fighting|Shooter|Platform|Indie",
+        "platform_ids": "6",
+        "external_url": "https://www.igdb.com/games/superfighters-deluxe",
+        "cached_at": 1772208573
+      }
+    ]
+  }
+}

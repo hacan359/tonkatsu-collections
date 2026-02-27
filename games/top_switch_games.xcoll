@@ -1,0 +1,914 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Top Nintendo Switch Games",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:09:39.152941Z",
+  "description": "Top 50 highest rated Nintendo Switch games of all time",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 165192,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 119402,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 266690,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 13166,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 279634,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 94873,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 178264,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 99821,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 141540,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 114283,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 338106,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 1942,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 84197,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 119388,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 119801,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 7346,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 115289,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 103340,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 221287,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 14593,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 28337,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 12503,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 176552,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 135999,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 72,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 165206,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 19874,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 28160,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 375,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 103364,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 26673,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 3230,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 207026,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 103337,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 59858,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 116,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 116794,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 9146,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 26834,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 146761,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 221823,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 26766,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 105420,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 170777,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 127254,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 76244,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 228525,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 23322,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 139446,
+      "platform_id": 130
+    },
+    {
+      "media_type": "game",
+      "external_id": 158985,
+      "platform_id": 130
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 165192,
+        "name": "The Elder Scrolls V: Skyrim - Anniversary Edition",
+        "summary": "The Elder Scrolls V: Skyrim - Anniversary Edition contains the full game plus all three expansions and over 500 pieces of unique content from Creation Club, including pre-existing and new quests, dungeons, bosses, weapons, spells and more!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9tq.jpg",
+        "release_date": 1636588800,
+        "rating": 98.30040090810701,
+        "rating_count": 69,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,508,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim-anniversary-edition",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 119402,
+        "name": "The Witcher 3: Wild Hunt - Complete Edition",
+        "summary": "The Witcher 3: Wild Hunt – Complete Edition is a comprehensive release that includes the base game, both major expansions (Hearts of Stone and Blood and Wine), and all free DLCs. It has been issued in multiple versions over time:\n\n- 2016 (PC, PS4, Xbox One): Released alongside the Game of the Year Edition, functionally identical but branded differently depending on region.\n\n- 2022 (PS5, Xbox Series X|S, PC): Updated version including the next-gen enhancements, such as ray tracing, visual upgrades, and quality-of-life improvements, plus additional content inspired by the Netflix series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uct.jpg",
+        "release_date": 1472428800,
+        "rating": 96.71719162891915,
+        "rating_count": 185,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-witcher-3-wild-hunt-complete-edition--1",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 266690,
+        "name": "Paper Mario: The Thousand-Year Door",
+        "summary": "A remake of the second game in the Paper Mario series, originally released for the Nintendo GameCube.\n\nTurn the page and join Mario and friends in an RPG adventure to discover the legendary treasure behind the ancient Thousand-Year Door. Will Mario complete his papery quest, or will he crumple under the pressure?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9xy.jpg",
+        "release_date": 1716422400,
+        "rating": 96.56593753906441,
+        "rating_count": 34,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "130",
+        "external_url": "https://www.igdb.com/games/paper-mario-the-thousand-year-door--1",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 13166,
+        "name": "The Witcher 3: Wild Hunt - Blood and Wine",
+        "summary": "Blood and Wine is the second major expansion to The Witcher 3: Wild Hunt.\n\nThe players will accompany Geralt of Rivia to the region of Toussaint, one of the few places in the Witcher universe which has remained largely untouched by the war. The calm, laid-back atmosphere holds a dark and bloody secret that only the White Wolf can uncover; the expansion features new items for players to collect on their adventure and introduces previously unknown characters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lgo.jpg",
+        "release_date": 1464566400,
+        "rating": 96.39637750707884,
+        "rating_count": 457,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-witcher-3-wild-hunt-blood-and-wine",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 279634,
+        "name": "Dragon Ball: Sparking! Zero",
+        "summary": "Dragon Ball: Sparking! Zero takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Make yours the destructive power of the strongest fighters ever to appear in Dragon Ball!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bhn.jpg",
+        "release_date": 1728604800,
+        "rating": 96.08052935471227,
+        "rating_count": 68,
+        "genres": "Fighting",
+        "platform_ids": "169,508,6,167,130",
+        "external_url": "https://www.igdb.com/games/dragon-ball-sparking-zero",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 94873,
+        "name": "Sonic Mania Plus",
+        "summary": "Sonic Mania Plus is an updated version of Sonic Mania that includes the Encore DLC. Digital versions of Sonic Mania on all platforms can be upgraded to Sonic Mania Plus by purchasing the Encore DLC separately.\n\nPlus is also available as a physical release and marks the first time any version of Sonic Mania was available on physical media. Released for Xbox One, PlayStation 4 and Switch, in addition to including the complete version of Sonic Mania Plus on a disc/cartridge it also comes packaged with a reversible cover with alternate box art, an art book and a holographic outer sleeve.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8we.jpg",
+        "release_date": 1531785600,
+        "rating": 95.60341028157914,
+        "rating_count": 55,
+        "genres": "Platform",
+        "platform_ids": "48,34,6,39,49,130",
+        "external_url": "https://www.igdb.com/games/sonic-mania-plus",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 178264,
+        "name": "Bad End Theater",
+        "summary": "Welcome to Bad End Theater! Select your protagonist and explore a variety of terrible fates! The decisions you make in one story will affect the others. you can toggle these behaviors to open up new paths! unfortunately, every path leads to a bad ending... Can you find a way to save this unlucky cast? Playtime: 2-3 hours to see all endings (it's a puzzle game, so this varies widely).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co44y4.jpg",
+        "release_date": 1635206400,
+        "rating": 94.99357321360237,
+        "rating_count": 23,
+        "genres": "Puzzle|Simulator|Adventure|Indie|Visual Novel",
+        "platform_ids": "169,48,3,34,6,167,14,49,130",
+        "external_url": "https://www.igdb.com/games/bad-end-theater",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 99821,
+        "name": "Metal Gear Solid 3: Snake Eater - HD Edition",
+        "summary": "A remastered version of Metal Gear Solid 3: Snake Eater, featuring updated controls and graphical improvements.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98hv.jpg",
+        "release_date": 1320710400,
+        "rating": 94.73360427675723,
+        "rating_count": 52,
+        "genres": "Shooter|Tactical|Adventure",
+        "platform_ids": "169,9,48,34,6,167,46,12,130",
+        "external_url": "https://www.igdb.com/games/metal-gear-solid-3-snake-eater-hd-edition",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 141540,
+        "name": "Disco Elysium: The Final Cut",
+        "summary": "Disco Elysium: The Final Cut is an enhanced edition of the original role-playing game developed and published by ZA/UM. It retains the core gameplay and narrative while adding full voice acting, new quests, additional endings, and other narrative revisions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ve1.jpg",
+        "release_date": 1617062400,
+        "rating": 94.3416715960634,
+        "rating_count": 195,
+        "genres": "Role-playing (RPG)|Adventure|Indie",
+        "platform_ids": "170,169,48,6,167,14,49,130",
+        "external_url": "https://www.igdb.com/games/disco-elysium-the-final-cut",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 114283,
+        "name": "Persona 5 Royal",
+        "summary": "An enhanced version of Persona 5 with some new characters and a third semester added to the game. Released Internationally in 2020.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobaqh.jpg",
+        "release_date": 1572480000,
+        "rating": 94.25983307251165,
+        "rating_count": 633,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/persona-5-royal",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 338106,
+        "name": "Donkey Kong Bananza",
+        "summary": "Donkey Kong Bananza is exclusively on Nintendo Switch 2! Explore a vast underground world—by smashing your way through it! Bash, throw, and climb through just about anything in DK’s brand-new 3D platforming action-adventure game!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobd1q.jpg",
+        "release_date": 1752710400,
+        "rating": 94.12382137077759,
+        "rating_count": 63,
+        "genres": "Platform|Adventure",
+        "platform_ids": "508,130",
+        "external_url": "https://www.igdb.com/games/donkey-kong-bananza",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 1942,
+        "name": "The Witcher 3: Wild Hunt",
+        "summary": "The Witcher 3: Wild Hunt is an open-world action role-playing game developed by CD Projekt Red.\n\nSet in a dark fantasy world, the game follows Geralt of Rivia, a monster hunter searching for his adopted daughter, Ciri, while navigating political conflicts and supernatural threats. Gameplay features exploration, combat, character progression, and branching narratives shaped by player choices. Widely acclaimed for its writing, world-building, and depth, it is considered one of the most influential RPGs of its generation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaarl.jpg",
+        "release_date": 1431993600,
+        "rating": 93.87756103537639,
+        "rating_count": 5107,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-witcher-3-wild-hunt",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 84197,
+        "name": "Faith",
+        "summary": "Faith is a pixel horror game inspired by the era of MS-DOS, Apple II, Atari, and ZX Spectrum classics.\n\nForget blue-and-pink neon. The 1980s were scary. No Internet, it was hard to reach you if you weren't home, and the U.S. was engrossed in the “Satanic Scare” which fueled widespread paranoia about devil-worshiping, witchcraft, and occult practices.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48pe.jpg",
+        "release_date": 1506988800,
+        "rating": 93.70948144404771,
+        "rating_count": 25,
+        "genres": "Adventure|Indie",
+        "platform_ids": "6,130",
+        "external_url": "https://www.igdb.com/games/faith",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 119388,
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "summary": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda: Tears of the Kingdom for Nintendo Switch. The adventure is yours to create in a world fueled by your imagination.\n\nIn this sequel to The Legend of Zelda: Breath of the Wild, you'll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link's new abilities to fight back against the malevolent forces that threaten the kingdom?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vmg.jpg",
+        "release_date": 1683849600,
+        "rating": 93.04803477664657,
+        "rating_count": 798,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "130",
+        "external_url": "https://www.igdb.com/games/the-legend-of-zelda-tears-of-the-kingdom",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 119801,
+        "name": "Figment 2: Creed Valley",
+        "summary": "Figment 2: Creed Valley is an encore to Figment. Dusty and Piper have restored peace in The Mind, however, a new adversary is threatening its balance. Our two heroes must travel to Creed Valley, where The Mind’s beliefs and ideals are formed, to face their most menacing and theatrical foe so far.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3m7p.jpg",
+        "release_date": 1678320000,
+        "rating": 92.98536756989859,
+        "rating_count": 21,
+        "genres": "Music|Puzzle|Adventure|Indie",
+        "platform_ids": "169,48,34,6,39,167,49,130",
+        "external_url": "https://www.igdb.com/games/figment-2-creed-valley",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 7346,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "summary": "The Legend of Zelda: Breath of the Wild is the first 3D open-world game in the Zelda series. Link can travel anywhere and be equipped with weapons and armor found throughout the world to grant him various bonuses. Unlike many games in the series, Breath of the Wild does not impose a specific order in which quests or dungeons must be completed. While the game still has environmental obstacles such as weather effects, inhospitable lands, or powerful enemies, many of them can be overcome using the right method. A lot of critics ranked Breath of the Wild as one of the best video games of all time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.jpg",
+        "release_date": 1488499200,
+        "rating": 92.55218883332103,
+        "rating_count": 2776,
+        "genres": "Puzzle|Adventure",
+        "platform_ids": "41,130",
+        "external_url": "https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 115289,
+        "name": "Hollow Knight: Silksong",
+        "summary": "Hollow Knight: Silksong is the epic sequel to Hollow Knight, the epic action-adventure of bugs and heroes. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobebu.jpg",
+        "release_date": 1756944000,
+        "rating": 92.4853237797587,
+        "rating_count": 372,
+        "genres": "Platform|Adventure|Indie",
+        "platform_ids": "169,48,3,508,6,167,14,49,130",
+        "external_url": "https://www.igdb.com/games/hollow-knight-silksong",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 103340,
+        "name": "Xenoblade Chronicles 2: Torna - The Golden Country",
+        "summary": "Guide a group of legendary warriors on a journey through the tragic history that doomed a kingdom and drove a hero down a dark path 500 years before the events of the Xenoblade Chronicles 2 game. Defend yourself from Malos and his forces using all the fury of this refined battle system, allowing you to fight as both the artificial lifeforms known as Blades and their masters, the Drivers.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8r1.jpg",
+        "release_date": 1536883200,
+        "rating": 92.39073854438679,
+        "rating_count": 32,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "130",
+        "external_url": "https://www.igdb.com/games/xenoblade-chronicles-2-torna-the-golden-country",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 221287,
+        "name": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+        "summary": "A remaster of the original Phoenix Wright: Ace Attorney - Trials and Tribulations, released exclusively as part of the Phoenix Wright: Ace Attorney Trilogy bundle.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8eo.jpg",
+        "release_date": 1369872000,
+        "rating": 92.38535960104784,
+        "rating_count": 20,
+        "genres": "Point-and-click|Puzzle|Simulator|Adventure|Visual Novel",
+        "platform_ids": "48,37,34,6,39,49,130",
+        "external_url": "https://www.igdb.com/games/phoenix-wright-ace-attorney-trials-and-tribulations--1",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 14593,
+        "name": "Hollow Knight",
+        "summary": "A 2D metroidvania with an emphasis on close combat and exploration in which the player enters the once-prosperous now-bleak insect kingdom of Hallownest, travels through its various districts, meets friendly inhabitants, fights hostile ones and uncovers the kingdom's history while improving their combat abilities and movement arsenal by fighting bosses and accessing out-of-the-way areas.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfzp.jpg",
+        "release_date": 1487894400,
+        "rating": 91.9891309781238,
+        "rating_count": 2019,
+        "genres": "Platform|Adventure|Indie",
+        "platform_ids": "169,48,3,508,6,167,14,41,49,130",
+        "external_url": "https://www.igdb.com/games/hollow-knight",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 28337,
+        "name": "13 Sentinels: Aegis Rim",
+        "summary": "Uncover the truth and delve into a 2D sidescrolling adventure featuring gorgeous art and environments. Then, battle the kaiju in fast-paced, top-down combat. Customize the Sentinels with an arsenal of mechsuit weaponry, and fight to defend humanity!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2uls.jpg",
+        "release_date": 1574899200,
+        "rating": 91.91529375620416,
+        "rating_count": 108,
+        "genres": "Simulator|Strategy|Tactical|Adventure",
+        "platform_ids": "48,130",
+        "external_url": "https://www.igdb.com/games/13-sentinels-aegis-rim",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 12503,
+        "name": "The Witcher 3: Wild Hunt - Hearts of Stone",
+        "summary": "The Witcher 3: Wild Hunt – Hearts of Stone is the first major expansion for The Witcher 3: Wild Hunt, released in October 2015. It adds a new storyline set in the existing game world, where Geralt is hired to deal with Olgierd von Everec, a nobleman with a mysterious and cursed past.\n\nThe expansion introduces new characters, quests, enemies, and the Runewords system, which enhances gear with powerful effects. It emphasises narrative depth and moral choices, consistent with the tone of the main game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1t7q.jpg",
+        "release_date": 1444608000,
+        "rating": 91.78140057540537,
+        "rating_count": 538,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/the-witcher-3-wild-hunt-hearts-of-stone",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 176552,
+        "name": "Animal Crossing: New Horizons - Happy Home Paradise",
+        "summary": "Expand your horizons with DLC and help create vacation homes for clients on resort islands. In Animal Crossingm New Horizons - Happy Home Paradiss clients with different dream vacation requests will visit a new resort area located in an archipelago, made up of several different islands, where the Paradise Planning team is located. You can talk to a client and find out the details of their requests for a vacation home, and then make their dreams happen!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob95a.jpg",
+        "release_date": 1636070400,
+        "rating": 91.62930710710845,
+        "rating_count": 33,
+        "genres": "Simulator",
+        "platform_ids": "508,130",
+        "external_url": "https://www.igdb.com/games/animal-crossing-new-horizons-happy-home-paradise",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 135999,
+        "name": "Tetris Effect: Connected",
+        "summary": "Tetris Effect: Connected adds an all-new robust multiplayer expansion to the huge variety of addictive and innovative single-player modes that Tetris Effect is known for. Connect and play with or against each other in all-new modes like \"Zone Battle,\" which shakes up traditional 1-on-1 Tetris gameplay via the time-stopping Zone mechanic, or try the innovative co-op of \"Connected\" mode, where up to three players can literally connect their Tetris playfields together and play as one, as they work together to take down a series of increasingly-challenging CPU-controlled bosses.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kus.jpg",
+        "release_date": 1589414400,
+        "rating": 91.37084283820099,
+        "rating_count": 73,
+        "genres": "Music|Puzzle|Indie|Arcade",
+        "platform_ids": "386,169,390,48,6,167,49,130,384",
+        "external_url": "https://www.igdb.com/games/tetris-effect-connected",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 72,
+        "name": "Portal 2",
+        "summary": "Sequel to the acclaimed Portal (2007), Portal 2 pits the protagonist of the original game, Chell, and her new robot friend, Wheatley, against more puzzles conceived by GLaDOS, an A.I. with the sole purpose of testing the Portal Gun's mechanics and taking revenge on Chell for the events of Portal. As a result of several interactions and revelations, Chell once again pushes to escape Aperture Science Labs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.jpg",
+        "release_date": 1303084800,
+        "rating": 91.27729046039514,
+        "rating_count": 4225,
+        "genres": "Platform|Puzzle|Adventure",
+        "platform_ids": "9,3,6,14,12,130",
+        "external_url": "https://www.igdb.com/games/portal-2",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 165206,
+        "name": "Doom",
+        "summary": "Doom is a sci-fi first-person shooter game developed by id Software and Nerve Software and published by Bethesda Softworks. It is an updated version of the original 1993 Doom that uses the Unity engine as a shell for the id Tech 1 engine.\n\nThis game, as well as Doom II Classic, was initially released in a suite of classic Doom ports for PlayStation 4, Xbox One, Nintendo Switch, iOS, and Android, however, the ports were initially heavily criticized due to its poor quality and inaccuracies compared to the previous console generation ports while implementing an always-online DRM that required the player to sign into a Bethesda.net account (meant to unlock Slayers Club rewards) to play the game, despite these ports not having any online multiplayer features.\n\nAfter the initial criticism of the ports, Nerve Software eventually rectified the issues of the log-in requirements and problems with the ports through patches. A PC version of Doom Classic was released through Bethesda.net on January 9, 2020, which was later re-released through Steam on September 3, 2020 as a free update to existing owners of The Ultimate Doom.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3m5h.jpg",
+        "release_date": 1564099200,
+        "rating": 90.8808125418463,
+        "rating_count": 40,
+        "genres": "Shooter",
+        "platform_ids": "48,34,6,39,49,130",
+        "external_url": "https://www.igdb.com/games/doom--4",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 19874,
+        "name": "Mega Man Legacy Collection",
+        "summary": "Mega Man Legacy Collection is a celebration of the 8-bit history of Capcom's iconic Blue Bomber. Featuring faithful reproductions of the series' origins with the original six Mega Man games, the Legacy Collection will remind long-time fans and introduce newcomers to what made Mega Man such a popular and iconic character. In addition to the six Mega Man games, Mega Man Legacy Collection features new ways to experience the classic games with the Museum Mode and new Challenge Mode. Challenge Mode remixes gameplay segments from all six games, with plenty of scaling difficulty objectives for experienced players to conquer yet serving as a good starting point for new players, too. Museum Mode contains a comprehensive collection of history, high-res art and original concept pieces - a mega treat for any fan of Mega Man and video game history. Features: Six classic games in one - Play a piece of video game history with the original six Mega Man games and experience the origins of the classic series. 8-bit style with HD flair - The games retain their retro 8-bit style with an added HD finish, giving a crisp, clean look to the charming, classic sprites. Challenge remix mode for new and veteran players - The robust new Challenge Mode remixes gameplay from all six games for a new type of challenge. It provides both increasingly difficult trials for experienced players and also teaches newcomers to become familiar with the style of the games and tackle some of the trickier areas. Museum of the era - The Museum Mode features a massive repository of history and art collected from the era of the games in this collection. Take a look back at the history of Mega Man with loads of information, high-res art, concept pieces, sketches and more in the Museum. Developed with an all-new engine - Using the newly developed Eclipse Engine, Capcom and Digital Eclipse are able to archive these six pieces of video game history with faithful reproductions of the originals for a new generation of gamers. Leaderboards and video replays - Fans will be able to watch video replays of the top players on the leaderboards, showcasing a whole new generation of Mega Man talent!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co204v.jpg",
+        "release_date": 1440374400,
+        "rating": 90.73767412645962,
+        "rating_count": 34,
+        "genres": "Shooter|Platform",
+        "platform_ids": "48,37,6,49,130",
+        "external_url": "https://www.igdb.com/games/mega-man-legacy-collection",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 28160,
+        "name": "Atom RPG",
+        "summary": "Atom RPG is a post-apocalyptic indie game, inspired by classic CRPGs: Fallout, Wasteland, System Shock, Deus Ex, Baldur's Gate and many others.\n\nIn 1986 both the Soviet Union and the Western Bloc were destroyed in mutual nuclear bombings. You are one of the survivors of the nuclear Holocaust. Your mission - to explore the wild and wondrous world of the Soviet Wasteland. To earn your place under the sun. And to investigate a shadowy conspiracy, aimed at destroying all that is left of life on Earth.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qvc.jpg",
+        "release_date": 1545177600,
+        "rating": 90.62186921737026,
+        "rating_count": 32,
+        "genres": "Role-playing (RPG)|Strategy|Adventure|Indie",
+        "platform_ids": "48,3,34,6,39,14,49,130",
+        "external_url": "https://www.igdb.com/games/atom-rpg",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 375,
+        "name": "Metal Gear Solid",
+        "summary": "Metal Gear Solid is a stealth game created by Hideo Kojima which follows the MSX2 video games Metal Gear and Metal Gear 2: Solid Snake. Despite a transition to 3D, Metal Gear Solid's gameplay remains similar to his predecessors. The game utilizes a traditional top-down view and the player must navigate the protagonist Solid Snake through the game's areas without being detected. Detection will set off an alarm which draws armed enemies to his location. Conversations with Snake's allies and cutscenes are used extensively to advance the plot and gain more insight into it. Metal Gear Solid is regarded as one of the greatest and most important video games of all time, and helped popularize the stealth genre and in-engine cinematic cutscenes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobj1k.jpg",
+        "release_date": 904780800,
+        "rating": 90.49390353470508,
+        "rating_count": 1627,
+        "genres": "Shooter|Tactical|Adventure",
+        "platform_ids": "169,9,48,6,167,7,38,130",
+        "external_url": "https://www.igdb.com/games/metal-gear-solid",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 103364,
+        "name": "Splatoon 2: Octo Expansion",
+        "summary": "\"This full-on single-player adventure spans 80 missions starring Agent 8, an Octoling who awakens on a dark subway platform. Navigate this mysterious underground test facility in a desperate battle to reach the surface of Inkopolis. Escape from these twisted depths, and you’ll finally be able to join multiplayer matches as an Octoling!\"\n\n\"The new adventure features 80 missions starring Agent 8, a new character who awakens without her memories on a dark subway platform. Navigate the twisted depths in a battle to reach the surface of Inkopolis. Once you escape, you'll be able to join multiplayer matches as an Octoling!\n\n- Play as an Octoling who's lost her memory in a new single-player adventure spanning 80 missions.\n- Navigate an underground facility to reach the surface of Inkopolis.\n- Take on a variety of mission types packed with new challenges you won't find in the main game.\n- Complete the campaign to unlock Octolings (Girl or Boy) as playable characters in multiplayer battles.\n- Unravel mysteries hidden below Inkopolis with Pearl, Marina, & Cap'n Cuttlefish.\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8rb.jpg",
+        "release_date": 1528848000,
+        "rating": 90.35804625773805,
+        "rating_count": 34,
+        "genres": "Shooter|Platform",
+        "platform_ids": "130",
+        "external_url": "https://www.igdb.com/games/splatoon-2-octo-expansion",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 26673,
+        "name": "Omori",
+        "summary": "A turn-based surreal horror RPG in which a child traverses various mundane, quirky, humourous, mysterious and horrific lands with his friends in search of a missing person while confronting his past and his fears. Explore a strange world full of colorful friends and foes. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of others as well.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xlp.jpg",
+        "release_date": 1608854400,
+        "rating": 90.29370850563797,
+        "rating_count": 169,
+        "genres": "Role-playing (RPG)|Adventure|Indie",
+        "platform_ids": "169,48,37,6,14,46,49,130",
+        "external_url": "https://www.igdb.com/games/omori",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 3230,
+        "name": "The Night of the Rabbit",
+        "summary": "Experience a magical adventure. Journey with Jerry to the enchanted realm of Mousewood , master fascinating spells and solve tricky puzzles. Along with a intriguing story you will see breathtaking hand drawn backgrounds and elaborately animated characters. A Unique soundtrack complements Jerry's incredible adventure with fabulously composed music.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrz.jpg",
+        "release_date": 1364515200,
+        "rating": 90.2522642583306,
+        "rating_count": 33,
+        "genres": "Point-and-click|Puzzle|Strategy|Adventure|Indie",
+        "platform_ids": "48,3,6,167,14,130",
+        "external_url": "https://www.igdb.com/games/the-night-of-the-rabbit",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 207026,
+        "name": "Final Fantasy VII",
+        "summary": "The 2012 release of Final Fantasy VII made its way to consoles with new Speed-Up, Battle Enhancement, and No Encounter features. It was later brought to PC.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobn9o.jpg",
+        "release_date": 1449273600,
+        "rating": 90.2392554181563,
+        "rating_count": 32,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "48,6,49,130",
+        "external_url": "https://www.igdb.com/games/final-fantasy-vii--6",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 103337,
+        "name": "Divinity: Original Sin II - Definitive Edition",
+        "summary": "There can only be one God. The Divine is dead. The Void approaches. And the powers lying dormant within you are soon to awaken. The battle for Divinity has begun. Choose wisely and trust sparingly; darkness lurks within every heart. Master deep, tactical combat. Join up to 3 other players - but know that only one of you will have the chance to become a God, in multi-award winning RPG Divinity: Original Sin 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y5o.jpg",
+        "release_date": 1535673600,
+        "rating": 90.18739909392374,
+        "rating_count": 137,
+        "genres": "Role-playing (RPG)|Strategy|Adventure",
+        "platform_ids": "169,48,508,6,39,167,14,49,130",
+        "external_url": "https://www.igdb.com/games/divinity-original-sin-ii-definitive-edition",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 59858,
+        "name": "Lethal League Blaze",
+        "summary": "Banging beats and mad style, Lethal League Blaze is the most intense ball game you can play online with up to 4 players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2toi.jpg",
+        "release_date": 1540339200,
+        "rating": 90.17099335331164,
+        "rating_count": 30,
+        "genres": "Fighting|Sport|Indie|Arcade",
+        "platform_ids": "48,3,6,14,49,130",
+        "external_url": "https://www.igdb.com/games/lethal-league-blaze",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 116,
+        "name": "Star Wars: Knights of the Old Republic",
+        "summary": "Choose Your Path! Set 4,000 years before the Galactic Empire, you are the last hope for the Jedi Order and the Republic - can you master the ways of the Force to become their savior? Or will you fall to the dark side and achieve ultimate power? Hero, villain, peacekeeper, or chaos-bringer... you and your party will determine the fate of the galaxy!\n\nStar Wars: Knights of the Old Republic is a role-playing video game. Players will be able to create their own characters and be able to choose what gender, appearance, class, skills, attributes, and feats they have throughout the game - no two characters will be the same!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmz.jpg",
+        "release_date": 1058227200,
+        "rating": 90.13342283287996,
+        "rating_count": 1401,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "11,34,6,39,14,130",
+        "external_url": "https://www.igdb.com/games/star-wars-knights-of-the-old-republic",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 116794,
+        "name": "Kingdom Come: Deliverance - Royal Edition",
+        "summary": "Kingdom Come: Deliverance is a story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. Explore majestic castles, deep forests, thriving villages and countless other realistic settings in medieval Bohemia!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1m02.jpg",
+        "release_date": 1559001600,
+        "rating": 90.1258949499612,
+        "rating_count": 29,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "48,6,49,130",
+        "external_url": "https://www.igdb.com/games/kingdom-come-deliverance-royal-edition",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 9146,
+        "name": "Guilty Gear XX Accent Core Plus R",
+        "summary": "Ultimate battle action, and the epitome of the GUILTY GEAR XX series now on Steam!\nBonus soundtracks included!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2h0r.jpg",
+        "release_date": 1348099200,
+        "rating": 90.11611404356745,
+        "rating_count": 34,
+        "genres": "Fighting|Arcade",
+        "platform_ids": "52,6,46,130",
+        "external_url": "https://www.igdb.com/games/guilty-gear-xx-accent-core-plus-r",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 26834,
+        "name": "Utawarerumono: Mask of Truth",
+        "summary": "The epic story of Utawarerumono comes to an end in Mask of Truth, as the fate of the world will be determined by warring nations. The game features exciting SRPG battles, a colorful cast of new/familiar faces that will determine the fate of their world, a rousing original soundtrack, and the dramatic conclusion to the journey of Haku. After the events of Mask of Deception, Haku is destined to rally the nation of Ennakamuy to fight against the evil forces that now control the Yamato throne.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w6v.jpg",
+        "release_date": 1474416000,
+        "rating": 90.07076310236017,
+        "rating_count": 27,
+        "genres": "Role-playing (RPG)|Strategy|Turn-based strategy (TBS)|Tactical|Visual Novel",
+        "platform_ids": "9,48,6,46,130",
+        "external_url": "https://www.igdb.com/games/utawarerumono-mask-of-truth",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 146761,
+        "name": "Outer Wilds: Echoes of the Eye",
+        "summary": "The Hearthian space program has detected an anomaly that canʼt be attributed to any known location in the solar system. Grab your flashlight and prepare to illuminate the darkest secrets of the Outer Wilds in its first and only DLC, Outer Wilds: Echoes of the Eye.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wbp.jpg",
+        "release_date": 1632787200,
+        "rating": 90.03053370333885,
+        "rating_count": 79,
+        "genres": "Puzzle|Simulator|Adventure|Indie",
+        "platform_ids": "169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/outer-wilds-echoes-of-the-eye",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 221823,
+        "name": "Assassin's Creed Brotherhood",
+        "summary": "A remaster of Assassin's Creed Brotherhood included with Assassin's Creed: The Ezio Collection.\n\nAll the single-player add-on content (Copernicus Conspiracy, The Da Vinci Disappearance) is included and multiplayer is removed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5j8z.jpg",
+        "release_date": 1479168000,
+        "rating": 90.02170110419931,
+        "rating_count": 41,
+        "genres": "Adventure",
+        "platform_ids": "48,49,130",
+        "external_url": "https://www.igdb.com/games/assassins-creed-brotherhood--1",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 26766,
+        "name": "Xenoblade Chronicles 2",
+        "summary": "The next adventure is on the Nintendo Switch console set on the backs of colossal, living Titans. Discover each Titan's diverse regions, culture, wildlife, equipment, and hidden secrets. Find, bond with, and command weaponized life forms known as Blades to earn abilities and enhance them. Uncover the history of Alrest and the mystery of its endless ocean of clouds.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8r2.jpg",
+        "release_date": 1512086400,
+        "rating": 90.00624054042446,
+        "rating_count": 187,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "130",
+        "external_url": "https://www.igdb.com/games/xenoblade-chronicles-2",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 105420,
+        "name": "Hollow Knight: Godmaster",
+        "summary": "Godmaster was the fourth and final free content pack for Hollow Knight.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hc2.jpg",
+        "release_date": 1534982400,
+        "rating": 89.95282130975343,
+        "rating_count": 29,
+        "genres": "Platform|Hack and slash/Beat 'em up|Adventure|Indie",
+        "platform_ids": "48,3,6,14,49,130",
+        "external_url": "https://www.igdb.com/games/hollow-knight-godmaster",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 170777,
+        "name": "Deltarune: Chapter 2",
+        "summary": "Deltarune: Chapter 2 is the next installment of the sequel to beloved indie darling Undertale...in a different world! This time around, two more classmates join the protagonists in their adventure as they, too, discover a mysterious world hidden behind a door, called the \"Cyber World\".\n\nPlayers with no save data will be able to start right at Chapter 2. “As long as you generally remember what happened story-wise, you’ll be fine,” the developers said in an FAQ.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67ze.jpg",
+        "release_date": 1631836800,
+        "rating": 89.8180174343539,
+        "rating_count": 53,
+        "genres": "Role-playing (RPG)|Turn-based strategy (TBS)|Adventure|Indie",
+        "platform_ids": "48,508,6,167,14,130",
+        "external_url": "https://www.igdb.com/games/deltarune-chapter-2",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 127254,
+        "name": "Pathfinder: Wrath of the Righteous",
+        "summary": "Embark on a journey to a realm overrun by demons in Pathfinder: Wrath of the Righteous, a new epic RPG from the creators of the critically acclaimed Pathfinder: Kingmaker. Explore the nature of good and evil, learn the true cost of power, and rise as a Mythic Hero capable of deeds beyond mortal expectations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uq7.jpg",
+        "release_date": 1630540800,
+        "rating": 89.75636484457839,
+        "rating_count": 40,
+        "genres": "Role-playing (RPG)|Strategy|Tactical|Adventure|Indie",
+        "platform_ids": "48,6,167,14,49,130",
+        "external_url": "https://www.igdb.com/games/pathfinder-wrath-of-the-righteous",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 76244,
+        "name": "The Great Ace Attorney: Adventures",
+        "summary": "The Great Ace Attorney: Adventures is the ninth installment of the Ace Attorney series of text adventure video games.\n\nNew gameplay mechanics introduced to the series include Dance of Deduction, in which Ryunosuke must deduce mistakes and oversights in Herlock's overboard logic and uncover new facts, and Summation Examination, in which players must point out discrepancies among jurors' arguments to make their defendant’s case and ultimately secure a \"Not Guilty\" verdict.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9st.jpg",
+        "release_date": 1436400000,
+        "rating": 89.74889028162002,
+        "rating_count": 32,
+        "genres": "Point-and-click|Puzzle|Adventure|Visual Novel",
+        "platform_ids": "48,37,34,6,39,130",
+        "external_url": "https://www.igdb.com/games/the-great-ace-attorney-adventures--1",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 228525,
+        "name": "Hades II",
+        "summary": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaknx.jpg",
+        "release_date": 1758758400,
+        "rating": 89.70302819204949,
+        "rating_count": 111,
+        "genres": "Role-playing (RPG)|Hack and slash/Beat 'em up|Adventure|Indie",
+        "platform_ids": "508,6,14,130",
+        "external_url": "https://www.igdb.com/games/hades-ii",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 23322,
+        "name": "The Legend of Heroes: Trails from Zero",
+        "summary": "The Legend of Heroes: Trails from Zero is the fourth installment in the main Trails series, serving as a direct sequel to the events of the Liberl arc and the beginning to the Crossbell arc. The game follows Lloyd Bannings and his colleagues Elie MacDowell, Randy Orlando, and Tio Plato. The four form the Special Support Section, a newly formed department of the Crossbell police in a city-state located between two great powers fighting for control over it.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8gm.jpg",
+        "release_date": 1664236800,
+        "rating": 89.58392664108152,
+        "rating_count": 25,
+        "genres": "Role-playing (RPG)|Turn-based strategy (TBS)",
+        "platform_ids": "48,6,130",
+        "external_url": "https://www.igdb.com/games/the-legend-of-heroes-trails-from-zero",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 139446,
+        "name": "Mortal Kombat 11: Ultimate",
+        "summary": "The definitive MK11 experience! Take control of Earthrealm's protectors in the game's TWO critically acclaimed, time-bending Story Campaigns as they race to stop Kronika from rewinding time and rebooting history. Friendships are tested, and new alliances forged, in the battle to save all of existence. MK11 Ultimate features the komplete 37-character roster, including new additions Rain, Mileena & Rambo.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kh5.jpg",
+        "release_date": 1605571200,
+        "rating": 89.54167078003624,
+        "rating_count": 26,
+        "genres": "Fighting",
+        "platform_ids": "170,169,48,6,167,49,130",
+        "external_url": "https://www.igdb.com/games/mortal-kombat-11-ultimate",
+        "cached_at": 1772208578
+      },
+      {
+        "id": 158985,
+        "name": "Final Fantasy VI",
+        "summary": "The original Final Fantasy VI comes to life with completely new graphics and audio! A remodeled 2D take on the sixth game in the world-renowned Final Fantasy series! Enjoy the timeless story told through charming retro graphics.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ple.jpg",
+        "release_date": 1645574400,
+        "rating": 89.53393789822478,
+        "rating_count": 20,
+        "genres": "Role-playing (RPG)|Adventure",
+        "platform_ids": "169,48,34,6,39,130",
+        "external_url": "https://www.igdb.com/games/final-fantasy-vi--2",
+        "cached_at": 1772208578
+      }
+    ]
+  }
+}
