@@ -1,0 +1,914 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Best Anime Movies",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:38:44.279808Z",
+  "description": "Top 50 highest rated anime movies (TMDB)",
+  "items": [
+    {
+      "media_type": "animation",
+      "external_id": 1333100
+    },
+    {
+      "media_type": "animation",
+      "external_id": 129
+    },
+    {
+      "media_type": "animation",
+      "external_id": 372058
+    },
+    {
+      "media_type": "animation",
+      "external_id": 637663
+    },
+    {
+      "media_type": "animation",
+      "external_id": 938567
+    },
+    {
+      "media_type": "animation",
+      "external_id": 12477
+    },
+    {
+      "media_type": "animation",
+      "external_id": 641364
+    },
+    {
+      "media_type": "animation",
+      "external_id": 324857
+    },
+    {
+      "media_type": "animation",
+      "external_id": 4935
+    },
+    {
+      "media_type": "animation",
+      "external_id": 378064
+    },
+    {
+      "media_type": "animation",
+      "external_id": 1218925
+    },
+    {
+      "media_type": "animation",
+      "external_id": 1150394
+    },
+    {
+      "media_type": "animation",
+      "external_id": 569094
+    },
+    {
+      "media_type": "animation",
+      "external_id": 128
+    },
+    {
+      "media_type": "animation",
+      "external_id": 1181107
+    },
+    {
+      "media_type": "animation",
+      "external_id": 620249
+    },
+    {
+      "media_type": "animation",
+      "external_id": 1184918
+    },
+    {
+      "media_type": "animation",
+      "external_id": 210769
+    },
+    {
+      "media_type": "animation",
+      "external_id": 526429
+    },
+    {
+      "media_type": "animation",
+      "external_id": 372754
+    },
+    {
+      "media_type": "animation",
+      "external_id": 10494
+    },
+    {
+      "media_type": "animation",
+      "external_id": 820067
+    },
+    {
+      "media_type": "animation",
+      "external_id": 533514
+    },
+    {
+      "media_type": "animation",
+      "external_id": 72720
+    },
+    {
+      "media_type": "animation",
+      "external_id": 1139087
+    },
+    {
+      "media_type": "animation",
+      "external_id": 652837
+    },
+    {
+      "media_type": "animation",
+      "external_id": 667276
+    },
+    {
+      "media_type": "animation",
+      "external_id": 18491
+    },
+    {
+      "media_type": "animation",
+      "external_id": 92321
+    },
+    {
+      "media_type": "animation",
+      "external_id": 632632
+    },
+    {
+      "media_type": "animation",
+      "external_id": 572154
+    },
+    {
+      "media_type": "animation",
+      "external_id": 8587
+    },
+    {
+      "media_type": "animation",
+      "external_id": 504253
+    },
+    {
+      "media_type": "animation",
+      "external_id": 508965
+    },
+    {
+      "media_type": "animation",
+      "external_id": 110420
+    },
+    {
+      "media_type": "animation",
+      "external_id": 618344
+    },
+    {
+      "media_type": "animation",
+      "external_id": 995133
+    },
+    {
+      "media_type": "animation",
+      "external_id": 315162
+    },
+    {
+      "media_type": "animation",
+      "external_id": 635302
+    },
+    {
+      "media_type": "animation",
+      "external_id": 354912
+    },
+    {
+      "media_type": "animation",
+      "external_id": 283566
+    },
+    {
+      "media_type": "animation",
+      "external_id": 441130
+    },
+    {
+      "media_type": "animation",
+      "external_id": 784500
+    },
+    {
+      "media_type": "animation",
+      "external_id": 245881
+    },
+    {
+      "media_type": "animation",
+      "external_id": 537061
+    },
+    {
+      "media_type": "animation",
+      "external_id": 476292
+    },
+    {
+      "media_type": "animation",
+      "external_id": 399106
+    },
+    {
+      "media_type": "animation",
+      "external_id": 571265
+    },
+    {
+      "media_type": "animation",
+      "external_id": 592350
+    },
+    {
+      "media_type": "animation",
+      "external_id": 297610
+    }
+  ],
+  "media": {
+    "movies": [
+      {
+        "tmdb_id": 1333100,
+        "title": "Attack on Titan: THE LAST ATTACK",
+        "original_title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+        "poster_url": "https://image.tmdb.org/t/p/w342/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
+        "overview": "A colossal-sized omnibus film bringing together the last two episodes of Attack on Titan in the franchise's first-ever theatrical experience. After venturing beyond the walls and separated from his comrades, Eren finds himself inspired by this new truth and plots the \"Rumbling,\" a terrifying plan to eradicate every living thing in the world. With the fate of the world hanging in the balance, a motley crew of Eren's former comrades and enemies scramble to halt his deadly mission. The only question is, can they stop him?",
+        "genres": "[\"16\",\"28\",\"12\",\"18\"]",
+        "release_year": 2024,
+        "rating": 8.8,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/1333100",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 129,
+        "title": "Spirited Away",
+        "original_title": "千と千尋の神隠し",
+        "poster_url": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "genres": "[\"16\",\"10751\",\"14\"]",
+        "release_year": 2001,
+        "rating": 8.534,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/129",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 372058,
+        "title": "Your Name.",
+        "original_title": "君の名は。",
+        "poster_url": "https://image.tmdb.org/t/p/w342/q719jXXEzOoYaps6babgKnONONX.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+        "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+        "genres": "[\"16\",\"10749\",\"18\"]",
+        "release_year": 2016,
+        "rating": 8.479,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/372058",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 637663,
+        "title": "DC Showcase: Death",
+        "original_title": "DC Showcase: Death",
+        "poster_url": "https://image.tmdb.org/t/p/w342/4Ni5u7VMFbw4kIpqx5wKqjlFVwA.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/75qZEe83YLt06ARmRp6KS47huyD.jpg",
+        "overview": "Vincent, an artist with unresolved inner demons, meets a mysterious girl who helps him come to terms with his creative legacy… and eventual death.",
+        "genres": "[\"14\",\"16\",\"18\"]",
+        "release_year": 2019,
+        "rating": 8.457,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/637663",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 938567,
+        "title": "Teasing Master Takagi-san: The Movie",
+        "original_title": "劇場版 からかい上手の高木さん",
+        "poster_url": "https://image.tmdb.org/t/p/w342/di0QJLTVfroK7W1D5V8i9QkFkMk.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/t0voVZuqvQ0VlM2m45rVWZO5R52.jpg",
+        "overview": "Takagi and Nishikata’s final summer in junior high is about to begin, and it’s already off to a heartwarming start! When the pair find an abandoned kitten, they decide to work together and take care of Hana, their adorable new companion until they can locate its missing mother.",
+        "genres": "[\"16\",\"35\",\"10749\"]",
+        "release_year": 2022,
+        "rating": 8.443,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/938567",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 12477,
+        "title": "Grave of the Fireflies",
+        "original_title": "火垂るの墓",
+        "poster_url": "https://image.tmdb.org/t/p/w342/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+        "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+        "genres": "[\"16\",\"18\",\"10752\"]",
+        "release_year": 1988,
+        "rating": 8.444,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/12477",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 641364,
+        "title": "Shooom's Odyssey",
+        "original_title": "L'Odyssée de Choum",
+        "poster_url": "https://image.tmdb.org/t/p/w342/R0cVg1hz5TmGCLbBt5xz74gcqg.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/nKl7OrNqG0wFWWvveKrzHTTKNGf.jpg",
+        "overview": "Shooom, a baby owl, hatches just as a storm turns the bayou surrounding her tree upside down. No sooner has she fallen from her nest, then the little fledgling totters off into the mangrove, pushing a second egg from the brood along with her. Come hell or high water, she’s determined to find a mother… even if that mom turns out to be an alligator or a raccoon!",
+        "genres": "[\"16\",\"10751\"]",
+        "release_year": 2019,
+        "rating": 8.4,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/641364",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 324857,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "original_title": "Spider-Man: Into the Spider-Verse",
+        "poster_url": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+        "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+        "genres": "[\"16\",\"28\",\"12\",\"878\"]",
+        "release_year": 2018,
+        "rating": 8.394,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/324857",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 4935,
+        "title": "Howl's Moving Castle",
+        "original_title": "ハウルの動く城",
+        "poster_url": "https://image.tmdb.org/t/p/w342/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/pjy0T63vIFYvxRSJ3ZtjB4tmWV4.jpg",
+        "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+        "genres": "[\"14\",\"16\",\"12\"]",
+        "release_year": 2004,
+        "rating": 8.387,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/4935",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 378064,
+        "title": "A Silent Voice: The Movie",
+        "original_title": "映画 聲の形",
+        "poster_url": "https://image.tmdb.org/t/p/w342/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+        "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
+        "genres": "[\"16\",\"18\",\"10749\"]",
+        "release_year": 2016,
+        "rating": 8.382,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/378064",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 1218925,
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "original_title": "劇場版 チェンソーマン レゼ篇",
+        "poster_url": "https://image.tmdb.org/t/p/w342/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+        "genres": "[\"16\",\"28\",\"10749\",\"14\"]",
+        "release_year": 2025,
+        "rating": 8.349,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/1218925",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 1150394,
+        "title": "La Leyenda de los Chaneques",
+        "original_title": "La Leyenda de los Chaneques",
+        "poster_url": "https://image.tmdb.org/t/p/w342/4f9ghI3utknpeBZSAzNuIKKATOA.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/jSFbnXR2vDQ0K8v0qYHt5aPCSyl.jpg",
+        "overview": "Five years after giving up his powers and separating from his friends, Leo San Juan has started a new life trying to focus on his family and their bakery, staying away from danger and adventures. However, Leo knows that his plans are rarely fulfilled and this time is no exception: while traveling with Nando to Veracruz, things start to get weird, and from the depths of the Tuxtlas jungle, an ancient curse has returned and only Leo can face it.",
+        "genres": "[\"16\",\"35\",\"10751\",\"27\"]",
+        "release_year": 2023,
+        "rating": 8.339,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/1150394",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 569094,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "original_title": "Spider-Man: Across the Spider-Verse",
+        "poster_url": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+        "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+        "genres": "[\"16\",\"28\",\"12\",\"878\"]",
+        "release_year": 2023,
+        "rating": 8.335,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/569094",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 128,
+        "title": "Princess Mononoke",
+        "original_title": "もののけ姫",
+        "poster_url": "https://image.tmdb.org/t/p/w342/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+        "genres": "[\"12\",\"14\",\"16\"]",
+        "release_year": 1997,
+        "rating": 8.324,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/128",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 1181107,
+        "title": "The King of Kings",
+        "original_title": "The King of Kings",
+        "poster_url": "https://image.tmdb.org/t/p/w342/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/mr2LvZydvor6CDZhrpJLRYMCcBc.jpg",
+        "overview": "Charles Dickens tells his young son Walter the greatest story ever told, and what begins as a bedtime tale becomes a life-changing journey. Through vivid imagination, the boy walks alongside Jesus, witnessing His miracles, facing His trials, and understanding His ultimate sacrifice.",
+        "genres": "[\"16\",\"10751\",\"14\",\"18\",\"12\"]",
+        "release_year": 2025,
+        "rating": 8.318,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/1181107",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 620249,
+        "title": "The Legend of Hei",
+        "original_title": "罗小黑战记",
+        "poster_url": "https://image.tmdb.org/t/p/w342/4jfbKKLpqts3i2h2obkrONcjTg1.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/aVFx1VtlOxR3v0ADEatalXOvwbu.jpg",
+        "overview": "When cat spirit Luo Xiaohei's home is deforested by humans, he must find a new one. He runs into a group of other spirit creatures who take him under their wing with dreams of reconquering the land they say is rightfully theirs. However, they run into a human known as Wuxian who separates Luo Xiaohei from the other spirits and the two go on a journey, with the cat spirit learning to control his abilities as well as forming his own thoughts on whether or not he should ally with the spirits or the humans.",
+        "genres": "[\"16\",\"14\",\"28\"]",
+        "release_year": 2019,
+        "rating": 8.313,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/620249",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 1184918,
+        "title": "The Wild Robot",
+        "original_title": "The Wild Robot",
+        "poster_url": "https://image.tmdb.org/t/p/w342/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genres": "[\"16\",\"878\",\"10751\",\"12\",\"18\"]",
+        "release_year": 2024,
+        "rating": 8.312,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/1184918",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 210769,
+        "title": "Scooby-Doo! Adventures: The Mystery Map",
+        "original_title": "Scooby-Doo! Adventures: The Mystery Map",
+        "poster_url": "https://image.tmdb.org/t/p/w342/pulFY8KAuF6BiySNkVHgAN7cI0H.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/ArP25Ydyg59UmDwzZgxxSXEdC1E.jpg",
+        "overview": "When Shaggy and Scooby find a mysterious pirate's treasure map in their triple-extra-large Scooby snack pizza, the whole Mystery Inc. gang sets out from their treehouse to find the lost booty of Gnarlybeard and the Phantom Parrot, encountering some suspicious individuals along the way who are also involved in the hunt. The tale is told in brand-new way to see the Scooby-Doo series: entirely through puppets!  Pilot for unproduced puppet series based on \"A Pup Named Scooby-Doo\", released direct-to-DVD.",
+        "genres": "[\"10751\",\"35\",\"9648\",\"16\"]",
+        "release_year": 2013,
+        "rating": 8.3,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/210769",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 526429,
+        "title": "Made in Abyss: Wandering Twilight",
+        "original_title": "劇場版総集編【後編】メイドインアビス 放浪する黄昏",
+        "poster_url": "https://image.tmdb.org/t/p/w342/ivEZMkRng0VvDuQUoU8nhtqcfwe.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/p1nXKEZAzGuFNNSVD1WM1uVrk1F.jpg",
+        "overview": "Second compilation movie of the TV series which covers episodes 9-13. Riko and Reg descend to the third and fourth layer where Riko has her first experience of the Curse.",
+        "genres": "[\"16\",\"12\",\"14\",\"9648\",\"878\"]",
+        "release_year": 2019,
+        "rating": 8.307,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/526429",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 372754,
+        "title": "Dou kyu sei – Classmates",
+        "original_title": "同級生",
+        "poster_url": "https://image.tmdb.org/t/p/w342/cIfRCA5wEvj9tApca4UDUagQEiM.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/tLmyP7akYmxLwyfTEt2qyj2sOR3.jpg",
+        "overview": "Rihito Sajo, an honor student with a perfect score on the entrance exam and Hikaru Kusakabe, in a band and popular among girls, would have never crossed paths. Until one day they started talking at the practice for their school’s upcoming chorus festival. After school, the two meet regularly, as Hikaru helps Rihito to improve his singing skills. While they listen to each other’s voice and harmonize, their hearts start to beat together.",
+        "genres": "[\"10749\",\"16\"]",
+        "release_year": 2016,
+        "rating": 8.3,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/372754",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 10494,
+        "title": "Perfect Blue",
+        "original_title": "PERFECT BLUE",
+        "poster_url": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+        "overview": "Rising pop star Mima quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+        "genres": "[\"16\",\"53\"]",
+        "release_year": 1998,
+        "rating": 8.3,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/10494",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 820067,
+        "title": "The Quintessential Quintuplets Movie",
+        "original_title": "映画 五等分の花嫁",
+        "poster_url": "https://image.tmdb.org/t/p/w342/sg7klpt1xwK1IJirBI9EHaqQwJ5.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/gcgKSyE2iqwfKWMDZ8TJPxeIu0P.jpg",
+        "overview": "When five lovely young girls who hate studying hire part-time tutor Futaro, he guides not only their education but also their hearts. Time spent has brought them all closer, with feelings growing within the girls and Futaro. As they finish their third year of high school and their last school festival approaches, they set their sights on what’s next. Is there a future with one of them and Futaro?",
+        "genres": "[\"16\",\"35\",\"10749\"]",
+        "release_year": 2022,
+        "rating": 8.3,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/820067",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 533514,
+        "title": "Violet Evergarden: The Movie",
+        "original_title": "劇場版 ヴァイオレット・エヴァーガーデン",
+        "poster_url": "https://image.tmdb.org/t/p/w342/bajajkoErDst0JxdFyBkABiF9rW.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/wGwSWDG3LIQxchg2M8HV7bDqYKU.jpg",
+        "overview": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
+        "genres": "[\"16\",\"18\",\"14\",\"10749\"]",
+        "release_year": 2020,
+        "rating": 8.292,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/533514",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 72720,
+        "title": "Hot Wheels AcceleRacers: Ignition",
+        "original_title": "Hot Wheels AcceleRacers: Ignition",
+        "poster_url": "https://image.tmdb.org/t/p/w342/i0k5Biew92QcBgrAW3ho8nXzsbI.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/hUvyLAk7IVqrbXxgxYcqvsrRjso.jpg",
+        "overview": "Two rival race teams, the Teku and the Metal Maniacs, are recruited by Dr. Peter Tezla to race in the fantastic Racing Realms and retrieve the all-powerful AcceleChargers before they fall into the hands of the deadly Racing Drones. Our drivers race through the Storm and Swamp Realms.",
+        "genres": "[\"878\",\"10751\",\"16\",\"28\"]",
+        "release_year": 2005,
+        "rating": 8.29,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/72720",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 1139087,
+        "title": "Once Upon a Studio",
+        "original_title": "Once Upon a Studio",
+        "poster_url": "https://image.tmdb.org/t/p/w342/aiy3G1cYWV3LgKZHY6a3jL8bjYL.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/hUeSuUxNyQivx2wrRvGoyZiZDUu.jpg",
+        "overview": "Created for Disney's 100th anniversary, the short features Mickey Mouse corralling a gallery of legendary Disney characters for a group photo.",
+        "genres": "[\"16\",\"10751\",\"14\",\"35\"]",
+        "release_year": 2023,
+        "rating": 8.274,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/1139087",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 652837,
+        "title": "Josee, the Tiger and the Fish",
+        "original_title": "ジョゼと虎と魚たち",
+        "poster_url": "https://image.tmdb.org/t/p/w342/z1D8xi9x4uEhyFruo7uEHXUMD4K.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/521koHpCyK6ZeNpEAvPAuC75cJ5.jpg",
+        "overview": "With dreams of diving abroad, Tsuneo gets a job assisting Josee, an artist whose imagination takes her far beyond her wheelchair. But when the tide turns against them, they push each other to places they never thought possible, and inspire a love fit for a storybook.",
+        "genres": "[\"16\",\"18\",\"10749\"]",
+        "release_year": 2020,
+        "rating": 8.272,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/652837",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 667276,
+        "title": "Las Leyendas: El Origen",
+        "original_title": "Las Leyendas: El Origen",
+        "poster_url": "https://image.tmdb.org/t/p/w342/fR49hZdFJ6ZtRS23JW79VYmZgI7.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/qpemGrOsri13KmvkYIeU8oJ1FQD.jpg",
+        "overview": "When a human baby crosses the Eternal Mirror, the portal between the living and the dead opens its path to the beings from the underworld.",
+        "genres": "[\"16\",\"35\",\"14\",\"12\",\"10751\",\"27\"]",
+        "release_year": 2021,
+        "rating": 8.3,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/667276",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 18491,
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+        "poster_url": "https://image.tmdb.org/t/p/w342/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
+        "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+        "genres": "[\"16\",\"878\",\"18\",\"14\"]",
+        "release_year": 1997,
+        "rating": 8.263,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/18491",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 92321,
+        "title": "Hotarubi no Mori e",
+        "original_title": "蛍火の杜へ",
+        "poster_url": "https://image.tmdb.org/t/p/w342/mDqzHV8UXWWNpZkoAbKmKX1ZxEE.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
+        "overview": "One hot summer day a little girl gets lost in an enchanted forest of the mountain god where spirits reside. A young boy appears before her, but she cannot touch him for fear of making him disappear. And so a wondrous adventure awaits...",
+        "genres": "[\"10749\",\"16\",\"14\"]",
+        "release_year": 2011,
+        "rating": 8.256,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/92321",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 632632,
+        "title": "Given",
+        "original_title": "映画 ギヴン",
+        "poster_url": "https://image.tmdb.org/t/p/w342/pegCub2zdYD5As43AOmGsIctuKc.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/9Xz0bzUFTVgDZd4WZz1cJDQjLkB.jpg",
+        "overview": "Haruki secretly had feelings for Akihiko for years, but Akihiko was still in a relationship with his roommate, the violinist Ugetsu Murata. Haruki, Akihiko, and Ugetsu's love clashes and starts to move forward.",
+        "genres": "[\"16\",\"18\",\"10402\",\"10749\"]",
+        "release_year": 2020,
+        "rating": 8.3,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/632632",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 572154,
+        "title": "Rascal Does Not Dream of a Dreaming Girl",
+        "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない",
+        "poster_url": "https://image.tmdb.org/t/p/w342/AtFnN4OztDJy8IFwYd5JfU0jlEM.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/tyxqfALuq02khuKNCwmeMxrqt8T.jpg",
+        "overview": "In Fujisawa, Sakuta Azusagawa is in his second year of high school. Blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted by the appearance of his first crush, Shoko Makinohara.",
+        "genres": "[\"16\",\"10749\",\"18\",\"14\"]",
+        "release_year": 2019,
+        "rating": 8.3,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/572154",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 8587,
+        "title": "The Lion King",
+        "original_title": "The Lion King",
+        "poster_url": "https://image.tmdb.org/t/p/w342/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/6GF9uJs7AnbcJvyfoZyjZv063Oo.jpg",
+        "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+        "genres": "[\"10751\",\"16\",\"18\",\"12\"]",
+        "release_year": 1994,
+        "rating": 8.252,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/8587",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 504253,
+        "title": "I Want to Eat Your Pancreas",
+        "original_title": "君の膵臓をたべたい",
+        "poster_url": "https://image.tmdb.org/t/p/w342/qDWA7fB4cZ4sBP6YgwlxvraDHi7.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
+        "overview": "After his classmate and crush is diagnosed with a pancreatic disease, an average high schooler sets out to make the most of her final days.",
+        "genres": "[\"16\",\"18\",\"10749\"]",
+        "release_year": 2018,
+        "rating": 8.23,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/504253",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 508965,
+        "title": "Klaus",
+        "original_title": "Klaus",
+        "poster_url": "https://image.tmdb.org/t/p/w342/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
+        "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
+        "genres": "[\"16\",\"10751\",\"12\",\"35\",\"14\"]",
+        "release_year": 2019,
+        "rating": 8.224,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/508965",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 110420,
+        "title": "Wolf Children",
+        "original_title": "おおかみこどもの雨と雪",
+        "poster_url": "https://image.tmdb.org/t/p/w342/3Nllh6JgcrFdtOn6iFOWHudNInd.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/oMqgJMCaNIqeJtilc71D4nRqdmt.jpg",
+        "overview": "After her werewolf lover unexpectedly dies in an accident, a woman must find a way to raise the son and daughter that she had with him. However, their inheritance of their father's traits prove to be a challenge for her.",
+        "genres": "[\"16\",\"10751\",\"18\",\"14\"]",
+        "release_year": 2012,
+        "rating": 8.218,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/110420",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 618344,
+        "title": "Justice League Dark: Apokolips War",
+        "original_title": "Justice League Dark: Apokolips War",
+        "poster_url": "https://image.tmdb.org/t/p/w342/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/miChhr7EXynB2R5JLvMcz2oBgi2.jpg",
+        "overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
+        "genres": "[\"16\",\"28\",\"12\",\"14\"]",
+        "release_year": 2020,
+        "rating": 8.209,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/618344",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 995133,
+        "title": "The Boy, the Mole, the Fox and the Horse",
+        "original_title": "The Boy, the Mole, the Fox and the Horse",
+        "poster_url": "https://image.tmdb.org/t/p/w342/wAKBWRhMmBtrCCuqmFwPm2RGTph.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/wO0MIGcA7w7tBI9Ey80Q4Z7qnPm.jpg",
+        "overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.",
+        "genres": "[\"16\",\"10751\",\"12\",\"14\"]",
+        "release_year": 2022,
+        "rating": 8.207,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/995133",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 315162,
+        "title": "Puss in Boots: The Last Wish",
+        "original_title": "Puss in Boots: The Last Wish",
+        "poster_url": "https://image.tmdb.org/t/p/w342/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+        "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+        "genres": "[\"16\",\"12\",\"14\",\"35\",\"10751\"]",
+        "release_year": 2022,
+        "rating": 8.205,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/315162",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 635302,
+        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "original_title": "劇場版「鬼滅の刃」無限列車編",
+        "poster_url": "https://image.tmdb.org/t/p/w342/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+        "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+        "genres": "[\"16\",\"28\",\"14\"]",
+        "release_year": 2020,
+        "rating": 8.203,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/635302",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 354912,
+        "title": "Coco",
+        "original_title": "Coco",
+        "poster_url": "https://image.tmdb.org/t/p/w342/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+        "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+        "genres": "[\"10751\",\"16\",\"10402\",\"12\"]",
+        "release_year": 2017,
+        "rating": 8.199,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/354912",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 283566,
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "original_title": "シン・エヴァンゲリオン劇場版:||",
+        "poster_url": "https://image.tmdb.org/t/p/w342/md5wZRRj8biHrGtyitgBZo7674t.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+        "overview": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each lives a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.",
+        "genres": "[\"16\",\"28\",\"878\",\"18\"]",
+        "release_year": 2021,
+        "rating": 8.197,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/283566",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 441130,
+        "title": "Wolfwalkers",
+        "original_title": "Wolfwalkers",
+        "poster_url": "https://image.tmdb.org/t/p/w342/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/3zTbERSBLh7waK9811RTKGAcG86.jpg",
+        "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
+        "genres": "[\"16\",\"10751\",\"12\",\"14\"]",
+        "release_year": 2020,
+        "rating": 8.195,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/441130",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 784500,
+        "title": "Pretty Guardian Sailor Moon Eternal the Movie Part 2",
+        "original_title": "劇場版 美少女戦士セーラームーンEternal 後編",
+        "poster_url": "https://image.tmdb.org/t/p/w342/f91rtk8dODezNLT3grQrELyzFwA.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/fy51VW2GYTfvGJfBLkCNobE3HeL.jpg",
+        "overview": "While under the care of the Outer Sailor Guardians, Hotaru begins to age rapidly. Then, the time comes for all the Sailor Guardians to reunite!",
+        "genres": "[\"16\",\"28\",\"14\",\"18\"]",
+        "release_year": 2021,
+        "rating": 8.2,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/784500",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 245881,
+        "title": "Scooby-Doo! Haunted Holidays",
+        "original_title": "Scooby-Doo! Haunted Holidays",
+        "poster_url": "https://image.tmdb.org/t/p/w342/jCnHwIKptAzm2V5Ho9qko3VpMvL.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/AqhARqCkWCjf22JrmybJZu3GsRQ.jpg",
+        "overview": "Scooby-Doo and the gang participate in a toy store's holiday parade where they discover the abandoned haunted clock tower with a troubled past. A sinister snowman haunts the streets and accompanied with a large blizzard, threatens to close down the toy store for good.",
+        "genres": "[\"9648\",\"16\",\"12\",\"35\",\"10751\"]",
+        "release_year": 2012,
+        "rating": 8.171,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/245881",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 537061,
+        "title": "Steven Universe: The Movie",
+        "original_title": "Steven Universe: The Movie",
+        "poster_url": "https://image.tmdb.org/t/p/w342/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/re3ZvlKJg04iLpLRf1xTKHS2wLU.jpg",
+        "overview": "Two years after bringing peace to the galaxy, Steven Universe sees his past come back to haunt him in the form of a deranged Gem who wants to destroy the Earth.",
+        "genres": "[\"10770\",\"12\",\"16\",\"14\",\"10402\",\"878\",\"28\",\"18\"]",
+        "release_year": 2019,
+        "rating": 8.169,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/537061",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 476292,
+        "title": "Maquia: When the Promised Flower Blooms",
+        "original_title": "さよならの朝に約束の花をかざろう",
+        "poster_url": "https://image.tmdb.org/t/p/w342/hL3NqRE2ccR4Y2sYSJTrmalRjrz.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/5nkKy7eEDsXqsxFLJy3GxZhE90J.jpg",
+        "overview": "Fleeing the war, the immortal Machia, graced with eternal youth, finds a baby abandoned in the forest and decides to raise it as her own child, sparking a moving story between a mortal and a being who does not age.",
+        "genres": "[\"16\",\"14\",\"18\",\"12\"]",
+        "release_year": 2018,
+        "rating": 8.2,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/476292",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 399106,
+        "title": "Piper",
+        "original_title": "Piper",
+        "poster_url": "https://image.tmdb.org/t/p/w342/5fu2d809jepLwEpES7wggiECLoQ.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/4GWYk5VP9qu1rNSeNAwNaBy9mwS.jpg",
+        "overview": "A mother bird tries to teach her little one how to find food by herself. In the process, she encounters a traumatic experience that she must overcome in order to survive.",
+        "genres": "[\"10751\",\"16\"]",
+        "release_year": 2016,
+        "rating": 8.151,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/399106",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 571265,
+        "title": "Digimon Adventure: Last Evolution Kizuna",
+        "original_title": "デジモンアドベンチャー LAST EVOLUTION 絆",
+        "poster_url": "https://image.tmdb.org/t/p/w342/22oG48YszCraRJigJw5F6qFs4sR.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/pQdZmXq0vvKP1RYUrDHQkzMlS4x.jpg",
+        "overview": "Tai is now a university student, living alone, working hard at school, and working every day, but with his future still undecided. Meanwhile, Matt and others continue to work on Digimon incidents and activities that help people with their partner Digimon. When an unprecedented phenomenon occurs, the DigiDestined discover that when they grow up, their relationship with their partner Digimon will come closer to an end.",
+        "genres": "[\"16\",\"28\",\"12\",\"14\"]",
+        "release_year": 2020,
+        "rating": 8.1,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/571265",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 592350,
+        "title": "My Hero Academia: Heroes Rising",
+        "original_title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+        "poster_url": "https://image.tmdb.org/t/p/w342/kpWsIkfXrnQ1pmR79qAHHq7DPxc.jpg",
+        "backdrop_url": "https://image.tmdb.org/t/p/w780/9guoVF7zayiiUq5ulKQpt375VIy.jpg",
+        "overview": "Class 1-A visits Nabu Island where they finally get to do some real hero work. The place is so peaceful that it's more like a vacation... until they're attacked by a villain with an unfathomable Quirk! His power is eerily familiar, and it looks like Shigaraki had a hand in the plan. But with All Might retired and citizens' lives on the line, there's no time for questions. Deku and his friends are the next generation of heroes, and they're the island's only hope.",
+        "genres": "[\"16\",\"28\",\"14\",\"12\"]",
+        "release_year": 2019,
+        "rating": 8.137,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/592350",
+        "cached_at": 1772210321
+      },
+      {
+        "tmdb_id": 297610,
+        "title": "Abraham Lincoln Vampire Hunter: The Great Calamity",
+        "original_title": "Abraham Lincoln Vampire Hunter: The Great Calamity",
+        "poster_url": "https://image.tmdb.org/t/p/w342/9kD8bohNKE1truudhmeOtOjfNeH.jpg",
+        "backdrop_url": null,
+        "overview": "A motion comic follow-up to a chapter from Abraham Lincoln Vampire Hunter novel where Abe's friend, Edgar Allan Poe, tells him the tale of historical Hungarian countess Elizabeth Bathory, often tied to vampire legends due to her brutality.",
+        "genres": "[\"27\",\"16\",\"14\"]",
+        "release_year": 2012,
+        "rating": 8.1,
+        "runtime": null,
+        "external_url": "https://www.themoviedb.org/movie/297610",
+        "cached_at": 1772210321
+      }
+    ]
+  }
+}
