@@ -120,13 +120,26 @@ Top rated collections from [TMDB](https://www.themoviedb.org/) — 50 titles eac
 - **Import/Export** — share collections as `.xcollx` files
 - **Rich metadata** — covers, descriptions, ratings, genres from IGDB & TMDB
 
+### Browse your collections
+
+Import any library and instantly get a visual grid of every game with covers, titles, and progress tracking.
+
+<img src="list_collection.png" alt="Tonkatsu Box — imported collections overview">
+
+### Search across all data
+
+Find any game across all imported collections — filter by platform, sort by rating, and jump straight to the title you need.
+
+<img src="search_coll.png" alt="Tonkatsu Box — cross-collection search">
+
 ## How to Import Collections
 
+<img src="how_import_collection.gif" alt="How to import a collection into Tonkatsu Box — step by step">
+
 1. Download any `.xcollx` file from the tables above
-2. Open **Tonkatsu Box**
-3. Go to **Collections** tab -> **Import**
-4. Select the downloaded file
-5. Done — your collection is ready with covers and metadata
+2. Open **Tonkatsu Box** and go to **Collections** tab
+3. Click **Import** and select the downloaded file
+4. Done — your collection is ready with covers and metadata
 
 ## File Format
 
