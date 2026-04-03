@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-04-03T14:55:19.868845+00:00",
+  "generated": "2026-04-03T15:12:41.637585+00:00",
   "totalCollections": 45,
   "totalItems": 26752,
   "platforms": [
@@ -354,7 +354,7 @@
   "collections": [
     {
       "id": "3do-complete",
-      "name": "3DO Games",
+      "name": "Collection 3DO Games",
       "description": "Complete 3DO game library — 339 games with covers from IGDB",
       "mediaType": "game",
       "platform": "3do",
@@ -362,14 +362,14 @@
       "category": "complete",
       "itemsCount": 339,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/3do/complete.xcoll",
+      "format": "full",
+      "file": "platforms/3do/complete.xcollx",
       "created": "2026-03-03T08:52:37.493439Z",
-      "size": 31746
+      "size": 2037157
     },
     {
       "id": "atari-2600-complete",
-      "name": "Atari 2600 Games",
+      "name": "Collection Atari 2600 Games",
       "description": "Complete Atari 2600 game library — 828 games with covers from IGDB",
       "mediaType": "game",
       "platform": "atari-2600",
@@ -377,14 +377,14 @@
       "category": "complete",
       "itemsCount": 828,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/atari-2600/complete.xcoll",
+      "format": "full",
+      "file": "platforms/atari-2600/complete.xcollx",
       "created": "2026-03-03T08:53:03.340051Z",
-      "size": 77476
+      "size": 5152660
     },
     {
       "id": "atari-7800-complete",
-      "name": "Atari 7800 Games",
+      "name": "Collection Atari 7800 Games",
       "description": "Complete Atari 7800 game library — 98 games with covers from IGDB",
       "mediaType": "game",
       "platform": "atari-7800",
@@ -392,14 +392,14 @@
       "category": "complete",
       "itemsCount": 98,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/atari-7800/complete.xcoll",
+      "format": "full",
+      "file": "platforms/atari-7800/complete.xcollx",
       "created": "2026-03-03T09:23:25.960080Z",
-      "size": 9400
+      "size": 598934
     },
     {
       "id": "atari-jaguar-complete",
-      "name": "Atari Jaguar Games",
+      "name": "Collection Atari Jaguar Games",
       "description": "Complete Atari Jaguar game library — 108 games with covers from IGDB",
       "mediaType": "game",
       "platform": "atari-jaguar",
@@ -407,14 +407,14 @@
       "category": "complete",
       "itemsCount": 108,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/atari-jaguar/complete.xcoll",
+      "format": "full",
+      "file": "platforms/atari-jaguar/complete.xcollx",
       "created": "2026-03-03T09:23:27.416546Z",
-      "size": 10310
+      "size": 684214
     },
     {
       "id": "dreamcast-complete",
-      "name": "Dreamcast Games",
+      "name": "Collection Dreamcast Games",
       "description": "Complete Dreamcast game library — 718 games with covers from IGDB",
       "mediaType": "game",
       "platform": "dreamcast",
@@ -422,14 +422,14 @@
       "category": "complete",
       "itemsCount": 718,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/dreamcast/complete.xcoll",
+      "format": "full",
+      "file": "platforms/dreamcast/complete.xcollx",
       "created": "2026-03-03T08:52:46.786805Z",
-      "size": 67036
+      "size": 4582183
     },
     {
       "id": "game-gear-complete",
-      "name": "Game Gear Games",
+      "name": "Collection Game Gear Games",
       "description": "Complete Game Gear game library — 432 games with covers from IGDB",
       "mediaType": "game",
       "platform": "game-gear",
@@ -437,14 +437,14 @@
       "category": "complete",
       "itemsCount": 432,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/game-gear/complete.xcoll",
+      "format": "full",
+      "file": "platforms/game-gear/complete.xcollx",
       "created": "2026-03-03T08:52:33.563964Z",
-      "size": 40576
+      "size": 2716478
     },
     {
       "id": "gamecube-complete",
-      "name": "GameCube Games",
+      "name": "Collection GameCube Games",
       "description": "Complete GameCube game library — 925 games with covers from IGDB",
       "mediaType": "game",
       "platform": "gamecube",
@@ -452,10 +452,10 @@
       "category": "complete",
       "itemsCount": 925,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/gamecube/complete.xcoll",
+      "format": "full",
+      "file": "platforms/gamecube/complete.xcollx",
       "created": "2026-03-03T09:24:15.023867Z",
-      "size": 85922
+      "size": 5944493
     },
     {
       "id": "gamecube-top",
@@ -464,17 +464,17 @@
       "mediaType": "game",
       "platform": "gamecube",
       "platformName": "GameCube",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/gamecube/top.xcoll",
+      "format": "full",
+      "file": "platforms/gamecube/top.xcollx",
       "created": "2026-02-27T16:09:26.866126Z",
-      "size": 4826
+      "size": 1551589
     },
     {
       "id": "gb-complete",
-      "name": "Game Boy Games",
+      "name": "Collection Game Boy Games",
       "description": "Complete Game Boy game library — 1469 games with covers from IGDB",
       "mediaType": "game",
       "platform": "gb",
@@ -482,10 +482,10 @@
       "category": "complete",
       "itemsCount": 1469,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/gb/complete.xcoll",
+      "format": "full",
+      "file": "platforms/gb/complete.xcollx",
       "created": "2026-03-03T08:21:22.047067Z",
-      "size": 137657
+      "size": 8713944
     },
     {
       "id": "gb-top",
@@ -494,17 +494,17 @@
       "mediaType": "game",
       "platform": "gb",
       "platformName": "GB",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/gb/top.xcoll",
+      "format": "full",
+      "file": "platforms/gb/top.xcollx",
       "created": "2026-02-27T16:09:19.877623Z",
-      "size": 4843
+      "size": 1758736
     },
     {
       "id": "gba-complete",
-      "name": "Game Boy Advance Games",
+      "name": "Collection Game Boy Advance Games",
       "description": "Complete Game Boy Advance game library — 2291 games with covers from IGDB",
       "mediaType": "game",
       "platform": "gba",
@@ -512,10 +512,10 @@
       "category": "complete",
       "itemsCount": 2291,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/gba/complete.xcoll",
+      "format": "full",
+      "file": "platforms/gba/complete.xcollx",
       "created": "2026-03-03T08:53:58.968025Z",
-      "size": 214015
+      "size": 13081137
     },
     {
       "id": "gba-top",
@@ -524,17 +524,17 @@
       "mediaType": "game",
       "platform": "gba",
       "platformName": "GBA",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/gba/top.xcoll",
+      "format": "full",
+      "file": "platforms/gba/top.xcollx",
       "created": "2026-02-27T16:09:21.638100Z",
-      "size": 4836
+      "size": 1658728
     },
     {
       "id": "gbc-complete",
-      "name": "Game Boy Color Games",
+      "name": "Collection Game Boy Color Games",
       "description": "Complete Game Boy Color game library — 1408 games with covers from IGDB",
       "mediaType": "game",
       "platform": "gbc",
@@ -542,14 +542,14 @@
       "category": "complete",
       "itemsCount": 1408,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/gbc/complete.xcoll",
+      "format": "full",
+      "file": "platforms/gbc/complete.xcollx",
       "created": "2026-03-03T08:53:25.315546Z",
-      "size": 131984
+      "size": 8859907
     },
     {
       "id": "genesis-complete",
-      "name": "Sega Genesis Games",
+      "name": "Collection Sega Genesis Games",
       "description": "Complete Sega Genesis game library — 1643 games with covers from IGDB",
       "mediaType": "game",
       "platform": "genesis",
@@ -557,10 +557,10 @@
       "category": "complete",
       "itemsCount": 1643,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/genesis/complete.xcoll",
+      "format": "full",
+      "file": "platforms/genesis/complete.xcollx",
       "created": "2026-03-03T08:21:32.289826Z",
-      "size": 153344
+      "size": 10042726
     },
     {
       "id": "genesis-top",
@@ -572,14 +572,14 @@
       "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/genesis/top.xcoll",
+      "format": "full",
+      "file": "platforms/genesis/top.xcollx",
       "created": "2026-02-27T16:09:15.701713Z",
-      "size": 4848
+      "size": 1703851
     },
     {
       "id": "master-system-complete",
-      "name": "Master System Games",
+      "name": "Collection Master System Games",
       "description": "Complete Master System game library — 574 games with covers from IGDB",
       "mediaType": "game",
       "platform": "master-system",
@@ -587,14 +587,14 @@
       "category": "complete",
       "itemsCount": 574,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/master-system/complete.xcoll",
+      "format": "full",
+      "file": "platforms/master-system/complete.xcollx",
       "created": "2026-03-03T08:52:40.338835Z",
-      "size": 53877
+      "size": 3294740
     },
     {
       "id": "n64-complete",
-      "name": "Nintendo 64 Games",
+      "name": "Collection Nintendo 64 Games",
       "description": "Complete Nintendo 64 game library — 1262 games with covers from IGDB",
       "mediaType": "game",
       "platform": "n64",
@@ -602,10 +602,10 @@
       "category": "complete",
       "itemsCount": 1262,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/n64/complete.xcoll",
+      "format": "full",
+      "file": "platforms/n64/complete.xcollx",
       "created": "2026-03-03T08:22:49.863206Z",
-      "size": 116909
+      "size": 5984146
     },
     {
       "id": "n64-top",
@@ -614,17 +614,17 @@
       "mediaType": "game",
       "platform": "n64",
       "platformName": "N64",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/n64/top.xcoll",
+      "format": "full",
+      "file": "platforms/n64/top.xcollx",
       "created": "2026-02-27T16:09:17.724405Z",
-      "size": 4769
+      "size": 1483067
     },
     {
       "id": "neo-geo-complete",
-      "name": "Neo Geo AES Games",
+      "name": "Collection Neo Geo AES Games",
       "description": "Complete Neo Geo AES game library — 168 games with covers from IGDB",
       "mediaType": "game",
       "platform": "neo-geo",
@@ -632,14 +632,14 @@
       "category": "complete",
       "itemsCount": 168,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/neo-geo/complete.xcoll",
+      "format": "full",
+      "file": "platforms/neo-geo/complete.xcollx",
       "created": "2026-03-03T09:23:35.669456Z",
-      "size": 15858
+      "size": 1206413
     },
     {
       "id": "nes-complete",
-      "name": "NES Games",
+      "name": "Collection NES Games",
       "description": "Complete NES game library — 1655 games with covers from IGDB",
       "mediaType": "game",
       "platform": "nes",
@@ -647,10 +647,10 @@
       "category": "complete",
       "itemsCount": 1655,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/nes/complete.xcoll",
+      "format": "full",
+      "file": "platforms/nes/complete.xcollx",
       "created": "2026-03-03T08:19:49.416262Z",
-      "size": 154820
+      "size": 9852659
     },
     {
       "id": "nes-top",
@@ -662,10 +662,10 @@
       "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/nes/top.xcoll",
+      "format": "full",
+      "file": "platforms/nes/top.xcollx",
       "created": "2026-02-27T16:09:13.377700Z",
-      "size": 4845
+      "size": 1652665
     },
     {
       "id": "pc-top",
@@ -674,17 +674,17 @@
       "mediaType": "game",
       "platform": "pc",
       "platformName": "PC",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/pc/top.xcoll",
+      "format": "full",
+      "file": "platforms/pc/top.xcollx",
       "created": "2026-02-27T16:09:33.919955Z",
-      "size": 4845
+      "size": 1540680
     },
     {
       "id": "ps1-complete",
-      "name": "PlayStation Games",
+      "name": "Collection PlayStation Games",
       "description": "Complete PlayStation game library — 3789 games with covers from IGDB",
       "mediaType": "game",
       "platform": "ps1",
@@ -692,10 +692,10 @@
       "category": "complete",
       "itemsCount": 3789,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/ps1/complete.xcoll",
+      "format": "full",
+      "file": "platforms/ps1/complete.xcollx",
       "created": "2026-03-03T08:27:21.456088Z",
-      "size": 349552
+      "size": 23091188
     },
     {
       "id": "ps1-top",
@@ -704,13 +704,13 @@
       "mediaType": "game",
       "platform": "ps1",
       "platformName": "PS1",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/ps1/top.xcoll",
+      "format": "full",
+      "file": "platforms/ps1/top.xcollx",
       "created": "2026-02-27T16:09:11.229179Z",
-      "size": 4768
+      "size": 1471990
     },
     {
       "id": "ps2-top",
@@ -719,13 +719,13 @@
       "mediaType": "game",
       "platform": "ps2",
       "platformName": "PS2",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/ps2/top.xcoll",
+      "format": "full",
+      "file": "platforms/ps2/top.xcollx",
       "created": "2026-02-27T16:09:23.236547Z",
-      "size": 4770
+      "size": 1615251
     },
     {
       "id": "ps3-top",
@@ -734,13 +734,13 @@
       "mediaType": "game",
       "platform": "ps3",
       "platformName": "PS3",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/ps3/top.xcoll",
+      "format": "full",
+      "file": "platforms/ps3/top.xcollx",
       "created": "2026-02-27T16:09:32.428280Z",
-      "size": 4794
+      "size": 1592552
     },
     {
       "id": "ps4-top",
@@ -749,13 +749,13 @@
       "mediaType": "game",
       "platform": "ps4",
       "platformName": "PS4",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/ps4/top.xcoll",
+      "format": "full",
+      "file": "platforms/ps4/top.xcollx",
       "created": "2026-02-27T16:09:35.350489Z",
-      "size": 4890
+      "size": 1489748
     },
     {
       "id": "ps5-top",
@@ -764,17 +764,17 @@
       "mediaType": "game",
       "platform": "ps5",
       "platformName": "PS5",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/ps5/top.xcoll",
+      "format": "full",
+      "file": "platforms/ps5/top.xcollx",
       "created": "2026-02-27T16:09:40.580699Z",
-      "size": 4964
+      "size": 1498159
     },
     {
       "id": "psp-complete",
-      "name": "PSP Games",
+      "name": "Collection PSP Games",
       "description": "Complete PSP game library — 3008 games with covers from IGDB",
       "mediaType": "game",
       "platform": "psp",
@@ -782,14 +782,14 @@
       "category": "complete",
       "itemsCount": 3008,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/psp/complete.xcoll",
+      "format": "full",
+      "file": "platforms/psp/complete.xcollx",
       "created": "2026-03-03T09:26:02.179823Z",
-      "size": 280472
+      "size": 19754698
     },
     {
       "id": "saturn-complete",
-      "name": "Sega Saturn Games",
+      "name": "Collection Sega Saturn Games",
       "description": "Complete Sega Saturn game library — 1053 games with covers from IGDB",
       "mediaType": "game",
       "platform": "saturn",
@@ -797,14 +797,14 @@
       "category": "complete",
       "itemsCount": 1053,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/saturn/complete.xcoll",
+      "format": "full",
+      "file": "platforms/saturn/complete.xcollx",
       "created": "2026-03-03T08:52:52.170551Z",
-      "size": 98344
+      "size": 6645754
     },
     {
       "id": "sega-32x-complete",
-      "name": "Sega 32X Games",
+      "name": "Collection Sega 32X Games",
       "description": "Complete Sega 32X game library — 60 games with covers from IGDB",
       "mediaType": "game",
       "platform": "sega-32x",
@@ -812,14 +812,14 @@
       "category": "complete",
       "itemsCount": 60,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/sega-32x/complete.xcoll",
+      "format": "full",
+      "file": "platforms/sega-32x/complete.xcollx",
       "created": "2026-03-03T09:23:21.607101Z",
-      "size": 5832
+      "size": 357845
     },
     {
       "id": "sega-cd-complete",
-      "name": "Sega CD Games",
+      "name": "Collection Sega CD Games",
       "description": "Complete Sega CD game library — 252 games with covers from IGDB",
       "mediaType": "game",
       "platform": "sega-cd",
@@ -827,14 +827,14 @@
       "category": "complete",
       "itemsCount": 252,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/sega-cd/complete.xcoll",
+      "format": "full",
+      "file": "platforms/sega-cd/complete.xcollx",
       "created": "2026-03-03T09:23:36.309675Z",
-      "size": 23613
+      "size": 1591763
     },
     {
       "id": "snes-complete",
-      "name": "SNES Games",
+      "name": "Collection SNES Games",
       "description": "Complete SNES game library — 1973 games with covers from IGDB",
       "mediaType": "game",
       "platform": "snes",
@@ -842,10 +842,10 @@
       "category": "complete",
       "itemsCount": 1973,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/snes/complete.xcoll",
+      "format": "full",
+      "file": "platforms/snes/complete.xcollx",
       "created": "2026-03-03T08:23:17.399771Z",
-      "size": 184556
+      "size": 10950791
     },
     {
       "id": "snes-top",
@@ -854,13 +854,13 @@
       "mediaType": "game",
       "platform": "snes",
       "platformName": "SNES",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/snes/top.xcoll",
+      "format": "full",
+      "file": "platforms/snes/top.xcollx",
       "created": "2026-02-27T16:09:09.329881Z",
-      "size": 4838
+      "size": 1606995
     },
     {
       "id": "switch-top",
@@ -869,17 +869,17 @@
       "mediaType": "game",
       "platform": "switch",
       "platformName": "Switch",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/switch/top.xcoll",
+      "format": "full",
+      "file": "platforms/switch/top.xcollx",
       "created": "2026-02-27T16:09:39.139943Z",
-      "size": 4959
+      "size": 1645182
     },
     {
       "id": "turbografx-complete",
-      "name": "TurboGrafx-16 Games",
+      "name": "Collection TurboGrafx-16 Games",
       "description": "Complete TurboGrafx-16 game library — 420 games with covers from IGDB",
       "mediaType": "game",
       "platform": "turbografx",
@@ -887,10 +887,10 @@
       "category": "complete",
       "itemsCount": 420,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/turbografx/complete.xcoll",
+      "format": "full",
+      "file": "platforms/turbografx/complete.xcollx",
       "created": "2026-03-03T08:52:37.128317Z",
-      "size": 39338
+      "size": 2638270
     },
     {
       "id": "wii-top",
@@ -899,17 +899,17 @@
       "mediaType": "game",
       "platform": "wii",
       "platformName": "Wii",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/wii/top.xcoll",
+      "format": "full",
+      "file": "platforms/wii/top.xcollx",
       "created": "2026-02-27T16:09:30.365642Z",
-      "size": 4792
+      "size": 1644037
     },
     {
       "id": "xbox-complete",
-      "name": "Xbox Games",
+      "name": "Collection Xbox Games",
       "description": "Complete Xbox game library — 1180 games with covers from IGDB",
       "mediaType": "game",
       "platform": "xbox",
@@ -917,10 +917,10 @@
       "category": "complete",
       "itemsCount": 1180,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/xbox/complete.xcoll",
+      "format": "full",
+      "file": "platforms/xbox/complete.xcollx",
       "created": "2026-03-03T09:24:28.083638Z",
-      "size": 109244
+      "size": 7881401
     },
     {
       "id": "xbox-top",
@@ -929,13 +929,13 @@
       "mediaType": "game",
       "platform": "xbox",
       "platformName": "Xbox",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/xbox/top.xcoll",
+      "format": "full",
+      "file": "platforms/xbox/top.xcollx",
       "created": "2026-02-27T16:09:24.772388Z",
-      "size": 4799
+      "size": 1547390
     },
     {
       "id": "xbox-360-top",
@@ -944,13 +944,13 @@
       "mediaType": "game",
       "platform": "xbox-360",
       "platformName": "Xbox 360",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/xbox-360/top.xcoll",
+      "format": "full",
+      "file": "platforms/xbox-360/top.xcollx",
       "created": "2026-02-27T16:09:28.802822Z",
-      "size": 4838
+      "size": 1460062
     },
     {
       "id": "xbox-one-top",
@@ -959,13 +959,13 @@
       "mediaType": "game",
       "platform": "xbox-one",
       "platformName": "Xbox One",
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "platforms/xbox-one/top.xcoll",
+      "format": "full",
+      "file": "platforms/xbox-one/top.xcollx",
       "created": "2026-02-27T16:09:37.015054Z",
-      "size": 4902
+      "size": 1507726
     },
     {
       "id": "anime-best-anime-movies",
@@ -977,10 +977,10 @@
       "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "media/anime/best-anime-movies.xcoll",
+      "format": "full",
+      "file": "media/anime/best-anime-movies.xcollx",
       "created": "2026-02-27T16:38:44.248165Z",
-      "size": 3911
+      "size": 2878266
     },
     {
       "id": "anime-best-anime-series",
@@ -992,10 +992,10 @@
       "category": "curated",
       "itemsCount": 49,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "media/anime/best-anime-series.xcoll",
+      "format": "full",
+      "file": "media/anime/best-anime-series.xcollx",
       "created": "2026-02-27T16:35:15.369886Z",
-      "size": 3806
+      "size": 3236255
     },
     {
       "id": "movies-top-rated-movies",
@@ -1004,13 +1004,13 @@
       "mediaType": "movies",
       "platform": null,
       "platformName": null,
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "media/movies/top-rated-movies.xcoll",
+      "format": "full",
+      "file": "media/movies/top-rated-movies.xcollx",
       "created": "2026-02-27T16:34:54.940021Z",
-      "size": 3637
+      "size": 2624790
     },
     {
       "id": "tv-shows-top-rated-tv-shows",
@@ -1019,13 +1019,13 @@
       "mediaType": "tv-shows",
       "platform": null,
       "platformName": null,
-      "category": "complete",
+      "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
-      "format": "light",
-      "file": "media/tv-shows/top-rated-tv-shows.xcoll",
+      "format": "full",
+      "file": "media/tv-shows/top-rated-tv-shows.xcollx",
       "created": "2026-02-27T16:35:08.755176Z",
-      "size": 3778
+      "size": 2956084
     }
   ],
   "categories": [

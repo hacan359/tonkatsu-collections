@@ -28,12 +28,12 @@ def detect_category(xcoll_data, filename):
     desc = (xcoll_data.get("description") or "").lower()
     name = (xcoll_data.get("name") or "").lower()
 
-    if "complete" in filename or "complete" in desc or "all " in desc:
-        return "complete"
     if "top" in filename or "top " in name or "best " in name or "highest rated" in desc:
         return "curated"
     if "hidden" in filename or "hidden gem" in name:
         return "hidden-gems"
+    if "complete" in filename or "complete" in desc or "all games" in desc or "full library" in desc:
+        return "complete"
 
     return "curated"
 
