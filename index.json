@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-04-03T15:12:41.637585+00:00",
+  "generated": "2026-04-03T15:20:22.960363+00:00",
   "totalCollections": 45,
   "totalItems": 26752,
   "platforms": [
@@ -327,9 +327,9 @@
   ],
   "mediaTypes": [
     {
-      "id": "anime",
-      "name": "Anime",
-      "shortName": "Anime",
+      "id": "animation",
+      "name": "Animation",
+      "shortName": "Animation",
       "source": "TMDB",
       "collectionsCount": 2,
       "itemsCount": 99
@@ -968,32 +968,32 @@
       "size": 1507726
     },
     {
-      "id": "anime-best-anime-movies",
+      "id": "animation-best-anime-movies",
       "name": "Best Anime Movies",
       "description": "Top 50 highest rated anime movies (TMDB)",
-      "mediaType": "anime",
+      "mediaType": "animation",
       "platform": null,
       "platformName": null,
       "category": "curated",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
       "format": "full",
-      "file": "media/anime/best-anime-movies.xcollx",
+      "file": "media/animation/best-anime-movies.xcollx",
       "created": "2026-02-27T16:38:44.248165Z",
       "size": 2878266
     },
     {
-      "id": "anime-best-anime-series",
+      "id": "animation-best-anime-series",
       "name": "Best Anime Series",
       "description": "Top 50 highest rated anime TV series (TMDB)",
-      "mediaType": "anime",
+      "mediaType": "animation",
       "platform": null,
       "platformName": null,
       "category": "curated",
       "itemsCount": 49,
       "author": "Tonkatsu Box",
       "format": "full",
-      "file": "media/anime/best-anime-series.xcollx",
+      "file": "media/animation/best-anime-series.xcollx",
       "created": "2026-02-27T16:35:15.369886Z",
       "size": 3236255
     },

@@ -96,12 +96,12 @@ Pre-built collections for [**Tonkatsu Box**](https://github.com/hacan359/tonkats
 |:---:|----------|:-----------:|------:|
 |  | **PC (Windows)** | [Top 50](platforms/pc/top.xcollx) | 50 |
 
-## Movies, TV Shows & Anime
+## Movies, TV Shows & Animation
 
 | Collection | Type | Items | Download |
 |-----------|------|------:|----------|
-| Best Anime Movies | Anime | 50 | [Best Anime Movies](media/anime/best-anime-movies.xcollx) |
-| Best Anime Series | Anime | 49 | [Best Anime Series](media/anime/best-anime-series.xcollx) |
+| Best Anime Movies | Animation | 50 | [Best Anime Movies](media/animation/best-anime-movies.xcollx) |
+| Best Anime Series | Animation | 49 | [Best Anime Series](media/animation/best-anime-series.xcollx) |
 | Top Rated Movies | Movies | 50 | [Top Rated Movies](media/movies/top-rated-movies.xcollx) |
 | Top Rated TV Shows | TV Shows | 50 | [Top Rated TV Shows](media/tv-shows/top-rated-tv-shows.xcollx) |
 
@@ -117,10 +117,10 @@ tonkatsu-collections/
 │   │   ├── complete.xcollx    # Full game library
 │   │   └── top.xcollx         # Top 50 games
 │   └── ...
-├── media/               # Movies, TV Shows, Anime
+├── media/               # Movies, TV Shows, Animation
 │   ├── movies/
 │   ├── tv-shows/
-│   └── anime/
+│   └── animation/
 ├── curated/             # Cross-platform curated lists
 ├── scripts/             # Automation (build index, validate)
 ├── index.json           # Auto-generated collection index
