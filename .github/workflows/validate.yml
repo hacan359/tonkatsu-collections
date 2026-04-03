@@ -1,0 +1,42 @@
+name: Validate
+
+on:
+  pull_request:
+    paths:
+      - '**.xcoll'
+      - '**/_platform.json'
+      - '**/_media.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate xcoll files
+        run: python scripts/validate_xcoll.py
+
+      - name: Validate JSON syntax
+        run: |
+          python3 -c "
+          import json, sys
+          from pathlib import Path
+          ok = True
+          for pattern in ['**/*.json', '**/*.xcoll']:
+              for f in sorted(Path('.').glob(pattern)):
+                  try:
+                      json.loads(f.read_text(encoding='utf-8'))
+                  except Exception as e:
+                      print(f'FAIL {f}: {e}')
+                      ok = False
+          if not ok:
+              sys.exit(1)
+          print('All JSON files are valid')
+          "

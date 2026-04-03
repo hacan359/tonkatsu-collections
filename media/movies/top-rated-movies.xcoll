@@ -1,0 +1,163 @@
+{
+  "version": 2,
+  "format": "light",
+  "meta": {
+    "name": "Top Rated Movies",
+    "description": "Top 50 highest rated movies of all time (TMDB)",
+    "author": "Tonkatsu Box",
+    "category": "curated",
+    "created": "2026-02-27T16:34:54.940021Z"
+  },
+  "items": [
+    {
+      "externalId": 278
+    },
+    {
+      "externalId": 238
+    },
+    {
+      "externalId": 240
+    },
+    {
+      "externalId": 424
+    },
+    {
+      "externalId": 389
+    },
+    {
+      "externalId": 129
+    },
+    {
+      "externalId": 155
+    },
+    {
+      "externalId": 19404
+    },
+    {
+      "externalId": 497
+    },
+    {
+      "externalId": 122
+    },
+    {
+      "externalId": 496243
+    },
+    {
+      "externalId": 680
+    },
+    {
+      "externalId": 372058
+    },
+    {
+      "externalId": 157336
+    },
+    {
+      "externalId": 429
+    },
+    {
+      "externalId": 13
+    },
+    {
+      "externalId": 769
+    },
+    {
+      "externalId": 346
+    },
+    {
+      "externalId": 12477
+    },
+    {
+      "externalId": 637
+    },
+    {
+      "externalId": 550
+    },
+    {
+      "externalId": 14537
+    },
+    {
+      "externalId": 120
+    },
+    {
+      "externalId": 598
+    },
+    {
+      "externalId": 11216
+    },
+    {
+      "externalId": 40096
+    },
+    {
+      "externalId": 667257
+    },
+    {
+      "externalId": 539
+    },
+    {
+      "externalId": 121
+    },
+    {
+      "externalId": 510
+    },
+    {
+      "externalId": 696374
+    },
+    {
+      "externalId": 255709
+    },
+    {
+      "externalId": 324857
+    },
+    {
+      "externalId": 1891
+    },
+    {
+      "externalId": 4935
+    },
+    {
+      "externalId": 311
+    },
+    {
+      "externalId": 378064
+    },
+    {
+      "externalId": 807
+    },
+    {
+      "externalId": 423
+    },
+    {
+      "externalId": 244786
+    },
+    {
+      "externalId": 724089
+    },
+    {
+      "externalId": 27205
+    },
+    {
+      "externalId": 761053
+    },
+    {
+      "externalId": 770156
+    },
+    {
+      "externalId": 12493
+    },
+    {
+      "externalId": 274
+    },
+    {
+      "externalId": 1218925
+    },
+    {
+      "externalId": 567
+    },
+    {
+      "externalId": 1058694
+    },
+    {
+      "externalId": 569094
+    }
+  ]
+}

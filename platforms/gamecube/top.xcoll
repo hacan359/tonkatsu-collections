@@ -1,0 +1,213 @@
+{
+  "version": 2,
+  "format": "light",
+  "meta": {
+    "name": "Top GameCube Games",
+    "description": "Top 50 highest rated Nintendo GameCube games of all time",
+    "author": "Tonkatsu Box",
+    "category": "curated",
+    "created": "2026-02-27T16:09:26.866126Z"
+  },
+  "items": [
+    {
+      "externalId": 1105,
+      "platformId": 21
+    },
+    {
+      "externalId": 3349,
+      "platformId": 21
+    },
+    {
+      "externalId": 796,
+      "platformId": 21
+    },
+    {
+      "externalId": 45142,
+      "platformId": 21
+    },
+    {
+      "externalId": 4174,
+      "platformId": 21
+    },
+    {
+      "externalId": 4034,
+      "platformId": 21
+    },
+    {
+      "externalId": 1627,
+      "platformId": 21
+    },
+    {
+      "externalId": 4157,
+      "platformId": 21
+    },
+    {
+      "externalId": 4152,
+      "platformId": 21
+    },
+    {
+      "externalId": 1204,
+      "platformId": 21
+    },
+    {
+      "externalId": 4043,
+      "platformId": 21
+    },
+    {
+      "externalId": 24869,
+      "platformId": 21
+    },
+    {
+      "externalId": 2240,
+      "platformId": 21
+    },
+    {
+      "externalId": 4036,
+      "platformId": 21
+    },
+    {
+      "externalId": 974,
+      "platformId": 21
+    },
+    {
+      "externalId": 1033,
+      "platformId": 21
+    },
+    {
+      "externalId": 4041,
+      "platformId": 21
+    },
+    {
+      "externalId": 2143,
+      "platformId": 21
+    },
+    {
+      "externalId": 3795,
+      "platformId": 21
+    },
+    {
+      "externalId": 4042,
+      "platformId": 21
+    },
+    {
+      "externalId": 4035,
+      "platformId": 21
+    },
+    {
+      "externalId": 1108,
+      "platformId": 21
+    },
+    {
+      "externalId": 1341,
+      "platformId": 21
+    },
+    {
+      "externalId": 1036,
+      "platformId": 21
+    },
+    {
+      "externalId": 4181,
+      "platformId": 21
+    },
+    {
+      "externalId": 2144,
+      "platformId": 21
+    },
+    {
+      "externalId": 3932,
+      "platformId": 21
+    },
+    {
+      "externalId": 4001,
+      "platformId": 21
+    },
+    {
+      "externalId": 911,
+      "platformId": 21
+    },
+    {
+      "externalId": 3384,
+      "platformId": 21
+    },
+    {
+      "externalId": 1441,
+      "platformId": 21
+    },
+    {
+      "externalId": 45139,
+      "platformId": 21
+    },
+    {
+      "externalId": 152,
+      "platformId": 21
+    },
+    {
+      "externalId": 880,
+      "platformId": 21
+    },
+    {
+      "externalId": 2765,
+      "platformId": 21
+    },
+    {
+      "externalId": 3794,
+      "platformId": 21
+    },
+    {
+      "externalId": 4194,
+      "platformId": 21
+    },
+    {
+      "externalId": 97,
+      "platformId": 21
+    },
+    {
+      "externalId": 4006,
+      "platformId": 21
+    },
+    {
+      "externalId": 96,
+      "platformId": 21
+    },
+    {
+      "externalId": 2344,
+      "platformId": 21
+    },
+    {
+      "externalId": 3907,
+      "platformId": 21
+    },
+    {
+      "externalId": 874,
+      "platformId": 21
+    },
+    {
+      "externalId": 837,
+      "platformId": 21
+    },
+    {
+      "externalId": 3966,
+      "platformId": 21
+    },
+    {
+      "externalId": 836,
+      "platformId": 21
+    },
+    {
+      "externalId": 1075,
+      "platformId": 21
+    },
+    {
+      "externalId": 3875,
+      "platformId": 21
+    },
+    {
+      "externalId": 914,
+      "platformId": 21
+    },
+    {
+      "externalId": 748,
+      "platformId": 21
+    }
+  ]
+}

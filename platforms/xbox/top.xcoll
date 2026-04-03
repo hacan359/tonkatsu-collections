@@ -1,0 +1,213 @@
+{
+  "version": 2,
+  "format": "light",
+  "meta": {
+    "name": "Top Xbox Games",
+    "description": "Top 50 highest rated Xbox games of all time",
+    "author": "Tonkatsu Box",
+    "category": "curated",
+    "created": "2026-02-27T16:09:24.772388Z"
+  },
+  "items": [
+    {
+      "externalId": 47304,
+      "platformId": 11
+    },
+    {
+      "externalId": 22066,
+      "platformId": 11
+    },
+    {
+      "externalId": 9143,
+      "platformId": 11
+    },
+    {
+      "externalId": 7881,
+      "platformId": 11
+    },
+    {
+      "externalId": 796,
+      "platformId": 11
+    },
+    {
+      "externalId": 18735,
+      "platformId": 11
+    },
+    {
+      "externalId": 233,
+      "platformId": 11
+    },
+    {
+      "externalId": 116,
+      "platformId": 11
+    },
+    {
+      "externalId": 732,
+      "platformId": 11
+    },
+    {
+      "externalId": 4174,
+      "platformId": 11
+    },
+    {
+      "externalId": 4034,
+      "platformId": 11
+    },
+    {
+      "externalId": 288,
+      "platformId": 11
+    },
+    {
+      "externalId": 4157,
+      "platformId": 11
+    },
+    {
+      "externalId": 474,
+      "platformId": 11
+    },
+    {
+      "externalId": 5850,
+      "platformId": 11
+    },
+    {
+      "externalId": 191479,
+      "platformId": 11
+    },
+    {
+      "externalId": 4043,
+      "platformId": 11
+    },
+    {
+      "externalId": 4036,
+      "platformId": 11
+    },
+    {
+      "externalId": 733,
+      "platformId": 11
+    },
+    {
+      "externalId": 4041,
+      "platformId": 11
+    },
+    {
+      "externalId": 118,
+      "platformId": 11
+    },
+    {
+      "externalId": 39,
+      "platformId": 11
+    },
+    {
+      "externalId": 2143,
+      "platformId": 11
+    },
+    {
+      "externalId": 4042,
+      "platformId": 11
+    },
+    {
+      "externalId": 19,
+      "platformId": 11
+    },
+    {
+      "externalId": 913,
+      "platformId": 11
+    },
+    {
+      "externalId": 56,
+      "platformId": 11
+    },
+    {
+      "externalId": 815,
+      "platformId": 11
+    },
+    {
+      "externalId": 18,
+      "platformId": 11
+    },
+    {
+      "externalId": 653,
+      "platformId": 11
+    },
+    {
+      "externalId": 1341,
+      "platformId": 11
+    },
+    {
+      "externalId": 142,
+      "platformId": 11
+    },
+    {
+      "externalId": 797,
+      "platformId": 11
+    },
+    {
+      "externalId": 2144,
+      "platformId": 11
+    },
+    {
+      "externalId": 3932,
+      "platformId": 11
+    },
+    {
+      "externalId": 250,
+      "platformId": 11
+    },
+    {
+      "externalId": 1002,
+      "platformId": 11
+    },
+    {
+      "externalId": 338902,
+      "platformId": 11
+    },
+    {
+      "externalId": 4885,
+      "platformId": 11
+    },
+    {
+      "externalId": 8247,
+      "platformId": 11
+    },
+    {
+      "externalId": 911,
+      "platformId": 11
+    },
+    {
+      "externalId": 730,
+      "platformId": 11
+    },
+    {
+      "externalId": 521,
+      "platformId": 11
+    },
+    {
+      "externalId": 694,
+      "platformId": 11
+    },
+    {
+      "externalId": 986,
+      "platformId": 11
+    },
+    {
+      "externalId": 3073,
+      "platformId": 11
+    },
+    {
+      "externalId": 5769,
+      "platformId": 11
+    },
+    {
+      "externalId": 152,
+      "platformId": 11
+    },
+    {
+      "externalId": 2765,
+      "platformId": 11
+    },
+    {
+      "externalId": 1339,
+      "platformId": 11
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "version": 2,
+  "format": "light",
+  "meta": {
+    "name": "Top Game Boy Games",
+    "description": "Top 50 highest rated Game Boy games of all time",
+    "author": "Tonkatsu Box",
+    "category": "curated",
+    "created": "2026-02-27T16:09:19.877623Z"
+  },
+  "items": [
+    {
+      "externalId": 1028,
+      "platformId": 33
+    },
+    {
+      "externalId": 1511,
+      "platformId": 33
+    },
+    {
+      "externalId": 1561,
+      "platformId": 33
+    },
+    {
+      "externalId": 86490,
+      "platformId": 33
+    },
+    {
+      "externalId": 8377,
+      "platformId": 33
+    },
+    {
+      "externalId": 1512,
+      "platformId": 33
+    },
+    {
+      "externalId": 49038,
+      "platformId": 33
+    },
+    {
+      "externalId": 1089,
+      "platformId": 33
+    },
+    {
+      "externalId": 1071,
+      "platformId": 33
+    },
+    {
+      "externalId": 1072,
+      "platformId": 33
+    },
+    {
+      "externalId": 145268,
+      "platformId": 33
+    },
+    {
+      "externalId": 407,
+      "platformId": 33
+    },
+    {
+      "externalId": 1093,
+      "platformId": 33
+    },
+    {
+      "externalId": 3718,
+      "platformId": 33
+    },
+    {
+      "externalId": 1697,
+      "platformId": 33
+    },
+    {
+      "externalId": 3664,
+      "platformId": 33
+    },
+    {
+      "externalId": 1737,
+      "platformId": 33
+    },
+    {
+      "externalId": 403,
+      "platformId": 33
+    },
+    {
+      "externalId": 1063,
+      "platformId": 33
+    },
+    {
+      "externalId": 11522,
+      "platformId": 33
+    },
+    {
+      "externalId": 1095,
+      "platformId": 33
+    },
+    {
+      "externalId": 20461,
+      "platformId": 33
+    },
+    {
+      "externalId": 71976,
+      "platformId": 33
+    },
+    {
+      "externalId": 1069,
+      "platformId": 33
+    },
+    {
+      "externalId": 1125,
+      "platformId": 33
+    },
+    {
+      "externalId": 3728,
+      "platformId": 33
+    },
+    {
+      "externalId": 1102,
+      "platformId": 33
+    },
+    {
+      "externalId": 3715,
+      "platformId": 33
+    },
+    {
+      "externalId": 396,
+      "platformId": 33
+    },
+    {
+      "externalId": 10152,
+      "platformId": 33
+    },
+    {
+      "externalId": 7751,
+      "platformId": 33
+    },
+    {
+      "externalId": 1091,
+      "platformId": 33
+    },
+    {
+      "externalId": 71231,
+      "platformId": 33
+    },
+    {
+      "externalId": 72016,
+      "platformId": 33
+    },
+    {
+      "externalId": 18639,
+      "platformId": 33
+    },
+    {
+      "externalId": 1123,
+      "platformId": 33
+    },
+    {
+      "externalId": 15934,
+      "platformId": 33
+    },
+    {
+      "externalId": 18630,
+      "platformId": 33
+    },
+    {
+      "externalId": 48916,
+      "platformId": 33
+    },
+    {
+      "externalId": 74423,
+      "platformId": 33
+    },
+    {
+      "externalId": 1733,
+      "platformId": 33
+    },
+    {
+      "externalId": 1735,
+      "platformId": 33
+    },
+    {
+      "externalId": 1736,
+      "platformId": 33
+    },
+    {
+      "externalId": 3660,
+      "platformId": 33
+    },
+    {
+      "externalId": 1129,
+      "platformId": 33
+    },
+    {
+      "externalId": 1734,
+      "platformId": 33
+    },
+    {
+      "externalId": 48929,
+      "platformId": 33
+    },
+    {
+      "externalId": 48928,
+      "platformId": 33
+    },
+    {
+      "externalId": 68362,
+      "platformId": 33
+    },
+    {
+      "externalId": 1118,
+      "platformId": 33
+    }
+  ]
+}

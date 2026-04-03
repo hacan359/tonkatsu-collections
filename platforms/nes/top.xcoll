@@ -1,0 +1,213 @@
+{
+  "version": 2,
+  "format": "light",
+  "meta": {
+    "name": "Top NES Games",
+    "description": "Top 50 highest rated Nintendo Entertainment System games",
+    "author": "Tonkatsu Box",
+    "category": "curated",
+    "created": "2026-02-27T16:09:13.377700Z"
+  },
+  "items": [
+    {
+      "externalId": 25880,
+      "platformId": 18
+    },
+    {
+      "externalId": 1068,
+      "platformId": 18
+    },
+    {
+      "externalId": 204385,
+      "platformId": 18
+    },
+    {
+      "externalId": 8197,
+      "platformId": 18
+    },
+    {
+      "externalId": 1715,
+      "platformId": 18
+    },
+    {
+      "externalId": 69638,
+      "platformId": 18
+    },
+    {
+      "externalId": 15901,
+      "platformId": 18
+    },
+    {
+      "externalId": 6488,
+      "platformId": 18
+    },
+    {
+      "externalId": 17249,
+      "platformId": 18
+    },
+    {
+      "externalId": 358,
+      "platformId": 18
+    },
+    {
+      "externalId": 8697,
+      "platformId": 18
+    },
+    {
+      "externalId": 2195,
+      "platformId": 18
+    },
+    {
+      "externalId": 84919,
+      "platformId": 18
+    },
+    {
+      "externalId": 6487,
+      "platformId": 18
+    },
+    {
+      "externalId": 3717,
+      "platformId": 18
+    },
+    {
+      "externalId": 9154,
+      "platformId": 18
+    },
+    {
+      "externalId": 69179,
+      "platformId": 18
+    },
+    {
+      "externalId": 7776,
+      "platformId": 18
+    },
+    {
+      "externalId": 11191,
+      "platformId": 18
+    },
+    {
+      "externalId": 3447,
+      "platformId": 18
+    },
+    {
+      "externalId": 1022,
+      "platformId": 18
+    },
+    {
+      "externalId": 1974,
+      "platformId": 18
+    },
+    {
+      "externalId": 84799,
+      "platformId": 18
+    },
+    {
+      "externalId": 3816,
+      "platformId": 18
+    },
+    {
+      "externalId": 1716,
+      "platformId": 18
+    },
+    {
+      "externalId": 4596,
+      "platformId": 18
+    },
+    {
+      "externalId": 15540,
+      "platformId": 18
+    },
+    {
+      "externalId": 16584,
+      "platformId": 18
+    },
+    {
+      "externalId": 8452,
+      "platformId": 18
+    },
+    {
+      "externalId": 3662,
+      "platformId": 18
+    },
+    {
+      "externalId": 14731,
+      "platformId": 18
+    },
+    {
+      "externalId": 2367,
+      "platformId": 18
+    },
+    {
+      "externalId": 8732,
+      "platformId": 18
+    },
+    {
+      "externalId": 9159,
+      "platformId": 18
+    },
+    {
+      "externalId": 2703,
+      "platformId": 18
+    },
+    {
+      "externalId": 1114,
+      "platformId": 18
+    },
+    {
+      "externalId": 1658,
+      "platformId": 18
+    },
+    {
+      "externalId": 186207,
+      "platformId": 18
+    },
+    {
+      "externalId": 9155,
+      "platformId": 18
+    },
+    {
+      "externalId": 6490,
+      "platformId": 18
+    },
+    {
+      "externalId": 1719,
+      "platformId": 18
+    },
+    {
+      "externalId": 2951,
+      "platformId": 18
+    },
+    {
+      "externalId": 6518,
+      "platformId": 18
+    },
+    {
+      "externalId": 1718,
+      "platformId": 18
+    },
+    {
+      "externalId": 1717,
+      "platformId": 18
+    },
+    {
+      "externalId": 8449,
+      "platformId": 18
+    },
+    {
+      "externalId": 7550,
+      "platformId": 18
+    },
+    {
+      "externalId": 1067,
+      "platformId": 18
+    },
+    {
+      "externalId": 385,
+      "platformId": 18
+    },
+    {
+      "externalId": 2970,
+      "platformId": 18
+    }
+  ]
+}

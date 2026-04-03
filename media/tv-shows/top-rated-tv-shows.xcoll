@@ -1,0 +1,163 @@
+{
+  "version": 2,
+  "format": "light",
+  "meta": {
+    "name": "Top Rated TV Shows",
+    "description": "Top 50 highest rated TV shows of all time (TMDB)",
+    "author": "Tonkatsu Box",
+    "category": "curated",
+    "created": "2026-02-27T16:35:08.755176Z"
+  },
+  "items": [
+    {
+      "externalId": 1396
+    },
+    {
+      "externalId": 209867
+    },
+    {
+      "externalId": 246
+    },
+    {
+      "externalId": 94605
+    },
+    {
+      "externalId": 301507
+    },
+    {
+      "externalId": 37854
+    },
+    {
+      "externalId": 234763
+    },
+    {
+      "externalId": 250307
+    },
+    {
+      "externalId": 31911
+    },
+    {
+      "externalId": 87108
+    },
+    {
+      "externalId": 60059
+    },
+    {
+      "externalId": 219246
+    },
+    {
+      "externalId": 60625
+    },
+    {
+      "externalId": 1429
+    },
+    {
+      "externalId": 85077
+    },
+    {
+      "externalId": 46298
+    },
+    {
+      "externalId": 131378
+    },
+    {
+      "externalId": 92685
+    },
+    {
+      "externalId": 1398
+    },
+    {
+      "externalId": 70785
+    },
+    {
+      "externalId": 42573
+    },
+    {
+      "externalId": 62741
+    },
+    {
+      "externalId": 200709
+    },
+    {
+      "externalId": 42705
+    },
+    {
+      "externalId": 85937
+    },
+    {
+      "externalId": 72637
+    },
+    {
+      "externalId": 3498
+    },
+    {
+      "externalId": 31132
+    },
+    {
+      "externalId": 68595
+    },
+    {
+      "externalId": 13916
+    },
+    {
+      "externalId": 65930
+    },
+    {
+      "externalId": 1438
+    },
+    {
+      "externalId": 89456
+    },
+    {
+      "externalId": 95557
+    },
+    {
+      "externalId": 95269
+    },
+    {
+      "externalId": 74313
+    },
+    {
+      "externalId": 1430
+    },
+    {
+      "externalId": 1044
+    },
+    {
+      "externalId": 40075
+    },
+    {
+      "externalId": 100
+    },
+    {
+      "externalId": 60863
+    },
+    {
+      "externalId": 57706
+    },
+    {
+      "externalId": 94954
+    },
+    {
+      "externalId": 77696
+    },
+    {
+      "externalId": 230923
+    },
+    {
+      "externalId": 127532
+    },
+    {
+      "externalId": 35790
+    },
+    {
+      "externalId": 67915
+    },
+    {
+      "externalId": 80040
+    },
+    {
+      "externalId": 256721
+    }
+  ]
+}

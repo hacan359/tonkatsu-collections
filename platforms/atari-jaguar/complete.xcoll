@@ -1,0 +1,445 @@
+{
+  "version": 2,
+  "format": "light",
+  "meta": {
+    "name": "Atari Jaguar Games",
+    "description": "Complete Atari Jaguar game library — 108 games with covers from IGDB",
+    "author": "Tonkatsu Box",
+    "category": "complete",
+    "created": "2026-03-03T09:23:27.416546Z"
+  },
+  "items": [
+    {
+      "externalId": 283,
+      "platformId": 62
+    },
+    {
+      "externalId": 2622,
+      "platformId": 62
+    },
+    {
+      "externalId": 4248,
+      "platformId": 62
+    },
+    {
+      "externalId": 4271,
+      "platformId": 62
+    },
+    {
+      "externalId": 4275,
+      "platformId": 62
+    },
+    {
+      "externalId": 4302,
+      "platformId": 62
+    },
+    {
+      "externalId": 4474,
+      "platformId": 62
+    },
+    {
+      "externalId": 4475,
+      "platformId": 62
+    },
+    {
+      "externalId": 4520,
+      "platformId": 62
+    },
+    {
+      "externalId": 5410,
+      "platformId": 62
+    },
+    {
+      "externalId": 5454,
+      "platformId": 62
+    },
+    {
+      "externalId": 5519,
+      "platformId": 62
+    },
+    {
+      "externalId": 6023,
+      "platformId": 62
+    },
+    {
+      "externalId": 6841,
+      "platformId": 62
+    },
+    {
+      "externalId": 7805,
+      "platformId": 62
+    },
+    {
+      "externalId": 8477,
+      "platformId": 62
+    },
+    {
+      "externalId": 9331,
+      "platformId": 62
+    },
+    {
+      "externalId": 9791,
+      "platformId": 62
+    },
+    {
+      "externalId": 12118,
+      "platformId": 62
+    },
+    {
+      "externalId": 12138,
+      "platformId": 62
+    },
+    {
+      "externalId": 12238,
+      "platformId": 62
+    },
+    {
+      "externalId": 12307,
+      "platformId": 62
+    },
+    {
+      "externalId": 12364,
+      "platformId": 62
+    },
+    {
+      "externalId": 12557,
+      "platformId": 62
+    },
+    {
+      "externalId": 12611,
+      "platformId": 62
+    },
+    {
+      "externalId": 12788,
+      "platformId": 62
+    },
+    {
+      "externalId": 12868,
+      "platformId": 62
+    },
+    {
+      "externalId": 13074,
+      "platformId": 62
+    },
+    {
+      "externalId": 14350,
+      "platformId": 62
+    },
+    {
+      "externalId": 18617,
+      "platformId": 62
+    },
+    {
+      "externalId": 19712,
+      "platformId": 62
+    },
+    {
+      "externalId": 20615,
+      "platformId": 62
+    },
+    {
+      "externalId": 22460,
+      "platformId": 62
+    },
+    {
+      "externalId": 29373,
+      "platformId": 62
+    },
+    {
+      "externalId": 34504,
+      "platformId": 62
+    },
+    {
+      "externalId": 40798,
+      "platformId": 62
+    },
+    {
+      "externalId": 40799,
+      "platformId": 62
+    },
+    {
+      "externalId": 40800,
+      "platformId": 62
+    },
+    {
+      "externalId": 40801,
+      "platformId": 62
+    },
+    {
+      "externalId": 40802,
+      "platformId": 62
+    },
+    {
+      "externalId": 40803,
+      "platformId": 62
+    },
+    {
+      "externalId": 40804,
+      "platformId": 62
+    },
+    {
+      "externalId": 40807,
+      "platformId": 62
+    },
+    {
+      "externalId": 40808,
+      "platformId": 62
+    },
+    {
+      "externalId": 40809,
+      "platformId": 62
+    },
+    {
+      "externalId": 40810,
+      "platformId": 62
+    },
+    {
+      "externalId": 40811,
+      "platformId": 62
+    },
+    {
+      "externalId": 40812,
+      "platformId": 62
+    },
+    {
+      "externalId": 40813,
+      "platformId": 62
+    },
+    {
+      "externalId": 40815,
+      "platformId": 62
+    },
+    {
+      "externalId": 40816,
+      "platformId": 62
+    },
+    {
+      "externalId": 40817,
+      "platformId": 62
+    },
+    {
+      "externalId": 40818,
+      "platformId": 62
+    },
+    {
+      "externalId": 40819,
+      "platformId": 62
+    },
+    {
+      "externalId": 40820,
+      "platformId": 62
+    },
+    {
+      "externalId": 40821,
+      "platformId": 62
+    },
+    {
+      "externalId": 40822,
+      "platformId": 62
+    },
+    {
+      "externalId": 40823,
+      "platformId": 62
+    },
+    {
+      "externalId": 40824,
+      "platformId": 62
+    },
+    {
+      "externalId": 40825,
+      "platformId": 62
+    },
+    {
+      "externalId": 40826,
+      "platformId": 62
+    },
+    {
+      "externalId": 40827,
+      "platformId": 62
+    },
+    {
+      "externalId": 40828,
+      "platformId": 62
+    },
+    {
+      "externalId": 40829,
+      "platformId": 62
+    },
+    {
+      "externalId": 40830,
+      "platformId": 62
+    },
+    {
+      "externalId": 40831,
+      "platformId": 62
+    },
+    {
+      "externalId": 46687,
+      "platformId": 62
+    },
+    {
+      "externalId": 71125,
+      "platformId": 62
+    },
+    {
+      "externalId": 71222,
+      "platformId": 62
+    },
+    {
+      "externalId": 71297,
+      "platformId": 62
+    },
+    {
+      "externalId": 77213,
+      "platformId": 62
+    },
+    {
+      "externalId": 79089,
+      "platformId": 62
+    },
+    {
+      "externalId": 92889,
+      "platformId": 62
+    },
+    {
+      "externalId": 95461,
+      "platformId": 62
+    },
+    {
+      "externalId": 165558,
+      "platformId": 62
+    },
+    {
+      "externalId": 175892,
+      "platformId": 62
+    },
+    {
+      "externalId": 189370,
+      "platformId": 62
+    },
+    {
+      "externalId": 198215,
+      "platformId": 62
+    },
+    {
+      "externalId": 213886,
+      "platformId": 62
+    },
+    {
+      "externalId": 214976,
+      "platformId": 62
+    },
+    {
+      "externalId": 259942,
+      "platformId": 62
+    },
+    {
+      "externalId": 270268,
+      "platformId": 62
+    },
+    {
+      "externalId": 270269,
+      "platformId": 62
+    },
+    {
+      "externalId": 270270,
+      "platformId": 62
+    },
+    {
+      "externalId": 270271,
+      "platformId": 62
+    },
+    {
+      "externalId": 270273,
+      "platformId": 62
+    },
+    {
+      "externalId": 270274,
+      "platformId": 62
+    },
+    {
+      "externalId": 270275,
+      "platformId": 62
+    },
+    {
+      "externalId": 270276,
+      "platformId": 62
+    },
+    {
+      "externalId": 270277,
+      "platformId": 62
+    },
+    {
+      "externalId": 270278,
+      "platformId": 62
+    },
+    {
+      "externalId": 278750,
+      "platformId": 62
+    },
+    {
+      "externalId": 280030,
+      "platformId": 62
+    },
+    {
+      "externalId": 290377,
+      "platformId": 62
+    },
+    {
+      "externalId": 292078,
+      "platformId": 62
+    },
+    {
+      "externalId": 301781,
+      "platformId": 62
+    },
+    {
+      "externalId": 306948,
+      "platformId": 62
+    },
+    {
+      "externalId": 307564,
+      "platformId": 62
+    },
+    {
+      "externalId": 311951,
+      "platformId": 62
+    },
+    {
+      "externalId": 321800,
+      "platformId": 62
+    },
+    {
+      "externalId": 322642,
+      "platformId": 62
+    },
+    {
+      "externalId": 331645,
+      "platformId": 62
+    },
+    {
+      "externalId": 333921,
+      "platformId": 62
+    },
+    {
+      "externalId": 336946,
+      "platformId": 62
+    },
+    {
+      "externalId": 343435,
+      "platformId": 62
+    },
+    {
+      "externalId": 362091,
+      "platformId": 62
+    },
+    {
+      "externalId": 381135,
+      "platformId": 62
+    },
+    {
+      "externalId": 383702,
+      "platformId": 62
+    }
+  ]
+}
