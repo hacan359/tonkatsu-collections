@@ -10,6 +10,8 @@ Pre-built collections for [**Tonkatsu Box**](https://github.com/hacan359/tonkats
 
 ### In Tonkatsu Box (recommended)
 
+> **Requires Tonkatsu Box v0.25+**
+
 1. Open Tonkatsu Box
 2. Go to **Settings > Import > Browse Online Collections**
 3. Pick a collection and download
