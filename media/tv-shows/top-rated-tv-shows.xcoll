@@ -1,163 +1,210 @@
 {
   "version": 2,
   "format": "light",
-  "meta": {
-    "name": "Top Rated TV Shows",
-    "description": "Top 50 highest rated TV shows of all time (TMDB)",
-    "author": "Tonkatsu Box",
-    "category": "curated",
-    "created": "2026-02-27T16:35:08.755176Z"
-  },
+  "name": "Top Rated TV Shows",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:35:08.755176Z",
+  "description": "Top 50 highest rated TV shows of all time (TMDB)",
   "items": [
     {
-      "externalId": 1396
+      "media_type": "tv_show",
+      "external_id": 1396
     },
     {
-      "externalId": 209867
+      "media_type": "tv_show",
+      "external_id": 209867
     },
     {
-      "externalId": 246
+      "media_type": "tv_show",
+      "external_id": 246
     },
     {
-      "externalId": 94605
+      "media_type": "tv_show",
+      "external_id": 94605
     },
     {
-      "externalId": 301507
+      "media_type": "tv_show",
+      "external_id": 301507
     },
     {
-      "externalId": 37854
+      "media_type": "tv_show",
+      "external_id": 37854
     },
     {
-      "externalId": 234763
+      "media_type": "tv_show",
+      "external_id": 234763
     },
     {
-      "externalId": 250307
+      "media_type": "tv_show",
+      "external_id": 250307
     },
     {
-      "externalId": 31911
+      "media_type": "tv_show",
+      "external_id": 31911
     },
     {
-      "externalId": 87108
+      "media_type": "tv_show",
+      "external_id": 87108
     },
     {
-      "externalId": 60059
+      "media_type": "tv_show",
+      "external_id": 60059
     },
     {
-      "externalId": 219246
+      "media_type": "tv_show",
+      "external_id": 219246
     },
     {
-      "externalId": 60625
+      "media_type": "tv_show",
+      "external_id": 60625
     },
     {
-      "externalId": 1429
+      "media_type": "tv_show",
+      "external_id": 1429
     },
     {
-      "externalId": 85077
+      "media_type": "tv_show",
+      "external_id": 85077
     },
     {
-      "externalId": 46298
+      "media_type": "tv_show",
+      "external_id": 46298
     },
     {
-      "externalId": 131378
+      "media_type": "tv_show",
+      "external_id": 131378
     },
     {
-      "externalId": 92685
+      "media_type": "tv_show",
+      "external_id": 92685
     },
     {
-      "externalId": 1398
+      "media_type": "tv_show",
+      "external_id": 1398
     },
     {
-      "externalId": 70785
+      "media_type": "tv_show",
+      "external_id": 70785
     },
     {
-      "externalId": 42573
+      "media_type": "tv_show",
+      "external_id": 42573
     },
     {
-      "externalId": 62741
+      "media_type": "tv_show",
+      "external_id": 62741
     },
     {
-      "externalId": 200709
+      "media_type": "tv_show",
+      "external_id": 200709
     },
     {
-      "externalId": 42705
+      "media_type": "tv_show",
+      "external_id": 42705
     },
     {
-      "externalId": 85937
+      "media_type": "tv_show",
+      "external_id": 85937
     },
     {
-      "externalId": 72637
+      "media_type": "tv_show",
+      "external_id": 72637
     },
     {
-      "externalId": 3498
+      "media_type": "tv_show",
+      "external_id": 3498
     },
     {
-      "externalId": 31132
+      "media_type": "tv_show",
+      "external_id": 31132
     },
     {
-      "externalId": 68595
+      "media_type": "tv_show",
+      "external_id": 68595
     },
     {
-      "externalId": 13916
+      "media_type": "tv_show",
+      "external_id": 13916
     },
     {
-      "externalId": 65930
+      "media_type": "tv_show",
+      "external_id": 65930
     },
     {
-      "externalId": 1438
+      "media_type": "tv_show",
+      "external_id": 1438
     },
     {
-      "externalId": 89456
+      "media_type": "tv_show",
+      "external_id": 89456
     },
     {
-      "externalId": 95557
+      "media_type": "tv_show",
+      "external_id": 95557
     },
     {
-      "externalId": 95269
+      "media_type": "tv_show",
+      "external_id": 95269
     },
     {
-      "externalId": 74313
+      "media_type": "tv_show",
+      "external_id": 74313
     },
     {
-      "externalId": 1430
+      "media_type": "tv_show",
+      "external_id": 1430
     },
     {
-      "externalId": 1044
+      "media_type": "tv_show",
+      "external_id": 1044
     },
     {
-      "externalId": 40075
+      "media_type": "tv_show",
+      "external_id": 40075
     },
     {
-      "externalId": 100
+      "media_type": "tv_show",
+      "external_id": 100
     },
     {
-      "externalId": 60863
+      "media_type": "tv_show",
+      "external_id": 60863
     },
     {
-      "externalId": 57706
+      "media_type": "tv_show",
+      "external_id": 57706
     },
     {
-      "externalId": 94954
+      "media_type": "tv_show",
+      "external_id": 94954
     },
     {
-      "externalId": 77696
+      "media_type": "tv_show",
+      "external_id": 77696
     },
     {
-      "externalId": 230923
+      "media_type": "tv_show",
+      "external_id": 230923
     },
     {
-      "externalId": 127532
+      "media_type": "tv_show",
+      "external_id": 127532
     },
     {
-      "externalId": 35790
+      "media_type": "tv_show",
+      "external_id": 35790
     },
     {
-      "externalId": 67915
+      "media_type": "tv_show",
+      "external_id": 67915
     },
     {
-      "externalId": 80040
+      "media_type": "tv_show",
+      "external_id": 80040
     },
     {
-      "externalId": 256721
+      "media_type": "tv_show",
+      "external_id": 256721
     }
   ]
 }

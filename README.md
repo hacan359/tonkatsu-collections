@@ -127,24 +127,24 @@ tonkatsu-collections/
 └── .github/workflows/   # CI: auto-build index, validate PRs
 ```
 
-## File Format (.xcoll)
+## File Format (.xcoll / .xcollx)
 
-Light JSON format with external IDs (IGDB for games, TMDB for movies/shows).
-Tonkatsu Box resolves metadata (covers, descriptions, ratings) on import.
+Collections use the native [Tonkatsu Box export format](https://github.com/hacan359/tonkatsu_box/blob/main/docs/RCOLL_FORMAT.md). Export a collection from the app and it's ready to contribute.
+
+- **`.xcoll`** — light export (IDs only, small files, metadata fetched on import)
+- **`.xcollx`** — full export (includes canvas, cover images, offline import)
 
 ```json
 {
   "version": 2,
   "format": "light",
-  "meta": {
-    "name": "Best SNES RPGs",
-    "description": "Must-play RPGs for Super Nintendo",
-    "author": "hacan359",
-    "category": "curated"
-  },
+  "name": "Best SNES RPGs",
+  "author": "hacan359",
+  "created": "2026-04-03T12:00:00Z",
+  "description": "Must-play RPGs for Super Nintendo",
   "items": [
-    { "externalId": 1234, "platformId": 19 },
-    { "externalId": 5678, "platformId": 19 }
+    { "media_type": "game", "external_id": 1234, "platform_id": 19 },
+    { "media_type": "game", "external_id": 5678, "platform_id": 19 }
   ]
 }
 ```

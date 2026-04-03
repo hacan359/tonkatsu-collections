@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-04-03T14:26:36.590258+00:00",
+  "generated": "2026-04-03T14:55:19.868845+00:00",
   "totalCollections": 45,
   "totalItems": 26752,
   "platforms": [
@@ -360,13 +360,12 @@
       "platform": "3do",
       "platformName": "3DO",
       "category": "complete",
-      "tags": [],
       "itemsCount": 339,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/3do/complete.xcoll",
       "created": "2026-03-03T08:52:37.493439Z",
-      "updated": null,
-      "size": 21628
+      "size": 31746
     },
     {
       "id": "atari-2600-complete",
@@ -376,13 +375,12 @@
       "platform": "atari-2600",
       "platformName": "Atari 2600",
       "category": "complete",
-      "tags": [],
       "itemsCount": 828,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/atari-2600/complete.xcoll",
       "created": "2026-03-03T08:53:03.340051Z",
-      "updated": null,
-      "size": 52688
+      "size": 77476
     },
     {
       "id": "atari-7800-complete",
@@ -392,13 +390,12 @@
       "platform": "atari-7800",
       "platformName": "Atari 7800",
       "category": "complete",
-      "tags": [],
       "itemsCount": 98,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/atari-7800/complete.xcoll",
       "created": "2026-03-03T09:23:25.960080Z",
-      "updated": null,
-      "size": 6512
+      "size": 9400
     },
     {
       "id": "atari-jaguar-complete",
@@ -408,13 +405,12 @@
       "platform": "atari-jaguar",
       "platformName": "Jaguar",
       "category": "complete",
-      "tags": [],
       "itemsCount": 108,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/atari-jaguar/complete.xcoll",
       "created": "2026-03-03T09:23:27.416546Z",
-      "updated": null,
-      "size": 7122
+      "size": 10310
     },
     {
       "id": "dreamcast-complete",
@@ -424,13 +420,12 @@
       "platform": "dreamcast",
       "platformName": "Dreamcast",
       "category": "complete",
-      "tags": [],
       "itemsCount": 718,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/dreamcast/complete.xcoll",
       "created": "2026-03-03T08:52:46.786805Z",
-      "updated": null,
-      "size": 45548
+      "size": 67036
     },
     {
       "id": "game-gear-complete",
@@ -440,13 +435,12 @@
       "platform": "game-gear",
       "platformName": "Game Gear",
       "category": "complete",
-      "tags": [],
       "itemsCount": 432,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/game-gear/complete.xcoll",
       "created": "2026-03-03T08:52:33.563964Z",
-      "updated": null,
-      "size": 27668
+      "size": 40576
     },
     {
       "id": "gamecube-complete",
@@ -456,13 +450,12 @@
       "platform": "gamecube",
       "platformName": "GameCube",
       "category": "complete",
-      "tags": [],
       "itemsCount": 925,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/gamecube/complete.xcoll",
       "created": "2026-03-03T09:24:15.023867Z",
-      "updated": null,
-      "size": 58224
+      "size": 85922
     },
     {
       "id": "gamecube-top",
@@ -471,14 +464,13 @@
       "mediaType": "game",
       "platform": "gamecube",
       "platformName": "GameCube",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/gamecube/top.xcoll",
       "created": "2026-02-27T16:09:26.866126Z",
-      "updated": null,
-      "size": 3377
+      "size": 4826
     },
     {
       "id": "gb-complete",
@@ -488,13 +480,12 @@
       "platform": "gb",
       "platformName": "GB",
       "category": "complete",
-      "tags": [],
       "itemsCount": 1469,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/gb/complete.xcoll",
       "created": "2026-03-03T08:21:22.047067Z",
-      "updated": null,
-      "size": 93639
+      "size": 137657
     },
     {
       "id": "gb-top",
@@ -503,14 +494,13 @@
       "mediaType": "game",
       "platform": "gb",
       "platformName": "GB",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/gb/top.xcoll",
       "created": "2026-02-27T16:09:19.877623Z",
-      "updated": null,
-      "size": 3394
+      "size": 4843
     },
     {
       "id": "gba-complete",
@@ -520,13 +510,12 @@
       "platform": "gba",
       "platformName": "GBA",
       "category": "complete",
-      "tags": [],
       "itemsCount": 2291,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/gba/complete.xcoll",
       "created": "2026-03-03T08:53:58.968025Z",
-      "updated": null,
-      "size": 145337
+      "size": 214015
     },
     {
       "id": "gba-top",
@@ -535,14 +524,13 @@
       "mediaType": "game",
       "platform": "gba",
       "platformName": "GBA",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/gba/top.xcoll",
       "created": "2026-02-27T16:09:21.638100Z",
-      "updated": null,
-      "size": 3387
+      "size": 4836
     },
     {
       "id": "gbc-complete",
@@ -552,13 +540,12 @@
       "platform": "gbc",
       "platformName": "GBC",
       "category": "complete",
-      "tags": [],
       "itemsCount": 1408,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/gbc/complete.xcoll",
       "created": "2026-03-03T08:53:25.315546Z",
-      "updated": null,
-      "size": 89796
+      "size": 131984
     },
     {
       "id": "genesis-complete",
@@ -568,13 +555,12 @@
       "platform": "genesis",
       "platformName": "Genesis",
       "category": "complete",
-      "tags": [],
       "itemsCount": 1643,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/genesis/complete.xcoll",
       "created": "2026-03-03T08:21:32.289826Z",
-      "updated": null,
-      "size": 104106
+      "size": 153344
     },
     {
       "id": "genesis-top",
@@ -584,13 +570,12 @@
       "platform": "genesis",
       "platformName": "Genesis",
       "category": "curated",
-      "tags": [],
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/genesis/top.xcoll",
       "created": "2026-02-27T16:09:15.701713Z",
-      "updated": null,
-      "size": 3399
+      "size": 4848
     },
     {
       "id": "master-system-complete",
@@ -600,13 +585,12 @@
       "platform": "master-system",
       "platformName": "SMS",
       "category": "complete",
-      "tags": [],
       "itemsCount": 574,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/master-system/complete.xcoll",
       "created": "2026-03-03T08:52:40.338835Z",
-      "updated": null,
-      "size": 36709
+      "size": 53877
     },
     {
       "id": "n64-complete",
@@ -616,13 +600,12 @@
       "platform": "n64",
       "platformName": "N64",
       "category": "complete",
-      "tags": [],
       "itemsCount": 1262,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/n64/complete.xcoll",
       "created": "2026-03-03T08:22:49.863206Z",
-      "updated": null,
-      "size": 79101
+      "size": 116909
     },
     {
       "id": "n64-top",
@@ -631,14 +614,13 @@
       "mediaType": "game",
       "platform": "n64",
       "platformName": "N64",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/n64/top.xcoll",
       "created": "2026-02-27T16:09:17.724405Z",
-      "updated": null,
-      "size": 3320
+      "size": 4769
     },
     {
       "id": "neo-geo-complete",
@@ -648,13 +630,12 @@
       "platform": "neo-geo",
       "platformName": "Neo Geo",
       "category": "complete",
-      "tags": [],
       "itemsCount": 168,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/neo-geo/complete.xcoll",
       "created": "2026-03-03T09:23:35.669456Z",
-      "updated": null,
-      "size": 10870
+      "size": 15858
     },
     {
       "id": "nes-complete",
@@ -664,13 +645,12 @@
       "platform": "nes",
       "platformName": "NES",
       "category": "complete",
-      "tags": [],
       "itemsCount": 1655,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/nes/complete.xcoll",
       "created": "2026-03-03T08:19:49.416262Z",
-      "updated": null,
-      "size": 105222
+      "size": 154820
     },
     {
       "id": "nes-top",
@@ -680,13 +660,12 @@
       "platform": "nes",
       "platformName": "NES",
       "category": "curated",
-      "tags": [],
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/nes/top.xcoll",
       "created": "2026-02-27T16:09:13.377700Z",
-      "updated": null,
-      "size": 3396
+      "size": 4845
     },
     {
       "id": "pc-top",
@@ -695,14 +674,13 @@
       "mediaType": "game",
       "platform": "pc",
       "platformName": "PC",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/pc/top.xcoll",
       "created": "2026-02-27T16:09:33.919955Z",
-      "updated": null,
-      "size": 3396
+      "size": 4845
     },
     {
       "id": "ps1-complete",
@@ -712,13 +690,12 @@
       "platform": "ps1",
       "platformName": "PS1",
       "category": "complete",
-      "tags": [],
       "itemsCount": 3789,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/ps1/complete.xcoll",
       "created": "2026-03-03T08:27:21.456088Z",
-      "updated": null,
-      "size": 235934
+      "size": 349552
     },
     {
       "id": "ps1-top",
@@ -727,14 +704,13 @@
       "mediaType": "game",
       "platform": "ps1",
       "platformName": "PS1",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/ps1/top.xcoll",
       "created": "2026-02-27T16:09:11.229179Z",
-      "updated": null,
-      "size": 3319
+      "size": 4768
     },
     {
       "id": "ps2-top",
@@ -743,14 +719,13 @@
       "mediaType": "game",
       "platform": "ps2",
       "platformName": "PS2",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/ps2/top.xcoll",
       "created": "2026-02-27T16:09:23.236547Z",
-      "updated": null,
-      "size": 3321
+      "size": 4770
     },
     {
       "id": "ps3-top",
@@ -759,14 +734,13 @@
       "mediaType": "game",
       "platform": "ps3",
       "platformName": "PS3",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/ps3/top.xcoll",
       "created": "2026-02-27T16:09:32.428280Z",
-      "updated": null,
-      "size": 3345
+      "size": 4794
     },
     {
       "id": "ps4-top",
@@ -775,14 +749,13 @@
       "mediaType": "game",
       "platform": "ps4",
       "platformName": "PS4",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/ps4/top.xcoll",
       "created": "2026-02-27T16:09:35.350489Z",
-      "updated": null,
-      "size": 3441
+      "size": 4890
     },
     {
       "id": "ps5-top",
@@ -791,14 +764,13 @@
       "mediaType": "game",
       "platform": "ps5",
       "platformName": "PS5",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/ps5/top.xcoll",
       "created": "2026-02-27T16:09:40.580699Z",
-      "updated": null,
-      "size": 3515
+      "size": 4964
     },
     {
       "id": "psp-complete",
@@ -808,13 +780,12 @@
       "platform": "psp",
       "platformName": "PSP",
       "category": "complete",
-      "tags": [],
       "itemsCount": 3008,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/psp/complete.xcoll",
       "created": "2026-03-03T09:26:02.179823Z",
-      "updated": null,
-      "size": 190284
+      "size": 280472
     },
     {
       "id": "saturn-complete",
@@ -824,13 +795,12 @@
       "platform": "saturn",
       "platformName": "Saturn",
       "category": "complete",
-      "tags": [],
       "itemsCount": 1053,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/saturn/complete.xcoll",
       "created": "2026-03-03T08:52:52.170551Z",
-      "updated": null,
-      "size": 66806
+      "size": 98344
     },
     {
       "id": "sega-32x-complete",
@@ -840,13 +810,12 @@
       "platform": "sega-32x",
       "platformName": "32X",
       "category": "complete",
-      "tags": [],
       "itemsCount": 60,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/sega-32x/complete.xcoll",
       "created": "2026-03-03T09:23:21.607101Z",
-      "updated": null,
-      "size": 4084
+      "size": 5832
     },
     {
       "id": "sega-cd-complete",
@@ -856,13 +825,12 @@
       "platform": "sega-cd",
       "platformName": "Sega CD",
       "category": "complete",
-      "tags": [],
       "itemsCount": 252,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/sega-cd/complete.xcoll",
       "created": "2026-03-03T09:23:36.309675Z",
-      "updated": null,
-      "size": 16105
+      "size": 23613
     },
     {
       "id": "snes-complete",
@@ -872,13 +840,12 @@
       "platform": "snes",
       "platformName": "SNES",
       "category": "complete",
-      "tags": [],
       "itemsCount": 1973,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/snes/complete.xcoll",
       "created": "2026-03-03T08:23:17.399771Z",
-      "updated": null,
-      "size": 125418
+      "size": 184556
     },
     {
       "id": "snes-top",
@@ -887,14 +854,13 @@
       "mediaType": "game",
       "platform": "snes",
       "platformName": "SNES",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/snes/top.xcoll",
       "created": "2026-02-27T16:09:09.329881Z",
-      "updated": null,
-      "size": 3389
+      "size": 4838
     },
     {
       "id": "switch-top",
@@ -903,14 +869,13 @@
       "mediaType": "game",
       "platform": "switch",
       "platformName": "Switch",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/switch/top.xcoll",
       "created": "2026-02-27T16:09:39.139943Z",
-      "updated": null,
-      "size": 3510
+      "size": 4959
     },
     {
       "id": "turbografx-complete",
@@ -920,13 +885,12 @@
       "platform": "turbografx",
       "platformName": "TG-16",
       "category": "complete",
-      "tags": [],
       "itemsCount": 420,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/turbografx/complete.xcoll",
       "created": "2026-03-03T08:52:37.128317Z",
-      "updated": null,
-      "size": 26790
+      "size": 39338
     },
     {
       "id": "wii-top",
@@ -935,14 +899,13 @@
       "mediaType": "game",
       "platform": "wii",
       "platformName": "Wii",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/wii/top.xcoll",
       "created": "2026-02-27T16:09:30.365642Z",
-      "updated": null,
-      "size": 3343
+      "size": 4792
     },
     {
       "id": "xbox-complete",
@@ -952,13 +915,12 @@
       "platform": "xbox",
       "platformName": "Xbox",
       "category": "complete",
-      "tags": [],
       "itemsCount": 1180,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/xbox/complete.xcoll",
       "created": "2026-03-03T09:24:28.083638Z",
-      "updated": null,
-      "size": 73896
+      "size": 109244
     },
     {
       "id": "xbox-top",
@@ -967,14 +929,13 @@
       "mediaType": "game",
       "platform": "xbox",
       "platformName": "Xbox",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/xbox/top.xcoll",
       "created": "2026-02-27T16:09:24.772388Z",
-      "updated": null,
-      "size": 3350
+      "size": 4799
     },
     {
       "id": "xbox-360-top",
@@ -983,14 +944,13 @@
       "mediaType": "game",
       "platform": "xbox-360",
       "platformName": "Xbox 360",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/xbox-360/top.xcoll",
       "created": "2026-02-27T16:09:28.802822Z",
-      "updated": null,
-      "size": 3389
+      "size": 4838
     },
     {
       "id": "xbox-one-top",
@@ -999,14 +959,13 @@
       "mediaType": "game",
       "platform": "xbox-one",
       "platformName": "Xbox One",
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "platforms/xbox-one/top.xcoll",
       "created": "2026-02-27T16:09:37.015054Z",
-      "updated": null,
-      "size": 3453
+      "size": 4902
     },
     {
       "id": "anime-best-anime-movies",
@@ -1016,13 +975,12 @@
       "platform": null,
       "platformName": null,
       "category": "curated",
-      "tags": [],
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "media/anime/best-anime-movies.xcoll",
       "created": "2026-02-27T16:38:44.248165Z",
-      "updated": null,
-      "size": 2262
+      "size": 3911
     },
     {
       "id": "anime-best-anime-series",
@@ -1032,13 +990,12 @@
       "platform": null,
       "platformName": null,
       "category": "curated",
-      "tags": [],
       "itemsCount": 49,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "media/anime/best-anime-series.xcoll",
       "created": "2026-02-27T16:35:15.369886Z",
-      "updated": null,
-      "size": 2191
+      "size": 3806
     },
     {
       "id": "movies-top-rated-movies",
@@ -1047,14 +1004,13 @@
       "mediaType": "movies",
       "platform": null,
       "platformName": null,
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "media/movies/top-rated-movies.xcoll",
       "created": "2026-02-27T16:34:54.940021Z",
-      "updated": null,
-      "size": 2188
+      "size": 3637
     },
     {
       "id": "tv-shows-top-rated-tv-shows",
@@ -1063,14 +1019,13 @@
       "mediaType": "tv-shows",
       "platform": null,
       "platformName": null,
-      "category": "curated",
-      "tags": [],
+      "category": "complete",
       "itemsCount": 50,
       "author": "Tonkatsu Box",
+      "format": "light",
       "file": "media/tv-shows/top-rated-tv-shows.xcoll",
       "created": "2026-02-27T16:35:08.755176Z",
-      "updated": null,
-      "size": 2229
+      "size": 3778
     }
   ],
   "categories": [

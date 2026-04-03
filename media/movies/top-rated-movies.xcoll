@@ -1,163 +1,210 @@
 {
   "version": 2,
   "format": "light",
-  "meta": {
-    "name": "Top Rated Movies",
-    "description": "Top 50 highest rated movies of all time (TMDB)",
-    "author": "Tonkatsu Box",
-    "category": "curated",
-    "created": "2026-02-27T16:34:54.940021Z"
-  },
+  "name": "Top Rated Movies",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:34:54.940021Z",
+  "description": "Top 50 highest rated movies of all time (TMDB)",
   "items": [
     {
-      "externalId": 278
+      "media_type": "movie",
+      "external_id": 278
     },
     {
-      "externalId": 238
+      "media_type": "movie",
+      "external_id": 238
     },
     {
-      "externalId": 240
+      "media_type": "movie",
+      "external_id": 240
     },
     {
-      "externalId": 424
+      "media_type": "movie",
+      "external_id": 424
     },
     {
-      "externalId": 389
+      "media_type": "movie",
+      "external_id": 389
     },
     {
-      "externalId": 129
+      "media_type": "movie",
+      "external_id": 129
     },
     {
-      "externalId": 155
+      "media_type": "movie",
+      "external_id": 155
     },
     {
-      "externalId": 19404
+      "media_type": "movie",
+      "external_id": 19404
     },
     {
-      "externalId": 497
+      "media_type": "movie",
+      "external_id": 497
     },
     {
-      "externalId": 122
+      "media_type": "movie",
+      "external_id": 122
     },
     {
-      "externalId": 496243
+      "media_type": "movie",
+      "external_id": 496243
     },
     {
-      "externalId": 680
+      "media_type": "movie",
+      "external_id": 680
     },
     {
-      "externalId": 372058
+      "media_type": "movie",
+      "external_id": 372058
     },
     {
-      "externalId": 157336
+      "media_type": "movie",
+      "external_id": 157336
     },
     {
-      "externalId": 429
+      "media_type": "movie",
+      "external_id": 429
     },
     {
-      "externalId": 13
+      "media_type": "movie",
+      "external_id": 13
     },
     {
-      "externalId": 769
+      "media_type": "movie",
+      "external_id": 769
     },
     {
-      "externalId": 346
+      "media_type": "movie",
+      "external_id": 346
     },
     {
-      "externalId": 12477
+      "media_type": "movie",
+      "external_id": 12477
     },
     {
-      "externalId": 637
+      "media_type": "movie",
+      "external_id": 637
     },
     {
-      "externalId": 550
+      "media_type": "movie",
+      "external_id": 550
     },
     {
-      "externalId": 14537
+      "media_type": "movie",
+      "external_id": 14537
     },
     {
-      "externalId": 120
+      "media_type": "movie",
+      "external_id": 120
     },
     {
-      "externalId": 598
+      "media_type": "movie",
+      "external_id": 598
     },
     {
-      "externalId": 11216
+      "media_type": "movie",
+      "external_id": 11216
     },
     {
-      "externalId": 40096
+      "media_type": "movie",
+      "external_id": 40096
     },
     {
-      "externalId": 667257
+      "media_type": "movie",
+      "external_id": 667257
     },
     {
-      "externalId": 539
+      "media_type": "movie",
+      "external_id": 539
     },
     {
-      "externalId": 121
+      "media_type": "movie",
+      "external_id": 121
     },
     {
-      "externalId": 510
+      "media_type": "movie",
+      "external_id": 510
     },
     {
-      "externalId": 696374
+      "media_type": "movie",
+      "external_id": 696374
     },
     {
-      "externalId": 255709
+      "media_type": "movie",
+      "external_id": 255709
     },
     {
-      "externalId": 324857
+      "media_type": "movie",
+      "external_id": 324857
     },
     {
-      "externalId": 1891
+      "media_type": "movie",
+      "external_id": 1891
     },
     {
-      "externalId": 4935
+      "media_type": "movie",
+      "external_id": 4935
     },
     {
-      "externalId": 311
+      "media_type": "movie",
+      "external_id": 311
     },
     {
-      "externalId": 378064
+      "media_type": "movie",
+      "external_id": 378064
     },
     {
-      "externalId": 807
+      "media_type": "movie",
+      "external_id": 807
     },
     {
-      "externalId": 423
+      "media_type": "movie",
+      "external_id": 423
     },
     {
-      "externalId": 244786
+      "media_type": "movie",
+      "external_id": 244786
     },
     {
-      "externalId": 724089
+      "media_type": "movie",
+      "external_id": 724089
     },
     {
-      "externalId": 27205
+      "media_type": "movie",
+      "external_id": 27205
     },
     {
-      "externalId": 761053
+      "media_type": "movie",
+      "external_id": 761053
     },
     {
-      "externalId": 770156
+      "media_type": "movie",
+      "external_id": 770156
     },
     {
-      "externalId": 12493
+      "media_type": "movie",
+      "external_id": 12493
     },
     {
-      "externalId": 274
+      "media_type": "movie",
+      "external_id": 274
     },
     {
-      "externalId": 1218925
+      "media_type": "movie",
+      "external_id": 1218925
     },
     {
-      "externalId": 567
+      "media_type": "movie",
+      "external_id": 567
     },
     {
-      "externalId": 1058694
+      "media_type": "movie",
+      "external_id": 1058694
     },
     {
-      "externalId": 569094
+      "media_type": "movie",
+      "external_id": 569094
     }
   ]
 }

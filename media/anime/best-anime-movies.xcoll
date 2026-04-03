@@ -1,163 +1,210 @@
 {
   "version": 2,
   "format": "light",
-  "meta": {
-    "name": "Best Anime Movies",
-    "description": "Top 50 highest rated anime movies (TMDB)",
-    "author": "Tonkatsu Box",
-    "category": "curated",
-    "created": "2026-02-27T16:38:44.248165Z"
-  },
+  "name": "Best Anime Movies",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:38:44.248165Z",
+  "description": "Top 50 highest rated anime movies (TMDB)",
   "items": [
     {
-      "externalId": 1333100
+      "media_type": "animation",
+      "external_id": 1333100
     },
     {
-      "externalId": 129
+      "media_type": "animation",
+      "external_id": 129
     },
     {
-      "externalId": 372058
+      "media_type": "animation",
+      "external_id": 372058
     },
     {
-      "externalId": 637663
+      "media_type": "animation",
+      "external_id": 637663
     },
     {
-      "externalId": 938567
+      "media_type": "animation",
+      "external_id": 938567
     },
     {
-      "externalId": 12477
+      "media_type": "animation",
+      "external_id": 12477
     },
     {
-      "externalId": 641364
+      "media_type": "animation",
+      "external_id": 641364
     },
     {
-      "externalId": 324857
+      "media_type": "animation",
+      "external_id": 324857
     },
     {
-      "externalId": 4935
+      "media_type": "animation",
+      "external_id": 4935
     },
     {
-      "externalId": 378064
+      "media_type": "animation",
+      "external_id": 378064
     },
     {
-      "externalId": 1218925
+      "media_type": "animation",
+      "external_id": 1218925
     },
     {
-      "externalId": 1150394
+      "media_type": "animation",
+      "external_id": 1150394
     },
     {
-      "externalId": 569094
+      "media_type": "animation",
+      "external_id": 569094
     },
     {
-      "externalId": 128
+      "media_type": "animation",
+      "external_id": 128
     },
     {
-      "externalId": 1181107
+      "media_type": "animation",
+      "external_id": 1181107
     },
     {
-      "externalId": 620249
+      "media_type": "animation",
+      "external_id": 620249
     },
     {
-      "externalId": 1184918
+      "media_type": "animation",
+      "external_id": 1184918
     },
     {
-      "externalId": 210769
+      "media_type": "animation",
+      "external_id": 210769
     },
     {
-      "externalId": 526429
+      "media_type": "animation",
+      "external_id": 526429
     },
     {
-      "externalId": 372754
+      "media_type": "animation",
+      "external_id": 372754
     },
     {
-      "externalId": 10494
+      "media_type": "animation",
+      "external_id": 10494
     },
     {
-      "externalId": 820067
+      "media_type": "animation",
+      "external_id": 820067
     },
     {
-      "externalId": 533514
+      "media_type": "animation",
+      "external_id": 533514
     },
     {
-      "externalId": 72720
+      "media_type": "animation",
+      "external_id": 72720
     },
     {
-      "externalId": 1139087
+      "media_type": "animation",
+      "external_id": 1139087
     },
     {
-      "externalId": 652837
+      "media_type": "animation",
+      "external_id": 652837
     },
     {
-      "externalId": 667276
+      "media_type": "animation",
+      "external_id": 667276
     },
     {
-      "externalId": 18491
+      "media_type": "animation",
+      "external_id": 18491
     },
     {
-      "externalId": 92321
+      "media_type": "animation",
+      "external_id": 92321
     },
     {
-      "externalId": 632632
+      "media_type": "animation",
+      "external_id": 632632
     },
     {
-      "externalId": 572154
+      "media_type": "animation",
+      "external_id": 572154
     },
     {
-      "externalId": 8587
+      "media_type": "animation",
+      "external_id": 8587
     },
     {
-      "externalId": 504253
+      "media_type": "animation",
+      "external_id": 504253
     },
     {
-      "externalId": 508965
+      "media_type": "animation",
+      "external_id": 508965
     },
     {
-      "externalId": 110420
+      "media_type": "animation",
+      "external_id": 110420
     },
     {
-      "externalId": 618344
+      "media_type": "animation",
+      "external_id": 618344
     },
     {
-      "externalId": 995133
+      "media_type": "animation",
+      "external_id": 995133
     },
     {
-      "externalId": 315162
+      "media_type": "animation",
+      "external_id": 315162
     },
     {
-      "externalId": 635302
+      "media_type": "animation",
+      "external_id": 635302
     },
     {
-      "externalId": 354912
+      "media_type": "animation",
+      "external_id": 354912
     },
     {
-      "externalId": 283566
+      "media_type": "animation",
+      "external_id": 283566
     },
     {
-      "externalId": 441130
+      "media_type": "animation",
+      "external_id": 441130
     },
     {
-      "externalId": 784500
+      "media_type": "animation",
+      "external_id": 784500
     },
     {
-      "externalId": 245881
+      "media_type": "animation",
+      "external_id": 245881
     },
     {
-      "externalId": 537061
+      "media_type": "animation",
+      "external_id": 537061
     },
     {
-      "externalId": 476292
+      "media_type": "animation",
+      "external_id": 476292
     },
     {
-      "externalId": 399106
+      "media_type": "animation",
+      "external_id": 399106
     },
     {
-      "externalId": 571265
+      "media_type": "animation",
+      "external_id": 571265
     },
     {
-      "externalId": 592350
+      "media_type": "animation",
+      "external_id": 592350
     },
     {
-      "externalId": 297610
+      "media_type": "animation",
+      "external_id": 297610
     }
   ]
 }

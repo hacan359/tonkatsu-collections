@@ -1,213 +1,260 @@
 {
   "version": 2,
   "format": "light",
-  "meta": {
-    "name": "Top NES Games",
-    "description": "Top 50 highest rated Nintendo Entertainment System games",
-    "author": "Tonkatsu Box",
-    "category": "curated",
-    "created": "2026-02-27T16:09:13.377700Z"
-  },
+  "name": "Top NES Games",
+  "author": "Tonkatsu Box",
+  "created": "2026-02-27T16:09:13.377700Z",
+  "description": "Top 50 highest rated Nintendo Entertainment System games",
   "items": [
     {
-      "externalId": 25880,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 25880,
+      "platform_id": 18
     },
     {
-      "externalId": 1068,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1068,
+      "platform_id": 18
     },
     {
-      "externalId": 204385,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 204385,
+      "platform_id": 18
     },
     {
-      "externalId": 8197,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 8197,
+      "platform_id": 18
     },
     {
-      "externalId": 1715,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1715,
+      "platform_id": 18
     },
     {
-      "externalId": 69638,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 69638,
+      "platform_id": 18
     },
     {
-      "externalId": 15901,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 15901,
+      "platform_id": 18
     },
     {
-      "externalId": 6488,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 6488,
+      "platform_id": 18
     },
     {
-      "externalId": 17249,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 17249,
+      "platform_id": 18
     },
     {
-      "externalId": 358,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 358,
+      "platform_id": 18
     },
     {
-      "externalId": 8697,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 8697,
+      "platform_id": 18
     },
     {
-      "externalId": 2195,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 2195,
+      "platform_id": 18
     },
     {
-      "externalId": 84919,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 84919,
+      "platform_id": 18
     },
     {
-      "externalId": 6487,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 6487,
+      "platform_id": 18
     },
     {
-      "externalId": 3717,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 3717,
+      "platform_id": 18
     },
     {
-      "externalId": 9154,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 9154,
+      "platform_id": 18
     },
     {
-      "externalId": 69179,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 69179,
+      "platform_id": 18
     },
     {
-      "externalId": 7776,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 7776,
+      "platform_id": 18
     },
     {
-      "externalId": 11191,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 11191,
+      "platform_id": 18
     },
     {
-      "externalId": 3447,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 3447,
+      "platform_id": 18
     },
     {
-      "externalId": 1022,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1022,
+      "platform_id": 18
     },
     {
-      "externalId": 1974,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1974,
+      "platform_id": 18
     },
     {
-      "externalId": 84799,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 84799,
+      "platform_id": 18
     },
     {
-      "externalId": 3816,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 3816,
+      "platform_id": 18
     },
     {
-      "externalId": 1716,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1716,
+      "platform_id": 18
     },
     {
-      "externalId": 4596,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 4596,
+      "platform_id": 18
     },
     {
-      "externalId": 15540,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 15540,
+      "platform_id": 18
     },
     {
-      "externalId": 16584,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 16584,
+      "platform_id": 18
     },
     {
-      "externalId": 8452,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 8452,
+      "platform_id": 18
     },
     {
-      "externalId": 3662,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 3662,
+      "platform_id": 18
     },
     {
-      "externalId": 14731,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 14731,
+      "platform_id": 18
     },
     {
-      "externalId": 2367,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 2367,
+      "platform_id": 18
     },
     {
-      "externalId": 8732,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 8732,
+      "platform_id": 18
     },
     {
-      "externalId": 9159,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 9159,
+      "platform_id": 18
     },
     {
-      "externalId": 2703,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 2703,
+      "platform_id": 18
     },
     {
-      "externalId": 1114,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1114,
+      "platform_id": 18
     },
     {
-      "externalId": 1658,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1658,
+      "platform_id": 18
     },
     {
-      "externalId": 186207,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 186207,
+      "platform_id": 18
     },
     {
-      "externalId": 9155,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 9155,
+      "platform_id": 18
     },
     {
-      "externalId": 6490,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 6490,
+      "platform_id": 18
     },
     {
-      "externalId": 1719,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1719,
+      "platform_id": 18
     },
     {
-      "externalId": 2951,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 2951,
+      "platform_id": 18
     },
     {
-      "externalId": 6518,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 6518,
+      "platform_id": 18
     },
     {
-      "externalId": 1718,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1718,
+      "platform_id": 18
     },
     {
-      "externalId": 1717,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1717,
+      "platform_id": 18
     },
     {
-      "externalId": 8449,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 8449,
+      "platform_id": 18
     },
     {
-      "externalId": 7550,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 7550,
+      "platform_id": 18
     },
     {
-      "externalId": 1067,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 1067,
+      "platform_id": 18
     },
     {
-      "externalId": 385,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 385,
+      "platform_id": 18
     },
     {
-      "externalId": 2970,
-      "platformId": 18
+      "media_type": "game",
+      "external_id": 2970,
+      "platform_id": 18
     }
   ]
 }
