@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """
-Validates .xcoll/.xcollx, _platform.json, and _media.json files before merge.
+Validates .xcoll/.xcollx/.zip, _platform.json, and _media.json files before merge.
 Runs automatically via GitHub Actions on pull requests.
 
 .xcoll/.xcollx files must be in native Tonkatsu Box XcollFile format (v2).
+.zip files must contain exactly one .xcoll or .xcollx file inside.
 """
 
 import json
 import re
 import sys
+import zipfile
 from pathlib import Path
 
 VALID_FORMATS = ("light", "full")
@@ -18,26 +20,37 @@ REQUIRED_PLATFORM_FIELDS = ["id", "name", "shortName", "igdbId"]
 REQUIRED_MEDIA_FIELDS = ["id", "name", "shortName", "source"]
 
 KEBAB_CASE_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+XCOLL_EXTENSIONS = (".xcoll", ".xcollx")
 
 
-def load_json(path):
+def load_json_from_path(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
-def validate_xcoll(path):
-    """Validate a .xcoll/.xcollx file against XcollFile v2 format."""
+def load_json_from_zip(zip_path):
+    """Load the .xcoll/.xcollx file from inside a zip archive.
+
+    Returns (data, inner_filename) or raises ValueError.
+    """
+    with zipfile.ZipFile(zip_path, "r") as zf:
+        xcoll_files = [
+            n for n in zf.namelist() if n.lower().endswith(XCOLL_EXTENSIONS)
+        ]
+        if not xcoll_files:
+            raise ValueError("No .xcoll/.xcollx file found inside zip")
+        if len(xcoll_files) > 1:
+            raise ValueError(
+                f"Zip contains multiple collection files: {xcoll_files}"
+            )
+        inner = xcoll_files[0]
+        raw = zf.read(inner)
+        return json.loads(raw.decode("utf-8")), inner
+
+
+def validate_xcoll_data(data, display_path, inner_filename=None):
+    """Validate parsed XcollFile v2 data."""
     errors = []
-
-    try:
-        data = load_json(path)
-    except json.JSONDecodeError as e:
-        return [f"Invalid JSON: {e}"]
-
-    # Check filename is kebab-case
-    stem = path.stem
-    if not KEBAB_CASE_RE.match(stem):
-        errors.append(f"Filename must be kebab-case: '{stem}' (e.g. 'best-rpgs')")
 
     # version (required, must be 2)
     if data.get("version") != 2:
@@ -48,12 +61,11 @@ def validate_xcoll(path):
     if fmt not in VALID_FORMATS:
         errors.append(f"Invalid format: {fmt}. Must be one of: {VALID_FORMATS}")
 
-    # Verify extension matches format
-    suffix = path.suffix.lower()
-    if fmt == "full" and suffix != ".xcollx":
-        errors.append(f"Full format should use .xcollx extension, got '{suffix}'")
-    if fmt == "light" and suffix not in (".xcoll", ".xcollx"):
-        errors.append(f"Unexpected extension '{suffix}' for format '{fmt}'")
+    # Verify inner file extension matches format (skip for zips without inner name)
+    if inner_filename:
+        suffix = Path(inner_filename).suffix.lower()
+        if fmt == "full" and suffix != ".xcollx":
+            errors.append(f"Full format should use .xcollx extension, got '{suffix}'")
 
     # name (required)
     if not data.get("name"):
@@ -68,7 +80,9 @@ def validate_xcoll(path):
     if not created:
         errors.append("Missing required field: created")
     elif not isinstance(created, str):
-        errors.append(f"'created' must be an ISO 8601 string, got {type(created).__name__}")
+        errors.append(
+            f"'created' must be an ISO 8601 string, got {type(created).__name__}"
+        )
 
     # items (required, non-empty)
     items = data.get("items")
@@ -80,14 +94,12 @@ def validate_xcoll(path):
         errors.append("Collection has no items")
 
     for i, item in enumerate(items):
-        # media_type (required)
         mt = item.get("media_type")
         if not mt:
             errors.append(f"Item {i}: missing media_type")
         elif mt not in VALID_MEDIA_TYPES:
             errors.append(f"Item {i}: invalid media_type '{mt}'")
 
-        # external_id (required)
         if "external_id" not in item:
             errors.append(f"Item {i}: missing external_id")
 
@@ -108,12 +120,102 @@ def validate_xcoll(path):
     return errors
 
 
+def validate_xcoll(path):
+    """Validate a .xcoll/.xcollx file."""
+    errors = []
+
+    # Check filename is kebab-case
+    stem = path.stem
+    if not KEBAB_CASE_RE.match(stem):
+        errors.append(f"Filename must be kebab-case: '{stem}' (e.g. 'best-rpgs')")
+
+    try:
+        data = load_json_from_path(path)
+    except json.JSONDecodeError as e:
+        return errors + [f"Invalid JSON: {e}"]
+
+    # Verify extension matches format
+    suffix = path.suffix.lower()
+    fmt = data.get("format")
+    if fmt == "full" and suffix != ".xcollx":
+        errors.append(f"Full format should use .xcollx extension, got '{suffix}'")
+    if fmt == "light" and suffix not in XCOLL_EXTENSIONS:
+        errors.append(f"Unexpected extension '{suffix}' for format '{fmt}'")
+
+    errors.extend(validate_xcoll_data(data, path))
+    return errors
+
+
+def validate_zip(path):
+    """Validate a .zip file containing a .xcoll/.xcollx.
+
+    Security checks:
+    - Must be a valid zip file
+    - No path traversal (../ in filenames)
+    - No unexpected files (only .xcoll/.xcollx allowed)
+    - Zip bomb protection (uncompressed size limit)
+    - Exactly one collection file inside
+    """
+    errors = []
+    max_uncompressed_size = 500 * 1024 * 1024  # 500 MB limit
+
+    # Check filename is kebab-case
+    stem = path.stem
+    if not KEBAB_CASE_RE.match(stem):
+        errors.append(f"Filename must be kebab-case: '{stem}' (e.g. 'best-rpgs')")
+
+    if not zipfile.is_zipfile(path):
+        return errors + ["Not a valid zip file"]
+
+    try:
+        with zipfile.ZipFile(path, "r") as zf:
+            # Check for path traversal
+            for name in zf.namelist():
+                if ".." in name or name.startswith("/"):
+                    errors.append(f"Suspicious path in zip: '{name}'")
+                    return errors
+
+            # Check all files have allowed extensions
+            for name in zf.namelist():
+                if name.endswith("/"):
+                    continue  # skip directories
+                if not name.lower().endswith(XCOLL_EXTENSIONS):
+                    errors.append(
+                        f"Unexpected file in zip: '{name}' "
+                        f"(only .xcoll/.xcollx allowed)"
+                    )
+
+            if errors:
+                return errors
+
+            # Check total uncompressed size (zip bomb protection)
+            total_size = sum(info.file_size for info in zf.infolist())
+            if total_size > max_uncompressed_size:
+                errors.append(
+                    f"Uncompressed size too large: {total_size / 1024 / 1024:.0f} MB "
+                    f"(limit: {max_uncompressed_size / 1024 / 1024:.0f} MB)"
+                )
+                return errors
+    except zipfile.BadZipFile:
+        return errors + ["Corrupted zip file"]
+
+    try:
+        data, inner = load_json_from_zip(path)
+    except ValueError as e:
+        return errors + [str(e)]
+    except json.JSONDecodeError as e:
+        return errors + [f"Invalid JSON inside zip: {e}"]
+
+    errors.extend(validate_xcoll_data(data, path, inner_filename=inner))
+    return errors
+
+
 def validate_platform(path):
     """Validate a _platform.json file."""
     errors = []
 
     try:
-        data = load_json(path)
+        data = load_json_from_path(path)
     except json.JSONDecodeError as e:
         return [f"Invalid JSON: {e}"]
 
@@ -121,7 +223,6 @@ def validate_platform(path):
         if field not in data:
             errors.append(f"Missing required field: {field}")
 
-    # id should match parent folder name
     parent_name = path.parent.name
     if data.get("id") and data["id"] != parent_name:
         errors.append(f"id '{data['id']}' does not match folder name '{parent_name}'")
@@ -137,7 +238,7 @@ def validate_media(path):
     errors = []
 
     try:
-        data = load_json(path)
+        data = load_json_from_path(path)
     except json.JSONDecodeError as e:
         return [f"Invalid JSON: {e}"]
 
@@ -145,7 +246,6 @@ def validate_media(path):
         if field not in data:
             errors.append(f"Missing required field: {field}")
 
-    # id should match parent folder name
     parent_name = path.parent.name
     if data.get("id") and data["id"] != parent_name:
         errors.append(f"id '{data['id']}' does not match folder name '{parent_name}'")
@@ -153,47 +253,39 @@ def validate_media(path):
     return errors
 
 
-def main():
-    has_errors = False
+def check_files(pattern, validator):
+    """Run validator on all files matching pattern. Returns error count."""
+    error_count = 0
+    for path in sorted(Path(".").rglob(pattern)):
+        errors = validator(path)
+        if errors:
+            print(f"FAIL {path}")
+            for error in errors:
+                print(f"   - {error}")
+            error_count += 1
+        else:
+            print(f"OK   {path}")
+    return error_count
 
-    # Validate .xcoll and .xcollx files
-    for pattern in ("*.xcoll", "*.xcollx"):
-        for path in sorted(Path(".").rglob(pattern)):
-            errors = validate_xcoll(path)
-            if errors:
-                print(f"FAIL {path}")
-                for error in errors:
-                    print(f"   - {error}")
-                has_errors = True
-            else:
-                print(f"OK   {path}")
+
+def main():
+    errors = 0
+
+    # Validate .xcoll, .xcollx, and .zip files
+    errors += check_files("*.xcoll", validate_xcoll)
+    errors += check_files("*.xcollx", validate_xcoll)
+    errors += check_files("*.zip", validate_zip)
 
     # Validate _platform.json files
     if Path("platforms").exists():
-        for path in sorted(Path("platforms").rglob("_platform.json")):
-            errors = validate_platform(path)
-            if errors:
-                print(f"FAIL {path}")
-                for error in errors:
-                    print(f"   - {error}")
-                has_errors = True
-            else:
-                print(f"OK   {path}")
+        errors += check_files("platforms/**/_platform.json", validate_platform)
 
     # Validate _media.json files
     if Path("media").exists():
-        for path in sorted(Path("media").rglob("_media.json")):
-            errors = validate_media(path)
-            if errors:
-                print(f"FAIL {path}")
-                for error in errors:
-                    print(f"   - {error}")
-                has_errors = True
-            else:
-                print(f"OK   {path}")
+        errors += check_files("media/**/_media.json", validate_media)
 
-    if has_errors:
-        print("\nValidation failed!")
+    if errors:
+        print(f"\nValidation failed! ({errors} file(s) with errors)")
         sys.exit(1)
 
     print("\nAll files valid!")
