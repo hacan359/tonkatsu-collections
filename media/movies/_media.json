@@ -1,0 +1,6 @@
+{
+  "id": "movies",
+  "name": "Movies",
+  "shortName": "Movies",
+  "source": "TMDB"
+}
