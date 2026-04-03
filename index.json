@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-04-03T15:28:24.483330+00:00",
+  "generated": "2026-04-03T16:28:36.473696+00:00",
   "totalCollections": 45,
   "totalItems": 26752,
   "platforms": [
@@ -980,7 +980,7 @@
       "format": "full",
       "file": "media/animation/best-anime-movies.xcollx",
       "created": "2026-02-27T16:38:44.248165Z",
-      "size": 2878266
+      "size": 2879466
     },
     {
       "id": "animation-best-anime-series",
@@ -995,7 +995,7 @@
       "format": "full",
       "file": "media/animation/best-anime-series.xcollx",
       "created": "2026-02-27T16:35:15.369886Z",
-      "size": 3236255
+      "size": 3237431
     },
     {
       "id": "movies-top-rated-movies",
