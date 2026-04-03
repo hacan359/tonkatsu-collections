@@ -1,21 +1,38 @@
 #!/usr/bin/env python3
 """
-Generates index.json from all .xcoll/.xcollx files in the repository.
+Generates index.json from all .xcoll/.xcollx/.zip files in the repository.
 Runs automatically via GitHub Actions on push to main.
 
 Reads native Tonkatsu Box XcollFile format (v2) and extracts metadata
-for the collection browser in the app.
+for the collection browser in the app. Supports zip-compressed collections.
 """
 
 import json
 import os
+import zipfile
 from pathlib import Path
 from datetime import datetime, timezone
+
+XCOLL_EXTENSIONS = (".xcoll", ".xcollx")
 
 
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_xcoll(path):
+    """Load collection data from .xcoll, .xcollx, or .zip file."""
+    if path.suffix.lower() == ".zip":
+        with zipfile.ZipFile(path, "r") as zf:
+            xcoll_files = [
+                n for n in zf.namelist() if n.lower().endswith(XCOLL_EXTENSIONS)
+            ]
+            if not xcoll_files:
+                raise ValueError(f"No .xcoll/.xcollx found inside {path}")
+            raw = zf.read(xcoll_files[0])
+            return json.loads(raw.decode("utf-8"))
+    return load_json(path)
 
 
 def get_file_size(path):
@@ -38,12 +55,20 @@ def detect_category(xcoll_data, filename):
     return "curated"
 
 
-def scan_xcoll_files(directory, pattern="*.xcoll"):
-    """Find all .xcoll and .xcollx files in a directory."""
+def scan_xcoll_files(directory):
+    """Find all .xcoll, .xcollx, and .zip files in a directory."""
     files = []
     if directory.exists():
-        files.extend(sorted(directory.rglob("*.xcoll")))
-        files.extend(sorted(directory.rglob("*.xcollx")))
+        for ext in ("*.xcoll", "*.xcollx", "*.zip"):
+            files.extend(sorted(directory.rglob(ext)))
+    return files
+
+
+def list_xcoll_files(directory):
+    """List .xcoll, .xcollx, and .zip files in a single directory."""
+    files = []
+    for ext in ("*.xcoll", "*.xcollx", "*.zip"):
+        files.extend(sorted(directory.glob(ext)))
     return files
 
 
@@ -80,14 +105,12 @@ def build_index():
             }
 
             # Scan .xcoll and .xcollx files
-            xcoll_files = sorted(platform_dir.glob("*.xcoll")) + sorted(
-                platform_dir.glob("*.xcollx")
-            )
+            xcoll_files = list_xcoll_files(platform_dir)
             for xcoll_path in xcoll_files:
                 if xcoll_path.name.startswith("_"):
                     continue
                 try:
-                    xcoll = load_json(xcoll_path)
+                    xcoll = load_xcoll(xcoll_path)
                     items = xcoll.get("items", [])
                     category = detect_category(xcoll, xcoll_path.stem)
 
@@ -143,14 +166,12 @@ def build_index():
                 "itemsCount": 0,
             }
 
-            xcoll_files = sorted(type_dir.glob("*.xcoll")) + sorted(
-                type_dir.glob("*.xcollx")
-            )
+            xcoll_files = list_xcoll_files(type_dir)
             for xcoll_path in xcoll_files:
                 if xcoll_path.name.startswith("_"):
                     continue
                 try:
-                    xcoll = load_json(xcoll_path)
+                    xcoll = load_xcoll(xcoll_path)
                     items = xcoll.get("items", [])
                     category = detect_category(xcoll, xcoll_path.stem)
 
@@ -183,12 +204,10 @@ def build_index():
     curated_dir = Path("curated")
 
     if curated_dir.exists():
-        xcoll_files = sorted(curated_dir.glob("*.xcoll")) + sorted(
-            curated_dir.glob("*.xcollx")
-        )
+        xcoll_files = list_xcoll_files(curated_dir)
         for xcoll_path in xcoll_files:
             try:
-                xcoll = load_json(xcoll_path)
+                xcoll = load_xcoll(xcoll_path)
                 items = xcoll.get("items", [])
 
                 collection = {
