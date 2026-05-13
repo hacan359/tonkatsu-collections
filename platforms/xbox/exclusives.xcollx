@@ -1,0 +1,2047 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Xbox Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:32+00:00",
+  "description": "Games released exclusively on Xbox, sourced from Wikipedia category \"Xbox-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1299,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon_2%3A_Summit_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1389,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Dead_or_Alive_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1390,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Dead_or_Alive_Xtreme_Beach_Volleyball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1425,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Conker%3A_Live_%26_Reloaded"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1570,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Jet_Set_Radio_Future"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1672,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Orta"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1852,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six%3A_Critical_Hour"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3073,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Forza_Motorsport_%282005_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3320,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3321,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5466,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Voodoo_Vince"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5484,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Amped%3A_Freestyle_Snowboarding"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5599,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars%3A_Obi-Wan"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5722,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/America%27s_Army%3A_Rise_of_a_Soldier"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5723,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/AMF_Bowling_2004"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5725,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Amped_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5728,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Racing_Evoluzione"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5733,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Azurik%3A_Rise_of_Perathia"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5747,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Bicycle_Casino_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5750,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Black_Stone%3A_Magic_%26_Steel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5751,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Blinx%3A_The_Time_Sweeper"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5752,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Blinx_2%3A_Masters_of_Time_and_Space"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5754,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Blood_Wake"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5756,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Breakdown_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5758,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Bruce_Lee%3A_Quest_of_the_Dragon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5759,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Brute_Force_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5760,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%282002_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5762,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/C.A.T.%3A_Cyber_Attack_Team"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5767,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Carve_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5770,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Championship_Manager%3A_Season_02/03"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5774,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Chase%3A_Hollywood_Stunt_Driver"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5777,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Classified%3A_The_Sentinel_Crisis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5792,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Crimson_Sea"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5793,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Crimson_Skies%3A_High_Road_to_Revenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5800,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution_Ultramix_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5801,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution_Ultramix_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5803,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Dancing_Stage_Unleashed"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5811,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Deathrow_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5813,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Dino_Crisis_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5819,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Heroes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5831,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Far_Cry_Instincts%3A_Evolution"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5842,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Fuzion_Frenzy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5843,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Galleon_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5854,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Greg_Hastings%27_Tournament_Paintball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5856,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Group_S_Challenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5865,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Hunter%3A_The_Reckoning_%E2%80%93_Redeemer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5873,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Kabuki_Warriors"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5880,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Kakuto_Chojin%3A_Back_Alley_Brutal"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5882,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Kingdom_Under_Fire%3A_Heroes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5898,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Kung_Fu_Chaos"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5902,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Links_2004"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5903,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Loons%3A_The_Fight_for_Fame"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5905,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Mad_Dash_Racing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5910,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/MechAssault"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5911,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/MechAssault_2%3A_Lone_Wolf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5914,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Dungeon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5929,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Midtown_Madness_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5936,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Murakumo%3A_Renegade_Mech_Pursuit"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5940,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/N.U.D.E.%40_Natural_Ultimate_Digital_Experiment"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5961,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Fever_2002"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5962,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Fever_2003"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5970,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/NightCaster_II%3A_Equinox"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5972,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Gaiden_Black"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5975,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Otogi%3A_Myth_of_Demons"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5976,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Otogi_2%3A_Immortal_Warriors"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5980,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Phantom_Crash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5996,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Quantum_Redshift"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5997,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/RalliSport_Challenge_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5999,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Raze%27s_Hell"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6010,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Pulse_Racer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6039,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Sega_GT_2002"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6050,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Shin_Megami_Tensei%3A_Nine"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6052,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Silent_Scope_Complete"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6053,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Sneakers_%282002_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6056,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Spikeout%3A_Battle_Street"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6158,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Stake%3A_Fortune_Fighters"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6163,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Steel_Battalion"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6174,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Steel_Battalion%3A_Line_of_Contact"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6183,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Superman%3A_The_Man_of_Steel_%282002_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6190,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Tao_Feng%3A_Fist_of_the_Lotus"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6192,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Tecmo_Classic_Arcade"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6202,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/ToeJam_%26_Earl_III%3A_Mission_to_Earth"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6206,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Tork%3A_Prehistoric_Punk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6215,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Toxic_Grind"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6218,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/UFC%3A_Tapout"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6219,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/UFC%3A_Tapout_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6220,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Unreal_Championship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6221,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Unreal_Championship_2%3A_The_Liandri_Conflict"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6229,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Whacked%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6249,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/WWE_Raw_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6251,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/WWE_WrestleMania_21_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6254,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Xyanide"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6257,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Yu-Gi-Oh%21_The_Dawn_of_Destiny"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10234,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Gunvalkyrie"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18268,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/New_Legends"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20795,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Transworld_Snowboarding_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24094,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Fever_2004"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24124,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/NBA_Inside_Drive_2004"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45126,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/NHL_Rivals_2004"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47320,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/SeaBlade"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47323,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/NightCaster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47325,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_2x"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47331,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Pool%3A_Tournament_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47340,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Iron_Phoenix"
+    },
+    {
+      "media_type": "game",
+      "external_id": 70469,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Knight%27s_Apprentice%3A_Memorick%27s_Adventures"
+    },
+    {
+      "media_type": "game",
+      "external_id": 73607,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Maximum_Chase"
+    },
+    {
+      "media_type": "game",
+      "external_id": 78688,
+      "platform_id": 11,
+      "comment": "https://en.wikipedia.org/wiki/Pro_Fishing_Challenge"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1299,
+        "name": "Tom Clancy's Ghost Recon 2: Summit Strike",
+        "summary": "Tom Clancy's Ghost Recon 2: Summit Strike is the expansion to Tom Clancy's Ghost Recon 2. There are several minor differences between Tom Clancy's Ghost Recon 2: Summit Strike, and Tom Clancy's Ghost Recon 2. The most notable being the difficulty, Summit Strike being regarded as the harder of the two. Other differences would include new multiplayer modes, such as Heli Hunt.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ivb.jpg",
+        "release_date": 1123027200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator,Tactical",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/tom-clancy-s-ghost-recon-2-summit-strike",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 1389,
+        "name": "Dead or Alive 3",
+        "summary": "Dead or Alive 3 is the third installment in the popular fighting series Dead or Alive. Dead or Alive 3 offers a host of new features, including new characters, lighting effects, muscle and clothing movement, interactive environments and more. Players can choose from a variety of new and returning characters to engage in hours upon hours of frenzied fighting. Up to four players can battle it out in multiplayer mode while single-player mode offers many expansive levels to explore.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2au3.jpg",
+        "release_date": 1005782400,
+        "rating": 76.39696167162396,
+        "rating_count": 45,
+        "genres": "Fighting,Arcade",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/dead-or-alive-3",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 1390,
+        "name": "Dead or Alive Xtreme Beach Volleyball",
+        "summary": "Dead or Alive Xtreme Beach Volleyball is a beach volleyball game. The game is a departure from the rest of the Dead or Alive series which otherwise consists of fighting games. It also marks the first game in the series to have a Mature rating due to the very revealing swimsuits featured in the game and the suggestive poses the women present themselves in (which can be viewed and zoomed in on from almost any angle, as controlled by the player).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mdk.jpg",
+        "release_date": 1043193600,
+        "rating": 56.99148030486434,
+        "rating_count": 24,
+        "genres": "Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/dead-or-alive-xtreme-beach-volleyball",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 1425,
+        "name": "Conker: Live & Reloaded",
+        "summary": "Conker, gaming’s notoriously naughty squirrel, arrives on the Xbox with a bang in an all-new Xbox Live-enabled team-based shooter, Conker: Live and Reloaded.\n\nThe game features intense Deathmatch and Campaign story line modes via Xbox Live and System Link, and players can compete as one of six combat specialists across multi-mission campaigns covering Old War and Future War. The warfare promises to deliver the non-stop action, humor, and innuendos Conker is famous for.\n\nAlso included is the critically acclaimed single-player game, Conker’s Bad Fur Day, completely recreated for the Xbox with stunning graphics and unparalleled attitude.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w7f.jpg",
+        "release_date": 1119312000,
+        "rating": 79.59198045064385,
+        "rating_count": 31,
+        "genres": "Shooter,Platform",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/conker-live-reloaded",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 1570,
+        "name": "Jet Set Radio Future",
+        "summary": "Jet Set Radio Future is a video game developed by Smilebit and is the sequel to Jet Set Radio. Similar to the original, it depicts a future Tokyo where freedom of expression is outlawed. The user plays a character in the GG's, a gang of in-line skating graffiti artists who skate around Tokyo covering up rival gangs' graffiti, knocking over Rokkaku police, and dancing to the electric soundtrack. The game uses a cel-shaded style of animation, and has been widely acclaimed for its unique music style, detailed art, and gameplay. Though the game is set in the future, its style and content incorporates many aspects of 1980's old school hip hop culture, as well as 1990's J-pop culture.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87hw.jpg",
+        "release_date": 1014336000,
+        "rating": 83.40615335130686,
+        "rating_count": 61,
+        "genres": "Music,Platform,Racing,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/jet-set-radio-future",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 1672,
+        "name": "Panzer Dragoon Orta",
+        "summary": "The fourth installment of the Panzer Dragoon series has you playing Orta, a young girl who has been imprisoned by the Empire. Under a wave of attack, the prison camp is broken through by a mysterious dragon, and Orta takes it upon herself to ride the dragon, and destroy the Empire once and for all. Along the way, she will also discover her own destiny, and the mystery surrounding her new friend.\n\nSimply put, you have limited control of the dragon for most of the game, as your trigger finger will be shooting non-stop at the enemies that fly around the area. Orta will be your main source of fire-power when you simply press the fire button, but by pressing and holding, the aim cursor will change, allowing you to fire a burst of power from the dragon at whatever the cursor aims at.\n\nThe dragon itself can change into three forms at a press of a button. Each form has a different style of attack and power ability.\n\nA port of the original Panzer Dragoon is included.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68yo.jpg",
+        "release_date": 1040256000,
+        "rating": 81.58062717919225,
+        "rating_count": 24,
+        "genres": "Shooter",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/panzer-dragoon-orta",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 1852,
+        "name": "Tom Clancy's Rainbow Six: Critical Hour",
+        "summary": "In Tom Clancy's Rainbow Six Critical Hour, Ubisoft's Quebec studio blends the finest elements of Tom Clancy's Rainbow Six series to create the most complete chapter to date. This latest chapter marks the return to the franchise's roots by reintroducing the deeply strategic and tactical gameplay synonymous with the Rainbow Six name, while incorporating classic in-game elements such as vintage maps and weapons, all rebuilt using today's technology. Rainbow Six Critical Hour brings a new seven-mission single-player campaign and 18 multiplayer levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1o1z.jpg",
+        "release_date": 1142294400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Tactical",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/tom-clancy-s-rainbow-six-critical-hour",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 3073,
+        "name": "Forza Motorsport",
+        "summary": "Racing sim from Microsoft, targeted at gamers who are passionate about cars and racing. Own, customize, and race your favorite cars in the most technologically advanced and realistic driving sim yet. Use race earnings to buy upgrades and aftermarket parts, so you can transform real production cars into high-performance racers. On the track, experience an impressively accurate simulation, while putting your performance-tuned creations to the test against the online gaming world on Xbox Live. Features car models from more than 60 top car manufacturers, customization via decals and team paint-schemes, and vehicle tuning that really affects performance.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co91qc.jpg",
+        "release_date": 1115078400,
+        "rating": 84.07961442569177,
+        "rating_count": 35,
+        "genres": "Racing,Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/forza-motorsport",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 3320,
+        "name": "Project Gotham Racing",
+        "summary": "Project Gotham Racing (PGR) is a racing game, the first in its series, developed by Bizarre Creations and published by Microsoft for the Xbox gaming console.\n\nThe first title in the franchise, Project Gotham Racing, is an Xbox launch title that quickly became the second best-selling game for the console after Halo: Combat Evolved. PGR is a spiritual successor to the Sega Dreamcast game Metropolis Street Racer after Sega discontinued the hardware business and became a software based company. PGR is as of July 12, 2010 compatible with the Xbox 360 through a downloadable update.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uol.jpg",
+        "release_date": 1005782400,
+        "rating": 79.46658654200314,
+        "rating_count": 14,
+        "genres": "Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/project-gotham-racing",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 3321,
+        "name": "Project Gotham Racing 2",
+        "summary": "Project Gotham Racing 2 is a racing game for the Xbox, developed by Bizarre Creations and published by Microsoft. PGR2 is the sequel to the highly successful Project Gotham Racing. It is the second title in the Project Gotham Racing series",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uok.jpg",
+        "release_date": 1069113600,
+        "rating": 83.44236974742537,
+        "rating_count": 21,
+        "genres": "Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/project-gotham-racing-2",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5466,
+        "name": "Voodoo Vince",
+        "summary": "No Pain, No Gain!\n\nVince was just a voodoo doll in a French Quarter shop, but when his maker was kidnapped, he became a vengeful doll on a mission! Using voodoo powers, Vince must kick his own butt to beat his enemies! If he stand under a falling safe, bad guys get flattened! Stick a pitch fork in him, and his enemies are done!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wjd.jpg",
+        "release_date": 1064275200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/voodoo-vince",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5484,
+        "name": "Amped: Freestyle Snowboarding",
+        "summary": "Rip the ultimate line on wide-open, real mountains packed with challenges. Whether you hit the cliffs, grind fallen trees, jib the rainbow tree rail, or take the hidden paths, you decide where and how you go down. While you pull off insane tricks on rails, kickers, and half pipes, remember to pose for roaming photographers and camera crews. With enough exposure, you'll find your face on magazine covers and videos and even become an international media superstar.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3g92.jpg",
+        "release_date": 1006128000,
+        "rating": 70.11575020689418,
+        "rating_count": 13,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/amped-freestyle-snowboarding",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5599,
+        "name": "Star Wars: Obi-Wan",
+        "summary": "Join the legendary Jedi Knight Obi-Wan Kenobi as he takes on the worst scum and villainy the galaxy has to offer in level after level of fast-paced action. In Star Wars: Obi-Wan, you'll call upon the Force and your powerful lightsaber as you face a mysterious new enemy, an assassin droid project and a devious plot that could dramatically shift the balance of power in the universe. Fight your way through an underworld trail of munitions dealers and crime lords-from the lowest depths of Coruscant and dusty Tatooine to the lush city of Theed. The Force is in your hands.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2485.jpg",
+        "release_date": 1008892800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/star-wars-obi-wan",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5722,
+        "name": "America's Army: Rise of a Soldier",
+        "summary": "America's Army: Rise of a Soldier is the Xbox version of the tactical first-person shooter developed in conjunction with the US Army. You can create a soldier and advance him or her through an army career from recruit to leader of a Special Forces team. America's Army: Rise of a Soldier also includes online multiplayer, so you can battle up to 16 players over the Internet.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7mzo.jpg",
+        "release_date": 1132185600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "11,8",
+        "external_url": "https://www.igdb.com/games/america-s-army-rise-of-a-soldier",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5723,
+        "name": "AMF Bowling 2004",
+        "summary": "Bowling fans can appreciate AMF Bowling 2004's realistic sound effects, array of gameplay options, and accurate ball, pin, and lane physics. This bowling simulation also lets you create your own bowler and customize your ball's weight, color, and texture. In multiple gameplay modes, such as practice and tournament play, you can find that perfect combination of position, speed, and ball velocity. Showcase your skills against professional bowlers or against a friend.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/x7vizmmwva0rewpteyoy.jpg",
+        "release_date": 1068768000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/amf-bowling-2004",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5725,
+        "name": "Amped 2",
+        "summary": "Amped 2 is the ultimate freestyle experience, offering the largest, most varied trick library of any snowboarding game. Explore vast areas of wide-open, spectacularly rendered real mountains packed with terrain parks designed by world-famous snow park architect, Chris Gunnarson. Play head-to-head with friends in the various multiplayer modes. When you're ready to take it to the next level, connect to Xbox Live to check rankings and challenge the world's best virtual riders.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52jt.jpg",
+        "release_date": 1067299200,
+        "rating": 76.53387892646528,
+        "rating_count": 6,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/amped-2",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5728,
+        "name": "Apex",
+        "summary": "Get ready to bury the world’s most renowned cars when you race against them with your own brand of sports car. Start off with a small garage, create the ultimate driving machine and go into business as the up and coming sports car manufacturer. Your goal is to build up a reputation for your brand by racing your cars against real sports cars. The more races you win, the more pedigree your brand will receive. If you consistently win the races, you are put to the challenge to start a production line, sell your cars, design new ones, and continue the cycle.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7hgz.jpg",
+        "release_date": 1045526400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Racing,Strategy",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/apex",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5733,
+        "name": "Azurik: Rise of Perathia",
+        "summary": "A high-profile, first-party Xbox title that pits you in a battle to bring justice to your land, Perathia. \"Azurik: Rise of Perathia\" will have a heavy focus on action, jaw-dropping graphics and a unique, element-based combat system.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4prf.jpg",
+        "release_date": 1008374400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/azurik-rise-of-perathia",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5747,
+        "name": "Bicycle Casino",
+        "summary": "Bring the fun, glitz and action of casino gaming into your living room. Step up to the table and place bets or pull the handle of slot machines in 500 different game variations. Put your money down and hope Lady Luck is on your side for fast paced gaming action. Bicycle casino puts you into an authentic casino environment, enables you to create your own customized character and turns you loose out onto the gaming floor. The gameplay options are virtually endless, with table games that include: poker, blackjack, roulette, craps, and more. Play the popular poker variation that is sweeping the nation, \"texas hold'em\", and see if you have the right poker face to win big. If you are more into the one-armed bandits, pull the handle on the three different variations of slot machines and hope you hit the jackpot. Challenge your friends to multiplayer gaming via Xbox Live for even more bicycle casino thrills.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/db3warw9vqwbzd6b5ttd.jpg",
+        "release_date": 1098748800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport,Strategy",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/bicycle-casino",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5750,
+        "name": "Black Stone: Magic & Steel",
+        "summary": "Black Stone: Magic & Steel, known in Japan as Ex-Chaser (エクスチェイサー?), is a role-playing video game developed by XPEC Entertainment and published by Xicat Interactive for the Xbox. The theme song is \"be with you\" by Chihiro Yonekura",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u5c.jpg",
+        "release_date": 1048032000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/black-stone-magic-steel",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5751,
+        "name": "Blinx: The Time Sweeper",
+        "summary": "Blinx: The Time Sweeper is a platform game developed by Artoon and published by Microsoft Game Studios. It was released for the Xbox on October 7, 2002. A sequel, Blinx 2: Masters of Time and Space, was released for the Xbox in 2004.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xqi.jpg",
+        "release_date": 1033948800,
+        "rating": 32.33771570998178,
+        "rating_count": 22,
+        "genres": "Platform",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/blinx-the-time-sweeper",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5752,
+        "name": "Blinx 2: Masters of Time and Space",
+        "summary": "Blinx 2: Masters of Time & Space continues the adventures of Blinx, a heroic cat with the ability to make time slow, fast-forward, rewind, or stop. In this sequel, Blinx and his squad of tough, agile cats use their time-control powers to battle menacing time monsters, outmaneuver the criminal pig gang, and discover why time is disappearing. You can play as Blinx or his rivals--the sneaky pigs--who are equipped with the ability to morph and control space.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ip4.jpg",
+        "release_date": 1100563200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/blinx-2-masters-of-time-and-space",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5754,
+        "name": "Blood Wake",
+        "summary": "Blood Wake is a naval combat video game that was released in 2001 on the Xbox as part of Microsoft's initial wave of Xbox launch titles. The game was developed by Stormfront Studios and published by Microsoft Game Studios.\n\nSet in an Asian-themed fictional world, Blood Wake is a story-driven, mission-based high seas action game in which the player controls a series of small fighting vessels. Some reviewers described its gameplay as \"Twisted Metal on water,\" although its mission-based story line differentiated Blood Wake from Twisted Metal's arena-based gameplay.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31xd.jpg",
+        "release_date": 1009497600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/blood-wake",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5756,
+        "name": "Breakdown",
+        "summary": "Trapped inside a mysterious laboratory and unable to remember his past, Derrick Cole discovers his extraordinary powers, as he fights for survival against a determined military faction and a legion of seemingly invincible super-human warriors! Breakdown offers an exciting first-person action-adventure gaming experience by combining hand-to-hand combat and state-of-the-art weapons with an intense story line and incredible graphics. Embark on a thrilling and suspenseful search for the truth!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4af8.jpg",
+        "release_date": 1075334400,
+        "rating": 67.12022516208206,
+        "rating_count": 5,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/breakdown",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5758,
+        "name": "Bruce Lee: Quest of the Dragon",
+        "summary": "Bruce Lee: Quest of the Dragon is a beat 'em up video game featuring martial artist Bruce Lee. It was developed by Ronin Entertainment and published by Universal Interactive, and was released in Europe and the United States for the Xbox in 2002 to a negative critical reception.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6e42.jpg",
+        "release_date": 1025568000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/bruce-lee-quest-of-the-dragon",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5759,
+        "name": "Brute Force",
+        "summary": "The game is a squad-based third-person shooter that uses four members of a team who fight in numerous battles. Each character on the team has their own strengths and weaknesses. The story is of a science-fiction setting where humans spread throughout the galaxy and tension arises with the threat of a hostile alien race that appears. The squad, Brute Force, is sent in to confront the enemy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jtu.jpg",
+        "release_date": 1053993600,
+        "rating": 68.9928585553483,
+        "rating_count": 16,
+        "genres": "Shooter,Tactical",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/brute-force",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5760,
+        "name": "Buffy the Vampire Slayer",
+        "summary": "Buffy Summers makes her console debut in a third-person action game set within the not-so-peaceful town of Sunnydale, CA. As the 17-year-old Chosen One, Buffy must use her heightened strength and agility to defeat vampires, zombies, and other demons attracted to the town's dangerous proximity to a Hellmouth. Based on the UPN television series known for its unusual blend of action, suspense, comedy, and drama, the game takes place around the timeframe of the show's first and second seasons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ml3.jpg",
+        "release_date": 1029628800,
+        "rating": 74.47696290712548,
+        "rating_count": 13,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/buffy-the-vampire-slayer",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5762,
+        "name": "C.A.T.: Cyber Attack Team",
+        "summary": "C.A.T.: Cyber Attack Team is an tactical-strategy game for Xbox released exclusively in Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/wi0zojwdg5hj3miiu7o4.jpg",
+        "release_date": 1059177600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/c-a-t-cyber-attack-team",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5767,
+        "name": "Carve",
+        "summary": "Welcome to the world of extreme watercraft racing. Carve takes you and your teammate around the globe to battle watercraft racing teams vying for the top-rank position. Exotic locales and intense weather and wave conditions make for challenging courses. Master eight individual racing styles along with signature tricks that can be performed off the ramp or on the water.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zdi.jpg",
+        "release_date": 1077580800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/carve",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5770,
+        "name": "Championship Manager: Season 02/03",
+        "summary": "The ultimate football management game returns exclusively for Xbox! \nChampionship Manager is undoubtedly the most popular football management game in the UK. With sales of over 3 million worldwide and continued critical acclaim, the series moves from strength to strength. Now the legions of Championship Manager fans can experience the most up to date and accurate football management game ever.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/irppn0otsfbescbtjz4f.jpg",
+        "release_date": 1039132800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/championship-manager-season-02-03",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5774,
+        "name": "Chase: Hollywood Stunt Driver",
+        "summary": "Chase places you in the exciting world of Hollywood-movie stunt-car action. In the game, you take the role of Chase Corrada, a young stuntwoman who is starting her promising career as a movie stunt driver. In four unique sets--including a gangster set, a postapocalyptic set, and more--it's up to you to perfect the film's action sequences. You'll drive not only traditional 4-wheeled vehicles but also motorcycles and a 3-wheeled Ramen delivery Tuk-Tuk. You'll have to hit your marks as you attempt jumps, smash through props, and race through the set to please the director.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co900i.jpg",
+        "release_date": 1032912000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/chase-hollywood-stunt-driver",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5777,
+        "name": "Classified: The Sentinel Crisis",
+        "summary": "Classified: The Sentinel Crisis is a budget video game for the Xbox. It was developed by Torus Games and published by Global Star Software. The PlayStation 2 version was cancelled due to negative reviews before release.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5b16.jpg",
+        "release_date": 1116892800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/classified-the-sentinel-crisis",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5792,
+        "name": "Crimson Sea",
+        "summary": "Travel thousands of years into the future to the galaxy Theophilus. As Sho, your job is to solve the mystery of countless murders that have been committed by an invading alien force. Along the way, you'll decimate hordes of alien creatures and liquid-morphing enemies with customized blaster rifles and plasma swords. Summon the power of Neo-Psionics to blast through hordes of alien menaces in a single move. Now, with Crimson Sea's Phantom Sensor System, use sound and touch to discover the hidden enemy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ypk.jpg",
+        "release_date": 1039651200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/crimson-sea",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5793,
+        "name": "Crimson Skies: High Road to Revenge",
+        "summary": "Crimson Skies: High Road to Revenge combines thrilling aerial combat with the swashbuckling style of a Hollywood action-adventure movie. Set in an alternate 1930s world of gunship diplomacy and sinister intrigue, Crimson Skies: High Road to Revenge lets gamers pilot powerful aircraft against nefarious air pirates and behemoth war zeppelins. As the daring air pirate Nathan Zachary, leader of the infamous Fortune Hunters, players take off on a high-flying adventure, filled with daring escapes and damsels in distress.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g8e.jpg",
+        "release_date": 1066694400,
+        "rating": 77.74560369617522,
+        "rating_count": 17,
+        "genres": "Simulator,Arcade",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/crimson-skies-high-road-to-revenge",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5800,
+        "name": "Dance Dance Revolution Ultramix 2",
+        "summary": "The second installment of Xbox exclusive DDR games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5txe.jpg",
+        "release_date": 1100736000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/dance-dance-revolution-ultramix-2",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5801,
+        "name": "Dance Dance Revolution Ultramix 3",
+        "summary": "Dance Dance Revolution Ultramix 3 allows players to compete online and go head-to-head with other DDR fans from around the globe, talk live to other DDR players as well as download new songs and other content. Ultramix 3 also features never-before-seen offline modes that cater to the casual, beginner and advanced dancers. 'Freestyle Mode' lets newcomers to the series dance to any song without having to follow specific dance steps on the screen.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5tx4.jpg",
+        "release_date": 1132012800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/dance-dance-revolution-ultramix-3",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5803,
+        "name": "Dancing Stage Unleashed",
+        "summary": "Dancing Stage Unleashed, or DS Unleashed, was released by Konami Digital Entertainment GmbH to the European Xbox audience on March 12, 2004. A sister release to the North American Dance Dance Revolution Ultramix, it features the same look and feel and the same options as Ultramix, including online play and content download through Xbox Live. Unleashed has a unique soundtrack and features music from Big Brovaz, Blondie and The Wonder Stuff as well as original tracks from Konami's in-house artists. The original release was followed by two sequels, Dancing Stage Unleashed 2 and 3, released May 13, 2005 and March 17, 2006 for the Xbox in Europe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9657.jpg",
+        "release_date": 1079049600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/dancing-stage-unleashed",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5811,
+        "name": "Deathrow",
+        "summary": "Enter a brutal fighting sport where only the fastest and toughest players are victorious. Deathrow combines the fast gameplay of third-person action games, the intensity of fighting games, and the cooperative team play and gritty roughness of rugby. The object of Deathrow is to win matches by any means necessary, either by scoring as many points as possible before time runs out or by severely injuring your opponents and removing them from the field of combat. Engage in fierce hand-to-hand combat against your friends, enemies, or intelligent AI opponents that don't just get mad--they get even.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ua8.jpg",
+        "release_date": 1034899200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/deathrow",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5813,
+        "name": "Dino Crisis 3",
+        "summary": "Dino Crisis 3 is a survival horror video game released exclusively for the Xbox. It is the fourth and final game in the Dino Crisis series. Like the previous iterations of the series, gameplay revolves around fighting dinosaurs. Unlike the first three installments of the Dino Crisis series, the enemies in the game are not real-world dinosaurs, but new species created through advanced genetic engineering technology. The action takes place in outer space, on a starship, the Ozymandias.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co531l.jpg",
+        "release_date": 1056585600,
+        "rating": 20.70741054062441,
+        "rating_count": 6,
+        "genres": "Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/dino-crisis-3",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5819,
+        "name": "Dungeons & Dragons: Heroes",
+        "summary": "Journey through a world filled with magic and monsters, treasures and traps, good and evil--a world unto itself where heroes are made not born. Take on perilous quests through never-before-seen planes of existence and carve a path to righteousness. Conquer dungeons, search for gemstones, fight monsters, improve your skills and more as one of four distinct Hero characters: Fighter, Wizard, Cleric or Thief. Immediately immerse yourself in solo games or play cooperatively with up to 4 players. Dungeons & Dragons: Heroes gives you a chance to taste victory as only a true Hero can.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5x5f.jpg",
+        "release_date": 1063670400,
+        "rating": 70.0,
+        "rating_count": 4,
+        "genres": "Role-playing (RPG),Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "11,21,8",
+        "external_url": "https://www.igdb.com/games/dungeons-dragons-heroes",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5831,
+        "name": "Far Cry Instincts",
+        "summary": "The game follows the story of a man named Jack Carver. Carver is a former service member of the United States Navy, who was dishonorably discharged following a number of illegal actions. Afterwards, he sets up a shop in Manhattan and begins supplying illegal arms to anyone and everyone, until a gang performs a hit using weapons supplied by Jack against a Mafia heir. Consequently, a price is put on his head by the Mob, and he was forced to flee the United States and settle in Micronesia.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xeg.jpg",
+        "release_date": 1127779200,
+        "rating": 78.61289669100829,
+        "rating_count": 24,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "11,21,12,8",
+        "external_url": "https://www.igdb.com/games/far-cry-instincts",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5842,
+        "name": "Fuzion Frenzy",
+        "summary": "Fuzion Frenzy is a launch title for the Microsoft Xbox. At its core, Fuzion Frenzy is a four-player party game featuring 45 different mini-games (not including the titular Fuzion Frenzy). A demo of the game was included with some other launch titles in the US, including Halo, Munch's Oddysee, the first Project Gotham Racing game and Amped. The title was among the first to be released as a part of the Xbox Originals program.\n\nA sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a2f.jpg",
+        "release_date": 1005782400,
+        "rating": 61.69908703514024,
+        "rating_count": 15,
+        "genres": "Arcade",
+        "platform_ids": "11,12",
+        "external_url": "https://www.igdb.com/games/fuzion-frenzy",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5843,
+        "name": "Galleon",
+        "summary": "Players control Rhama Sabrier who must stop the evil Jabez from wreaking havoc across the seven seas.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jtl.jpg",
+        "release_date": 1086912000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "11,21,6,23",
+        "external_url": "https://www.igdb.com/games/galleon",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5854,
+        "name": "Greg Hastings' Tournament Paintball",
+        "summary": "Greg Hastings' Tournament Paintball is a First Person Shooter paintball game that came out exclusively for Xbox.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uku.jpg",
+        "release_date": 1100563200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/greg-hastings-tournament-paintball",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5856,
+        "name": "Group S Challenge",
+        "summary": "Group S Challenge is a racing game published by Capcom.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5tss.jpg",
+        "release_date": 1068508800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/group-s-challenge",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5865,
+        "name": "Hunter: The Reckoning - Redeemer",
+        "summary": "Hunter: The Reckoning - Redeemer is an action fighting game for the Xbox. Redeemer is based on a gothic fantasy world pen and paper RPG system. It is the third game of the Hunter: The Reckoning series, sequel to Hunter: The Reckoning: Wayward which was released for the PlayStation 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qdo.jpg",
+        "release_date": 1067299200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/hunter-the-reckoning-redeemer",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5873,
+        "name": "Kabuki Warriors",
+        "summary": "As a fight promoter for a troop of Kabuki warriors trying to travel from Edo to Kyoto, your actor/samurai must possess both strength and style. Along the way you will have to fight other Kabuki troops, garner the crowds favor to receive tips, and trade warriors with your defeated counterparts. You will need a very accomplished group of samurai when you arrive in Kyoto to defeat the city's star troop.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ua4.jpg",
+        "release_date": 1006128000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/kabuki-warriors",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5880,
+        "name": "Kakuto Chojin: Back Alley Brutal",
+        "summary": "Enter the Fist of Fire martial arts tournament and prove you are the greatest fighter on Earth in this Xbox-exclusive fighting game by Dream Factory. It was released in Japan under the name \"Kakuto Chojin: Fighting Super Heroes\".",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5u7d.jpg",
+        "release_date": 1036972800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/kakuto-chojin-back-alley-brutal",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5882,
+        "name": "Kingdom Under Fire: Heroes",
+        "summary": "Kingdom Under Fire: Heroes is an action strategy game where you can command hundreds of soldiers. You also have spells, golems, and catapults at your disposal as you play through more than 50 campaign missions. The experience and gold that you earn during each battle can be used to train and equip your troops. You can also challenge other gamers online.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co44i6.jpg",
+        "release_date": 1127174400,
+        "rating": 82.9091636023935,
+        "rating_count": 9,
+        "genres": "Real Time Strategy (RTS),Strategy,Hack and slash/Beat 'em up",
+        "platform_ids": "11,6",
+        "external_url": "https://www.igdb.com/games/kingdom-under-fire-heroes",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5898,
+        "name": "Kung Fu Chaos",
+        "summary": "Kung Fu Chaos is an entertaining brawler game inspired by the 70s Kung Fu movie era. You fight as one of nine characters--three of which are unlockable--with looks, moves, and taunts based on kung-fu movie icons. Your quest for movie stardom places you on a dynamic movie set, and when the director yells \"Action!\" you fight against multiple enemies either by yourself or with three friends. Perform over-the-top, Hong-Kong-style combat--including leaps, and flying kicks--and you'll become a star in no time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62rt.jpg",
+        "release_date": 1046131200,
+        "rating": 76.31666412207366,
+        "rating_count": 6,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/kung-fu-chaos",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5902,
+        "name": "Links 2004",
+        "summary": "Links, the best-selling golf franchise for the personal computer, has been rebuilt—from the ground up—exclusively for the Xbox video game system. Links 2004 delivers one of the most realistic and competitive golf experiences for Xbox. Golf fans worldwide can compete online in friendly matches with old golfing buddies or compete in tournaments against the best golfers in the world via Xbox Live. Links 2004 also features top championship courses and top professionals, including cover athlete Sergio Garcia.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazzc.jpg",
+        "release_date": 1068508800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/links-2004",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5903,
+        "name": "Loons: The Fight for Fame",
+        "summary": "Every once in awhile a game comes along that whether you love or hate it ? you'll love something about it. Loons: The Fight For Fame is one of those games. Coming from the fine folks as Infogrames, Loons: The Fight For Fame lets you play as one of the classic characters from Warner Brothers as they battle for the spotlight. If you love the franchise you'll enjoy playing as your favorite Looney Tune and, if you don't, you're sure to get a kick out of killing them hundreds of times over. The game makes use of the increasingly popular cell-shade animation in addition to multiplayer modes supporting 1-4 players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5rcn.jpg",
+        "release_date": 1032048000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/loons-the-fight-for-fame",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5905,
+        "name": "Mad Dash Racing",
+        "summary": "Mad Dash Racing combines high-speed combat and 3D adventure action with a crew of motley characters for an insane multiplayer competition for up to four. Players select from nine different characters, each with their own unique personality and abilities, and compete in a race for survival against the evil Hex, his dirty minions and your unforgiving friends. Glide across rivers of hot, steaming lava, slip through underwater pipes, bash through mammoth boulders, and slide down icy glaciers to beat the other racers and escape Hex's wicked wrath.\n\nMusic by Moby, Fatboy Slim, Propellorheads & More!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4qm0.jpg",
+        "release_date": 1005782400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/mad-dash-racing",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5910,
+        "name": "MechAssault",
+        "summary": "MechAssault was the first BattleMech video game published for the Xbox. Developed by Day 1 Studios and published by Microsoft, MechAssault was initiated when Denny Thorley of Day 1 Studios approached Jon Kimmich of Microsoft about developing an original BattleTech game built from the ground up to support console play.[1] \"MechAssault\" was released in November of 2002. A sequel, MechAssault 2: Lone Wolf, was released on December 28, 2004. Both games are set in the BattleTech fictional universe",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ggh.jpg",
+        "release_date": 1037318400,
+        "rating": 79.81973026853959,
+        "rating_count": 14,
+        "genres": "Shooter",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/mechassault",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5911,
+        "name": "MechAssault 2: Lone Wolf",
+        "summary": "MechAssault 2: Lone Wolf continues the destruction, intense combat, and online play introduced by the first MechAssault game. Set in the 31st century, the game lets you encounter new experiences in the expansive BattleTech world. Choose from a variety of weapons and vehicles--from the stealthy Raptor mech to the mech-jacking BattleArmor--all equipped with different weapon configurations and artillery. Embark on the new single-player campaign, or test your teamwork skills in the online multiplayer arena.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gar.jpg",
+        "release_date": 1104192000,
+        "rating": 93.28943598009519,
+        "rating_count": 10,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/mechassault-2-lone-wolf",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5914,
+        "name": "Metal Dungeon",
+        "summary": "Metal Dungeon (メタルダンジョン?) is a turn-based role-playing video game developed by Panther Software for Microsoft's Xbox game system.\n\nThe game takes place in a fictional alternate reality where countries have access to highly advanced magitechnology. In the process of creating monsters with this technology using an ancient creature named \"The Gods of Magic\"; it broke free of its bonds and took control of the secret facility and proceeded to slay all of the research team and arm the compounds defenses. The player is a commander in charge of the Cyborg Enforcer Teams sent into the dungeon to reclaim it. The game featured 100 levels of randomly generated maps, the first ten being the games main story mode. The other 90 were extended play for players wanting to continue playing with their strong characters.\n\nGame play[edit]\nAs the game starts, you create a team of Enforcers for your expeditions into the dungeon, with the option to create over 40 total. When creating your characters you are given the ability to alter height, sex, ethnicity, weight and hair style as well as given a choice between the Fencer, Caster, Analyzer, Striker, or Broader classes; Each falling into a Dungeons and Dragons styled role. Several Advanced classes were available by finding Class Chips in the dungeon and applying them to your characters. Once inside the dungeon, the players team must move around, find monsters and equipment while leveling up. A major point unsaid in game is that you are not expected to be able to beat a level's boss on the first time entering the level; as you could only allocate level up points while out of the dungeon.\n\nDungeons were randomly generated, most adhering to a typical design that made the map seem less random then it was. Each level has a control room that could possibly be locked, holding a boss monster that must be defeated to win the level and unlock the next one.\n\nFencer Fighter class that could use Hammers or Swords and had the rare chance of performing a move like a Final Fantasy \"Limit Break\" that would damage all enemies at once.\n\nAnalyzer Ranged class. Without an Analyzer in the party, the player is unable to know how much health enemies have and their current HP amount. Analyzers used firearms ranging from laser beams, to machine guns, to rocket launchers that all shared the same in game model.\n\nCaster Basic Spell Caster that could be wired with a variety of Spell Chips either bought from the in-game shop or found in the dungeon. Each spell had a number of charges that had to be refilled by visiting the surface. Casters automatically blocked until the player told them what spell to use.\n\nBroader The Jack-Of-All-Trades class that had a flat rate for all skill gains at the expense of leveling up extremely slowly and was reserved for advanced players that foresaw spending a large time grinding.\n\nStriker A barbarian class that used combat gloves as their weapon. Each strike had a rare chance of instantly killing a non-boss enemy.\n\nReception[edit]\nMetal Dungeon was rated very poorly for its simple game play, transparent story, and character creation system. The game's setting turned it into a cult classic near instantly for its magic-punk stylized world. The only two male African American skins available looked exactly like",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u5h.jpg",
+        "release_date": 1014854400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/metal-dungeon",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5929,
+        "name": "Midtown Madness 3",
+        "summary": "Midtown Madness 3 is an open world racing/arcade sequel, part of the Midtown Madness series. For the first time in the series, the game was released only on the Xbox, with a Windows version rumoured for later release, but ultimately scrapped.[citation needed]\n\nThe game was developed by DICE (of Battlefield 1942 fame) and published by Microsoft Game Studios. This marked a change from the developer of the first two games, Angel Studios (now Rockstar San Diego). Coincidentally, Midtown Madness 3 was released in 2003 against Midnight Club II, created by the developer of the first two games, Rockstar San Diego.\n\nThe Xbox-only release and change of developer heralded a significant graphical improvement to maintain the console's graphical standards.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4esw.jpg",
+        "release_date": 1055808000,
+        "rating": 76.4677313716293,
+        "rating_count": 13,
+        "genres": "Racing,Simulator",
+        "platform_ids": "11,55",
+        "external_url": "https://www.igdb.com/games/midtown-madness-3",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5936,
+        "name": "Murakumo: Renegade Mech Pursuit",
+        "summary": "Launch into aerial mayhem as an elite Murakumo unit sent to suppress a rampage of renegade mechs. Blaze through cityscapes at supersonic speeds, lock on, and destroy targets with experimental Murakumo weaponry before all is lost.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4th4.jpg",
+        "release_date": 1027555200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/murakumo-renegade-mech-pursuit",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5940,
+        "name": "N.U.D.E.@ Natural Ultimate Digital Experiment",
+        "summary": "A virtual humanoid robot who responds to voice commands, never released outside of Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ua6.jpg",
+        "release_date": 1051142400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/n-u-d-e-natural-ultimate-digital-experiment",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5961,
+        "name": "NFL Fever 2002",
+        "summary": "NFL Fever 2002 is an American Football video game published and developed by Microsoft Game Studios. It was originally released on November 15, 2001, as a launch title for the Xbox video game console. The game was followed by NFL Fever 2003",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/zoi218ugxkaxixbkkrks.jpg",
+        "release_date": 1005782400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/nfl-fever-2002",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5962,
+        "name": "NFL Fever 2003",
+        "summary": "NFL Fever 2003 is an American football video game published and developed by Microsoft Game Studios. It was originally released on August 6, 2002 for the Xbox video game console. The game, which was also used for beta testing for Xbox Live, was preceded by NFL Fever 2002 and followed by NFL Fever 2004.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/fykzc0s19tmlaga2z8ce.jpg",
+        "release_date": 1028592000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/nfl-fever-2003",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5970,
+        "name": "NightCaster II: Equinox",
+        "summary": "A fast-paced action game where you play as either Madelyn, the warrior, or Arran, the hero of the first game. You'll battle hordes of enemies using powerful spells and melee attacks in a dark fantasy world. The game features a unique control system that allows you to move and aim spells independently.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87pi.jpg",
+        "release_date": 1039478400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/nightcaster-ii-equinox",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5972,
+        "name": "Ninja Gaiden",
+        "summary": "Ninja Gaiden is an action-adventure hack and slash video game developed by Team Ninja for the Xbox video game console.\nThe game follows the fictional story of Ryu Hayabusa, a master ninja, in his quest to recover a stolen sword and avenge the slaughter of his clan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nmv.jpg",
+        "release_date": 1078185600,
+        "rating": 82.35423465922955,
+        "rating_count": 48,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/ninja-gaiden",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5975,
+        "name": "Otogi: Myth of Demons",
+        "summary": "On a dark and gloomy bridge, suspended between the world of the living and the dead, lurks Raikoh, a skilled warrior from a cursed clan. Once tasked with ending the lives of others, Raikoh himself sits between life and death after the Great Seal was broken, spreading destruction and darkness across the land. A mysterious princess spares Raikoh's life so that he may rid the world of the grotesque demons and cleanse his soul of his past misdeeds. Raikoh must travel through desolate lands to fight hordes of fearsome, immortal creatures with 12 varieties of magic, more than 30 brutal weapons, and over 10 special demon-slaying items. Trees, walls, and even entire buildings are destroyed as Raikoh unleashes his skillful fury in order to purge both the world's demons and his own.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48qb.jpg",
+        "release_date": 1039651200,
+        "rating": 86.92174505832958,
+        "rating_count": 6,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "169,11,49",
+        "external_url": "https://www.igdb.com/games/otogi-myth-of-demons",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5976,
+        "name": "Otogi 2: Immortal Warriors",
+        "summary": "Take the role of the undead warrior Raikoh Minamoto and his companions as they are tasked with vanquishing the invading hordes of demons and protecting Japan's capital city from being consumed by the darkness.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48qc.jpg",
+        "release_date": 1072310400,
+        "rating": 85.04484188155031,
+        "rating_count": 6,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/otogi-2-immortal-warriors",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5980,
+        "name": "Phantom Crash",
+        "summary": "In the wake of massive air pollution and economic disaster in Tokyo, Japan has relocated its capital. Old Tokyo has become the battleground for a new breed of public entertainment called Rumbling. Observing from a massive airborne viewing station, spectators watch Scoobees battle to the death. More than just high-speed, heavily armed Mechs, Scoobees have an unprecedented stealth capability, turning invisible at will for brief periods of time. The stakes are high. The enemies are ruthless. The action is intense. Are you ready to rumble.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ypz.jpg",
+        "release_date": 1024531200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/phantom-crash",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5996,
+        "name": "Quantum Redshift",
+        "summary": "Set 100 years in the future, Quantum Redshift lets players take to the track in a no-holds-barred combat pod racing tournament with the chance of reaching speeds up to 900 miles per hour. You can bet it'll be hard to see any stop signs going that fast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2y9s.jpg",
+        "release_date": 1032220800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/quantum-redshift",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5997,
+        "name": "RalliSport Challenge 2",
+        "summary": "RalliSport Challenge 2 is a 2004 rally racing video game, and the sequel to the 2002 RalliSport Challenge. This game contains new features such as a cockpit cameras and ability to change car at the last moment. However, stats like total horsepower and number of gears have been eliminated from the car selection screen.\n\nCars are split up into 5 categories with 2 subcategories each plus \"Classic\" cars. There are 4 paint schemes on each car and drivers must drive 31, 87, and 249 miles before unlocking a new one. By winning all championships in the career mode, all paint schemes for all cars are unlocked.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co454u.jpg",
+        "release_date": 1083628800,
+        "rating": 84.08913369855539,
+        "rating_count": 5,
+        "genres": "Racing,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/rallisport-challenge-2",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 5999,
+        "name": "Raze's Hell",
+        "summary": "Raze's Hell is an action-shooter with a lot of black comedy. The story revolves around Raze, an ugly monster determined to stop the invasion of his ugly world by cute little creatures. Don't let the Kewletts impose their makeovers on Raze's hideous people. Help him fight back and restore the world to its natural, ugly state. Full Xbox Live support Dolby Digital 5.1 sound support",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co43na.jpg",
+        "release_date": 1114041600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "11,12",
+        "external_url": "https://www.igdb.com/games/raze-s-hell",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6010,
+        "name": "Pulse Racer",
+        "summary": "Futuristic racing game. Unique orb system for speeding around turns.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yet.jpg",
+        "release_date": 1041465600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/pulse-racer",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6039,
+        "name": "Sega GT 2002",
+        "summary": "Sega GT 2002 is a sim racing video game published by Sega. It is the sequel to Wow Entertainment's Racing Game Sega GT, released in 2002. The game was originally intended to be released for the Dreamcast, but when the Dreamcast was discontinued in 2001, the game was reprogrammed for the Xbox. Following its initial release as a retail game, it was given away on a disk with Jet Set Radio Future in specially-marked Xbox console packages. Sega released Sega GT Online for the following year, with extra cars and an online facility to be used with the Xbox Live. Despite being an Xbox exclusive, the franchise would later die off and as a result, the Forza Motorsport series would later come to Xbox starting in 2005, and would later have sequels to counter the Gran Turismo franchise.\n\nSega GT 2002 introduced plenty of innovative features, many of which were later adopted by future games of its kind.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7t2h.jpg",
+        "release_date": 1031011200,
+        "rating": 68.40805263143491,
+        "rating_count": 7,
+        "genres": "Racing,Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/sega-gt-2002",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6050,
+        "name": "Shin Megami Tensei: Nine",
+        "summary": "Shin Megami Tensei: Nine was published by Atlus and released on Xbox, exclusively in Japan, in 2002.\n\nForming part of the Megami Tensei series, Nine takes place in the period of time between Shin Megami Tensei and its sequel, with the survivors of Tokyo's destruction sheltering in underground bunkers. Taking on the role of a debugger, the player navigates the Idea Space virtual world set up by the survivors of Tokyo's destruction, which has come under attack by demonic beings called \"noise\". The gameplay has the player navigating a customized avatar in third-person through the virtual world of Tokyo, battling enemies using a real-time command-based battle system. Despite its title, it is the eighth game in the Megami Tensei series. The game's title instead refers to the number of possible moral alignments available to players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2y9r.jpg",
+        "release_date": 1039046400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/shin-megami-tensei-nine",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6052,
+        "name": "Silent Scope Complete",
+        "summary": "Silent Scope Complete is a compilation of all 3 games in the Silent Scope video game series released for Xbox, all 3 games in the compilation play exactly the same, but it also adds in additional levels, story branches and features.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ty1.jpg",
+        "release_date": 1076371200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/silent-scope-complete",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6053,
+        "name": "Sneakers",
+        "summary": "Get ready for a fun adventure filled with cartoon combat. In Sneakers, you play Apollo, a mouse who must lead his friends through a human-sized town to battle the enemy. You must protect your troops by directing their actions and throwing wind-up punches and flying kicks. While your small size lets you take shortcuts through small holes in the wall, it also makes a rolling apple as dangerous as a tumbling boulder. Only those with cunning and quick minds can leave victoriously.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coah0x.jpg",
+        "release_date": 1014336000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/sneakers",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6056,
+        "name": "Spikeout: Battle Street",
+        "summary": "Based on the 3D coin-on arcade title of the same name, SpikeOut: Battle Street offers a quick single-player mode that's about two to four hours long and each time it's beaten, a new character, with slightly different special attacks, opens up. There are around 10 levels, and 12 unlockable characters, and an online mode. You can connect with three other players for a four-player online bout on Xbox Live, and as a \"sort-of\" team, you then proceed to smack infinite nameless thugs into polygonal paste. The game works one way: Four humans against the computer AI. You've got a punch, kick, jump, and grapple move, and when pressed multiple times, each button ignites combos. By grappling an enemy from various angles and by pressing the Dpad in different directions when executing the throw renders various satisfying hurls.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4to4.jpg",
+        "release_date": 1111622400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/spikeout-battle-street",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6158,
+        "name": "Stake: Fortune Fighters",
+        "summary": "Stake - the ultimate combat event! It's winner-take-all as the world's best brawl for supremacy. More than the coveted Stake Emblem is on the line in the wildest competition ever for riches, fame and respect. Enter the arena. Face your foe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xjd.jpg",
+        "release_date": 1052092800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/stake-fortune-fighters",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6163,
+        "name": "Steel Battalion",
+        "summary": "Power up your Vertical Tank, and prepare to dominate the online arena. In the midst of a volatile military coup, you must master the inner workings of your VT using the Steel Battalion controller. Up to 10 players can battle head-to-head in team or solo deathmatch games. Complete operations in Campaign mode or play free mission games such as Battle Royale, Conquest, or Capture the Container. The military dynamic of the game constantly changes with Xbox Live, making Steel Battalion Online one intense futuristic combat game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5rck.jpg",
+        "release_date": 1031788800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Strategy,Tactical",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/steel-battalion",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6174,
+        "name": "Steel Battalion: Line of Contact",
+        "summary": "Steel Battalion: Line of Contact is a 2004 video game created by Capcom for the Xbox console where the player controls a VT (Vertical Tank). It is the online-only (via the Xbox Live broadband gaming service) sequel to Capcom's Steel Battalion game. The game was developed by Capcom Production Studio 4[2] and Nude Maker. Gameplay is similar to that of the previous game, and makes use of the same 2 joystick, 3 pedal, 40 button controller.\n\nWithin the game, players engage in mechanized combat using Vertical Tanks, the game terminology for very large bipedal combat platforms. Vertical Tanks are fictional vehicles that range in height from 8m - 15m in height, with unknown tonnage. These vehicles are the platform of choice for future combat in the year 2084.\n\nThe campaign mode for Steel Battalion: Line of Contact was taken offline on September 30, 2005.[3]",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5tsp.jpg",
+        "release_date": 1077753600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Strategy",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/steel-battalion-line-of-contact",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6183,
+        "name": "Superman: The Man of Steel",
+        "summary": "In the Xbox only Man of Steel, Players control Superman through 7 levels of 3D flying, overhead vertical scrolling and sidescrolling secitons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6e43.jpg",
+        "release_date": 1037664000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/superman-the-man-of-steel",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6190,
+        "name": "Tao Feng: Fist of the Lotus",
+        "summary": "Clothes will tear, blood will spill, and bones will break in the brutal fighting game Tao Feng: Fist of the Lotus. On the vicious streets and back-alleyways of New China, two fierce fighting sects battle in a race to uncover a valuable prize. During your fights throughout interactive environments, your fighter reflects all the physical damage he or she receives from opponents. You can either heal yourself from the beatings or build your powers to unleash devastating Chi attacks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6amx.jpg",
+        "release_date": 1047945600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/tao-feng-fist-of-the-lotus",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6192,
+        "name": "Tecmo Classic Arcade",
+        "summary": "Tecmo Classic Arcade is a collection of eleven classic Tecmo games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7wh.jpg",
+        "release_date": 1126656000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Puzzle,Sport,Strategy,Pinball,Adventure,Arcade",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/tecmo-classic-arcade",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6202,
+        "name": "ToeJam & Earl III: Mission to Earth",
+        "summary": "The alien duo is back in an all-new adventure. In ToeJam & Earl III: Mission to Earth, ToeJam, Big Earl, and their new friend, Latisha, embark on a mission to retrieve the 12 sacred Albums of Funk, stolen by the inhabitantats of Earth. Across expansive environments, you must guide this group toward a showdown with the evil Anti-Funk. You'll collect a wide variety of power-ups, take on dangerous side quests, and double-team the clueless Earthlings in style.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7u7r.jpg",
+        "release_date": 1035331200,
+        "rating": 70.44529128983311,
+        "rating_count": 4,
+        "genres": "Platform,Role-playing (RPG),Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/toejam-earl-iii-mission-to-earth",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6206,
+        "name": "Tork: Prehistoric Punk",
+        "summary": "Not even time can stand in the way of Tork. This cave boy must travel through time to find those responsible for kidnapping his father and destroying his village. Not your ordinary hero, Tork can change into three spirit animals: a yeti, an armadillo, or a flying squirrel. As Tork, you must face dinosaurs, gargoyles, robots, and more as you fight your way from the Stone Age to the Age of Fantastical Machines. Dodge avalanches, volcanoes, and machines in a variety of fantastic environments.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5hp.jpg",
+        "release_date": 1105401600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/tork-prehistoric-punk",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6215,
+        "name": "Toxic Grind",
+        "summary": "In the year 2097, BMX riding has been outlawed and a twisted reality game show is the showcase for public execution of these fugitives. The maniacal host of the show, Dixon Von Blass, has eliminated all but a handful of these riders and resorted to injecting his contestants with a powerful toxin before the show. Injected with the deadly toxin, you were chosen to compete through famous locations and time periods. The only way to survive is to complete objectives, avoid deadly obstacles, and pull off insane tricks--all the while avoiding Dixon's henchmen.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/fgafy9zctqs7bcmalq0p.jpg",
+        "release_date": 1035676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/toxic-grind",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6218,
+        "name": "UFC: Tapout",
+        "summary": "UFC: Tapout is a video game in the fighting genre based upon the Ultimate Fighting Championship. The game was released in North America on February 28, 2002 for the Xbox console.\n\nTapout was published by Crave Entertainment and developed by DreamFactory. The subtitle Tapout refers to a fighter tapping his hand indicating that he has submitted to a submission hold. A tapout, along with a knockout, judge's decision, and referee stoppage, is one of the ways of ending a UFC bout.\n\nThe game features many of UFC's top stars including Matt Hughes, Chuck Liddell, Mark Coleman, Frank Shamrock, and Tito Ortiz. Competitions can take place in several modes such as exhibition, tournament, arcade, and championship mode. Several fighters throughout the game are unlockable such as two female competitors and celebrity Ice-T.\n\nUFC: Tapout received generally lukewarm reviews from critics. A sequel to this game entitled UFC: Tapout 2 was released in 2003. Other than an updated roster, the game is very similar to the first Tapout and received similar reviews. Tapout 2 was published by TDK Mediactive. Both games have an ESRB rating of T for Teen.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4if9.jpg",
+        "release_date": 1013904000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/ufc-tapout",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6219,
+        "name": "UFC: Tapout 2",
+        "summary": "UFC: Tapout 2 is the second game released on the Xbox based on the popular mixed martial arts organization.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3g9c.jpg",
+        "release_date": 1048118400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/ufc-tapout-2",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6220,
+        "name": "Unreal Championship",
+        "summary": "Unreal Championship is a first-person shooter video game co-developed by Epic Games and Digital Extremes. It was published by Infogrames and released for the Xbox.\nUnreal Championship is essentially a console version game of the PC-based Unreal Tournament 2003, developed specifically to take advantage of Xbox Live, Microsoft's online gaming service. In 2003 Unreal Championship was added to Microsoft's \"Platinum Hits\" line of Xbox games. It was followed in 2005 by Unreal Championship 2: The Liandri Conflict also for Xbox.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rww.jpg",
+        "release_date": 1037059200,
+        "rating": 79.92561006954065,
+        "rating_count": 11,
+        "genres": "Shooter",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/unreal-championship",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6221,
+        "name": "Unreal Championship 2: The Liandri Conflict",
+        "summary": "Unreal Championship 2: The Liandri Conflict enhances both single and multiplayer gameplay, including all-new player acrobatics, third-person camera mode, vehicles, and intense melee abilities. In the single player campaign, you'll fight your way through new cities and arenas as Anubis, who attempts to retake his people's Nakhti Rite of Ascension Tournament from the machinations of the Liandri Corporation. The game also offer players the chance to fight head-to-head in eight-player tournaments over Xbox Live or System Link as any one of 14 characters--each with new adrenaline powers that enable offensive and defensive combos.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rwx.jpg",
+        "release_date": 1113782400,
+        "rating": 78.01099315281166,
+        "rating_count": 7,
+        "genres": "Shooter",
+        "platform_ids": "11,49",
+        "external_url": "https://www.igdb.com/games/unreal-championship-2-the-liandri-conflict",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6229,
+        "name": "Whacked!",
+        "summary": "In Whacked! you are one of seven demented contestants competing on a dangerous game show. Pitted against each other in free-for-all combat, contestants must use power-ups and weapons, such as giant staplers and rubber ducky grenades, to flatten their opponents. The game's various modes have you fighting to collect resources, fending off a horde of man-eating chickens, or exchanging blows in fierce deathmatches. There are more than a dozen levels--including an arctic pipeline, a Christmas tree, and a kitchen sink--for you to conquer.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u5i.jpg",
+        "release_date": 1034035200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/whacked",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6249,
+        "name": "WWE Raw 2",
+        "summary": "WWE Raw 2: Ruthless Aggression, known as simply WWE Raw 2, is the sequel to WWF Raw. It features enhanced graphics and gameplay, a story mode, and more than 60 WWE superstars. WWE Raw 2 showcases its new features in eight arenas that come to life with 3D crowds and special effects. The enhanced gameplay controls provide better grappling, more balanced momentum shifts, and a realistic AI. Now you can play in different modes including multiplayer season mode, Exhibition, Season, King of The Ring, Royal Rumble, expanded Title Match, and Create-A-Superstar. The game also includes Hell in a Cell and TLC match types.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95fl.jpg",
+        "release_date": 1063584000,
+        "rating": 69.45249513297875,
+        "rating_count": 5,
+        "genres": "Fighting,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/wwe-raw-2",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6251,
+        "name": "WWE WrestleMania 21",
+        "summary": "WWE WrestleMania 21, also known simply as WrestleMania 21 or Wrestlemania XXI, is a professional wrestling video game released on the Xbox game console by THQ. It is based on WWE's pay-per-view event of the same name. It is also the successor to Raw 2. The game was the last WWE game released to the original Xbox.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4kca.jpg",
+        "release_date": 1113955200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "11,12",
+        "external_url": "https://www.igdb.com/games/wwe-wrestlemania-21",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6254,
+        "name": "Xyanide",
+        "summary": "Xyanide is a shoot 'em up video game for the Xbox in 2006. It was developed by Playlogic Entertainment and published by Evolved Games, after being originally developed by Engine Software for the Game Boy Advance. A sequel titled Xyanide: Resurrection was released for the PC, PlayStation 2 and PlayStation Portable in 2007.[1]",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5rco.jpg",
+        "release_date": 1155600000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/xyanide",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 6257,
+        "name": "Yu-Gi-Oh! The Dawn of Destiny",
+        "summary": "Yu-Gi-Oh! The Dawn of Destiny is a strategy video game with over 1,000 Yu-Gi-Oh! cards that integrates the trading card gameplay and rules with 3D monster battles. Players engage in strategic duels against AI opponents, exploring various game modes including Link Duel and Triple Duel modes, which offer fresh challenges and test players' skills against multiple opponents simultaneously.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5txz.jpg",
+        "release_date": 1080000000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Turn-based strategy (TBS),Card & Board Game",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/yu-gi-oh-the-dawn-of-destiny",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 10234,
+        "name": "Gunvalkyrie",
+        "summary": "Gunvalkyrie is an alternate history/science fiction video game developed by Smilebit and published by Sega for the Microsoft Xbox.\n\nOriginally developed for the Sega Dreamcast, its visual style was very similar to the final Xbox version. The Dreamcast version's distinguishing feature was that during the game's development, GunValkyrie utilized a unique control scheme using both a light gun and a controller. This control scheme was dropped when development shifted to the Xbox version.\n\nThe gameplay is very different from most third-person shooters, due to a unique dual analog control scheme, which is the main contributor to the steep learning curve of the game. Players travel to various worlds investigating the disappearance of several colonies, with only giant mutated insect creatures left behind. These insects comprise the bulk of the enemies you face along the way.\n\nPlayers control Kelly or Saburouta with both analog sticks, the left controlling forward/backward movement and turning, while the right aims their weapons, and when clicked, allows quick-turns. Clicking in the left stick while pointing in a direction causes the character to boost. The left trigger is a boost/jump, and when combined with the left analog boost, can be strung together into combos to keep the player off the ground entirely, which is a necessity for some levels. Face buttons are used to select weapons, and the right trigger fires the selected weapon.\n\nThe game comprises ten levels, the story unfolding via text between levels, or the occasional in-game cutscene. At the beginning of most levels, excluding boss battles, you have the choice of picking either Kelly or Saburouta. Kelly's primary weapon is fast but weaker, and she's overall faster and more maneuverable. Saburouta is slower, has more limited maneuverability in the air, and carries a stronger primary weapon, the Matchlock Cannon. Basically the two characters make up the two difficulty settings, with Kelly being the \"Normal\", and Saburouta being the \"Advanced\" setting. The real difference being that Kelly's style allowed several lock-on targets, while Saburouta's weapon splashed and was aimed at specific targets. Because of this, Kelly's gameplay is more frantic and requires less direct focus, while Saburota required specific aiming and direct attacks to be effective. Kelly is also the only character to upgrade her gearskin.\n\nThe artistic style of the game is similar to the steampunk subgenre of fiction, but the game's designers prefer to call it \"elec-punk,\" described as a step even further, with the harnessing of electricity for imaginative new uses. The game's stages are divided into indoor mechanical looking levels, with lots of gears and ornate metalwork, and outdoor stages, set in very organic looking valley's, craters, and other fantastic otherworldly locations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jvd.jpg",
+        "release_date": 1016409600,
+        "rating": 80.8612153392705,
+        "rating_count": 5,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "11,23",
+        "external_url": "https://www.igdb.com/games/gunvalkyrie",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 18268,
+        "name": "New Legends",
+        "summary": "New Legends is a third-person action game setting man against militia, in a world of tomorrow where both technology and tradition blend to create a rich, and threatening world. It's a thrilling combination of mysticism and machines, of religion and aggression, of blades and bullets.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qcd.jpg",
+        "release_date": 1013904000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/new-legends",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 20795,
+        "name": "TransWorld Snowboarding",
+        "summary": "TransWorld Snowboarding offers huge, vibrant, real-world snowboarding levels with natural snow kickers and ramps for launching; rails and downed trees to jib and grind on; and natural half-pipes and quarter-pipes for performing tons of tricks. But it's not all fun and games - treacherous terrain and steep cliffs lurk around every corner!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3g91.jpg",
+        "release_date": 1034640000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/transworld-snowboarding",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 24094,
+        "name": "NFL Fever 2004",
+        "summary": "Microsoft's own football game returns with updated Graphics and Roosters. There are now even more tackles, and avoiding moves to be learned. Play on any Nfl stadium possible, while the power of xbox giving you your own music, and real-to-real football penalties, players, fields, clothes, and the crowd cheering you on. Customize your own coverage, how you want.\n\nPlay 1-4 players in a game, or 1-8 system link. Play Xbox live with a friend with, multiplayer, voice, friends, scoreboard",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/poecngxgypyl0wujt13b.jpg",
+        "release_date": 1061856000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/nfl-fever-2004",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 24124,
+        "name": "NBA Inside Drive 2004",
+        "summary": "Real-time, 3D NBA basketball simulation with online league capabilities. More responsive \"juke\" controls for one-on-one isolation moves. Gamers can play up to 25 NBA seasons with full general management capabilities. All-new Drive Cam camera angle brings the player closer to the action. For 1 or more players (online gaming requires Internet connection). Features 3D crowd.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/lxd3q0c6f99mh4xow7mv.jpg",
+        "release_date": 1071705600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/nba-inside-drive-2004",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 45126,
+        "name": "NHL Rivals 2004",
+        "summary": "NHL Rivals 2004 is the first NHL title for the Xbox, developed by MGS (Microsoft Game Studios), and the second title developed under the XSN Sports banner - the development team's first foray into hockey on console.\n\nAt the time of its release, the visuals in this game were its major selling point, with each player's face mapped onto their model ingame. The game features a fully animated polygonal crowd, tons of motion-captured animations, NHL licensed players, teams and arenas. The look and feel of the game are much different than games like EA's NHL series.\n\nThis was also the first hockey game on Xbox that let players play in online tournaments and leagues over Xbox Live and XSN Sports. Rosters were updated as the season went on via content downloads over Xbox Live, though were only available for a limited time.\n\nRivals 2004 features the gameplay mode of 3-on-3 pond hockey. This pickup-game style of play is meant for those who prefer instant action, and it can also be played over Xbox Live. Players can connect and join in on a recreational game intended to simulate the fun pickup games that many people played as kids.\n\nThe gameplay is arcade-like, with fast play and quick passing via a button or in specific directions using the analog stick.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gou.jpg",
+        "release_date": 1071705600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/nhl-rivals-2004",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 47320,
+        "name": "SeaBlade",
+        "summary": "Search, Rescue, and Destroy in the air and under the sea. White-knuckle fly-and-shoot action! 39 adrenaline-pumping missions. Advanced weaponry for maximum firepower. 6 challenging apocalyptic environments. Unlock SeaBlades for Multiplay: 2-4 players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/jahn448ig4hjn7eg7ntz.jpg",
+        "release_date": 1040342400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/seablade",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 47323,
+        "name": "NightCaster: Defeat the Darkness",
+        "summary": "NightCaster is a third-person, single-player, action-adventure game for the Xbox, developed by VR1 Entertainment and published by Microsoft. Players take the role of Arran, a novice wizard whose magical power grows as he ages throughout his quest to collect spells and rid the world of eternal night. NightCaster was released on December 26, 2001 and its ESRB rating is Teen.\n\nIn December 2002, the sequel, NightCaster II: Equinox, was released, with two-player compatibility.\n\nThe game received generally middling reviews with a Metacritic average of 61",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87pg.jpg",
+        "release_date": 1011657600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/nightcaster-defeat-the-darkness",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 47325,
+        "name": "Tony Hawk's Pro Skater 2x",
+        "summary": "Tony Hawk's Pro Skater 2x was designed to take full advantage of the technical capabilities of Xbox. The game features the franchise's signature gameplay, intuitive controls, all of the levels from both Tony Hawk's Pro Skater 2 and the original Tony Hawk's Pro Skater, in addition to more populated environments, brand new levels, realistic special effects and smoother lifelike animations. The inclusion of system link gameplay brings the skateboarding experience to life.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g2f.jpg",
+        "release_date": 1005782400,
+        "rating": 80.10951659237293,
+        "rating_count": 5,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/tony-hawks-pro-skater-2x",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 47331,
+        "name": "Virtual Pool: Tournament Edition",
+        "summary": "The leader in video game billiards chalks up for console with Virtual Pool: Tournament Edition. Virtual Pool offers 18 different pool games on tables from chic Monte Carlo to a dirty biker bar. Shoot some stick with the most advanced billiard physics ever experienced as you bank, angle, and English the trickiest shots imaginable. Virtual Pool: Tournament Edition is widely recognized as the most realistic pool simulator ever developed!\nFeatures:\n\nMultiple locations: a suburban garage, dusty biker bar, and a beachside mansion\n18 varieties of pool: 8-ball, 9-ball, Snooker, and 1- and 3-Cushion Billiards\nEasy to play: as quick as setting up a shot on a real pool table\nAuthentic gameplay: most accurate table and ball physics ever--balls roll, fly, and bounce off the table\nLibrary of artistic trick shots: or set up your own to become a true shark",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/e9mee56l1b7pm2p8qqjc.jpg",
+        "release_date": 1160265600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/virtual-pool-tournament-edition",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 47340,
+        "name": "Iron Phoenix",
+        "summary": "Iron Phoenix is a Wuxia/Hong Kong Cinema style fighting game that allows Xbox Live battles with up to 16 players. The fighting system is based on the weapon and character selection, allowing hundreds of move combinations.\n\nIn the distant past, a meteorite fell to earth (the \"Iron Phoenix\") and was forged into seven powerful magical weapons by a master weaponsmith. They proved to be his doom, however, as the World of Martial Arts is nothing if not unkind to those without the power to protect what is theirs.\n\nCombatants choose from 10 character models, each of which has 2 variations. There are also a variety of monster and undead models that can be used. Each character has different configurations of strength, speed and health, affecting their performance in a fight. These characters are combined with weapons (sometimes pre-selected, sometimes grabbed in a free-for-all during a fight) to allow for a wide variety of play styles.\n\nThe weapons are: Phoenix Wings (Hand Blades), Searing Dagger, Ember Sword (Longsword), Phoenix Tail (Long Spear), Ash Blade (Scimitar), Meteor Hammer, Flame of Heaven (2-Handed Sword), Phoenix Talons (Hand Claws), and the Feather Blade (Ninja-to sword). Players can also pick up a variety of darts which can poison or slow a target, in addition there is a variety of equipment that can grand special powers, such as increased strength, invisibility, and movement.\n\nMovement in the game is based in the wire-fu, with leaps, flips, wall-running, etc. A move power meter governs this aspect of play, recharging over time.\n\nThe game is all-combat, all the time, either single player or Xbox Live. Single players can go up against a custom build out of bots, in a variety of game modes: Deathmatch, Team Deathmatch, VIP, Giant Kill, and Challenge Ring. These modes are available online as well, allowing up to 16 simultaneous players to engage in high-flying martial arts battles with exotic weaponry on Xbox Live.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cgvick1cp4qa9gxyequj.jpg",
+        "release_date": 1114387200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/iron-phoenix",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 70469,
+        "name": "Knight's Apprentice, Memorick's Adventures",
+        "summary": "Knight's Apprentice is a third-person platformer with similarities to Jak & Daxter and Zelda games. You play as Memorick, Merlin's apprentice sorcerer that would have preferred to be a knight, in a quest to free Avalon from Morganna, her brother Mordred and the evil Queen Maab. On your way you will meet several Knights of the Round Table, King Arthur himself, and even hold Excalibur against hordes of villains.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9b9w.jpg",
+        "release_date": 1082073600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/knights-apprentice-memoricks-adventures",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 73607,
+        "name": "Maximum Chase",
+        "summary": "An action game with alternating driving and shooting levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6pxp.jpg",
+        "release_date": 1032998400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/maximum-chase",
+        "cached_at": 1778663192
+      },
+      {
+        "id": 78688,
+        "name": "Pro Fishing Challenge",
+        "summary": "The most realistic fishing game to date. With the ability to play with up to 8 players online.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/sewj5h8j1b9jbreevw6x.jpg",
+        "release_date": 1096502400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "11",
+        "external_url": "https://www.igdb.com/games/pro-fishing-challenge",
+        "cached_at": 1778663192
+      }
+    ]
+  }
+}

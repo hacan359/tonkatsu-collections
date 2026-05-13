@@ -1,0 +1,2351 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Nintendo 64 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:15+00:00",
+  "description": "Games released exclusively on Nintendo 64, sourced from Wikipedia category \"Nintendo 64-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1074,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Super_Mario_64_Shind%C5%8D_Pak_Tai%C5%8D_Version"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1130,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Castlevania_%281999_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1131,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Castlevania%3A_Legacy_of_Darkness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1292,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Penny_Racers_%281998_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1327,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Turok%3A_Rage_Wars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1539,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Wipeout_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2642,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Hey_You%2C_Pikachu%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2644,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rocket%3A_Robot_on_Wheels"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2715,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Beetle_Adventure_Racing%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2723,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Diddy_Kong_Racing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2786,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rugrats%3A_Scavenger_Hunt"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2850,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Aidyn_Chronicles%3A_The_First_Mage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3005,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Superman_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3329,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/AeroGauge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3334,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Chess_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3336,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Duck_Dodgers_Starring_Daffy_Duck"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3339,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/The_New_Tetris"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3343,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Snowboard_Kids_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3345,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Taz_Express"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3346,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Tetris_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3367,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Big_Mountain_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3368,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Buck_Bumble"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3372,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Lode_Runner_3-D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3374,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Golden_Nugget_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3375,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/GT_64%3A_Championship_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3394,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Iggy%27s_Reckin%27_Balls"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3395,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Indy_Racing_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3397,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Kobe_Bryant_in_NBA_Courtside"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3407,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Michael_Owen%27s_WLS_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3410,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Mike_Piazza%27s_StrikeZone"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3411,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Milo%27s_Astro_Lanes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3412,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Mischief_Makers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3419,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/In-Fisherman_Bass_Hunter_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3420,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Bassmasters_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3425,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Blues_Brothers_2000_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3426,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Body_Harvest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3427,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Chameleon_Twist"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3428,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Chopper_Attack"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3434,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/64_%C5%8Czum%C5%8D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3442,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Automobili_Lamborghini_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3452,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_64%3A_The_Second_Attack%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3456,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Centre_Court_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3463,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Custom_Robo_V2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3470,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Dezaemon_3D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3477,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Dual_Heroes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3494,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/F1_Pole_Position_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3496,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Fighters_Destiny"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3498,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Fox_Sports_College_Hoops_%2799"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3504,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Getter_Love%21%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3507,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Goemon_Mononoke_Sugoroku"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3508,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Goemon%27s_Great_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3509,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Hamster_Monogatari_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3510,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Heiwa_Pachinko_World_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3513,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Hybrid_Heaven"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3514,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_98"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3516,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Ronaldinho_Soccer_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3519,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/J-League_Dynamite_Soccer_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3520,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/J-League_Eleven_Beat_1997"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3530,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Jinsei_Game_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3532,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Kiratto_Kaiketsu%21_64_Tanteidan"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3533,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Knife_Edge%3A_Nose_Gunner"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3534,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Last_Legion_UX"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3536,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Madden_Football_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3540,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr."
+    },
+    {
+      "media_type": "game",
+      "external_id": 3541,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Mario_no_Photopi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3543,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Morita_Shogi_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3544,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/MRC%3A_Multi-Racing_Championship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3545,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Mystical_Ninja_Starring_Goemon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3552,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/NBA_Jam_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3555,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3558,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_98"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3564,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/NHL_Breakaway_99"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3565,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Nushi_Tsuri_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3566,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Nushi_Tsuri_64%3A_Shiokaze_Ninotte"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3568,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Ogre_Battle_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3576,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Power_League_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3580,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Quest_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3581,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rakugakids"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3582,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rally_Challenge_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3589,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Road_Rash_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3591,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Robot_Ponkottsu_64%3A_Nanatsu_no_Umi_no_Caramel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3593,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rush_2%3A_Extreme_Racing_USA"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3594,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Saiky%C5%8D_Habu_Sh%C5%8Dgi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3600,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Shadowgate_64%3A_Trials_of_the_Four_Towers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3606,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Stunt_Racer_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3607,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Super_B-Daman%3A_Battle_Phoenix_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3608,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Super_Robot_Spirits"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3611,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/64_de_Hakken%21%21_Tamagotchi%3A_Minna_de_Tamagotchi_World"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3612,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Tetrisphere"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3615,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gear_Hyper_Bike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3616,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gear_Overdrive"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3618,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gear_Rally_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3622,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Twisted_Edge_Extreme_Snowboarding"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3624,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Pool_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3625,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Pro_Wrestling_2%3A_%C5%8Cd%C5%8D_Keish%C5%8D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3626,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Pro_Wrestling_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3627,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Waialae_Country_Club%3A_True_Golf_Classics"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3635,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/WCW_vs._nWo%3A_World_Tour"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3636,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/WCW/nWo_Revenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3642,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/World_Driver_Championship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3644,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/WWF_No_Mercy_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3647,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Xena%3A_Warrior_Princess%3A_The_Talisman_of_Fate"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3650,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Zool%3A_Maj%C5%AB_Tsukai_Densetsu"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8503,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Duke_Nukem%3A_Zero_Hour"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10609,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Chameleon_Twist_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10612,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/G.A.S.P%21%21_Fighters%27_NEXTream"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10682,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/FIFA_Soccer_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10686,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Destruction_Derby_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44039,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Bakush%C5%8D_Jinsei_64%3A_Mezase%21_Resort_%C5%8C"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44043,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/ClayFighter_63_1/3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47677,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Aero_Fighters_Assault"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47733,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Flying_Dragon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47734,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Pocket_Monsters_Stadium"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47742,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Choro_Q_64_2%3A_Hachamecha_Grand_Prix_Race"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47744,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Masters_%2798%3A_Harukanaru_Augusta"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47754,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Olympic_Hockey_%2798"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47756,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_99"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47763,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Air_Boarder_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79669,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Robotron_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80368,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_64_%282001_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80390,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Famista_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 144507,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_%28Nintendo_64_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 176024,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Monopoly_%281999_video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1074,
+        "name": "Super Mario 64",
+        "summary": "Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive soundtrack, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses, and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch-nemesis— Bowser, King of the Koopas!\n\n• Run freely in a grassy meadow, tip-toe through a gloomy dungeon, climb to the top of a mountain, or take a swim in the moat!\n• Leap headfirst into a watery painting and soon you'll be searching for the surface in an underwater realm!\n• On-the-fly, 3-D rendered gameplay delivers the action of ruthless enemy attacks from every angle!\n• Find the Caps that give Mario super powers and ponder the mysteries of the pyramid; you can even race Koopas for fabulous prizes!\n• With the Nintendo 64 Controller and its analog\nControl Stick, Mario can crawl, kick down obstacles, swim, do reverse flips, and even stick the landing on his backwards somersault!\n• Saved game information is stored for up to four players in memory.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co721v.jpg",
+        "release_date": 835488000,
+        "rating": 88.75203965614105,
+        "rating_count": 2001,
+        "genres": "Platform,Adventure",
+        "platform_ids": "5,4,41",
+        "external_url": "https://www.igdb.com/games/super-mario-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 1130,
+        "name": "Castlevania",
+        "summary": "Take control of Reinhardt Schneider, a whip-toting Vampire Killer who has waited his whole life to meet his destiny, or Carrie Fernandez, a young girl with a strong magical presence who is mysteriously drawn to Dracula's evil Castlevania. It is their duty to seek out Castlevania and put an end to its residents' plans. What is your destiny?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5geb.jpg",
+        "release_date": 917308800,
+        "rating": 34.70004243738663,
+        "rating_count": 38,
+        "genres": "Platform,Puzzle,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/castlevania--2",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 1131,
+        "name": "Castlevania: Legacy of Darkness",
+        "summary": "Castlevania: Legacy of Darkness is a video game that was developed and published by Konami for the Nintendo 64. It was first released in North America on November 30, 1999 and is a prequel and expanded version to the first Castlevania game on the Nintendo 64, but also contains a remake of the original game with improved graphics, added villains (Spider Queen, Medusa), and alternate versions of some levels (Forest of Silence, Tower of Science, Tower of Execution, Clock Tower).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54ti.jpg",
+        "release_date": 944611200,
+        "rating": 53.66037396006636,
+        "rating_count": 19,
+        "genres": "Platform,Puzzle,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/castlevania-legacy-of-darkness",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 1292,
+        "name": "Penny Racers",
+        "summary": "The premise of PENNY RACERS for N64 is simple: race your car the best you can and be among the top three to reach the checkered flag. To achieve this objective, you must avoid missiles launched by your competitors, among other things. One way to counter this is the barrel roll maneuver, which is a quick and effective way to avoid unexpected hurdles on the tracks. In the beginning, you drive a pretty unimpressive racer. However, if you beat the competition and place in the top three, your reward is the chance to upgrade your car. Be merciless and steal the losing racers' special features, such as engine and armor upgrades, special attack abilities, and enhancing cosmetic features for the car. You have 13 different racer body styles and nine tracks to choose from. The cartoony racers zip through city streets, ice caves, and a volcano, and with the Track Create mode, you can design the wildest track you can imagine. When you toss four-player racing into the fray, the fun quadruples as the action intensifies and the losers are utterly humiliated.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dsi.jpg",
+        "release_date": 900633600,
+        "rating": 59.48979591836735,
+        "rating_count": 5,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/penny-racers",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 1327,
+        "name": "Turok: Rage Wars",
+        "summary": "Turok: Rage Wars is a first-person shooter video game released for the Nintendo 64. The game supports up to four players or bots with a single player mission-based mode also available. The game allows use of the RAM Expansion Pak for enhanced play sessions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zqu.jpg",
+        "release_date": 941328000,
+        "rating": 69.71380535622232,
+        "rating_count": 15,
+        "genres": "Shooter",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/turok-rage-wars",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 1539,
+        "name": "Wipeout 64",
+        "summary": "WipEout 64 was released by Psygnosis as a follow-up to the racing game WipEout XL, taking place one year later in 2098. Like in previous installments players control highspeed hovercrafts, pick up weapons to damage the opponents' vehicles and try to finish the race in the first position. In many aspects, the gameplay is pretty similar to its predecessor, such as selection of hovercrafts, visuals or the handling system. Beside new racing tracks the main differences include a Split-Screen Multiplayer Mode (up to four players), Weapon & Super Combo Challenges as well as various Special Weapons for each Team!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39yq.jpg",
+        "release_date": 910051200,
+        "rating": 70.6227215342456,
+        "rating_count": 6,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/wipeout-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 2642,
+        "name": "Hey You, Pikachu!",
+        "summary": "Hey you, Pokémon fanatic! Have you ever wanted to control your very own Pokémon? Now you can with HEY YOU, PIKACHU! for the Nintendo 64. It's as simple as speaking into the microphone that connects to your controller. If Pikachu understands you, he'll respond. The little yellow pocket monster has a vocabulary of approximately 200 words, and Professor Oak is even on hand to train you in the ways of creature communication. Wake up Pikachu each day by shouting \"Good Morning!\" and decide what games to play and activities to engage in. You can play Pokémon trivia on the in-game TV, gather food, hunt for treasure, collect seemingly endless goodies, go fishing, baby-sit Caterpie, and much more. You'll also play a variety of mini-games while guiding Pikachu along with friendly commands. As you bond and converse with your cartoon pal you'll investigate the Ochre Woods, head for the campground, check out Bulbasaur's picnic, and even solve clever puzzles. HEY YOU, PIKACHU! is an interactive romp that gives the younger set a chance to get up close and personal with their favorite Pokémon character.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co407c.jpg",
+        "release_date": 913420800,
+        "rating": 60.27232377326261,
+        "rating_count": 21,
+        "genres": "Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/hey-you-pikachu",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 2644,
+        "name": "Rocket: Robot on Wheels",
+        "summary": "First-time Nintendo 64 developer Sucker Punch Studios jumped onto the scene with a highly original 3D platformer. The design philosophy behind the title is simple -- rather than build the platformer around the main character, the software house opted instead to focus on the interactivity of the 3D environments he travels. To that end, Rocket employs an advanced physics engine which allows the main character, a lovable unicycle-based robot named Rocket, to travel and experiment with colorful, platform-esque worlds with realistic gravity and inertia. Every object has its own set of lifelike attributes that must be \"weighed\" into consideration when solving puzzles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5ns.jpg",
+        "release_date": 941328000,
+        "rating": 78.93702285123801,
+        "rating_count": 7,
+        "genres": "Platform",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/rocket-robot-on-wheels",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 2715,
+        "name": "Beetle Adventure Racing!",
+        "summary": "Take control of a collection of the latest Volkswagen Beetle \"2.0\" models, from street type to off-road designs, and race across varying road types that will test your speed and endurance!\nFind shortcuts or use nitro boosts to finish first in order to move on to the next track. If the computer AI is to easy for you, battle against a friend in two player race mode or challenge up to 4 people in a special Battle Mode, with added abilities including weapons, from mines and rockets to magical elements, while collecting the flag and finding the exit!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28su.jpg",
+        "release_date": 920160000,
+        "rating": 72.34400147242775,
+        "rating_count": 19,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/beetle-adventure-racing",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 2723,
+        "name": "Diddy Kong Racing",
+        "summary": "Diddy Kong Racing is set on Timber's Island and revolves around Diddy Kong and his friends' attempt to defeat the intergalactic antagonist, a wizarding pig named Wizpig, through winning a series of races. The player can take control of any of the featured characters throughout the game. Diddy Kong Racing features five worlds with four racetracks each, and the ability to drive a car, hovercraft, or pilot an aeroplane.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wgj.jpg",
+        "release_date": 880070400,
+        "rating": 79.19628836128427,
+        "rating_count": 190,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/diddy-kong-racing",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 2786,
+        "name": "Rugrats: Scavenger Hunt",
+        "summary": "In their big debut on the Nintendo 64, the favorite cartoon babies are about to get wrapped up in the scavenger hunt to end all scavenger hunts. Featuring three different board games, RUGRATS: Scavenger Hunt utilizes the animation and humor from the cartoon series, and melds it into an original game that has players traipsing through 3D worlds looking for hidden objects. In \"The Pirate Treasure Hunt,\" the babies travel underwater in search of items; \"Angelica's Temple of Gloom\" challenges players to find bits of Stu's broken Aztec statues before Angelica can; and \"Reptar Rally\" has the babies collecting sweets in Candy Island. Once you choose your baby from a list that includes Tommy, Chuckie, Phil, or Lil, you begin using a spinner (just like a board game spinner) to determine how many spaces you'll advance. There are lots of trick spaces that give you advantages or disadvantages, like the Spike the Dog spot (which allows you to ride the pet for five spaces), and a Dil spot (which makes Dil come out and shuffle the board). Don't get too worked up though, as each baby has an energy meter, and if it hits zero you'll have to take a nap.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dya.jpg",
+        "release_date": 930614400,
+        "rating": 30.10119535338823,
+        "rating_count": 8,
+        "genres": "Platform,Puzzle,Strategy",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/rugrats-scavenger-hunt",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 2850,
+        "name": "Aidyn Chronicles: The First Mage",
+        "summary": "The king took him in at a very young age, but Alaron is now old enough to realize that he was adopted deciding to set out on a quest to track his own heritage. Along his journey, Alaron has had the fortune of meeting up with a party of others that are looking for adventure. You can choose to play as any of 13 characters. A more or less traditional role-playing game, AIDYN CHRONICLES: The First Mage is a brilliant mix of interaction, fighting, and extensive exploration. All of the battles take place in an innovative turn-based system, challenging you to handle both combat and real-time strategy. All of the characters and environments in the game are rendered in full 3D, and the characters have complete freedom in their ranges of movement. There's more territory in the game's expanses than you'll ever get a chance to see, and the sheer diversity of the character types is really impressive. If you like role-playing games, you'll want to check out this installment of Aidyn Chronicles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n75.jpg",
+        "release_date": 984528000,
+        "rating": 77.04318659702409,
+        "rating_count": 8,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/aidyn-chronicles-the-first-mage",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3005,
+        "name": "Superman: The New Superman Adventures",
+        "summary": "Superman: The New Adventures, often referred to as Superman 64, is a 1999 adventure video game developed and published by Titus Software for the Nintendo 64 video game console. The game is based on the television series Superman: The Animated Series. Superman was first released in North America on May 31, 1999 and in Europe on July 23, 1999.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b3i.jpg",
+        "release_date": 928108800,
+        "rating": 19.01222228814058,
+        "rating_count": 33,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/superman-the-new-superman-adventures",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3329,
+        "name": "AeroGauge",
+        "summary": "In the tradition of F-Zero and Wipeout, AeroGauge is a sci-fi racer that pits you and a friend in a fast paced race to the finish through futuristic tracks and among detailed craft, acting more like planes than racers as they skim many metres above the ground. Play solo through the grand prix and compete against the AI enemy, or beat down your best time in the time trial mode.\n\nEach track features a number of twists and turns, whether it be racing upside down or vertically, with a number of obstacles in your path. There's no weapons, though, it's just you and the open road ahead.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39yc.jpg",
+        "release_date": 882489600,
+        "rating": 67.94302674510872,
+        "rating_count": 7,
+        "genres": "Racing,Arcade",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/aerogauge",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3334,
+        "name": "Virtual Chess 64",
+        "summary": "Transform your N64 into a powerful chess adversary. The most awesome chess engine adapts to any skill level. Learning is endless fun yet even superb players face the maximum challenge. Brilliant graphics brings this classic game alive. Become the next chess legend!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47x5.jpg",
+        "release_date": 897436800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Strategy",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/virtual-chess-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3336,
+        "name": "Duck Dodgers Starring Daffy Duck",
+        "summary": "Marvin The Martian has developed an ultimate weapon that will allow him to finally destroy Earth, which will ultimately allow him to take control of the universe. Upon the demonstration of the weapon, a slight snag hinders Marvin from completing his devious deed. The Weapon is out of Atoms, which it runs on, so he sends his minions (All of which are characters from the Looney Tune universe) to gather Atoms to fuel his weapon.\n\nDuck Dodgers is informed by his academy of Marvin's deeds and sets out to find the one-hundred Atoms before Marvin can. This ultimately has Dodgers and his sidekick, Cadet, trekking to four different planets, including a large pirate ship, to obtain the upper-hand over Marvin.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6woy.jpg",
+        "release_date": 969062400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/duck-dodgers-starring-daffy-duck",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3339,
+        "name": "The New Tetris",
+        "summary": "There are several key differences in gameplay from the original Tetris. First, in addition to clearing lines, one can also form 4x4 large squares of four pieces to form blocks. When a block is created, it turns solid gold or silver, depending on the makeup of the block. Blocks can only be constructed from whole pieces: if any part of a piece has been cleared, then it cannot be used to form a block. When a line that has pieces from a block is cleared, it earns more points.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3a6w.jpg",
+        "release_date": 933379200,
+        "rating": 70.0760907443146,
+        "rating_count": 6,
+        "genres": "Puzzle",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/the-new-tetris",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3343,
+        "name": "Snowboard Kids 2",
+        "summary": "The game is set in Snow Town, which is the main hometown of the protagonists. The plot follows the daily lives and adventures of the kids, and the rather ridiculous attempts of Damien to sabotage them.\n\nThe gameplay of this game is almost identical to its predecessor's, but with a few differences.\n\nThere are now three distinct playing modes: the Story mode, which follows the game plot and uses the classical system of cash prizes by winning the races; the battle mode, which includes multiplayer mode; and the Training mode.\n\nThere were new additions and changes to the Items and Shots. All of them were redesigned and the Shots were renamed as Weapons. Additions include the Rocket, the Wings and the Whirlwind (see more below). Other changes to the Items and Weapons include the reduction in the freeze time when a character is hit by the Freezing Shot, and the effect of losing coins when hit by a Slapstick.\n\nThe special tricks (which were different for each character and required the player to perform a combo to do them) were replaced by the ability of doing multiple tricks while in the air. It also added the ability to repel Weapon attacks by performing a Trick or Board Grab in the imminence of the hit. The player can also look behind by pressing the R button.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2suf.jpg",
+        "release_date": 919382400,
+        "rating": 80.74356275309292,
+        "rating_count": 20,
+        "genres": "Racing,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/snowboard-kids-2",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3345,
+        "name": "Taz Express",
+        "summary": "Taz - a delivery boy? Would you trust THIS guy to deliver your fragile package?\n\nTired of seeing Taz do nothing but hang around the house and watch TV, She-Devil decides Taz needs to find a job. She finds the perfect one for him - as a delivery boy for the next courier service, \"Taz Express\". Your job: Help Taz protect the package long enough to deliver it.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b68.jpg",
+        "release_date": 965088000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/taz-express",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3346,
+        "name": "Tetris 64",
+        "summary": "Tetris 64 is a puzzle game for the Nintendo 64. It was released only in Japan in 1998 despite the whole game being in English. It is the only Nintendo 64 game that can make use of the Nintendo 64's bio-sensor which was included with the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3a72.jpg",
+        "release_date": 910915200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/tetris-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3367,
+        "name": "Big Mountain 2000",
+        "summary": "Big Mountain 2000 is a wintersports game where you can choose to race downhill with either a snowboard or skis. There are various characters to choose from, each of them with different skills. Three game modes are available in total, in which free ride, slalom and giant slalom can be chosen as track styles; game modes include championship, time attack and also a battle mode for multiplayer challenges.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47oe.jpg",
+        "release_date": 971136000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4,416",
+        "external_url": "https://www.igdb.com/games/big-mountain-2000",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3368,
+        "name": "Buck Bumble",
+        "summary": "A chemical spill somewhere in rural England has mutated an army of bees into killer insects! Led by their queen, they are out to destroy everything living thing on the planet, including all insects that dare stop them.\nOnly Buck Bumble, the only bee not to be turned evil by the ways of the queen, can save the world, and his fellow insects, from total destruction.\n\nShoot down swarms of enemy bees, while flying and avoiding the hazards bellow or land on the ground and attack the enemies on foot with various weapons. Also included are a handful of two-player split-screen modes, including Buzz Ball, a unique soccer style game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b2n.jpg",
+        "release_date": 907113600,
+        "rating": 50.50853886671333,
+        "rating_count": 10,
+        "genres": "Shooter",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/buck-bumble",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3372,
+        "name": "Lode Runner 3-D",
+        "summary": "The game mechanics are similar to the original; you outrun 'monsters' by using alternate routes, sliding on ropes, climbing ladders or drilling holes in the ground to trap them. This game differs from the other incarnations of games from the series because of its apparent three-dimensional perspective. While essentially running in 2-dimensional space, the player has an option to move in another direction every so often. The levels are mostly spirals that require climbing to complete. There are five worlds and each one must be unlocked by finding five cards from the previous world excluding the first. Each world is divided into five stages with each stage divided into four levels. The general goal of each level is to collect a certain amount of gold to activate a portal that allows the player to continue. As the player progresses, each world adds new interactive objects and tools as well as new obstacles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ql1.jpg",
+        "release_date": 922406400,
+        "rating": 53.29656988541073,
+        "rating_count": 5,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/lode-runner-3-d",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3374,
+        "name": "Golden Nugget 64",
+        "summary": "The famed Golden Nugget Las Vegas hotel and casino is the setting for the following games: Blackjack: The goal of blackjack is to get the total point value of your cards to 21 without going over; Craps: The objective of craps is to bet on the outcome of dice rolls; Five-card draw: Like most poker games, the point of five card draw is to have the best hand after the final betting round; Roulette: The goal of roulette is to correctly guess which slot the ball will stop on; Seven-card stud: The goal is have the best hand over other opponents; Video poker: The goal of video poker is to make the best possible hand. Unlike other poker games, there are no opponents. You win a certain multiplier of your bet based on your hand; Texas Hold 'Em: To objective is to have a better hand than your opponents. Big Six: Similar to roulette, this game has players try to successfully predict what symbol the wheel will stop on; Mini-Baccarat: The goal of mini-baccarat is to guess which hand is closer to 9 without going over; Slot machines: In order to win in slots, players must match a winning combination of symbols. These symbols vary from slot machine to slot machine. There are six different slot machines in this game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47qc.jpg",
+        "release_date": 912470400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/golden-nugget-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3375,
+        "name": "GT 64: Championship Edition",
+        "summary": "GT 64: Championship Edition \"Grand Tour 64\" is a racing video game for the Nintendo 64. Hence its title, it was an official licensed game to All-Japan GT Championship, featuring cars and drivers of the 1997 season. GT and Grand Tour our references to long distance traveling such as in the traditional version of the Grand Tour. It was first released on Super Famicom as Zen-Nippon GT Senshuken. It was also the final game ever published by Ocean Software.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47qf.jpg",
+        "release_date": 892512000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/gt-64-championship-edition",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3394,
+        "name": "Iggy's Reckin' Balls",
+        "summary": "A vertical race up towering tracks. Iggy and the Reckin' Balls are in the race of their lives. A winner-take-all dash to the top of twisted, looped, warped and genuinely demented courses! Smash, crash and swing with Iggy, his friends, plus loads of secret characters. Over 100 tracks, tons of shortcuts, secret paths, loops and elevators. One to four player racing action with Battle and Versus mode.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6f0x.jpg",
+        "release_date": 903916800,
+        "rating": 59.97114223083238,
+        "rating_count": 5,
+        "genres": "Platform,Puzzle,Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/iggy-s-reckin-balls",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3395,
+        "name": "Indy Racing 2000",
+        "summary": "INDY RACING 2000 for the Nintendo 64 combines realistic racing simulations and far-out arcade racers to make a game that closely follows the rules, but is still a lot of fun to play. There are many modes such as Practice, Race, Competition, and Championship. Before each race, the player can choose one of 20 real-life drivers and their actual vehicle. Players also have the ability to customize the car as desired, by adjusting everything from the tire pressure to the transmission. In addition to the official Indy Racing League tracks, there are road courses to race on as well. Players will have to race their hardest, as the cartridge will save all of their racing data so that they can compare their stats to a friend, or even race one in the Multiplayer mode. INDY RACING 2000 manages to keep the franchise fresh by offering plenty of tracks and options, with great racing fun in the lead.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6q83.jpg",
+        "release_date": 960508800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/indy-racing-2000",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3397,
+        "name": "Kobe Bryant in NBA Courtside",
+        "summary": "Kobe Bryant in NBA Courtside is a basketball simulation game for the Nintendo 64. It was released in 1998 and received a Player's Choice designation after selling one-million copies. Kobe Bryant was in his second NBA season at the time of the game's release and was the youngest player to have a game to his namesake.\nKobe Bryant in NBA Courtside features 5-on-5 game play. The game also features 1997-1998 rosters (except for Michael Jordan, who was not in the players' association and is renamed \"Roster Player #98\"). There are three game options: Exhibition, Season, and Playoffs. The game allows you to either simulate Season games or play them to lead into the playoffs, and win the NBA Finals.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39yb.jpg",
+        "release_date": 893635200,
+        "rating": 61.08323846215132,
+        "rating_count": 6,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/kobe-bryant-in-nba-courtside",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3407,
+        "name": "Michael Owen's WLS 2000",
+        "summary": "Michael Owen's WLS 2000: World League Soccer is a soccer game for the Nintendo 64. In the game you can choose to play one of over 200 teams from various countries in custom cups.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa3ss.jpg",
+        "release_date": 938131200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/michael-owen-s-wls-2000",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3410,
+        "name": "Mike Piazza's Strike Zone",
+        "summary": "DIG IN! Over 700 players! All the stadiums! All the teams and uniforms! All in 3D! Unique player editor allows you to create the ultimate athlete. All new 1998 rosters including two new expansion teams: Arizona Diamondbacks and Tampa Bay Devil Rays! Tons of hidden secrets including super-fast pitches, outrageous curve balls, incredible home runs and more! Fantasy Teams: Create your own rotisserie league. Ultra-realistic conditions affect gameplay: Grass and turf. Day and night. Rain or shine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47so.jpg",
+        "release_date": 897955200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/mike-piazza-s-strike-zone",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3411,
+        "name": "Milo's Astro Lanes",
+        "summary": "Have you ever bowled against your buddies with a Nuclear Ball on a lane constructed out of an alien's tongue? Probably not. But now you can, as you bowl for the perfect game in Milo's Astro Lanes, the wackiest, most spaced-out bowling blast ever! Use awesome power-ups like the devastating Pea Ball, toxic Cosmic Slime and mighty White Dwarf to thwart your opponents or keep them from stopping you. This insane game is what the future of bowling is all about!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47sq.jpg",
+        "release_date": 911865600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/milo-s-astro-lanes",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3412,
+        "name": "Mischief Makers",
+        "summary": "Mischief Makers is a Single-Player Video Game for the Nintendo 64 that was released in the United States on October 1st, 1997. The protagonist is the Ultra-Intergalactic-Cybot G, Marina Liteyears. She must protect the clumsy and lighthearted Professor Theo from the evil emperor. While visiting Planet Clancer, the Professor is suddenly kidnapped by the empire, and thus starts our game. The player must travel to different worlds and utilize widely innovative and different modes of gameplay to save the professor. To get 100% completion one must collect a golden gem in each stage and achieve super fast completion ranks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyes.jpg",
+        "release_date": 867369600,
+        "rating": 69.6908558995277,
+        "rating_count": 34,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/mischief-makers",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3419,
+        "name": "In-Fisherman Bass Hunter 64",
+        "summary": "Go fishing in the great outdoors with Bass Hunter 64! Reel in a record-setting bass in tournament mode in 3D rendered environments, complete with native wildlife, and geographically accurate landscapes. Fish Pennsylvania's Lake Arthur and Florida's Butler Chain Lakes. Lure, strike, and fish-fighting animations are designed to simulate bass fishing's most exciting moments.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3toi.jpg",
+        "release_date": 930700800,
+        "rating": 49.56344393142064,
+        "rating_count": 5,
+        "genres": "Simulator,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/in-fisherman-bass-hunter-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3420,
+        "name": "BassMasters 2000",
+        "summary": "BassMasters 2000 is a fishing simulation game which counts a total of 4 modes and has a variety of customizable options. You can create and save up to 7 anglers through the “Create Angler” option, customising characteristics such as sex, hair, face, clothes, etc. Other customisable options include “Lake Conditions” (lake location, season, weather, time, etc.), “Boat” (boat model, engine, etc.) and “Tackle” (rod/reel, line, lure, etc.).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47fe.jpg",
+        "release_date": 945302400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/bassmasters-2000",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3425,
+        "name": "Blues Brothers 2000",
+        "summary": "Start out as Elwood in prison and get the band together for the battle of the bands, which is in less than two days. After saving the guitarist, Cab and defeating the warden, Mac and Buster are waiting to be found in Chicago to complete and reunite your crew!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6w2a.jpg",
+        "release_date": 971395200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music,Platform",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/blues-brothers-2000",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3426,
+        "name": "Body Harvest",
+        "summary": "The year is 2016. Humanity has been reduced to a few survivors inhabiting the orbital space station Omega. Over the course of the history, aliens visited the Earth every twenty-five years, \"harvesting\" humans as an organic material. Eventually, they launch an assault on the last remnants of the human race. But Adam Drake, a genetically engineered soldier, comes into possession of a time-traveling device. He uses it to travel to the time periods of human history when aliens performed their deadly attacks. The fate of humanity is in his hands.\n\nBody Harvest is an action and driving game with a mission-based structure. The protagonist travels to various locations and eras (e.g. Greece during World War II, Siberia in the 1990s, etc.) with the goal of stopping alien invasions. Missions can be accessed by traveling to specified areas on the map. Adam can move on foot and use his weapons to kill aliens; however, vehicles usually prove to be a more reliable way of tackling most missions. Adam can use most of his weapons while in a vehicle; in addition, some vehicles are outfitted with their own weapons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5j8e.jpg",
+        "release_date": 907113600,
+        "rating": 70.86149921155099,
+        "rating_count": 18,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/body-harvest",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3427,
+        "name": "Chameleon Twist",
+        "summary": "Chameleon Twist is a 3D-Jump & Run, developed by Japan System Supply and released by Sunsoft in 1997.\n\nAfter following a rabbit into a magical hole in the ground, the blue chameleon named Davy realises that he has taken on a humanoid form. In an attempt to find a way back home, Davy is traveling throughout six lands with his friends, Jack, Fred, and Linda; together they discover Jungle Land, Ant Land, Bomb Land, Desert Castle, Kids Land, and Ghost Castle to find the certain magic portal.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dq6.jpg",
+        "release_date": 881366400,
+        "rating": 59.16486000212995,
+        "rating_count": 14,
+        "genres": "Platform,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/chameleon-twist",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3428,
+        "name": "Chopper Attack",
+        "summary": "ACES NEEDED! Join an elite group of international chopper pilots with one objective... hunt down and destroy a renegade terrorist group bent on world domination! Engage and destroy the enemy in 8 different intense missions. Blow up strategic enemy radar. Shoot ground troops and enemy aircraft as you rescue hostages or escort friendly aircraft from dangerous enemy territory. Cash rewards give way to an explosive arsenal of ground and air missiles. Transform enemy installations into explosive fireballs with devastating ground and air target lock-on cluster bombs. Fly one of 8 different choppers, each one with different weapon and flying capabilities.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pqv.jpg",
+        "release_date": 880675200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/chopper-attack",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3434,
+        "name": "64 Oozumou 2",
+        "summary": "64 Oozumou 2 is a sumo wrestling game for the Nintendo 64, which was only released in Japan in 1999. It is the sequel to the game 64 Oozumou. Like its predecessor, the gameplay simulates various aspects of a sumo wrestlers life and training cycle.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b69.jpg",
+        "release_date": 921801600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/64-oozumou-2",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3442,
+        "name": "Automobili Lamborghini",
+        "summary": "Automobili Lamborghini is one of the earlier racing games for the Nintendo 64, developed by Titus. 8 cars are included in this game, among them the Lamborghini Diablo, Porsche 959, Ferrari F50 and some hidden ones. The courses are quite detailed and the effects are decent, including special effects like lens flares. Races take you through six circuits in exotic areas around the world. There are 4 modes in Single Player including Arcade Mode, Championship Mode, Single Race and Time Trials. The game also includes 4 player support.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4703.jpg",
+        "release_date": 880848000,
+        "rating": 50.52225104187917,
+        "rating_count": 5,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/automobili-lamborghini",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3452,
+        "name": "Bomberman 64: The Second Attack!",
+        "summary": "Of the great discoveries in the universe, few are more important than the legendary 8 elements. When the evil Rukifellth found one of these elements - the powerful Celestial Stone - he used his influence to assemble the dreaded BHB Army. Armed with his new army and a giant space warship, the power-crazed Rukifellth began scouring the galaxy for the other 7 elements, invading planets and enslaving innocent races throughout the galaxy. Rukifellth controls these enslaved planets with special Gravity Generators - the same devices the BHB Army used to create a Black Hole. Rukifellth uses his Black Hole to capture new planets... But he should have thought twice before he tried to capture Bomber Planet!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ygs.jpg",
+        "release_date": 944179200,
+        "rating": 69.23019507654794,
+        "rating_count": 14,
+        "genres": "Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/bomberman-64-the-second-attack",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3456,
+        "name": "Centre Court Tennis",
+        "summary": "Centre Court Tennis is a tennis game that does not take itself too seriously. After creating your Lego-like character, you are set to go.\n\nThe basic game features a multiplayer mode (up to 4 players), a tournament mode and an exhibition mode. You also have four mini-games, \"Tennis Court Bingo\", \"Burning Barrels\", \"Run and Gun\" & Knock'em Down\", where your goal is to hit certain objects in the tennis field. You can win special prices for getting enough points.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa3rg.jpg",
+        "release_date": 907891200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/centre-court-tennis",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3463,
+        "name": "Custom Robo V2",
+        "summary": "Custom Robo V2 is the second game in the Custom Robo series. It is similar to the first, but it features tag teaming. The player travels an overworld, and participates in Custom Robo battles. The goal of the game is to win every battle of the storyline while collecting every Robo, battle part, and item.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co509x.jpg",
+        "release_date": 973814400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "5,4,41",
+        "external_url": "https://www.igdb.com/games/custom-robo-v2",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3470,
+        "name": "Dezaemon 3D",
+        "summary": "Dezaemon 3D is a video game and game creator for the Nintendo 64. It was released only in Japan in 1998. The game's editor allows players to design their own shooting game levels similar to the levels shown in Star Soldier: Vanishing Earth. The game has a large number of options, from creating the stage boss or adding a custom soundtrack for each level. It was originally developed alongside an ultimately unreleased accompanying expansion disk title for 64DD.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9dtu.jpg",
+        "release_date": 898819200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/dezaemon-3d",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3477,
+        "name": "Dual Heroes",
+        "summary": "Virtual gamers challenge you in a hot battle! Train your own robot! Cool heroes battle it out using combo attacks in 3D space. Exciting battles against CPU gamers with personality. Train your robot and have it fight in the auto-battle. Give it all you've got to win a medal!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47ow.jpg",
+        "release_date": 881280000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/dual-heroes",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3494,
+        "name": "F1 Pole Position 64",
+        "summary": "The game featured all the tracks from that Formula One season, at a time when the racing began in Australia, and ended in Japan. Teams would be set up with relevant drivers, however there was a roster-feature included, which allowed the player to swap drivers from one team to another, and even removing a real driver and replacing him with unknown drivers named Driver 1-6.\n\nGrand Prix Mode allowed players to progress through the racing calendar, you could also choose single races or a time trial on various tracks. Battle mode allowed you to pick who you wanted to race against over a however many laps you chose.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dye.jpg",
+        "release_date": 859507200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/f1-pole-position-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3496,
+        "name": "Fighters Destiny",
+        "summary": "You can choose from more than 10 characters and enter the ring in the ultimate hand-to-hand competition. Rather than using a two-out-of-three format, you must score seven points in order to win a match. Knocking down your opponent, forcing him out of the ring, or throwing him to the ground score anywhere from one to four points. Try to beat all of the other fighters in the Master Challenge, where a victory results in you learning their fighting skills. If you face the Joker, you must beat him or you will lose the skills you have gained. See how many opponents you can beat before giving up seven points in the Survival mode, or try to see how long you can stay in the ring with a fighting cow in the Rodeo mode. Keep your butt off the ground to win at FIGHTERS DESTINY.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2drw.jpg",
+        "release_date": 885772800,
+        "rating": 70.24299087265037,
+        "rating_count": 5,
+        "genres": "Fighting",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/fighters-destiny",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3498,
+        "name": "Fox Sports College Hoops '99",
+        "summary": "Complete college basketball license featuring over 120 college teams. NCAA Tournament, NCAA Sweet 16 and Final Four. Pre-season and Conference tournaments. In-depth player attributes and skill ratings. Three difficulty levels, easy to learn controls, and multiple camera angles. Authentic college basketball look and feel with real logos, uniforms and home courts, and real college offensive and defensive plays.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6w2y.jpg",
+        "release_date": 909792000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/fox-sports-college-hoops-99",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3504,
+        "name": "Getter Love!!: Chou Renai Party Game Tanjou",
+        "summary": "Getter Love!! is a dating sim in which a high school student and his friends compete to see who will get a girlfriend first. Because of that, and unlike other dating sim games, players have to compete against up to three human or CPU-controlled opponents to win the heart of the girl, or girls, they set their sights on.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6w33.jpg",
+        "release_date": 912729600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/getter-love-chou-renai-party-game-tanjou",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3507,
+        "name": "Goemon: Mononoke Sugoroku",
+        "summary": "Goemon: Mononoke Sugoroku is a video game for the Nintendo 64, released in 1999. The game is based on the Goemon series and despite the series' relative popularity in the west for the system, the game was released only in Japan.\n\nThe game is based on the Japanese board game Sugoroku, populated with Konami's array of Ganbare Goemon characters. Up to four players control two dice, and take them in turns to control Goemon, Ebisumaru, Sasuke, or Yae over pre-rendered boards that resemble previous locations in the Ganbare Goemon series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co56rd.jpg",
+        "release_date": 946080000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/goemon-mononoke-sugoroku",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3508,
+        "name": "Goemon's Great Adventure",
+        "summary": "Goemon and all his friends are back in his greatest adventure yet! Goemon's Great Adventure combines classic Goemon platform action with an all-new twist. The evil time-traveling nun, Bismaru, has summoned Dochuki, a demon prince, to take over the Earth. But first, she wants to marry him! Can Goemon and his gang stop the demon? Can Dochuki escape the cloying clutches of the wacked-out nun? Will Ebisu ever beat his own dumpling eating record? It's an adventure you'll never forget!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co56g1.jpg",
+        "release_date": 914371200,
+        "rating": 62.93641007613245,
+        "rating_count": 9,
+        "genres": "Platform,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/goemons-great-adventure",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3509,
+        "name": "Hamster Monogatari 64",
+        "summary": "Hamster Monogatari 64 is a life simulation game which the player raise and take care of a hamster which the hamster are placed in a cage. The player can give the hamster attention but if the player give the hamster lots of attention, the hamster will be determine what they become either a loveable one or a savage and maniac one. As the hamster grow up and evolve, they gain new abilities for the hamster competitions. Players can raise up to four hamsters which players can take care of them in a variety of ways.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6w3a.jpg",
+        "release_date": 986515200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/hamster-monogatari-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3510,
+        "name": "Heiwa Pachinko World 64",
+        "summary": "Heiwa Pachinko World 64 is a pachinko game",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6w3b.jpg",
+        "release_date": 880675200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/heiwa-pachinko-world-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3513,
+        "name": "Hybrid Heaven",
+        "summary": "A gunshot echoes through the tunnels of the New York subway system. A secret service agent lies dying, and Diaz, with a gun gripped tightly in his hand, flees and stumbles into a strange underground world where a secret society of genetically engineered hybrid clones threaten to subvert the population of the outside world. Experience New York City's secret night life in Hybrid Heaven, a unique, fully-immersive action RPG that combines fighting, action, and role playing into a story of alien invasion, scientific experimentation, and murder. Unravel the secrets of the hybrid society, the future of humanity, and the true identity of Diaz.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39yn.jpg",
+        "release_date": 933811200,
+        "rating": 77.4050880581649,
+        "rating_count": 7,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/hybrid-heaven",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3514,
+        "name": "International Superstar Soccer '98",
+        "summary": "Do you have what it takes to be a superstar? Over 17,000 new motion captured animations! Team motivation, players and teams react to real game situations. Vertical camera angle allows you to see more of the pitch. 52 International teams and 9 unique soccer stadiums. Create your own players and trade existing ones. Infinite team formations and customizable strategies.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6s6k.jpg",
+        "release_date": 896918400,
+        "rating": 65.09887354225609,
+        "rating_count": 13,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/international-superstar-soccer-98",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3516,
+        "name": "International Superstar Soccer 64",
+        "summary": "Are you ready for the most realistic soccer game the world has ever seen? Get ready for: Incredible, seemless game control; Awesome animation with over 17,000 motion captured animations; Live, intelligent commentary; Every conceivable soccer move from headers to heel passes; Multiple formations to team strategies; Trade & create your own players; 36 International teams with 16 players per team. Everything a soccer fan wants!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rup.jpg",
+        "release_date": 865123200,
+        "rating": 77.41742037796043,
+        "rating_count": 32,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/international-superstar-soccer-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3519,
+        "name": "J.League Dynamite Soccer 64",
+        "summary": "J.League Dynamite Soccer 64 is a soccer game for the Nintendo 64. It was released only in Japan in 1997. The game has officially licensed players from Japan's J-League.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wp8.jpg",
+        "release_date": 873417600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/jleague-dynamite-soccer-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3520,
+        "name": "J.League Eleven Beat 1997",
+        "summary": "Released in 1997 for the Nintendo 64.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wp9.jpg",
+        "release_date": 877651200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/jleague-eleven-beat-1997",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3530,
+        "name": "Jinsei Game 64",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b6c.jpg",
+        "release_date": 921801600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Turn-based strategy (TBS),Card & Board Game",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/jinsei-game-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3532,
+        "name": "Kiratto Kaiketsu! 64 Tanteidan",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wpe.jpg",
+        "release_date": 909100800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/kiratto-kaiketsu-64-tanteidan",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3533,
+        "name": "Knife Edge: Nose Gunner",
+        "summary": "Kemco offers up a title that introduces brand new gameplay concepts to the Nintendo 64 with KNIFE EDGE: Nose Gunner. The storyline takes the player to Mars and beyond, battling against enemies of an alien variety. The gameplay takes classic shooting action and sticks it in a first-person perspective, resulting in an intense and action-packed affair. However, the levels are not free roaming, as the action travels along predetermined rails that offer multiple paths to be determined by the player. In addition to the one-player Story mode, there is a Practice mode that allows the player to sharpen their shooting skills. To appease fans of multiplayer, there is the option to play with up to four people in the Story mode, as well as fight against each other in the Team Battle mode. KNIFE EDGE: Nose Gunner for the Nintendo 64 offers a large amount of options and modes, as well as an exciting shooting adventure that is truly unique among N64 titles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47r3.jpg",
+        "release_date": 912124800,
+        "rating": 21.3500753502548,
+        "rating_count": 5,
+        "genres": "Shooter",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/knife-edge-nose-gunner",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3534,
+        "name": "Last Legion UX",
+        "summary": "Last Legion UX is a platform game for the Nintendo 64. It was released only in Japan in 1999.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa3s2.jpg",
+        "release_date": 927849600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/last-legion-ux",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3536,
+        "name": "Madden Football 64",
+        "summary": "Madden Football 64 is a football video game. It was the first game of the Madden NFL series to be released for the Nintendo 64. The game has commentary by Pat Summerall and John Madden.\nThis edition does not use real NFL team names or logos. Instead the teams use banners that consist of two bars with the team colors, and the team name on top of them in white, accompanied by players in their uniforms. The Pro Bowl is referred to as the \"Madden Bowl\", and the Super Bowl as the \"EAS Championship\".",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3bb9.jpg",
+        "release_date": 878256000,
+        "rating": 81.21111825848067,
+        "rating_count": 5,
+        "genres": "Simulator,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/madden-football-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3540,
+        "name": "Major League Baseball Featuring Ken Griffey Jr.",
+        "summary": "Make your dreams of becoming a Major Leaguer a reality! Hit a grand slam, pitch a no-hitter, go for the cycle and steal home - all in the same game! If that's not enough, check out the real-time stat tracking in over 30 major categories. Improve your team by making the right trades and picking up the best free agents. Major League Baseball Featuring Ken Griffey Jr. is so real, every pitch counts!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47ro.jpg",
+        "release_date": 896572800,
+        "rating": 84.87204957345133,
+        "rating_count": 9,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/major-league-baseball-featuring-ken-griffey-jr",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3541,
+        "name": "Mario no Photopi",
+        "summary": "Japan only creativity game. Allowed players to import digital photos and other images and transfer between cards.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21mr.jpg",
+        "release_date": 912556800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/mario-no-photopi",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3543,
+        "name": "Morita Shogi 64",
+        "summary": "Morita Shogi 64 is a Japanese virtual board game for the Nintendo 64. It was released only in Japan in 1998. It is the sequel to Saikyō Habu Shōgi, a launch game for the Nintendo 64. The cartridge has a built-in RJ-42 Modem Connection port with which players were able to connect to (now defunct) servers to play against other players all around Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wq7.jpg",
+        "release_date": 891561600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Card & Board Game",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/morita-shogi-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3544,
+        "name": "MRC: Multi-Racing Championship",
+        "summary": "Featuring up to 10 chooseable cars (many which open up later in the game), and three courses (plus mirror courses), Multi Racing Championship's biggest draw is the splendidly realistic feel of the cars themselves and the well designed courses on which they drive. The cars range from 4X4s, trucks, and off-road racers to slick street cars, Lamborghinis and the like. While initially it may seem like there is a deficit of courses, in fact, the multi-terrain courses contain mini-courses within each one. For instance, at least three times in each course, you will have the choice to take two different road directions -- either rough dirt track or snow-laden road, ot a slick but usually longer street course. Each car handles terrains differently, and some, like the trucks, obviously handle the off-roads better than others, but you can also modify your street car to handle dirst roads well, too.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2c0m.jpg",
+        "release_date": 869184000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/mrc-multi-racing-championship",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3545,
+        "name": "Mystical Ninja Starring Goemon",
+        "summary": "The story follows Goemon's struggles to prevent the Peach Mountain Shoguns gang from turning Japan into a Westernized fine arts theater. The plot calls for three cinematic musical features and battles between giant robots; like other Ganbare Goemon games, it is peppered with surrealist humor and anachronisms.\n\nThe protagonist of Mystical Ninja is Goemon, a hot-blooded, kiseru-wielding ninja with blue, bushy hair based loosely on the legendary thief Ishikawa Goemon. The lord of Oedo asks him to find those who maimed Oedo Castle. Goemon lives in Oedo Town and is friends with Ebisumaru, a strange, gluttonous fat man who wears a blue bandana. Ebisumaru is defined as lazy and perverted. Their kunai-throwing friend Sasuke is a mechanical ninja (made by the Wise Man of Iga) who enjoys hot baths and Japanese tea. Rounding out the heroes is Yae, a fierce sword-wielding kunoichi, who happens upon Goemon's band in Zazen Town. The villains of the game hail from the organization Peach Mountain Shoguns and include a gang of four \"weirdos\" led by Spring Breeze Dancin' (Danshin Harukaze) and Kitty Lily (Margaret Ranko). They intend to transform Japan into a stage for their talents.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co56g4.jpg",
+        "release_date": 870912000,
+        "rating": 76.3975823706693,
+        "rating_count": 24,
+        "genres": "Platform,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/mystical-ninja-starring-goemon",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3552,
+        "name": "NBA Jam 2000",
+        "summary": "All-new 2-on-2 JAM mode featuring 50 dunks and awesome special effects! Custom 2-on-2 JAM mode courts, including street court. Authentic 5-on-5 simulation mode with actual team play styles like the Jazz Pick-and-Roll. Jaw-dropping ultra high-rez graphics! Unique signature moves like the crossover dribble. Create your own JAM player. All 29 teams and over 300 NBA superstars! Over 800 all-new motion captured moves by the \"X-Man\" Xavier McDaniel!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47xt.jpg",
+        "release_date": 941328000,
+        "rating": 53.91159155708561,
+        "rating_count": 5,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/nba-jam-2000",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3555,
+        "name": "Neon Genesis Evangelion",
+        "summary": "This game is an interactive adaptation of Neon Genesis Evangelion for N64. Called Shinseki Evangelion in Japan, the Gainax-produced anime series originally aired from October '95 to March '96 and soon spawned a feature movie release in '97. The N64 game starts in the year 2015, 15 years after Second Impact. The Angels have returned and suddenly attack Tokyo-3. Using so-called \"terror-fields\" that cannot be penetrated by ordinary weapons, the Angels are taking on every human force sent out to oppose them. That's where you come in. As the pilot of the NERV-designed Evangelions, Shinji Ikari, you take your giant humanoid combat mech into battle with the Angels. Gameplay can best be described as interactive anime, as it relies heavily on timed button presses.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wj2.jpg",
+        "release_date": 930268800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/neon-genesis-evangelion",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3558,
+        "name": "NFL Quarterback Club 98",
+        "summary": "Do you have the courage to be an NFL quarterback? The same folks that brought you TUROK have turned their attentions to the gridiron and have brought great graphics, realistic action, and lots of options to the sport. With full licenses from the NFL and its athletes, the game has all of the teams and players, plus perfect replications of logos and stadiums. Just to assure that the artificial intelligence was high and the gameplay realistic, the developers coaxed Brett Favre into designing some of the plays.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47x9.jpg",
+        "release_date": 877651200,
+        "rating": 50.35966251919378,
+        "rating_count": 5,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/nfl-quarterback-club-98",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3564,
+        "name": "NHL Breakaway 99",
+        "summary": "All 27 NHL teams and over 600 players including the expansion Nashville Predators. Symbol-based passing and non-puck handler control. Real-life player sizes and weights. Create, trade, sign and release players. Set team style for physical play, power plays and penalty killing. Updated 1998-99 team jerseys, rosters, schedules and realigned divisions. Actual arena names for the ultimate NHL realism!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hb2.jpg",
+        "release_date": 912124800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/nhl-breakaway-99",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3565,
+        "name": "Nushi Tsuri 64",
+        "summary": "Fishing",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wq9.jpg",
+        "release_date": 912124800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/nushi-tsuri-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3566,
+        "name": "Nushi Tsuri 64: Shiokaze ni Notte",
+        "summary": "Fishing",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wqa.jpg",
+        "release_date": 959299200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/nushi-tsuri-64-shiokaze-ni-notte",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3568,
+        "name": "Ogre Battle 64: Person of Lordly Caliber",
+        "summary": "\"Ogre Battle 64: Person of Lordly Caliber is a tactical RPG for the Nintendo 64.\n\nFeaturing a gripping storyline with multiple possible endings, and a genre-defining character class system, this strategic epic has rightly retained its place in the hearts of tactical RPG fans for over a decade.\n\nThe game tells the story of Magnus Gallant, a recently graduated officer of the Palatinean Army who is assigned to the troubled southern region of his native land. There he witnesses the plight of the lower classes – the victims of a tyrannical ruling elite whose only thought is for the preservation of their own lofty status. With civil war brewing, Magnus is faced with a terrible choice: to betray his own noble origins in the name of liberty, or turn a blind eye to the evils of his rotten society.\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54xx.jpg",
+        "release_date": 931910400,
+        "rating": 91.92212448261569,
+        "rating_count": 22,
+        "genres": "Real Time Strategy (RTS),Role-playing (RPG),Strategy,Adventure",
+        "platform_ids": "5,4,416,41",
+        "external_url": "https://www.igdb.com/games/ogre-battle-64-person-of-lordly-caliber",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3576,
+        "name": "Power League 64",
+        "summary": "Power League 64 is a baseball game for the Nintendo 64. It was released only in Japan in 1997.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wqf.jpg",
+        "release_date": 870998400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/power-league-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3580,
+        "name": "Quest 64",
+        "summary": "Celtland has been cast into chaos by the theft of Eletale's Book. This mystical volume contains the secrets of the Spirit Tamers. Control Brian, a magician's apprentice, as he explores the expansive countryside and villages on his quest. If he does not reclaim the book, the Kingdom of Celtland will be cast into darkness forever.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8kyu.jpg",
+        "release_date": 897436800,
+        "rating": 37.84989780587851,
+        "rating_count": 26,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/quest-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3581,
+        "name": "Rakugakids",
+        "summary": "Rakuga Kids is a 2.5D fighting game created by Konami for the Nintendo 64, released in 1998. The name Rakugakids is a portmanteau of the Japanese word rakugaki (a doodle), and kids, a reflection of the visual style of the game which resembled children's drawings.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2c09.jpg",
+        "release_date": 901152000,
+        "rating": 55.04011140374777,
+        "rating_count": 5,
+        "genres": "Fighting",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/rakugakids",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3582,
+        "name": "Rally Challenge 2000",
+        "summary": "Speed is the name of the game in this realistic racing experience. Featuring nine unique vehicles, RALLY CHALLENGE 2000 delivers high-octane action, with plenty of options to keep the replay value high. The controls are simple, but the competition is stiff as you jet through the three tracks at three different levels of difficulty. To add to the excitement, your co-pilot is by your side, calling out turns and alerting you to what's around the corner. The game's four distinct play modes offer limitless challenges: there's a user-friendly Arcade mode, an intense four-player Versus mode, a convenient Practice mode, and a Championship mode which allows you to adjust your suspension, tires, gear ratios, and steering. Championship Mode the game's crown jewel presents you with a nine-race series, in which you must rack up more points than your competitors. If you're looking for a fast-moving racing game with tons of options, you've found it in RALLY CHALLENGE 2000.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47w0.jpg",
+        "release_date": 933897600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/rally-challenge-2000",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3589,
+        "name": "Road Rash 64",
+        "summary": "180 MPH slap in the face, anyone? Multi-player modes for up to four players including Deathmatch, Cop Mode and Tag. New weapons and moves like the dreaded spoke jam. Intense pack brawling, including grudges and alliances. 200 miles of interconnected tracks and environments. Over 25 bikes and characters to choose from. Thrashin' soundtrack featuring Sugar Ray, The Mermen and more!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nil.jpg",
+        "release_date": 937958400,
+        "rating": 59.95199227002278,
+        "rating_count": 10,
+        "genres": "Racing,Hack and slash/Beat 'em up",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/road-rash-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3591,
+        "name": "Robot Ponkottsu 64: Nanatsu no Umi no Caramel",
+        "summary": "Robot Ponkottsu 64: Nanatsu no Umi no Caramel (lit. Robot Ponkottsu 64: Caramel of the Seven Seas) is a role-playing video game for the Nintendo 64. It was released only in Japan, in 1999. It is part of the Robopon series of games, and can make use of the Transfer Pak with Robot Ponkottsu Sun, Star and Moon Versions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wqp.jpg",
+        "release_date": 945993600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/robot-ponkottsu-64-nanatsu-no-umi-no-caramel",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3593,
+        "name": "Rush 2: Extreme Racing USA",
+        "summary": "Rush 2: Extreme Racing USA is a sequel to San Francisco Rush and the second game in the Rush series.\nThe game is notable for the high level of detail in the recreations of the various cities and states used, and for its fast arcade-style physics. The game also features a two-player mode and rumble pack support. Hidden shortcuts and jumps add to the replay value of the game.\nCities used are New York (Uptown and Downtown), Hawaii, Las Vegas, San Francisco (Alcatraz), Los Angeles, and Seattle. Other tracks playable at the start of the game are Stunt, Crash, and Halfpipe. A bonus track can be won where your car is miniaturized and you drive through the offices of Midway Games. Another bonus is the full pipe level, as the last achievement to unlock.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39y7.jpg",
+        "release_date": 910656000,
+        "rating": 68.89798683876285,
+        "rating_count": 6,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/rush-2-extreme-racing-usa",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3594,
+        "name": "Saikyou Habu Shogi",
+        "summary": "Saikyou Habu Shogi is the premiere shogi game on the Nintendo 64, and one of 3 Japanese launch titles alongside Super Mario 64 and Pilotwings 64.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wqo.jpg",
+        "release_date": 835488000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Card & Board Game",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/saikyou-habu-shogi",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3600,
+        "name": "Shadowgate 64: Trials of the Four Towers",
+        "summary": "Ages have past since the vile Warlock Lord was banished to another dimension by the brave Lord Jair. The famous deed is now only spoken of as legend and myth. However, recent incidents have transpired in an attempt to resurrect the Ultimate Evil One. Caught up in a chain of events beyond his understanding or control, the Halfling Del must explore the ruins of the dilapidated Castle Shadowgate in order to unravel the mysteries set before him, and thwart the dark plans now in motion.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25g1.jpg",
+        "release_date": 928108800,
+        "rating": 63.47957604375651,
+        "rating_count": 6,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/shadowgate-64-trials-of-the-four-towers",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3606,
+        "name": "Stunt Racer 64",
+        "summary": "Set in some unspecified time in the future, the gameplay includes more than simple racing. Older vehicles (primarily those regarded even today as classics) are retrofitted with futuristic engine and turbo technology, in addition to jets mounted to allow the car to perform midair stunts. These stunts, including flips, barrel rolls, etc., allow the player to accumulate cash rewards during races on levitating tracks. Money accumulated is used to purchase new cars, as well as upgraded parts for cars (This increases the value of the vehicle. Oddly enough, this feature is relatively useless because vehicles can't be sold.)",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47zo.jpg",
+        "release_date": 970358400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/stunt-racer-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3607,
+        "name": "Super B-Daman: Battle Phoenix 64",
+        "summary": "Super B-Daman Battle Phoenix 64 is an Action game, developed and published by Hudson, which was released in Japan in 1998.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wqx.jpg",
+        "release_date": 901238400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/super-b-daman-battle-phoenix-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3608,
+        "name": "Super Robot Spirits",
+        "summary": "Super Robot Spirits is a 3D versus fighting game for the Nintendo 64, based within the Super Robot Wars line of games. It was released only in Japan in 1998.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/yzsceldprhpixeffgkcy.jpg",
+        "release_date": 900633600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/super-robot-spirits",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3611,
+        "name": "Tamagotchi 64: Minna de Tamagotchi World",
+        "summary": "Tamagotchi 64: Minna de Tamagotchi World is a Nintendo 64 game released only in Japan in 1997. It is a virtual board game based on the Tamagotchi toy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co300g.jpg",
+        "release_date": 882489600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Card & Board Game",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/tamagotchi-64-minna-de-tamagotchi-world",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3612,
+        "name": "Tetrisphere",
+        "summary": "Tetrisphere is a variant on Tetris in which various shapes are shifted across a wrapped three-dimensional grid resembling a sphere, and then destroyed. The objective of the game changes depending on the mode, but generally consists of removing layers of shapes to reach the playing field's core. Despite very little domestic advertising, Tetrisphere enjoyed moderately good sales and a mostly favorable critical reception. Reviewers praised the game's originality and the musical score composed by Neil D. Voss.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3bag.jpg",
+        "release_date": 871257600,
+        "rating": 84.07099405872273,
+        "rating_count": 14,
+        "genres": "Puzzle",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/tetrisphere",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3615,
+        "name": "Top Gear Hyper-Bike",
+        "summary": "Motorbike racer set in the Top Gear series. The Championship mode has you alternating between dirt and street racing as you compete for points. You earn new bikes and courses along the way like many other games, but interesting twist is going from one kind of racing to the other. The physics of each type of racing are very different, and you'll have to switch back and forth between dirt and racing tactics on the fly. The dirt bike racing is a lot more arcadey with all of the jumps and wide open tracks. You can earn turbo by pulling off tricks and there's really nothing to stop you from testing your stunt skills while racing except your own nerve and imagination. In this way, Hyperbike is like Hydro Thunder where you're expected to lean on that turbo button the whole time and it's up to your racing skills to ensure there's turbo available.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7b3r.jpg",
+        "release_date": 953251200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/top-gear-hyper-bike",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3616,
+        "name": "Top Gear Overdrive",
+        "summary": "In the main mode of play, the player races through six seasons, each season containing more races from more tracks, and with faster cars competing.\nAt the beginning of the race the player would start at the back of the grid, at the start line. Computer players at the front of the grid would often start a third of the way around the first lap. Players started with three charges of nitrous oxide, which were used to give the player a temporary speed boost.\nShortcuts were available on each track, and often the use of these decided the outcome of the races, particularly in later seasons.\nAt the end of each race the player would be presented with a screen to allow for various upgrades to their car, such as to acceleration and handling. The player was also able to change their car for a better (or worse) vehicle and could buy extra nitrous oxide to use in the next race.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b85.jpg",
+        "release_date": 911779200,
+        "rating": 69.97963735091632,
+        "rating_count": 5,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/top-gear-overdrive",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3618,
+        "name": "Top Gear Rally 2",
+        "summary": "Top Gear Rally 2 is a racing game for the Nintendo 64. It was released in 2000, and is a sequel to Top Gear Rally.\nThe game's objective is the same as the prior version: race through different locations (like farms, jungles, deserts and mountains) with the possibility of changing the climate (clear, rain, and snow). The game will randomly choose whether it is day or night.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47wx.jpg",
+        "release_date": 944179200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/top-gear-rally-2",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3622,
+        "name": "Twisted Edge Extreme Snowboarding",
+        "summary": "This is it! The fast-paced, intense snowboarding action you've been waiting for! TWISTED EDGE: EXTREME SNOWBOARDING! The sickest tricks, the biggest air and runs you've only dreamt about 'til now. No more searching for the best ride ever, grab your controller and prepare to get twisted! Loaded with riders, boards, and secrets - each with their own unique qualities. There's lots available, but only if you aren't slackin' off in your ridin' skills! Performance is everything and it pays off in TWISTED EDGE!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47x3.jpg",
+        "release_date": 910656000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/twisted-edge-extreme-snowboarding",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3624,
+        "name": "Virtual Pool 64",
+        "summary": "The ultra-real physics make Virtual Pool 64 as close to real pool as it gets! Choose from 9 types of pool including favorites like 9-Ball, Straight Pool, 8-Ball and One Pocket. Three levels of difficulty: Amateur, Professional and Championship. Master trick shots, learn a new game or challenge hundreds of computer opponents in exciting tournament play.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p8p.jpg",
+        "release_date": 913852800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/virtual-pool-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3625,
+        "name": "Virtual Pro Wrestling 2: Oudou Keishou",
+        "summary": "The sequel to Virtual Pro Wrestling 64, and released only in Japan. The title translates to Royal Road Succession; the name of the career mode in the game. The fifth wrestling game developed by AKI Corporation. Contained many improvements from previous titles that would be featured in AKI's final Nintendo 64 wrestling game WWF No Mercy. Some features, such as creating masks in edit mode and the MMA style grappling system, would not be carried over to WWF No Mercy.\n\nVirtual Pro Wrestling 2 carries the All Japan Pro Wrestling license, and features 21 wrestlers from their promotion. The rest of the characters included in the game are based on other real promotions and wrestlers, but due to copyright have fake names and appearances. This is common among other Japanese wrestling games. You can identify who the other wrestler's are by their unique moves and taunts, and the edit mode contains each piece of ring attire you would need to recreate their actual likeness.\n\nIn total, there are 98 wrestlers in the game, 23 of which have to be unlocked. There is also 16 original character slots you can use to edit and create your own wrestlers, bringing the potential total of wrestlers in the game to 114. This game has the largest roster of all of AKI's wrestling games. In comparison, WWF No Mercy would have 64 wrestlers available.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/tucrem7ud9pqmtee2wd9.jpg",
+        "release_date": 949017600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/virtual-pro-wrestling-2-oudou-keishou",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3626,
+        "name": "Virtual Pro Wrestling 64",
+        "summary": "Over 78 wrestlers ready to rumble! The no.1 wrestling promotion in the world, WCW, takes on the world and combines talents from around the world to settle their scores, and take on the nWo led by Hollywood Hogan.\n\nHundreds of moves, 4 player action, this is wrestling!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wr1.jpg",
+        "release_date": 882489600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/virtual-pro-wrestling-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3627,
+        "name": "Waialae Country Club: True Golf Classics",
+        "summary": "Grab your clubs and head for the first tee. This golf sim recreates the world famous Hawaiian Waialae Golf Course, noted for lots of bunkers and very fast greens. You can choose your golfer, assign him a caddy, pick your set of clubs and adjust the power, putting, technical, recovery and wind game stats to suit your personal preference. The game offers a practice training mode, a tournament mode and the ability to challenge your friends in a stroke match. Oddly, this game was not sanctioned by the PGA and assumes that the golfer is always male.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p8r.jpg",
+        "release_date": 901670400,
+        "rating": 50.07339703642155,
+        "rating_count": 5,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/waialae-country-club-true-golf-classics",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3635,
+        "name": "WCW vs. nWo: World Tour",
+        "summary": "Over 40 wrestlers in all, including over 20 WCW and NWO superstars like Hollywood Hogan, Sting, The Giant, Lex Luger, Ric Flair, The Outsiders and many more! Each wrestler is capable of performing 30 to 40 moves, including his own signature moves! Featuring five different gameplay modes, Tag Team and simultaneous four-player action!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xsp.jpg",
+        "release_date": 880848000,
+        "rating": 82.72245786165035,
+        "rating_count": 10,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/wcw-vs-nwo-world-tour",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3636,
+        "name": "WCW/nWo Revenge",
+        "summary": "More than 60 wrestlers, including ALL of the top WCW and NWO superstars! Awesome new features including wrestler entrances, all the real WCW belts, hidden weapons, instant replay, completely updated roster and complete user stats and arcade style scores! Enjoy real pay-per-view arenas, 40-man Battle Royale mode, and a costume editing feature!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b81.jpg",
+        "release_date": 912384000,
+        "rating": 76.42681586562298,
+        "rating_count": 18,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/wcw-nwo-revenge",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3642,
+        "name": "World Driver Championship",
+        "summary": "One of the last racing simulations to be released for Nintendo 64, this graphically intensive title used custom microcode optimization and high polygon count modelling. The development team was able to optimize the usage of the various processors within the N64 to allow far draw distance (reducing the need for fog or pop-up), high detail texturing and models, Doppler effect audio, and advanced lighting and fog effects for realistic weather conditions. Impressively the game has a high resolution 640x480 mode that does not require the add-on N64 RAM Expansion Pak. Additionally, unlike many other games of its type on the platform, the game runs high resolution at a sufficiently playable pace, undoubtedly due to the use of a reduced screen area letterbox mode that lessens the number of pixels needing to be displayed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b80.jpg",
+        "release_date": 928108800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/world-driver-championship",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3644,
+        "name": "WWF No Mercy",
+        "summary": "WWF No Mercy allows players to compete for seven different WWF titles, with each belt getting its own unique story. Stories can be replayed, allowing players to defend their title in a storyline. Upon successful completion of a story mode, players will unlock the title they were competing for in the Exhibition mode, where titles can be won and defended as the players see fit.\n\nA maximum of four players can compete in a range of modes, including caged and ladder contests and pay-per-view events. The player can also create an own event and compete for WWF titles unlocked in Championship mode. Certain matches are held outside the ring, in four different backstage locations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5072.jpg",
+        "release_date": 974419200,
+        "rating": 78.88302347174641,
+        "rating_count": 32,
+        "genres": "Fighting,Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/wwf-no-mercy",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3647,
+        "name": "Xena: Warrior Princess - The Talisman of Fate",
+        "summary": "Xena shall choose the defenders of the world. We have seen them in the memories of her exploits. So come together, Earth's greatest heroes and villains. Choose your weapons wisely and let the battles begin! Just remember, each victory only brings you closer to challenging the embodiment of darkness... Despair himself! Each of Xena's 10 characters possess their own unique weapons, attitudes and fighting techniques. Exclusive multi-player feature includes a roster mode, plus team and single battles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p8w.jpg",
+        "release_date": 944438400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Hack and slash/Beat 'em up,Arcade",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/xena-warrior-princess-the-talisman-of-fate",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 3650,
+        "name": "Zoor: Majuu Tsukai Densetsu",
+        "summary": "A role-playing video game for the Nintendo 64. Battles take place in realtime and the player's party is built out of monsters they train.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wr2.jpg",
+        "release_date": 929059200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/zoor-majuu-tsukai-densetsu",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 8503,
+        "name": "Duke Nukem: Zero Hour",
+        "summary": "He's all that stands between us and a Time-Spanning Alien invasion. He's Duke Nukem. Gaming's Greatest Action Hero. And this is his finest hour! Zero Hour! Awesome new enemies! Hilarious gags and one-liners! Same blood and guts attitude! Over 30 gut-wrenching levels set in four action-packed time eras! Incredible Teamplay and Deathmatch modes for up to 4 players! Over 20 all-new weapons of high-octane annihilation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b2s.jpg",
+        "release_date": 933465600,
+        "rating": 57.27983296905624,
+        "rating_count": 5,
+        "genres": "Shooter",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/duke-nukem-zero-hour",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 10609,
+        "name": "Chameleon Twist 2",
+        "summary": "Chameleon Twist 2 is presented as the direct sequel to Chameleon Twist and was published in 1999 by Sunsoft.\n\nAfter the events in Chameleon Twist, Davy and his friends are playing in the forest, still carrying the backpacks from their last adventure, when suddenly the rabbit returns and knocks one of the chameleons high up into the sky. The chameleon transforms into an enhanced-looking humanoid chameleon and goes on a search for six carrots in six different worlds, like Ice Land, Carnival Land or Sky Land.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b3c.jpg",
+        "release_date": 924048000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/chameleon-twist-2",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 10612,
+        "name": "Deadly Arts",
+        "summary": "Walk into the arena, take a bow, and prepare for the most intense combat simulation ever! Over nine controllable fighters are yours to command, complete with an arsenal of face-busting, body-smashing moves. Feel every kick, punch and throw with the RUMBLE PAK feature as you take part in a low down and dirty street fighting tournament!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zyj.jpg",
+        "release_date": 890870400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/deadly-arts",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 10682,
+        "name": "FIFA Soccer 64",
+        "summary": "FIFA Soccer 64 delivers the intensity and drama of international soccer to the Nintendo 64. You can choose from 150 national and club teams and develop your tactics and strategies in a friendly match. And when the time comes, try to win a Tournament. If you like something more substantial than tournament play, try to win a Season and become a league champion, or skip straight to the Playoffs. Should a friend want to join the action, he can with the Two-Player mode. In all of the game modes, you can play with free-and-loose Arcade rules, or strict referees and penalties in Simulation. Thanks to the motion-captured animation, you'll get smooth and realistic player movement, which helps put you in the middle of the action. Try to become an international soccer sensation with FIFA Soccer 64",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co207w.jpg",
+        "release_date": 857088000,
+        "rating": 27.53064307803525,
+        "rating_count": 5,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/fifa-soccer-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 10686,
+        "name": "Destruction Derby 64",
+        "summary": "Destruction Derby 64 is a racing game that combines high-speed competition with vehicular combat. Players race through 12 tracks while attempting to wreck opponents' cars for points, balancing the need for speed with strategic demolition. The game offers multiplayer support for up to four players and features various game modes, including traditional derbies, Capture the Flag, and arena battles. A variety of cars are available, with a special unlockable taxi vehicle serving as a reward for completing the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39ya.jpg",
+        "release_date": 938822400,
+        "rating": 71.33354616495825,
+        "rating_count": 7,
+        "genres": "Racing,Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/destruction-derby-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 44039,
+        "name": "Bakushou Jinsei 64: Mezase! Resort-ou",
+        "summary": "Bakushou Jinsei 64: Mezase! Resort-ou is an interactive board game for the Nintendo 64 based on The Game of Life. It was released only in Japan in 1998.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b6b.jpg",
+        "release_date": 914457600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Card & Board Game",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/bakushou-jinsei-64-mezase-resort-ou",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 44043,
+        "name": "ClayFighter 63 1/3",
+        "summary": "Get ready to crumble! Once again, the clay fighters prove that when you play a state-of-the-art fighter, you might lose lives, you might lose limbs, but there's no reason to lose your sense of humor! Fight in and out of 3D backgrounds. Get tossed out of a window and resume fighting outside. Choose form 12 eccentric fighters including brand new combatants and old favorites like \"Bad Mister Frosty\" and \"Bonker the Clown.\" Includes bonus \"secret characters\" who are so famous that a legal gag order prohibits us from revealing their identity. Move freely in over 12 highly detailed 3D environments.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3bc4.jpg",
+        "release_date": 877392000,
+        "rating": 54.25975924239033,
+        "rating_count": 16,
+        "genres": "Fighting",
+        "platform_ids": "478,4",
+        "external_url": "https://www.igdb.com/games/clayfighter-63-1-slash-3",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 47677,
+        "name": "AeroFighters Assault",
+        "summary": "The Aero Fighters Assault team needs your help to save the Earth from the evil Phutta Morgana organization and their machines of doom. Join the battle and choose your fighter from 6 different aircrafts with unique missiles and special weapons to wipe out your enemies in 3D-environment!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dq4.jpg",
+        "release_date": 878169600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/aerofighters-assault",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 47733,
+        "name": "SD Hiryuu no Ken Densetsu",
+        "summary": "An updated version of Hiryuu no Ken: Twin (Flying Dragon overseas), entitled SD Hiryuu no Ken Densetsu (lit. SD Legend of the Fist of the Flying Dragon), was released in Japan only, adding more characters (such as Jack, Ryu, and Gofire from the Super Chinese series), items and a new gameplay mode. It also removed the more realistic \"Virtual Mode\", favoring the super deformed \"Quest Mode\".\n\nPlayable characters are Ryuhi, Hayato, Min Min, Wiler, Shouryu, Yuka, Suzaku, Powers, Robo No Hana, Bokuchin (unlockable), Jack, Ryu, Raima, E. Quaker, Ellie, Gofire, Ryumaou (unlockable).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wqm.jpg",
+        "release_date": 946425600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/sd-hiryuu-no-ken-densetsu",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 47734,
+        "name": "Pocket Monsters Stadium",
+        "summary": "Pokémon Stadium is the first game of the Pokémon Stadium series. It was released exclusively in Japan.\n\nThe game focuses mainly on battling. Upon start-up, the game asks if the player if they want to use the Pokémon in their Game Boy Game Pak. If not, only Battle Mode can be accessed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tef.jpg",
+        "release_date": 901929600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "4,416",
+        "external_url": "https://www.igdb.com/games/pocket-monsters-stadium",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 47742,
+        "name": "Choro Q 64 2: Hacha-mecha Grand Prix Race",
+        "summary": "Choro Q 64 2: Hacha-mecha Grand Prix Race is a racing game released in 1999 in Japan for the Nintendo 64. It is the sequel to Choro Q 64 (Penny Racers outside of Japan) and is part of the Choro Q series. The game is also compatible with the Game Boy Color game Choro Q Hyper Customable GB, using the GB Transfer Pak.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6w2i.jpg",
+        "release_date": 948672000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/choro-q-64-2-hacha-mecha-grand-prix-race",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 47744,
+        "name": "Masters '98: Harukanaru Augusta",
+        "summary": "A golf game for the N64, released in 1997 and licensed by the Augusta National Golf Club, based in Georgia, USA.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wq0.jpg",
+        "release_date": 883094400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/masters-98-harukanaru-augusta",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 47754,
+        "name": "Olympic Hockey 98",
+        "summary": "For the first time in history, NHLPA pros are descending upon the Olympic Winter Games. Be a witness as regular season opponents join together as teammates. Kamensky and Yashin are laced up for Russia. Kariya and Roy get the nod for Canada. Modano and Leetch are in for the United States. The rosters are real. The graphics will make you sweat. It's country against country in this engagement. And the price of glory isn't gonna be pretty!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47yh.jpg",
+        "release_date": 888192000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/olympic-hockey-98",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 47756,
+        "name": "NFL Quarterback Club 99",
+        "summary": "The #1 football game on N64 just got a whole lot better! All 31 NFL teams, 3D rendered stadiums and over 1,500 players. Authentic team playbooks like the 49ers West Coast Defense and Steelers Ground Attack. All-new artificial intelligence developed by New York Jets offensive coordinator Charlie Weis. 250 all-new motion captured animations. Award-winning hi-rez graphics. Create your own players, coaches, teams, uniforms and playbooks!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62hv.jpg",
+        "release_date": 913248000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/nfl-quarterback-club-99",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 47763,
+        "name": "Air Boarder 64",
+        "summary": "Air Boarder 64 is a futuristic racing game for the Nintendo 64. It is very similar to the Tony Hawks Pro Skater series, although the game features hover boards instead of the usual skateboards. Various game modes are available in which you either have to win the race challenges or get a high score by performing different tricks.\n\nThe North American version was supposed to release as 'AirBoardin' USA' but was canceled.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54up.jpg",
+        "release_date": 890956800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/air-boarder-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 79669,
+        "name": "Robotron 64",
+        "summary": "A Nintendo 64 port of Robotron X, an update of the arcade classic Robotron 2084 that was released on PS1 and PC a month earlier.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47yp.jpg",
+        "release_date": 884044800,
+        "rating": 68.76023734653765,
+        "rating_count": 5,
+        "genres": null,
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/robotron-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 80368,
+        "name": "Bomberman 64",
+        "summary": "Not to be confused with the 1997 game known in North America and Europe as \"Bomberman 64,\" this 2D Bomberman title was the last N64 game to be released in Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25y5.jpg",
+        "release_date": 1008806400,
+        "rating": 70.02472760992195,
+        "rating_count": 9,
+        "genres": "Adventure,Arcade",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/bomberman-64--1",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 80390,
+        "name": "Famista 64",
+        "summary": "The Family Stadium series' sole entry on the Nintendo 64.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5bcz.jpg",
+        "release_date": 880675200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/famista-64",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 144507,
+        "name": "James Bond 007: The World Is Not Enough",
+        "summary": "The World Is Not Enough is a first-person shooter video game developed by Eurocom and based on the 1999 James Bond film of the same name. It was published by Electronic Arts and released for the Nintendo 64 on October 17, 2000, shortly before the release of its PlayStation counterpart. The game features a single-player campaign in which players assume the role of MI6 agent James Bond as he fights to stop a terrorist from triggering a nuclear meltdown in the waters of Istanbul. It includes a split-screen multiplayer mode where up to four players can compete in different types of deathmatch and objective-based games.\n\nThe game runs on an engine that was adapted to take advantage of the Nintendo 64 strengths. Although Eurocom used original production material to recreate the environments of the film, the company added elements to help the game design, including a mission which takes place in the London Underground. The game supports the Nintendo 64 Expansion Pak, which provides enhanced graphics and visual effects, but a Controller Pak is required to save the player's progress through the game.\n\nThe World Is Not Enough received generally positive reviews from critics and was frequently compared to Rare's Nintendo 64 first-person shooters GoldenEye 007 and Perfect Dark. It was also considered superior to its PlayStation counterpart because of its level design and inclusion of a multiplayer mode. Critics generally praised the game's graphics and smooth frame rate, but criticized its weak and inconsistent enemy artificial intelligence. In the United States, the game sold more than one million copies.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xsr.jpg",
+        "release_date": 971740800,
+        "rating": 65.91153376081971,
+        "rating_count": 18,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/james-bond-007-the-world-is-not-enough--1",
+        "cached_at": 1778663175
+      },
+      {
+        "id": 176024,
+        "name": "Monopoly",
+        "summary": "Mr. Monopoly is your Master of Ceremonies as the rich characters and colorful worlds of the Atlantic City Boardwalk come to life in full 3D animation! The best-selling board game of all time is better than ever with incredible N64 real-time graphics and expanded features. The board is spread across a picturesque panorama of mountains and houses. Other visual elements include a colorful cast of animated tokens, each flaunting a unique personality and whimsical humor. Enjoy classic Monopoly gameplay with non-stop wheeling and dealing from the rolling lawns of Park Place to the lowly back yards of Baltic Avenue.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47sv.jpg",
+        "release_date": 945475200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "4",
+        "external_url": "https://www.igdb.com/games/monopoly--7",
+        "cached_at": 1778663175
+      }
+    ]
+  }
+}

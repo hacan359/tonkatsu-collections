@@ -1,0 +1,318 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Xbox One Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:34+00:00",
+  "description": "Games released exclusively on Xbox One, sourced from Wikipedia category \"Xbox One-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 2131,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Forza_Motorsport_5"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4757,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Crimson_Dragon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4787,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Fighter_Within"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4842,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Kinect_Sports_Rivals"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5331,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Powerstar_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6803,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Halo_5%3A_Guardians"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11147,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Rare_Replay"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19172,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Xbox_Fitness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19901,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Dance_Central_Spotlight"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19917,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Fru_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20056,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Sixty_Second_Shooter_Prime"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20312,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Shape_Up_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 51614,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Action_News_Heroes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 57820,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Ben-Hur_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 82375,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Air_Guitar_Warrior"
+    },
+    {
+      "media_type": "game",
+      "external_id": 83810,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Korgan_%28video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 2131,
+        "name": "Forza Motorsport 5",
+        "summary": "Forza Motorsport 5 is a cinematic automotive journey starring the world’s greatest cars and tracks. Built from the ground up to take advantage of Xbox One and the vast power of the cloud, no game better delivers the wide-eyed thrill of racing.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2q6o.jpg",
+        "release_date": 1385078400,
+        "rating": 75.98502238158979,
+        "rating_count": 56,
+        "genres": "Racing,Simulator,Sport",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/forza-motorsport-5",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 4757,
+        "name": "Crimson Dragon",
+        "summary": "Several generations have passed since the human colonists of Planet Draco lost contact with Earth. Now they face the return of an old threat, a colossal destroyer known as the White Phantom. In \"Crimson Dragon,\" control your dragon and fight off the violent enemy life forms. Teach your dragon new skills, and train it to face combat in harder missions. The downloadable version of this game supports English",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1t3g.jpg",
+        "release_date": 1385078400,
+        "rating": 60.0,
+        "rating_count": 2,
+        "genres": "Shooter",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/crimson-dragon",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 4787,
+        "name": "Fighter Within",
+        "summary": "Fighter Within makes full use of Kinect for Xbox One technology, providing players the excitement of a real fighting competition while battling their friends to earn their bragging rights.\n\nFighter Within delivers on the long awaited motion fighting promise, inviting players to prove their fighting skills and sharpen their plan of attack in order to beat their opponents. Fighter Within lets players throw punches, kicks, counters and combos in the most immersive, brutal and liberating fighting experience yet.\n\nFighter Within delivers real-time wounds, sweat and facial impacts in order to propel players into the fight. With its impressive movement tracking, varied attack moves and the thrill of competing against friends, Fighter Within re-envisions the climactic fighting experience for a new generation of players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co228w.jpg",
+        "release_date": 1385078400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/fighter-within",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 4842,
+        "name": "Kinect Sports Rivals",
+        "summary": "Kinect Sports Rivals is the next generation of the best-selling Kinect franchise, Kinect Sports, that brings your favorite sports back in re-imagined ways, and delivers new sports and events made possible with Xbox One’s revolutionary technology. Kinect Sports Rivals puts you in the game like never before, tracks your movements and expressions with incredible accuracy, and offers never-ending competition with your friends and rivals.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22rt.jpg",
+        "release_date": 1396915200,
+        "rating": 80.0,
+        "rating_count": 2,
+        "genres": "Sport",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/kinect-sports-rivals",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 5331,
+        "name": "Powerstar Golf",
+        "summary": "Powerstar Golf plays similar to other video game golf games although the games does offer a few unique features: Every character in the game has a unique special move that enables him or her to perform better than they normally would. The game also features a caddy system, and caddies also have unique movesets that players can use to their advantage. The game also uses an RPG-like experience points system where players can earn points to level up their characters by performing small challenges on the course. The game also has an asynchronous multiplayer mode that allows players to play against ghost versions of players on the leaderboard and players can earn additional XP if their \"ghost\" beats another player who challenges them.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lmv.jpg",
+        "release_date": 1385078400,
+        "rating": 70.0,
+        "rating_count": 1,
+        "genres": "Sport",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/powerstar-golf",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 6803,
+        "name": "Halo 5: Guardians",
+        "summary": "Halo 5: Guardians delivers epic multiplayer experiences that span multiple modes, full-featured level building tools, and another chapter in the Master Chief saga. The Master Chief saga continues, with solo and up to 4-player cooperative experience that spans three worlds. A mysterious and unstoppable force threatens the galaxy. The Spartans of Fireteam Osiris and Blue Team must embark on a journey that will change the course of history and the future of mankind.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xhg.jpg",
+        "release_date": 1445904000,
+        "rating": 75.3126169620173,
+        "rating_count": 251,
+        "genres": "Shooter",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/halo-5-guardians",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 11147,
+        "name": "Rare Replay",
+        "summary": "Rare Replay is a 2015 compilation of 30 video games previously developed by Rare and its predecessor, Ultimate Play the Game, in their 30-year combined history. The emulated games span multiple genres and consoles - from the ZX Spectrum to the Xbox 360 - and retain the features and errors of their original releases with minimal edits. The compilation adds cheats to make the older games easier and a Snapshots mode of specific challenges culled from parts of the games. Player progress is rewarded with behind-the-scenes footage and interviews about Rare's major and unreleased games.\n\nGoldenEye 007 is added to the game library of anyone who purchases a digital copy of Rare Replay.\n\nUpon GoldenEye 007's release on Xbox One/Series consoles, it was retroactively added to the game library of anyone with a prior purchase of a digital copy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co50mg.jpg",
+        "release_date": 1438646400,
+        "rating": 78.05981106908008,
+        "rating_count": 28,
+        "genres": "Shooter,Platform,Puzzle,Racing,Quiz/Trivia,Arcade",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/rare-replay",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 19172,
+        "name": "Xbox Fitness",
+        "summary": "Experience the world's best workouts right in your home on Xbox Fitness. Train with Jillian Michaels, Tracy Anderson, Tony Horton of P90X, Shaun T of INSANITY and more. Buy individual workouts, and get over 30 additional workouts for free with Xbox Live Gold.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ifc.jpg",
+        "release_date": 1385078400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/xbox-fitness",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 19901,
+        "name": "Dance Central Spotlight",
+        "summary": "The newest game in the award-winning Dance Central series focuses on the core dance experience. With more routines per song and a massive library of additional songs for purchase, Dance Central Spotlight lets you customize your dance sessions more than ever before. Break a sweat with an enhanced Fitness Mode including specially authored routines, or use the voice-activated Practice That mode to rehearse difficult moves immediately in-song. And with choreography designed for everyone from new to advanced dancers, anyone can take the stage.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ws9.jpg",
+        "release_date": 1409616000,
+        "rating": 80.0,
+        "rating_count": 3,
+        "genres": "Music",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/dance-central-spotlight",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 19917,
+        "name": "Fru",
+        "summary": "FRU is a puzzle platformer that features an innovative use of Kinect, in which your silhouette becomes a \"portal\" between two worlds.\n\nYou will find yourself solving puzzles by strategically positioning your body, combining physical interaction with traditional platforming.\n\nThe game features four completely different chapters, all based around our innovative use of the silhouette, with a unique twist to each one of them.\n\nIn addition to moving and balancing your body to solve levels, you’ll also find yourself swimming inside your silhouette, striking crazy poses to activate contraptions, and awkwardly tiptoeing to avoid dangerous hazards!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1i1o.jpg",
+        "release_date": 1468368000,
+        "rating": 80.0,
+        "rating_count": 0,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/fru",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 20056,
+        "name": "Sixty Second Shooter Prime",
+        "summary": "Players have 60 seconds and one life to move from one level to the next in this dual-joystick shooter. A follow-up to Sixty Second Shooter Deluxe for the PSVita.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/x9nns9okax1q5twczk1f.jpg",
+        "release_date": 1403049600,
+        "rating": 70.0,
+        "rating_count": 0,
+        "genres": "Shooter",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/sixty-second-shooter-prime",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 20312,
+        "name": "Shape Up",
+        "summary": "Exclusive to Xbox One, Shape Up combines a foundation of proven fitness methods with entertaining and rewarding workout routines displayed in a unique arcade style. Each of the three game modes keeps players engaged and motivated with quirky, points-driven fitness challenges.\n\nUsing the Kinect camera, players will have a head to toe image of themselves projected into the game which will aid in keeping track of their workouts and calories burned each session. The innovative online mode uses rePLAY technology to push gamers to never work out alone.\n\nShape Up is set to revolutionize fitness games by proving that the more fun you have while working out, the longer you’ll stick with it to achieve better results.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22tw.jpg",
+        "release_date": 1415664000,
+        "rating": 80.0,
+        "rating_count": 0,
+        "genres": "Sport",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/shape-up",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 51614,
+        "name": "Action News Heroes",
+        "summary": "From fast food restaurant chains to live TV news, Network X has gained control of almost every modern industry. Network X has spent decades developing a mythical teleportation technology. This teleportation technology was compromised to a contract army who calls itself, Sabre. As a result, Sabre has taken aim at Network X and everything it controls.\n\nNo longer able to protect their own interests, Network X hires rag tag group of mercenaries who’ve been tasked with eradicating Sabre. Your job is to destroy Sabre on live TV as Network X's top hit news program, Action News Heroes. Put on a good show to boost Network X's ratings, and discover why Sabre has a sudden interest in destroying Network X.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/w9dq1fswguo1fuleuyxf.jpg",
+        "release_date": 1469577600,
+        "rating": 40.0,
+        "rating_count": 0,
+        "genres": null,
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/action-news-heroes",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 57820,
+        "name": "Ben-Hur",
+        "summary": "A video game adaption of the 2016 Ben-Hur film.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/fcnxwlellssmfimzxysi.jpg",
+        "release_date": 1470700800,
+        "rating": 50.0,
+        "rating_count": 1,
+        "genres": "Racing",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/ben-hur",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 82375,
+        "name": "Air Guitar Warrior for Kinect",
+        "summary": "Step inside the game and become a legendary Air Guitar Warrior with the power of Kinect! Play air guitar and control the music in this blend of music game and arcade action. Includes 19 custom-made tracks from Mr. Fastfinger and Samppa Siurala.\n\nShoot bullets, lasers and lightning from your air guitar! Ride dinosaurs, sharks and jet-powered crocodiles! Smash vikings, aliens, demons and flying skulls!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2isq.jpg",
+        "release_date": 1490745600,
+        "rating": 90.0,
+        "rating_count": 0,
+        "genres": "Shooter,Music,Indie,Arcade",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/air-guitar-warrior-for-kinect",
+        "cached_at": 1778663194
+      },
+      {
+        "id": 83810,
+        "name": "Korgan",
+        "summary": "Korgan is an episodic dungeon-crawler game. \n \nWhile playing the story mode you can switch your character in real time to face different kind of enemies or obstacles. \n \nCombine their abilities: freeze an enemy with the Mage, switch your character to Warrior and finish him with brute force, or perhaps shoot him from a safe range with the Hunter? Each character have their own abilities, strengths and weakness.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qin.jpg",
+        "release_date": 1524787200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Indie",
+        "platform_ids": "49",
+        "external_url": "https://www.igdb.com/games/korgan",
+        "cached_at": 1778663194
+      }
+    ]
+  }
+}

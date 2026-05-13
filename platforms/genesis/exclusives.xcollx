@@ -1,0 +1,2978 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Sega Genesis Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:13+00:00",
+  "description": "Games released exclusively on Sega Genesis, sourced from Wikipedia category \"Sega Genesis-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1264,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Sparkster%3A_Rocket_Knight_Adventures_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2548,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Dragon_Ball_Z%3A_Buy%C5%AB_Retsuden"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3000,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Shadowrun_%281994_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3217,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Alex_Kidd_in_the_Enchanted_Castle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4375,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Shove_It%21_The_Warehouse_Game"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4386,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/College_Football%27s_National_Championship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4390,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/European_Club_Soccer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4391,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Vectorman_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4421,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Pel%C3%A9_II%3A_World_Tournament_Soccer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4424,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Dick_Vitale%27s_%22Awesome%2C_Baby%21%22_College_Hoops"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4426,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Warrior_of_Rome"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4432,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Osomatsu-kun%3A_Hachamecha_Gekij%C5%8D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4433,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Double_Dribble%3A_The_Playoff_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4436,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Bimini_Run"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4439,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Socket_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4442,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Chi_Chi%27s_Pro_Challenge_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4448,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Curse_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4452,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Vixen_357"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4458,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Pinball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4470,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Golfer_Yui"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4480,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/King_Salmon_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4485,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Tel-Tel_Mahjong"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4486,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Warriors_of_the_Eternal_Sun"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4490,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Alien_Soldier"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4518,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Desert_Demolition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4521,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Slap_Fight"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4522,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Shadow_Blasters"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4524,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Barkley_Shut_Up_and_Jam_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4530,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Gargoyles_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4531,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/X-Men_%281993_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4534,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Ghostbusters_%281990_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4535,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Technoclash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4536,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Jewel_Master"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4537,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Combat_Cars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4539,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/FIFA_Soccer_95"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4551,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/NBA_Action_%2795"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4552,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Crusader_of_Centy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4588,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/John_Madden_Football_%2792"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5354,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Air_Diver"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5364,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Bill_Walsh_College_Football_%2795"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5934,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Warrior_of_Rome_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6665,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Ecco_Jr."
+    },
+    {
+      "media_type": "game",
+      "external_id": 7224,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Rings_of_Power_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8049,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures%3A_Buster%27s_Hidden_Treasure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8052,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures%3A_ACME_All-Stars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8075,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/The_Lost_World%3A_Jurassic_Park_%28Sega_Genesis_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8124,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/World_of_Illusion"
+    },
+    {
+      "media_type": "game",
+      "external_id": 9161,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/X-Men_2%3A_Clone_Wars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 9766,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Rocket_Knight_Adventures"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10149,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/General_Chaos"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10510,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Batman_%28Sega_Genesis_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10678,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Jurassic_Park%3A_Rampage_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12869,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Arnold_Palmer_Tournament_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18142,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Marsupilami_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19494,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/F-22_Interceptor"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19508,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Alisia_Dragoon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19559,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/NHL_All-Star_Hockey_%2795"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19781,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Asterix_and_the_Power_of_the_Gods"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19784,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Generations_Lost"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20593,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Andretti_Racing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22680,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Sub-Terrania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 26556,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Trouble_Shooter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 27062,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/NHL_Hockey"
+    },
+    {
+      "media_type": "game",
+      "external_id": 27075,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Skitchin%27"
+    },
+    {
+      "media_type": "game",
+      "external_id": 27989,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Mystic_Defender"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28020,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Pat_Riley_Basketball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28039,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Whip_Rush"
+    },
+    {
+      "media_type": "game",
+      "external_id": 36923,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/McDonald%27s_Treasure_Land_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 36947,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Mazin_Saga%3A_Mutant_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45564,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Bonkers_%28Sega_Genesis_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45565,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Blades_of_Vengeance"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45587,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Fantasia_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45592,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Road_Rash_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45710,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Double_Clutch_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45718,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Nakajima_Satoru_Kansh%C5%AB_F1_Super_License"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45720,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Megapanel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45722,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Mamono_Hunter_Y%C5%8Dko%3A_Dai_7_no_Keish%C5%8D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45732,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Cutie_Suzuki_no_Ringside_Angel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45756,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Australian_Rugby_League_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45759,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Ball_Jacks"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45761,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Body_Count_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45767,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/OutRun_2019"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45772,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Mystical_Fighter_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45773,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/MiG-29%3A_Fighter_Pilot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45783,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Greatest_Heavyweights"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46067,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Bulls_vs_Lakers_and_the_NBA_Playoffs"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46162,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Verytex"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46165,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Thunder_Pro_Wrestling_Retsuden"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46166,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Tecmo_Cup_Football_Game"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46176,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Eliminate_Down"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46177,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Nightmare_Circus"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46179,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Twinkle_Tale"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46185,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Dahna%3A_Megami_Tanj%C5%8D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46190,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Sylvester_and_Tweety_in_Cagey_Capers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46197,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Sorcerer%27s_Kingdom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46198,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Sesame_Street%3A_Counting_Cafe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46199,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Saint_Sword"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46200,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Rolo_to_the_Rescue"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46205,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Jennifer_Capriati_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46207,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/IMG_International_Tour_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46210,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Goofy%27s_Hysterical_History_Tour"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46214,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Gauntlet_IV"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46215,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Fighting_Masters"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46216,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/F-117_Night_Storm"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46218,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Elemental_Master"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46219,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Dragon%27s_Revenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46226,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Coach_K_College_Basketball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46234,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/ATP_Tour_Championship_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46238,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Blaster_Master_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46239,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Beast_Wrestler"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46240,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Awesome_Possum..._Kicks_Dr._Machino%27s_Butt"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46243,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Rolling_Thunder_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46244,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/TNN_Outdoors_Bass_Tournament_%2796"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46245,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Triple_Play_Baseball_%2796"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46247,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Dashin%27_Desperadoes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46252,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Dinosaurs_for_Hire_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46253,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Mutant_League_Hockey"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46254,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Mutant_League_Football"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46259,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Traysia"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46260,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Team_USA_Basketball_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46261,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Sports_Talk_Baseball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46265,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Ranger_X"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46268,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Football_%2794_Starring_Joe_Montana"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46278,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Crystal%27s_Pony_Tale"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46282,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Cr%C3%BCe_Ball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46286,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Barney%27s_Hide_%26_Seek_Game"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46288,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Art_Alive%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46522,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Arrow_Flash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46533,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/David_Robinson%27s_Supreme_Court"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46535,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/College_Football%27s_National_Championship_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46536,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/College_Football_USA_96"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46597,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Tecmo_Super_Hockey"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46674,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Earth_Defense"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46682,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Zero_Tolerance_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46684,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/X-Perts"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46686,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/World_Championship_Soccer_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46689,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Trampoline_Terror%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47059,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Tel-Tel_Stadium"
+    },
+    {
+      "media_type": "game",
+      "external_id": 51942,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/The_Flintstones_%281993_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 59760,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/XDR_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 70943,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Sampras_Tennis_96"
+    },
+    {
+      "media_type": "game",
+      "external_id": 72117,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Sports_Talk_Football_%2793_Starring_Joe_Montana"
+    },
+    {
+      "media_type": "game",
+      "external_id": 73006,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Instruments_of_Chaos_starring_Young_Indiana_Jones"
+    },
+    {
+      "media_type": "game",
+      "external_id": 78098,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Pel%C3%A9%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81222,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/El_Viento"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81522,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Superman_%281992_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81530,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Red_Zone_%281994_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93373,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Gaiares"
+    },
+    {
+      "media_type": "game",
+      "external_id": 122854,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Fastest_1"
+    },
+    {
+      "media_type": "game",
+      "external_id": 126091,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/NFL_%2798"
+    },
+    {
+      "media_type": "game",
+      "external_id": 135590,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Uzu_Keobukseon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 136726,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Rambo_III_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 222830,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Pro_Moves_Soccer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 234834,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/The_Adventures_of_Batman_%26_Robin_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 281554,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/Outback_Joey"
+    },
+    {
+      "media_type": "game",
+      "external_id": 330523,
+      "platform_id": 29,
+      "comment": "https://en.wikipedia.org/wiki/T%C5%ABnsh%C3%AD_Ti%C4%81nd%C3%AC_III"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1264,
+        "name": "Sparkster: Rocket Knight Adventures 2",
+        "summary": "Direct sequel to the previous Rocket Knight Adventures game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7oty.jpg",
+        "release_date": 779587200,
+        "rating": 69.07222804162569,
+        "rating_count": 15,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/sparkster-rocket-knight-adventures-2",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 2548,
+        "name": "Dragon Ball Z: Buyuu Retsuden",
+        "summary": "Dragon Ball Z: Buyu Retsuden is a fighting video game based upon Akira Toriyama's Dragon Ball franchise. It is the only game in the series released for the Mega Drive, following the Frieza and Cell sagas. Its gameplay has been described as a combination of the original Super Butōden and Super Butōden 2, consisting of one-on-one fights using a three-button configuration, featuring special moves and two playable modes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4l0l.jpg",
+        "release_date": 765158400,
+        "rating": 61.2644021598344,
+        "rating_count": 10,
+        "genres": "Fighting",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/dragon-ball-z-buyuu-retsuden",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 3000,
+        "name": "Shadowrun",
+        "summary": "Shadowrun is an action role-playing game.It was adapted from the cyberpunk role-playing game Shadowrun.The game is the second video game adapted from Shadowrun, and has a more open ended style of gameplay than its 1993 Super NES counterpart, Shadowrun by Beam Software.\nThe game is set in the Shadowrun universe, in the 2050s. A time where the blending of technology and human flesh is common; it is around the time the Matrix, a huge computer network, came online, with the ability to jack into its cyberspace directly. It was also a time of magic renewal: a phenomenon known as The Awakening occurred, where magic returned into the world. Sorcery was once again possible, and slowly and seemingly at random humans began to mutate into orcs, dwarves, elves or trolls. This time of upheaval was not without political conflicts: mega-corporations began to control the world. But with their magic, native shamans threatened them and the world geography came to a complete change. The Amerindians and Elves reclaimed an area called Salish-Shidhe, close to the free city of Seattle, a major city in the newly formed United Canadian and American States.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tp6.jpg",
+        "release_date": 733017600,
+        "rating": 87.06705767381519,
+        "rating_count": 18,
+        "genres": "Role-playing (RPG),Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/shadowrun",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 3217,
+        "name": "Alex Kidd in the Enchanted Castle",
+        "summary": "The whole Kidd family is upset! Alex’s father, King Thor, is missing, and they suspect he has been kidnapped by Ashra, the mean ruler of the planet Paperock. Alex speeds to Paperock to investigate, but the creatures of Paperock decide to hinder his efforts and try to keep him away from Sky Castle, Ashra’s hideaway. Luckily Alex knows how to jump, punch and kick his way through the most stubborn of enemies.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co288y.jpg",
+        "release_date": 603072000,
+        "rating": 69.05974176439351,
+        "rating_count": 33,
+        "genres": "Platform,Adventure",
+        "platform_ids": "3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/alex-kidd-in-the-enchanted-castle",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4375,
+        "name": "Shove It! The Warehouse Game",
+        "summary": "You'll need brains and brawn to solve these mind bending puzzles. You're Stevedore the warehouse man. You shove boxes for a living. This morning you met the girl of your dreams, but to get to her you'll need the car of your dreams! And that means working overtime and using your head. Now you've got a big job ahead of you, 16 levels, 160 warehouses that need to have their boxes shoved into order. Each room is a puzzle that takes skill, strategy and your wits to solve. As you progress, the ware-houses get harder. It's addictive! Once you start you can't stop. Some warehouses may seem impossible, but there is a solution to each one. To help you there is a \"trace mode\" to retrace your steps and passwords to access each level, once you've earned that level. You can even design your own warehouses to stump your friends. If you can beat all 16 levels, a brand new sports car... and the girl... will be yours. Fall and you'll be yelling Shove It!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8hg9.jpg",
+        "release_date": 633657600,
+        "rating": 61.0344827586207,
+        "rating_count": 7,
+        "genres": "Puzzle,Simulator",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/shove-it-the-warehouse-game",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4386,
+        "name": "College Football's National Championship",
+        "summary": "It features 32 college powerhouses from four major divisions, letting you play exhibition games or letting you compete in a tournament to achieve an #1 ranking, as opposed to competing in a season to obtain it. It also has the option to play it on Team Player letting you control four players at once.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l1d.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/college-football-s-national-championship",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4390,
+        "name": "World Trophy Soccer",
+        "summary": "The world's most popular sport has never been so exciting. Enjoy all of the action of international competition; passing, dribbling, and tackling your way to hard-fought victory. Use complete directional control to master corner kicks, penalty shots, throw-ins, and more. An on-screen referee is on hand to enforce international rules in either Arcade or Simulation play styles. You determine the nationality, strategy, and even the uniform color for your team, and then get ready for a gigantic tournament that will put your country's character to the test. Adjust the match lengths to meet your attention span, choose your difficulty level, and prepare to enjoy the most realistic soccer animations and game play ever.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p0z.jpg",
+        "release_date": 725760000,
+        "rating": 47.3866679813756,
+        "rating_count": 6,
+        "genres": "Simulator,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/world-trophy-soccer",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4391,
+        "name": "VectorMan 2",
+        "summary": "A routine sludge barge excursion is cut short when a mysterious missile critically damages VectorMan’s ship. Vectorman escapes destruction and freefalls back to earth, landing on the outskirts of a seemingly abandoned research facility.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4t7m.jpg",
+        "release_date": 848016000,
+        "rating": 78.96391953278173,
+        "rating_count": 23,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "3,29,6,14",
+        "external_url": "https://www.igdb.com/games/vectorman-2",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4421,
+        "name": "Pelé II: World Tournament Soccer",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p07.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/pele-ii-world-tournament-soccer",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4424,
+        "name": "Dick Vitale's \"Awesome, Baby!\" College Hoops",
+        "summary": "Dick Vitale, the famous college basketball coach and commentator, lent his unique voice to this game for the Sega Genesis. There are four levels of depth to the commentary. Another aspect of the license is that the variety of offensive and defensive strategies and formations for player and AI use are pulled from the pages of Coach Vitale's own playbook.\n\nThe game features a 3/4 pseudo-3D perspective similar to that available on the SNES console in Mode 7. There are 32 college teams to choose from in four conferences, and games are played by official NCAA rules. Available gameplay modes include Single Game, 2-on-2, Slamfest (a simple slam-dunk contest), and Tournament. The AI can take control of defense, and the game can be played without foul rules.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l63.jpg",
+        "release_date": 767923200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/dick-vitale-s-awesome-baby-college-hoops",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4426,
+        "name": "Warrior of Rome",
+        "summary": "Warrior of Rome is a strategy game set during the Ancient Roman era. It is shown from a top-down perspective and all units are represented by icons on the square fields of the playing map. The basic gameplay is simple: on each of the four levels there are goals to fulfill, e.g. destroying pirate ships. To do so, the player chooses a unit and gives it the order to move somewhere. When hostile units meet, they fight automatically; the fights are shown in separate windows.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p2e.jpg",
+        "release_date": 662688000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/warrior-of-rome",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4432,
+        "name": "Osomatsu-kun Hachamecha Gekijou",
+        "summary": "The game was based on the Manga/Anime series Osomatsu-kun by Fujio Akatsuka; players controlled the title character and encountered many of the series' characters in a strange (but comical) world.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7r5i.jpg",
+        "release_date": 598924800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/osomatsu-kun-hachamecha-gekijou--1",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4433,
+        "name": "Double Dribble: The Playoff Edition",
+        "summary": "The Playoff Edition expands dramatically on the original in a number of ways:•16 teams of 12 (fictitious) players each",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co554i.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/double-dribble-the-playoff-edition",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4436,
+        "name": "Bimini Run",
+        "summary": "You are Kenji Ohara, a motor boat expert. The evil Dr. Orca has kidnapped your sister Kim. Together with your best friend Luka you must find his hideout on a deserted island, and rescue your sister from his clutches. But that won't be easy, as Dr. Orca has sent his henchmen to stop you!\n\nThis is a sailing action game. You navigate your motor boat from a third person perspective view, increasing and decreasing your speed, avoiding yachts and other obstacles, and shooting down the enemies who are trying to stop you.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k24.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Racing",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/bimini-run",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4439,
+        "name": "Socket",
+        "summary": "Who is this Socket and where is he going so fast? He's a duck with an attitude, and he's taking himself and his electric cord toil anywhere he needs to be. Socket is one bad duck. He's so fast that he can turn out the lights and get out of the room before it gets dark! He's got more alternating current than the electric company and more moves than Air-What's-His-Name.\n\nPlug into Socket for a little AC buzz and some fast times!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4er6.jpg",
+        "release_date": 745545600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/socket",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4442,
+        "name": "Chi Chi's Pro Challenge Golf",
+        "summary": "Chi Chi's Pro Challenge Golf is a golf game featuring Juan \"Chi Chi\" Rodriguez. It has options that allow for match, stroke, and tournament play. The player can also choose to play against different levels of opponents, whose skills are measured on that opponent's putting, approach, and control abilities.\n\nThe game lets the player choose whether to play on a US or Japanese golf course. Once out on the course, the player must choose which golf club to use, where to make contact with the ball, and where to aim in the direction they want the ball to go. Once that's decided the player fills a swing meter and hits the ball trying to get the ball into the hole.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5mu6.jpg",
+        "release_date": 728524800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/chi-chi-s-pro-challenge-golf",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4448,
+        "name": "Curse",
+        "summary": "Curse is a 1989 shoot 'em up game developed by Micronet for the Mega Drive video game console. It was a sideways scrolling shoot 'em up spread across five levels. Although an American release was planned, it was never officially released outside Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5j9m.jpg",
+        "release_date": 630374400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/curse",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4452,
+        "name": "Vixen 357",
+        "summary": "Vixen 357 (ヴィクセン３５７) is a 1992 strategy game for the Sega Mega Drive by NCS released exclusively in Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/gmh0yhq1jnob0x12digl.jpg",
+        "release_date": 719798400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/vixen-357",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4458,
+        "name": "Virtual Pinball",
+        "summary": "Virtual Pinball is the spiritual successor to Bill Budge's classic Pinball Construction Set.\n\nPlayers can choose from either 29 pre-made games or design one using the in-game editor tools. Designing options include ten different backgrounds and six themes. You also get to choose where objects are placed, the style of music, and the ball speed. Up to ten personal games can be saved.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p36.jpg",
+        "release_date": 757296000,
+        "rating": 51.90476190476191,
+        "rating_count": 5,
+        "genres": "Pinball,Arcade",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/virtual-pinball",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4470,
+        "name": "Battle Golfer Yui",
+        "summary": "Gil Hazard, president of the Hazard Foundation, is secretly Professor G, the leader of the evil Dark Hazard organization. He has designs on world domination, and has plans to use the power of golf toward this end; this is the Battle Golfer project. Yui Mizuhara and Ran Ryuzaki are two ordinary high school girls who just so happen to be golf prodigies, and so are prime candidates for the Battle Golfer project. They are abducted by Professor G, but are rescued by a mysterious man before they can be taken under his control.\n\nHaving escaped, Yui hears about a golf tournament being held by the Hazard Foundation, and suspecting more nefarious plans, she secretly enters the tournament to stop him for good.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kh7.jpg",
+        "release_date": 666576000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Sport,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/battle-golfer-yui",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4480,
+        "name": "King Salmon: The Big Catch",
+        "summary": "King Salmon: The Big Catch is a fishing competition simulator: a player has to spend a day fishing for king salmon. Activities simulated include driving a boat to choose the best place to fish, choice of lures, line lengths, fishing depths, driving a boat to troll for salmon and, finally, pulling the caught fish out. The objective is to overcome some fictional fishermen, played by computer, in terms of the fish caught. \n \nGame also includes simple role-playing elements, as player's skill improve with time and experience and it's possible to catch bigger and better fish successfully.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/zod9awdv8ugugtqmvpyv.jpg",
+        "release_date": 720662400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/king-salmon-the-big-catch",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4485,
+        "name": "Tel-Tel Mahjong",
+        "summary": "Tel-Tel Mahjong is a Sega Mega Drive Mahjong video game that was released exclusively in Japan in 1990. Part of the Tel-Tel series that included Tel-Tel Stadium, it was one of the few games that used the Mega Modem, allowing for two-player games via the Sega Net Work System. Up to three players can play the \"host\" player in addition to being able to play against computer opponents.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/mlvrsvqgpweamiwxmjyx.jpg",
+        "release_date": 644803200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Simulator,Card & Board Game",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tel-tel-mahjong",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4486,
+        "name": "Dungeons & Dragons: Warriors of the Eternal Sun",
+        "summary": "Dungeon & Dragons: Warriors of the Eternal Sun is set in the world of Mystara, a setting of the Dungeons & Dragons game. The characters find themselves in a strange, red-hued world in which the horizon slopes upward in all directions, eventually vanishing into a crimson haze at the limits of sight. Their mission is to find and make allies in this new world or else the kingdom and its culture will perish.\n\nThe player leads a party of four characters (either the default party or one that the player has created). Characters and races can be chosen from the normal D&D options. The gameworld is viewed from an isometric perspective and the characters can roam around in realtime. Battles are turn based. Like most role-playing games, the gaming experience focuses on exploration, inventory management and character development.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47z8.jpg",
+        "release_date": 706924800,
+        "rating": 64.76190476190476,
+        "rating_count": 5,
+        "genres": "Shooter,Racing,Role-playing (RPG),Simulator,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "29,6,12,49",
+        "external_url": "https://www.igdb.com/games/dungeons-dragons-warriors-of-the-eternal-sun",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4490,
+        "name": "Alien Soldier",
+        "summary": "The planet Sierra is being attacked by Scarlet, a terrorist group lead by a vicious creature named Xi-Tiger who is plotting to destroy the human race. With vengeance, our hero Epsilon-Eagle will fight against Xi-Tiger as well as the terrorist organization that he formerly led.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xv8.jpg",
+        "release_date": 793584000,
+        "rating": 76.82261790319474,
+        "rating_count": 43,
+        "genres": "Shooter,Platform,Arcade",
+        "platform_ids": "3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/alien-soldier",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4518,
+        "name": "Desert Demolition Starring Road Runner and Wile E. Coyote",
+        "summary": "Play either the Road Runner OR Wile E. Coyote in this unique side-scroller that is just like an interactive Saturday morning cartoon.\n\nYour goal: run through six different desert environments before time expires, collecting ACME stamps.\n\nAs the Road Runner, speed is your ally as you do incredible jumps, burn though loop-de-loops, and avoid all of the Coyote's contraptions and ambushes. The Road Runner can also scare an unsuspecting Coyote with his Beep-Beep attack.\n\nAs the Coyote, you use Acme's crazy gadgets to catch the Road Runner, constantly attempting to master their power without getting yourself flattened. The Coyote has a special leap attack which allows him to make a last ditch attempt to grab the bird!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l61.jpg",
+        "release_date": 820368000,
+        "rating": 80.1072572664023,
+        "rating_count": 14,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/desert-demolition-starring-road-runner-and-wile-e-coyote",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4521,
+        "name": "Slap Fight MD",
+        "summary": "Slap Fight MD (スラップファイト) is a 1993 shoot-'em-up game developed by Toaplan and MNM Software for the Sega Mega Drive and published by Tengen exclusively in Japan and South Korea. Two games are available: a port of Toaplan's 1986 arcade shoot-'em-up Slap Fight with the choice to use either remastered music or the original sound, and a separate game called Slap Fight MD, that has the same gameplay mechanics but new art, levels, weapons, and music (composed by Yuzo Koshiro). The option to switch between Slap Fight and Slap Fight MD is in the Options menu under \"Game Mode,\" with Normal enabling Slap Fight and Special enabling Slap Fight MD.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4egm.jpg",
+        "release_date": 736560000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/slap-fight-md",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4522,
+        "name": "Shadow Blasters",
+        "summary": "The evil god Ashura has unleashed hordes of monsters and demons onto Earth, hoping to take control of the planet as well as the hearts of men. The powerful god Hyprion has recruited four of Earth's most powerful warriors and assembled them into a team to fight the encroaching darkness. The player assumes control of this group of warriors in order to defeat the armies and their god, Ashura.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p8b.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/shadow-blasters",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4524,
+        "name": "Barkley: Shut Up and Jam 2",
+        "summary": "This game is a sequel to Barkley: Shut Up and Jam!. It is a street basketball game which means no referees to enforce fouls and no shot clock to force a player to take a shot. The game features an exhibition and a tournament mode.\n\nIn exhibition mode the player chooses 2 players out of a possible 10 to play in a 2 on 2 game. The game can either be played for 3 minutes, 5 minutes, or til the first team gets to either 21 or 50 points depending on what option is chosen.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iwl.jpg",
+        "release_date": 820368000,
+        "rating": 66.78891488141461,
+        "rating_count": 5,
+        "genres": "Puzzle,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/barkley-shut-up-and-jam-2--1",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4530,
+        "name": "Gargoyles",
+        "summary": "Based on the 90's Gargoyles TV series by Disney, you play as Goliath in a action/platformer game loosely following events of the series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hfk.jpg",
+        "release_date": 800496000,
+        "rating": 74.70328810460065,
+        "rating_count": 12,
+        "genres": "Platform",
+        "platform_ids": "19,29",
+        "external_url": "https://www.igdb.com/games/gargoyles",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4531,
+        "name": "X-Men",
+        "summary": "X-Men is a side-scrolling action game based on the comic book series of the same name. The player can control one of four playable characters: Gambit, Nightcrawler, Wolverine, or Cyclops. In addition, it is possible to call upon four other X-Men in when necessary.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tus.jpg",
+        "release_date": 731548800,
+        "rating": 60.63114142445914,
+        "rating_count": 29,
+        "genres": "Fighting,Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/x-men",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4534,
+        "name": "Ghostbusters",
+        "summary": "Ghostbusters was published by Sega and developed by Compile for the Mega Drive/Genesis on June 29, 1990. It is unrelated to the earlier Activision game (though their name still appears in the copyright screen), and is instead a run and gun game in which the player takes control of squat cartoon representations of three of the four Ghostbusters from the movie, with the noticeable absence of Winston Zeddemore. Four levels are available initially; after they are completed, a fifth level is unlocked, followed by a sixth and final level. Each level contains a number (usually two) of mid-bosses known as \"middle ghosts\"; after a middle ghost is defeated, it turns into a small green ghost which can be captured for extra money by luring it over a ghost trap. Between levels, money can be used to buy powerups, such as a 3-way shot or recovery items.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tut.jpg",
+        "release_date": 646617600,
+        "rating": 77.95232912918172,
+        "rating_count": 19,
+        "genres": "Shooter,Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/ghostbusters",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4535,
+        "name": "TechnoClash",
+        "summary": "A top-down action RPG with over seven levels to explore.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rjv.jpg",
+        "release_date": 728524800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/technoclash",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4536,
+        "name": "Jewel Master",
+        "summary": "An army of demons terrorizes the land. Bone-hurling skeletons wait to torture your mere flesh and blood. Mythgard's only salvation rests in the hands of the JEWEL MASTER. Capture the rings of Earth, Wind, Fire and Water. Each ring holds an elemental magic. Combine the rings to attain many mystical weapons. But choose carefully - only certain combinations can protect you. Battle an onrush of Sandworms, Moth-Bats, and Subterranean Ogres. Face the fiery heat of the Red Phoenix. Fight Ghouls, Dragons, and giant Scorpions. Force them to taste the fire of the Jewels!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5muk.jpg",
+        "release_date": 683424000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/jewel-master",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4537,
+        "name": "Combat Cars",
+        "summary": "Combat Cars is a racing game in which the player not only competes with other cars, trying to outrun them, but also uses all kinds of weapons and gadgets to damage their opponents. In the beginning of the game, the player can choose one of the eight available characters. Each character has his/her own strengths and weaknesses (speed, car handling, etc.), as well as unique weapons. The weapons include a simple gun, glue spots they can leave to trap other cars, homing missile, and others. There are 24 different tracks available in the game. The player must complete them in a linear fashion, and once they run out of time, the game is over.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47xk.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/combat-cars",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4539,
+        "name": "FIFA Soccer 95",
+        "summary": "After the first game proved to be a worldwide success, EA developed this sequel exclusively for Sega's 16-bit console. The biggest change from FIFA International Soccer are obviously the dozens of club teams from England, France, Germany, Italy, The Netherlands, United States, Spain and Brazil, taking the team number tally to over 200. This also increased the number of competitions, with each country having it's own League, Tournament and Playoff. Also new, a battery backup allowed to save up to four competitions in the cartridge, replacing passwords. For those who want to settle things the fast way, a Penalty Shootout training mode was added.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co207s.jpg",
+        "release_date": 788832000,
+        "rating": 69.80901940948674,
+        "rating_count": 20,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/fifa-soccer-95",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4551,
+        "name": "NBA Action '95 starring David Robinson",
+        "summary": "It's time once again to hit the hardwood with The Admiral and the rest of the NBA in NBA ACTION '95 STARRING DAVID ROBINSON. You'll find 27 teams with full rosters at your service, so you can throw down with your favorite NBA superstars. The game is played from a unique Fast-Breaking View, so you won't miss a second of the high-flying action as you make a coast-to-coast run for an easy lay-up. You can play a Full Season, go straight to the Playoffs, or even jump right to the NBA Finals and see if you've got the goods to bring home the championship. Marvelous Marv Albert calls all the action, and you can design and run up to 40 original plays. Break out the high-tops and get ready for the intense action of the NBA with NBA ACTION '95 STARRING DAVID ROBINSON.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oyg.jpg",
+        "release_date": 801964800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/nba-action-95-starring-david-robinson",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4552,
+        "name": "Crusader of Centy",
+        "summary": "Millions of years ago, heinous creatures that lurked in the shadows and darkness that blanketed the planet inhabited the Earth. When light finally broke through, only a few beasts were able to survive by burrowing into deep caverns. Over time, they multiplied, evolved, and patiently waited for the right time to emerge and rule the Earth once again. You are Corona, and you've just celebrated your 14th birthday. By law of the king, you must now go seek out these creatures of the dark and destroy them. As you travel in search of your destiny, you'll make animal allies that will prove invaluable on your quest. Each level will offer mind-bending puzzles and challenges that will help you get one step closer to completing your mission.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2899.jpg",
+        "release_date": 771811200,
+        "rating": 78.60934459528642,
+        "rating_count": 21,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/crusader-of-centy",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 4588,
+        "name": "John Madden Football '92",
+        "summary": "This update of the John Madden football series offers several new features over its predecessor: instant replays, different weather conditions, player injuries and the ability to review and overturn pass interference calls.\n\nPlay modes include Pre-Season, Regular Season, Playoffs and Sudden Death. There are 28 teams plus one All-Madden team.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5mup.jpg",
+        "release_date": 694137600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "19,29",
+        "external_url": "https://www.igdb.com/games/john-madden-football-92",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 5354,
+        "name": "Air Diver",
+        "summary": "Your mission is to find and eliminate the enemy terrorists. They are extremely well armed, and central intelligence informs us that they may have the backing of several unfriendly extraterrestrial nations...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xxo.jpg",
+        "release_date": 636940800,
+        "rating": 47.11577896801393,
+        "rating_count": 6,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/air-diver",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 5364,
+        "name": "Bill Walsh College Football '95",
+        "summary": "Bill Walsh College Football 95 was one of the many football games released by Electronic Arts back in the day. This one was a bit different as it includes a full season team and player stats, weekly rankings and a windowless passing mode. It has 38 powerhouse teams, such as Florida, Florida State, Texas and Notre Dame to name a few. There are many offensive and defensive plays, over eleven different offensive formations with close to eight options a piece, and six different defensive formations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k25.jpg",
+        "release_date": 770428800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/bill-walsh-college-football-95",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 5934,
+        "name": "Warrior of Rome II",
+        "summary": "Warrior of Rome II is a real-time strategy game similar to Populous, in which the player controls the Roman Army. The player controls a number of individual units in each map, which can be directed in various ways, such as to approach and attack a particular target, construct or demolish structures, or form or disband units.\n\nThe single-player scenario begins with Caesar receiving orders from Rome to suppress a revolt in Asia. There is also a free battle mode for one or two players that features several dozen maps to choose from. A unique feature of the game is the highly configurable menu system. The player can move, resize, rearrange, and close any of the different information windows as they see fit.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p28.jpg",
+        "release_date": 696902400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Real Time Strategy (RTS),Strategy",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/warrior-of-rome-ii",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 6665,
+        "name": "Ecco Jr.",
+        "summary": "Somewhere there is a place called the Endless Sea. There lives a giant whale named Big Blue. To find Big Blue, you have to open the Crystal Doors called Glyphs. To open the Crystal Doors, you must satisfy their wish. Guide Ecco and his friends to swim through the ocean and find Big Blue.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co43ng.jpg",
+        "release_date": 820368000,
+        "rating": 69.42945873434778,
+        "rating_count": 6,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "3,5,29,6,14",
+        "external_url": "https://www.igdb.com/games/ecco-jr",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 7224,
+        "name": "Rings of Power",
+        "summary": "Band together six powerful magicians and search out the fabled Rings of Power to free your world. Interact and trade with inhabitants of thirty cities. Over 100 animated spells to choose from!\n\nRings of Power is quite different from traditional console RPGs gameplay-wise, and is more similar to Western-style games such as Ultima series. You can freely wander through the huge isometric world, and are not obliged to follow any storyline except the main quest for the eleven rings. You can talk to NPCs about many topics, choose whom to fight, bribe people, etc. There is a day/night cycle which affects the behavior of characters. Unlike most RPGs, there are no weapons and armor in this game. The turn-based combat is entirely dependent on magic spells. On your journey you will encounter characters from several guilds, each proficient in his own type of magic, and make them join your party.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p7q.jpg",
+        "release_date": 694137600,
+        "rating": 69.94213183633924,
+        "rating_count": 5,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/rings-of-power",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 8049,
+        "name": "Tiny Toon Adventures: Buster's Hidden Treasure",
+        "summary": "Hit it big when you join Buster Bunny on a 33 stage hunt for treasure. So loaded with hare-raising animation, it's like playing in a whacked-out Tiny Toon cartoon! Do you dare to set paw on this mysterious island? Trip through 7 tangly territories that include an overly-enchanted forest, caverns of bubbling lava-lava, secret underground seas, plains that are just plain crazy, a freaky factory, a mega mountain and a spooky shipwreck rumored to be dripping in 14 carrot gold! Save Babs Bunny and the rest of your pals along the way and you'll really see some kooky island hopping. With Gogo Dodo as your guide, you can be sure this adventure is packed with tricks, traps, and hidden bonus areas!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96e1.jpg",
+        "release_date": 729043200,
+        "rating": 70.87185414434524,
+        "rating_count": 39,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tiny-toon-adventures-busters-hidden-treasure",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 8052,
+        "name": "Tiny Toon Adventures: Acme All-Stars",
+        "summary": "Now those crazy Tiny Toon Adventures characters are creating sporting havoc! Create teams from amongst your favorite toons - each with their own individual techniques - for the wackiest games of soccer and basketball you've ever seen!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xxm.jpg",
+        "release_date": 788832000,
+        "rating": 79.92023569314202,
+        "rating_count": 20,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tiny-toon-adventures-acme-all-stars",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 8075,
+        "name": "The Lost World: Jurassic Park",
+        "summary": "The Lost World: Jurassic Park is an action-adventure video game developed by Appaloosa Interactive, and published by Sega for the Sega Genesis and is based on the film of the same name, which in turn is based on the novel by Michael Crichton.\n\nUnlike the previous Jurassic Park games for the Genesis, the game features a bird's-eye view perspective similar to Jurassic Park on the Super NES.\n\nThe player assumes the role of an unnamed character who must capture dinosaurs on Isla Sorna while stopping rival hunters from transporting dinosaurs to the mainland. The game consists of nineteen missions spread across four sections of the island, referred to as Sites One through Four. Boss levels must be played at the end of each Site in order to advance to the next Site.\n\nA second player, in the role of Ian Malcolm, can help out in Cooperative Mode, or both players can work against each other in Competitive Mode. Weapons such as a taser, tranquilizer gun, shotgun and grenades can be used against hunters and dinosaurs. At times, the player can control vehicles such as an SUV and a hovercraft.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30b8.jpg",
+        "release_date": 874368000,
+        "rating": 67.80071309124688,
+        "rating_count": 18,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/the-lost-world-jurassic-park",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 8124,
+        "name": "World of Illusion Starring Mickey Mouse and Donald Duck",
+        "summary": "Alakazam! Here's classic Disney fun with your favorites, Mickey Mouse and Donald Duck! Transported into a world of wonder, Mickey and Donald must perform amazing feats of magic to defeat a crafty Sorcerer and find their way back home!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9777.jpg",
+        "release_date": 723168000,
+        "rating": 76.11068494744566,
+        "rating_count": 39,
+        "genres": "Platform,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/world-of-illusion-starring-mickey-mouse-and-donald-duck",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 9161,
+        "name": "X-Men 2: Clone Wars",
+        "summary": "Released in 1995, X-Men 2: Clone Wars is a platform game created by Headgames and published by Sega of America for the Mega Drive/Genesis. Serving as a sequel to 1993's X-Men, the game is inspired by the Marvel Comics superhero team, the X-Men.\n\nThis marks Sega's second X-Men game for the Genesis. In this instalment, an extraterrestrial entity called the Phalanx aims to take control of the Earth, and the X-Men emerge as humanity's last line of defence against this impending threat.\n\nThe gameplay closely resembles the side-scrolling action of its predecessor. Notably, there is an expanded roster of playable characters, including Beast, Gambit, Nightcrawler, Psylocke, Wolverine, Cyclops, and Magneto.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5klx.jpg",
+        "release_date": 800496000,
+        "rating": 60.23815777416304,
+        "rating_count": 21,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/x-men-2-clone-wars",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 9766,
+        "name": "Rocket Knight Adventures",
+        "summary": "He's courageous! He's clever! He's one good lookin' opossum. It's Sparkster the Rocket Knight, the heroic jet pack jockey with warp speed, quick wits and pumped up personality. After all, who else do you know can get a grip with his tail? Rocket through 7 epic stages of animalistic adventure, home of the hugest, strangest enemy pig creatures imaginable. (In fact, your mission is crammed with more ham than a Hollywood premier.) Destroy the Emperor who's on a porcine power trip that will take him to the Key to the Pig Star. In every stage you'll be moving, flying and riding in a new direction to escape opossum punishment. You're the thrust-meister controlling Sparkster's jet pack and his assault sword. Confront mechanized menaces like the Giant Pigbot, the Drill Of A Lifetime, and the snappy Crab Rangoon. Things take a turn for the worst in the room of rotating gravity where Axle Gear, the Black Knights awaits you. And you've never seen anything like the unreal mirrored lava pools where things will reflect badly on you. The tricks, the traps and challenges never end. But the world as you know it will if you don't grind those pigs for sausage.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53mg.jpg",
+        "release_date": 744508800,
+        "rating": 78.82208365812225,
+        "rating_count": 49,
+        "genres": "Shooter,Platform",
+        "platform_ids": "19,29",
+        "external_url": "https://www.igdb.com/games/rocket-knight-adventures",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 10149,
+        "name": "General Chaos",
+        "summary": "The game is a quick and dirty battle (or a longer campaign mode that is a series of battles fought over a dynamic strategic map) between two generals, \"General Chaos\" and \"General Havoc\". The objective of the game is to capture the enemy's capital city.\n\nEach player has to pick one of 4 teams, 3 of which have 5 soldiers (with differing selections weapons), while one has 2 \"commandos\" and uses a different control system giving greater control.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5lfo.jpg",
+        "release_date": 757296000,
+        "rating": 60.48730713341469,
+        "rating_count": 17,
+        "genres": "Real Time Strategy (RTS),Strategy",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/general-chaos",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 10510,
+        "name": "Batman: The Video Game",
+        "summary": "Batman is a video game developed by Sunsoft and released for the Sega Genesis in 1990. It was inspired by the 1989 Tim Burton-directed Batman film. The game is more faithful to the film's plot than the NES game of the game name and includes levels in which the player controls Batman's vehicles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kxh.jpg",
+        "release_date": 649036800,
+        "rating": 65.52491077534977,
+        "rating_count": 54,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/batman-the-video-game",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 10678,
+        "name": "Jurassic Park: Rampage Edition",
+        "summary": "Jurassic Park: Rampage Edition is a side-scroller released in 1994 by Sega for the Sega Mega Drive System and for its American equivalent, the Sega Genesis. It is the sequel to the popular game Jurassic Park.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zdu.jpg",
+        "release_date": 788832000,
+        "rating": 74.40691399925582,
+        "rating_count": 19,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/jurassic-park-rampage-edition",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 12869,
+        "name": "Arnold Palmer Tournament Golf",
+        "summary": "Select your level of play, and then head for the pro shop to choose between Black Carbon, Glass Fiber, and Ceramic Clubs.\n\nTee off by yourself or play 18 holes with a friend. Besides the One and Two Player modes there's also a practice mode, match play (head to head), and a full-blown international tournament, where you'll stroke it out against 15 competitors.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k1r.jpg",
+        "release_date": 620611200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "52,29,63,13,16",
+        "external_url": "https://www.igdb.com/games/arnold-palmer-tournament-golf",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 18142,
+        "name": "Marsupilami",
+        "summary": "Marsupilami is a character created by Belgian cartoonist \"Franquin\". Marsupilami is a long tailed made-up character who was stolen from the jungle and performs in a circus. After helping the other animals escape, Marsupilami must make his way back to the country he came from - Palombia.\n\nThe aim is to guide his Elephant companion, Bonelli, through the levels, passed obstacles and traps. As he progresses, he gains more abilities by collecting power ups. Each level is timed so each action must be thought about carefully.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ntx.jpg",
+        "release_date": 820368000,
+        "rating": 79.92290475006217,
+        "rating_count": 7,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/marsupilami",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 19494,
+        "name": "F-22 Interceptor",
+        "summary": "This simulation puts you in the cockpit of the F-22. You can choose from 3 difficulty settings and fly strike missions in 4 theaters of war (United States, Iraq, Korea and Russia) with increasing difficulty. You can also challenge aces from each theater and design custom missions. To complete a mission, you usually have to destroy both ground and air targets, including several MiG types, helicopters and tanks in addition to ground structures. Use realistic weapons like Sidewinder and Maverick missiles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l8r.jpg",
+        "release_date": 694137600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/f-22-interceptor",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 19508,
+        "name": "Alisia Dragoon",
+        "summary": "The pace is intense. Enemies come at Alisia from everywhere. And nowhere. Battle hordes of crazed barbarians, mow down mobs of poisonous centipedes, and slay squadrons of winged gargoyels. Blast enemies in waves or one by one with multi-directional, auto-targeting laser fire.\n\nRecruit killer companions like the DragonFrye, Ball O'Fire, Thunder Raven and Boomerang Lizard. Use them to hurl blistering boomerangs, fireballs, and electrical attacks. With Alisia's super-tough fighting skills, fry enemies to a crisp. And prove once and for all that you can go hand-to-hand with evil and come out the champion!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97f5.jpg",
+        "release_date": 698457600,
+        "rating": 80.62404600742197,
+        "rating_count": 26,
+        "genres": "Shooter,Platform,Arcade",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/alisia-dragoon",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 19559,
+        "name": "NHL All-Star Hockey '95",
+        "summary": "Sega's second attempt at hockey for the Genesis (after Mario Lemieux Hockey) offers 26 NHL teams and 650 professional players rated in 15 categories. Team rosters and the season schedule are based on the NHL's 1994-95 season. Also noteworthy is the inclusion of broadcaster Marv Albert to provide color commentary. Other features include: one-timers, line changes, adjustable penalties, fighting, speed bursts, cross-checks, instant replay, manual or automatic goalies, and complete statistical tracking saved to battery. Game modes include: Exhibition, Full Season, New Playoffs, and New Playoffs/7 Game. All modes support two players except for the full 84 game season. Special attention was given to the animation, with players having over 1,000 frames to make them look smooth on the ice.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oys.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/nhl-all-star-hockey-95",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 19781,
+        "name": "Astérix and the Power of the Gods",
+        "summary": "Emperor Caesar's forces have stolen the legendary shield of Vercingetorix and it is Asterix and Obelix's mission to return it to the Gaulish village. Play as either character as your adventure takes you through over 20 levels, through Lutetia, Egypt, Alexandria and Mesopotamia on your way to Rome itself!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6t3x.jpg",
+        "release_date": 820368000,
+        "rating": 70.15651777159417,
+        "rating_count": 8,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/asterix-and-the-power-of-the-gods",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 19784,
+        "name": "Generations Lost",
+        "summary": "Generations Lost is a platform action game in which the player takes the role of Monobe, an adventurer on the search for the past of his people. Thanks to his magic armour Monobe is able to execute many different moves. Besides running and jumping, Monobe can roll on the ground, deliver blows with hands and feet, and shoot energy balls. With the help of an energy rope Monobe can swing from platform to platform.\n\nMost of the time, Monobe has to solve several puzzles, find secret switches and survive deadly traps. The game is split into six areas which can be accessed via the \"Magic Box\" teleporter.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5lfq.jpg",
+        "release_date": 788832000,
+        "rating": 59.17393669550943,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/generations-lost",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 20593,
+        "name": "Mario Andretti Racing",
+        "summary": "Italian-born Mario Andretti is one of the most successful racing drivers in the US scene, and five of his relatives have also raced professionally. This game allows you to sample Indy cars, stock cars and sprint cars, all of which have been graced by Andrettis. The physics are customized to each of these, so expect sprint cars to slide around on the dirt tracks, and the slipstream effect is detectable.\n\nThere are 27 computer-controlled cars with individual profiles, and 8 cars to choose from in each race, with varying engine, grip, brakes and pit crew standards. You can view the action either from behind the car, or from the nose. In longer races you must monitor the pit strategy, with the options of a splash 'n' dash stop if your tires are still fine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ntt.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Simulator,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mario-andretti-racing",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 22680,
+        "name": "Sub Terrania",
+        "summary": "The game consists of 10 missions. Each mission takes place in a vast cavern, with interesting weather conditions. You must explore it and complete the mission objectives -- usually collecting sub parts, rescuing trapped miners, or destroying giant, epic bosses. You can also explore the levels, but keep an eye on your fuel gauge and beware the many hazards!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5kk2.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/sub-terrania",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 26556,
+        "name": "Trouble Shooter",
+        "summary": "After a prince is taken hostage by Blackball, a mutant weapons genius, Madison (the blonde on the right) and Crystal (the brunette on the left) fight through Blackball's domain on hoverpacks to rescue him. Madison will always shoot to the right. Crystal has more firepower, and she can shoot either left or right, left in order to take care of enemies approaching from behind, or right in order to deal more damage. At the beginning of each stage, you can also choose between four different special weapons. Lightning Storm shoots electricity at random, Tidal Wave is a line of vertical energy that you can control, Blizzard sends circles of energy spiraling outward from you, and Avalanche is a wall of missiles.\n\nWhen King Frederick's only son and heir to the throne is kidnapped by Blackball, the mutant military weapons genius, an international disaster seems imminent. Colonel Patch quickly contacts the \"Trouble Shooter\" team to find Prince Eldon and destroy Blackball and his treacherous robotic underworld. Madison and her faithful sidekick, Crystal, go through five stages of fearful creatures in their adventure throughout Blackball's domain. Will Prince Eldon survive? Can Madison destroy Blackball? Will the girls emerge from Blackball's evil empire safely? Only time will tell...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p3n.jpg",
+        "release_date": 688953600,
+        "rating": 79.89679632346457,
+        "rating_count": 8,
+        "genres": "Shooter,Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/trouble-shooter",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 27062,
+        "name": "NHL Hockey",
+        "summary": "NHL Hockey (titled EA Hockey outside North America) is an ice hockey game by Electronic Arts.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oyt.jpg",
+        "release_date": 694137600,
+        "rating": 72.75638246549488,
+        "rating_count": 12,
+        "genres": "Simulator,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/nhl-hockey",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 27075,
+        "name": "Skitchin'",
+        "summary": "The bad boys who made Rash are back to trash in Skitchin'. Grab your skates, steal a ride on a car bumper and yer off! Skatin' & Hitchin' - Skitchin'. It's Bitchin'!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p8d.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport",
+        "platform_ids": "29,64",
+        "external_url": "https://www.igdb.com/games/skitchin",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 27989,
+        "name": "Mystic Defender",
+        "summary": "Mystic Defender is a two-dimensional action video game released for the Sega Genesis system. The players only means of defense in the game is the use of magical spells that the player can acquire during game play (by picking the power up).\n\nPlayers start with a single shooting ball of energy that can be charged to fire one powerful shot, but players can also acquire a spiritual flame that can be pointed in straight and diagonal directions and when charged can reach good distances and a spherical power that launches ricocheting spheres around the screen that multiply when fully charged.\n\nAside from these powers, players can also use a screen-clearing power that summons a three-headed dragon that destroys all enemies and fired shots on screen.\n\nThe game is a port of the Japanese game Kujaku-ou II, removing the anime license.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oy5.jpg",
+        "release_date": 625276800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mystic-defender",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 28020,
+        "name": "Pat Riley Basketball",
+        "summary": "Pat Riley Basketball is a video game which was released for the Sega Genesis/Mega Drive. Pat Riley was the coach of the Los Angeles Lakers at the time of the game's release. There are two modes and eight different teams to choose from.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ozz.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/pat-riley-basketball",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 28039,
+        "name": "Whip Rush",
+        "summary": "Whip Rush is a side-scrolling space shooter released in 1990 for the Sega Mega Drive System and subsequently for its American counterpart, the Sega Genesis.\nWhip Rush's gameplay style is very similar to R-Type: The title ship flies through 7 dangerous stages and is forced to fight large bosses using timed attacks. The ship's Options are similar to the ones in Curse or Psychosis: The ship can be equipped with two Options at a time and the player can rotate them around the ship changing their directional fire at the same time. The player has a total of three weapons to choose from and can change the ship's speed through eight different speed levels. Extends are awarded and there are no checkpoints, but if a player loses all their lives and continues, they have to restart the level over again.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8hby.jpg",
+        "release_date": 643680000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/whip-rush",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 36923,
+        "name": "McDonald's Treasure Land Adventure",
+        "summary": "McDonald's Treasure Land Adventure is a side-scrolling adventure starring Ronald McDonald.\n\nAfter finding a piece of a treasure map, the yellow clown travels through four different levels (Forest, Town, Sea and Moon). He's off to find and defeat the baddies who have the other pieces of the map.\n\nRonald can jump, shoot and use his scarf to grab onto hooks to jump to higher levels.\n\nJewels and flowers collected in each level can be used to purchase extra lives and power-ups in shops between levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qnq.jpg",
+        "release_date": 748742400,
+        "rating": 58.73763111518603,
+        "rating_count": 7,
+        "genres": "Platform,Arcade",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mcdonalds-treasure-land-adventure",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 36947,
+        "name": "Mazin Saga: Mutant Fighter",
+        "summary": "A beat em'up/versus fighting game based on the MazinSaga manga by Go Nagai, which was in turn a spin-off of Nagai's original Mazinger Z.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2s57.jpg",
+        "release_date": 730598400,
+        "rating": 77.82965916962428,
+        "rating_count": 6,
+        "genres": "Fighting,Hack and slash/Beat 'em up,Arcade",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mazin-saga-mutant-fighter",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45564,
+        "name": "Disney's Bonkers",
+        "summary": "The game is based on the Disney TV show of the same name. Bonkers is a bob-cat police officer who lives in \"toondom\", a cartoony land where people co-exist with various creatures from cartoon movies.\n\nOne day, Bonkers and his partner Lucky hear about a shocking robbery: Hollywood's most valuable treasures - Sorcerer's Hat, Mermaid's Voice, and Magic Lamp - were stolen! Now it is up to Bonkers to capture the thieves and to take back the stolen treasures.\n\nThis is an action platform game. Bonkers can jump and dash, throwing enemies aside and even destroying some obstacles. Enemies can be killed by jumping on their heads. You can also collect various items such as bombs to throw at the enemies, cakes to refill your health, or hyper juice to make you dash continuously.\n\nBesides the common license, this game is totally different from the Genesis game Bonkers.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49wc.jpg",
+        "release_date": 788832000,
+        "rating": 70.39555006502313,
+        "rating_count": 6,
+        "genres": "Racing,Simulator,Sport,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/disneys-bonkers--1",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45565,
+        "name": "Blades of Vengeance",
+        "summary": "Blades of Vengeance is a platform game that was developed by Beam Software and published by Electronic Arts for the Sega Mega Drive/Genesis. In this game, one or two players can select one of three fantasy warriors to fight through a large range of platform levels in order to defeat the forces of darkness.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k26.jpg",
+        "release_date": 757296000,
+        "rating": 70.43098875803418,
+        "rating_count": 7,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/blades-of-vengeance",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45587,
+        "name": "Fantasia",
+        "summary": "In the single-player game, the player controls Mickey Mouse as the Sorcerer's Apprentice through various side-scrolling levels in an attempt to collect musical notes that somehow went missing whilst he was asleep. Each of the four levels were based on amalgamations of the segments of Fantasia, each one around the elements: water (The Sorcerer's Apprentice, Dance of the Reed Flutes and Arabian Dance), earth (The Rite of Spring), air (Russian Dance, Pastoral Symphony and Dance of the Hours) and fire (Night on Bald Mountain, Toccata and Fugue in D Minor). The player defeats various enemies by jumping on them or by collecting magical bubbles that could be used to shoot at enemies as projectiles. In each level, the player collects a certain number of hidden magical notes in order for the song to play once again.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47d3.jpg",
+        "release_date": 693273600,
+        "rating": 58.31340379235814,
+        "rating_count": 7,
+        "genres": "Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/fantasia--2",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45592,
+        "name": "Road Rash 3",
+        "summary": "The Rash is back in the latest, nastiest, baddest race game for your Genesis. This time there's five NEW weapons, including the cattle-prod and crow bar. NEW race tracks take you across the globe, from the Aussie Outback to nighttime urban Japan. NEW modes raise the ante with the other Rashers while the NEW digitized graphics and interactive obstacles charge NEW life into the gameplay!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p42.jpg",
+        "release_date": 803174400,
+        "rating": 71.89502028627942,
+        "rating_count": 20,
+        "genres": "Racing",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/road-rash-3--1",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45710,
+        "name": "Double Clutch",
+        "summary": "Double Clutch is a top-down racing game developed for the Sega Mega Drive. It was only released in PAL regions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/bzgyk1ywn8tql1aanzzx.jpg",
+        "release_date": 728524800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/double-clutch",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45718,
+        "name": "Nakajima Satoru Kanshuu: F1 Super License",
+        "summary": "Nakajima Satoru Kanshuu F1 Super License is a 1992 racing game by Varie for the Sega Mega Drive and the third Mega Drive game in their Nakajima Satoru Kanshuu games, following F1 Hero MD.\n\nThis game is a 2D racer, like F1 Grand Prix and unlike F1 Hero MD. B accelerates. This game adds a save system, allowing you to save your progress over the course of the prix.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bpm.jpg",
+        "release_date": 726710400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/nakajima-satoru-kanshuu-f1-super-license",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45720,
+        "name": "Megapanel",
+        "summary": "Megapanel (メガパネル) is a 1990 puzzle game developed and published by Namco (under their Namcot branding) for the Sega Mega Drive. Though initially released only in Japan, the game has made its way to the west through various compilations and consoles with built-in games.\n\nMegapanel is a sliding puzzle game similar to fifteen-tile puzzle games. The aim is to clear as many panels as possible before the pile reaches the top of the screen. In order to clear panels, three or more panels of the same color must be lined up together either vertically or horizontally. Use the D-pad to slide panels (each button indicates what direction to slide to, so the appropriate panel is automatically chosen) and A to bring the next row up immediately. A new life is awarded every 10000 points.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/fiw82njoocyxpddf7tmv.jpg",
+        "release_date": 661824000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/megapanel",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45722,
+        "name": "Mamono Hunter Youko: Dai 7 no Keishou",
+        "summary": "For centuries, the Mano family has been slaying demons. Yohko's grandmother, Madoka, is the 107th Devil Hunter, and Yohko's mother, Sayoko, would have been the 108th, but for a small hitch: A Devil Hunter must be a virgin to take on the power and responsibility. Sayoko became pregnant before Madoka could reveal the family's secrets, and so the job fell to Yohko Mano, Sayoko's daughter, who is placed as the 108th Devil Hunter. Now as a Devil Hunter, Yohko must face off against demons while trying to live her life as a boy-crazy schoolgirl.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ufe.jpg",
+        "release_date": 669600000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mamono-hunter-youko-dai-7-no-keishou",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45732,
+        "name": "Cutie Suzuki no Ringside Angel",
+        "summary": "Cutie Suzuki no Ringside Angel (キューティー鈴木の リングサイドエンジェル) or Cuty Suzuki no Ringside Angel is a wrestling game developed by Copya System and published exclusively in Japan in 1990 by Asmik. In the game, you play as one of nine female Japanese pro wrestlers fighting to the top of the league. There are four modes: one-player tournament, two-player tournament, two-player match, or watch the computers play with the characters/field of your choice. There are five fields (New Face, Straw Berry, White Snow, Star Light, and Grand Champion). Each field is one half of a normal wrestling ring that the competitors can move around a la Golden Axe",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4k29.jpg",
+        "release_date": 663638400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/cutie-suzuki-no-ringside-angel",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45756,
+        "name": "Australian Rugby League",
+        "summary": "Australian Rugby League is a 1995 rugby game by Electronic Arts for the Sega Mega Drive released exclusively in Australia and Europe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/rp9fu7gnr97trgyvk8ny.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/australian-rugby-league",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45759,
+        "name": "Ball Jacks",
+        "summary": "Ball Jacks is a 1993 game for the Sega Mega Drive by Namco released exclusively in Japan and Europe. The game is a \"sports game\" with a unique sport involving grabbing balls from a conveyor belt on end end of the screen and dropping them into another. Whether or not this is a renamed port of another game is presently unknown.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8i7r.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Racing,Simulator,Sport,Strategy",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/ball-jacks",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45761,
+        "name": "Body Count",
+        "summary": "Body Count has a simple story: aliens have invaded the Earth, and a lone soldier who is particularly skilled at shooting and sniping is called to save the planet.\n\nThe game is an arcade-style shooter. The player shoots from a first person perspective at enemies that keep appearing on the screen. Once a sufficient amount of enemies has been eliminated, the player is automatically transferred to the next fixed screen. On the way the player can pick special items that allow the use of a powerful all-screen attack a limited number of times.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4epk.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/body-count",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45767,
+        "name": "OutRun 2019",
+        "summary": "In the 21st century, if you're doing 200mph, you're holding up traffic. Welcome to Outrun 2019 - a worldwide racing tour where gutsy drivers compete over death defying tracks in a survival of the fastest.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3he6.jpg",
+        "release_date": 732844800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Arcade",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/outrun-2019",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45772,
+        "name": "Mystical Fighter",
+        "summary": "A kabuki warrior steps into a time portal to go back to the Shogun dynasty to defeat the evil lord Kabuki. The game is basically a side-scrolling beat-em up game, with the player controlling the kabuki warrior. The player can deliver kicks and punches to hordes of enemy minions throughout each stage. Other moves at the the players disposal are jump kicks, the ability to lift enemies and throw them, and the ability to grab enemies and spin them like a tornado. The player can also use a special magic power that gets charged by picking up scrolls throughout the level. The player can also find life bar refills throughout a stage also.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oy7.jpg",
+        "release_date": 688348800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mystical-fighter",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45773,
+        "name": "MIG-29 Fighter Pilot",
+        "summary": "MiG-29: Fighter Pilot is a successor to MiG-29 Fulcrum by Simis; this time the theater of operations is the Middle East. The joined forces of NATO and the Commonwealth of Soviet States are to stop General Hasouz who is seeking to gain control over the world's oil resources. You are the pilot of the Russian-built MiG-29 and you need to accomplish several strategic missions to ensure the success of the operation.\n\nAs this is a simulation game, the MiG-29's control panel is recreated (displaying altimeter, compass, thrust indicator, radar and more), and many actions are done manually by the player (such as controlling brakes and landing gear, performing take off and landing, etc.). There are a number of weapons and an automatic targeting system to help successfully accomplish the missions. The MiG-29 is also equipped with flares and chaff used to avoid enemy fire.\n\nThe game is divided into 5 missions plus a tutorial mission. Mission objectives include destroying the enemy's command control and communications systems, escorting a submarine to safety, and destroying enemy Scud missiles. Mission score is based on the number of enemy structures and craft destroyed.\n\nThe game features real-time 3D polygon graphics and there are even several short video clips, something very uncommon for Genesis hardware.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oxo.jpg",
+        "release_date": 742521600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mig-29-fighter-pilot",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 45783,
+        "name": "Greatest Heavyweights",
+        "summary": "Eight World Heavyweight Champs Answer the Bell in this ultimate showdown to decide who's #1! Muhammad Ali, Jack Dempsey, Joe Frazier, Larry Holmes, Evander Holyfield, Joe Louis, Rocky Marciano, and Floyd Patterson - all in their prime and looking for knockouts! Each Champion looks and boxes in their signature styles. It's Ali's speed against Marciano's power, Holmes' stinging jab versus Frazier's devastating hook!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5lg8.jpg",
+        "release_date": 772588800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/greatest-heavyweights",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46067,
+        "name": "Bulls vs Lakers and the NBA Playoffs",
+        "summary": "Bulls vs Lakers and the NBA Playoffs is a basketball video game developed by Electronic Arts and released in 1992 exclusively for the Sega Mega Drive. The game is the sequel to Lakers versus Celtics. The game's name refers to the previous season's NBA championship series, the 1991 NBA Finals matchup between the Chicago Bulls and Los Angeles Lakers. It is the second game in the NBA Playoffs series of games.\n\nAlthough there is no SNES version for Bulls vs Lakers, the SNES (and first) version of Bulls vs. Blazers was heavily based on Bulls vs Lakers, with the later Mega Drive version introducing a few changes from this.\n\nBulls vs Lakers introduced a television broadcast-style presentation with a fictional television network, \"EASN\", the Electronic Arts Sports Network. It was the first team basketball game to feature an in-game instant replay feature. Bing Gordon, the Chief Creative Officer of Electronic Arts, was featured as the game announcer. This was also the first game to depict NBA team logos on the courts.\n\nGameplay[edit]\nThe game can be played in various ways: players could play against each other, or against the computer. Games against the computer were divided into two modes, \"Exhibition\" or \"Playoffs\". Players could pick from one of the 16 teams that competed in the 1991 NBA Playoffs. Rosters featured many top NBA stars of the time, including Michael Jordan. Games could be configured for 2, 5, 8 or 12 minute quarters. New to the series is a star underneath the player to let users easily know which player they are controlling.\n\nReception\nReview scores\nPublication Score\nMegaTech 80%[1]\nMegaTech said that the game had impressive graphics and atmosphere, but that it did not play as fast as David Robinson's Supreme Court.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k32.jpg",
+        "release_date": 662688000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/bulls-vs-lakers-and-the-nba-playoffs",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46162,
+        "name": "Verytex",
+        "summary": "Verytex is a shoot-'em-up game released exclusively in Japan. Taking place on the colonized fictional planet of Syracuse in a futuristic sci-fi setting, where its military force initiated a violent coup d'état against the inhabitants for unknown reasons, players take control of the titular space fighter craft in an attempt to overthrow the enemies, protect civilization and discover the true cause for the rebellion.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qdcrommspbrg2mkpefch.jpg",
+        "release_date": 673401600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/verytex",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46165,
+        "name": "Thunder Pro Wrestling Retsuden",
+        "summary": "Thunder Pro Wrestling Retsuden is an entry in Human's Fire Pro Wrestling series.\nThe game is a typical wrestling game presented in an isometric view with the entire ring visible on screen at once. Each button combination does something different depending on what situation you are in at the time.\n\nA North American release under the name Jesse \"The Body\" Ventura Wrestling Superstars was planned by DreamWorks, but was never released for unknown reasons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co948s.jpg",
+        "release_date": 701654400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/thunder-pro-wrestling-retsuden",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46166,
+        "name": "Tecmo Cup Football Game",
+        "summary": "Tecmo Cup Football Game is an unreleased Mega Drive game. In Japan where the game originated, it was called Captain Tsubasa and was based around the media franchise of the same name. As such, rather than being a straight soccer simulation, Tecmo Cup Football Game takes a more cinematic/RPG-esque approach to the sport, with the actual game being presented cinematicly and moves made by choosing from menus in a limited time.\n\nThis version was being programmed for the Sega Mega Drive in 1993; only Sega and Tecmo are listed as involved companies and the programming appears to be unique to this game. The game was not released in any region; the reason why is unknown. Because the westernized game is still similar to Captain Tsubasa in many ways, it is often pirated by Asian pirates as a genuine Captain Tsubasa game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4eiq.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tecmo-cup-football-game",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46176,
+        "name": "Eliminate Down",
+        "summary": "Eliminate Down is a 1993 scrolling shooter video game developed by Aprinet and published by Soft Vision International for the Sega Mega Drive. The game was released in Japan on June 25, 1993, and in South Korea in 1993. Eliminate Down gives players immediate access to three directional-based weapons that could all be powered up as they fought strange alien enemies through eight enormous levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2er9.jpg",
+        "release_date": 743558400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/eliminate-down",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46177,
+        "name": "Nightmare Circus",
+        "summary": "On opening night, the circus was set ablaze and burned completely to the ground by its shady and villainous operator, the Jester, who intended to cash in on an insurance policy. Afterwards, the Jester was convicted for the deaths of the fire victims, but before he was executed, the Jester warned that the souls of the victims would be forever tormented. Many years later, a Native American man named Raven who had lost relatives to the fire goes to investigate the site where the circus was held, and where strange happenings have been reported.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4x9j.jpg",
+        "release_date": 852508800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/nightmare-circus",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46179,
+        "name": "Twinkle Tale",
+        "summary": "Twinkle Tale is a 1992 Sega Mega Drive shoot-'em-up developed by Studio Ducks and published by Wonder Amusement Studio exclusively in Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52wk.jpg",
+        "release_date": 711936000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/twinkle-tale",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46185,
+        "name": "Dahna: Megami Tanjou",
+        "summary": "There lived a wealthy family whose heirs were two daughters: Regine and Dahna. These two sisters were born with a strange magic that could enable them to summon the elements and other impossible things; it was this magic that many within the spiritual underworld lusted after, particularly Regine whose powers grew stronger with age. On Dahna's seventh birthday, the sisters' parents were murdered in a violent kidnapping attempt, but the wreckage separated the sisters and Dahna escaped.\n\nDahna hid in secrecy, but eventually took shelter in a nearby village where she honed her magic and combat abilities under the guidance of the village sorcerer Magh. Ten years later, a mysterious invasion force led by an evil sorceress attacked her village and kidnapped Magh, prompting Dahna on her first battle.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k9p.jpg",
+        "release_date": 693187200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/dahna-megami-tanjou",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46190,
+        "name": "Sylvester & Tweety in Cagey Capers",
+        "summary": "This legendary Looney Tunes duo make their video game debut - and what a performance! The eyepopping, cartoon like animation and ribtickling shenanigans seem never ending as you twy, twy, twy and twy again to swipe the little Tweety - with cat-astrophic results!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2srs.jpg",
+        "release_date": 745459200,
+        "rating": 77.26421544392814,
+        "rating_count": 7,
+        "genres": "Platform,Strategy",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/sylvester-and-tweety-in-cagey-capers",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46197,
+        "name": "Sorcerer's Kingdom",
+        "summary": "The ear-splitting cry of a Griffin wracks your brain and echoes down the long dark corridors of Sorcerer's Kingdom. Only your sense of duty to your King gives you the courage to venture forth. As you defeat foe after foe in this precarious land, you feel your muscles growing stronger and your reflexes getting swifter. Up ahead you finally glimpse the daylight and run for fear of what is closing in behind you. You find yourself at the edge of a towering cliff where your only hope for escape is to don your magical wings and fly...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakqg.jpg",
+        "release_date": 697420800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Strategy,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/sorcerers-kingdom",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46198,
+        "name": "Sesame Street Counting Cafe",
+        "summary": "Counting Cafe is an educational game based on the popular children's show Sesame Street. The player controls Grover, working as a waiter at a restaurant, where Mr. Johnson appears and orders various items. The player must take Grover into the kitchen, collect the items ordered, and return to Mr. Johnson's table, where he will reward the player with a star if the order is correct. If the player picks up the wrong items, they can be taken to Cookie Monster at the back of the restaurant, who will eat them and clear Grover's tray.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p89.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/sesame-street-counting-cafe",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46199,
+        "name": "Saint Sword",
+        "summary": "You are Macress, a mythical warrior, and you have been called upon to destroy the evil demon, Gorgon before the world succumbs to his power. This is a platform style, hack 'n slash action game where you gain powerups by destroying wee mythical beasties. These powerups provide you with special physical attributes like angel wings and the body of a horse.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/gdsgivy4m7q7dazfqghm.jpg",
+        "release_date": 680572800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/saint-sword",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46200,
+        "name": "Rolo to the Rescue",
+        "summary": "Rolo to the Rescue is a side-scrolling platform action game. The player controls Rolo, an elephant who escaped from the circus. Rolo's main task is to find and rescue four other animals - a squirrel, a rabbit, a beaver, and a mole. Once rescued, each of those friends become player-controlled characters with special abilities that can help the player along the way -- the squirrel can climb, the rabbit jumps, the beaver swims, and the mole digs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p7t.jpg",
+        "release_date": 725760000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/rolo-to-the-rescue",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46205,
+        "name": "Jennifer Capriati Tennis",
+        "summary": "This is a tennis game featuring the game modes Exhibition, Circuits, and Training. Exhibition allows for either singles or doubles play. Circuits mode involves the player competing to win four major tournaments: the Sydney Open, Paris Open, London Open and the Florida Open. The player can also customize their own tennis player by choosing their race,sex, and tennis wear color. Players can also choose whether their tennis player is right or left handed, their type of spin, forehand, and backhand. They can also distribute a set amount of points between skills such as the power forehand, backhand, their footwork, and their net game. The game also offers the option of either playing on lawn, hard or clay surfaces.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5mug.jpg",
+        "release_date": 716601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/jennifer-capriati-tennis",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46207,
+        "name": "IMG International Tour Tennis",
+        "summary": "Licensed by the International Management Group (IMG), this rare Electronic Arts venture into Tennis features 32 professional players (all male and licensed by the IMG) including Bjorn Borg, Marcelo Rios, Patrick Rafter and Yevgeni Kafelnikov in 15 tournaments with different surfaces. Game modes include exhibition, tour and tournament for both singles and doubles.\n\nAlong the usual offering of lobs, volleys, passing shots, top spins and slashes, the player can leave player movement to the console, and just focus on hitting the ball with the right shot with the correct timing (the player can also set the playing style, from all-court, baseline, or rush net). For those needing a boost of confidence before entering competitive play, Vic Braden, one of the most well known tennis coaches, has a court with special lines, a ball machine and some hints to help them improve their play.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5mu8.jpg",
+        "release_date": 772156800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/img-international-tour-tennis",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46210,
+        "name": "Goofy's Hysterical History Tour",
+        "summary": "In Goofy's Hysterical History Tour, the player takes command of Goofy himself who gets his dream job as janitor at The Ludwig von Drake History Museum. However, his rival Pete is determined to get him fired and sabotages the exhibits and scatters pieces throughout various time periods. Armed with a new gadget, the Extend-O-Hand, Goofy must travel to the past and recover the pieces before the morning.\n\nThe game is a platformer, where Goofy must travel through various stages ranging from Prehistoric times, Medieval times, Colonial America and the Wild West among many others, collecting items and power-ups and defeating Pete's henchmen using the Extend-O-Hand. After collecting all the pieces, Goofy then must face Pete himself.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4zn3.jpg",
+        "release_date": 728524800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/goofys-hysterical-history-tour",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46214,
+        "name": "Gauntlet IV",
+        "summary": "Choose again from Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard and Questor the Elf (each with their own advantages/disadvantages) and 1 to 4 players(supports Sega's four-player adapter).\n\nAlongside the standard arcade mode, there are the Quest, Battle and Record modes. Quest Mode: Defeat the four towers and solve the mystery of the ancient castle; weapons can be bought with collected gold from merchants in the main hub area, where you can also choose which tower to take on next. Experience points are good for increasing your stats.\nBattle Mode: Fight your fellows to the death. Maps can include teleporters/monsters/items etc. Avoid exits(or you'll be out of the round).\nRecord Mode: Arcade mode with some variations such as a password continue, also you can't die - although points will be lost for every 500 health lost.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ebk.jpg",
+        "release_date": 750729600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/gauntlet-iv",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46215,
+        "name": "Fighting Masters",
+        "summary": "A Giant Red Sun will go Nova within hours... 12 Star systems will be destroyed... One contest will decide who, or what, survives... Climb into the interstellar ring! Go One-on-One with another player, or battle for the survival of your civilization! 12 different Alien champions to select! From the snapping, tearing claws of Zygrunt to the bludgeoning ecto-clubs of Rotundo, each warrior has a deadly force all their own!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5mu4.jpg",
+        "release_date": 691977600,
+        "rating": 59.9052851530577,
+        "rating_count": 7,
+        "genres": "Fighting",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/fighting-masters",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46216,
+        "name": "F-117 Night Storm",
+        "summary": "This game allows the player to take control of an F-117A Stealth Fighter. The game is broken down into either an arcade or campaign mode.\n\nIn the arcade mode, the player can decide the number of enemy air and ground units, the environment, length of mission, and the difficulty level. This mode allows the player to hone their skills in order to prepare for the campaign mode.\n\nThe campaign mode is the main part of the game and contains 30 missions. The game includes nine theaters of combat such as training missions in the Nevada Desert, to the conflict in Panama, and also to the Gulf War. Each mission has a primary object that must be destroyed in order to advance to the next mission.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l8h.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/f-117-night-storm",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46218,
+        "name": "Elemental Master",
+        "summary": "Gyra has usurped the throne, and his minions are pillaging and plundering throughout the countryside. The kingdom is doomed unless someone can stop this madness and restore order to the land. You are the ELEMENTAL MASTER, and you're the only person with the power to put an end to Gyra's reign of terror. Harnessing the power of the elements fire, water, wind, and the earth you use them as your very own weapons to fight all that is evil in the world. You'll be up against Gyra's most ruthless henchmen as you battle through eight levels of intense action. But you've got the power of magic on your side, and if you can master the five spells at your disposal, you'll be a nearly unstoppable force. Of course, when you're single-handedly taking on an entire army, the odds are stacked against you. But with the power of the elements, you're the only one who can stop Gyra and his army.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l6b.jpg",
+        "release_date": 663811200,
+        "rating": 60.16189717362933,
+        "rating_count": 6,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/elemental-master",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46219,
+        "name": "Dragon's Revenge",
+        "summary": "Dragon's Revenge is a sequel to Dragon's Fury (Devil's Crush MD).\n\nThe table for this fantasy pinball game is three screens tall with medieval and dragon graphics. Each of the three screens has a pair of flippers at the bottom and the table elements are all animated and numerous monsters roam the screen.\n\nThe object is to hit wandering monsters and certain groups of creatures to open up the gateway to a sub-level. The single screen sub levels offer multi-ball play and are the key to scoring high.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rvq.jpg",
+        "release_date": 728524800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Pinball,Arcade",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/dragons-revenge",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46226,
+        "name": "Coach K College Basketball",
+        "summary": "There are three game modes: Season, Tournament (with three save slots for both) and Exhibition, and options follow the standard set from the NBA Live series. Gameplay also remains unchanged, with the typical three basic actions (fast running/steal, pass and shoot/block for A, B and C buttons) and the ability to call moves on the fly by pressing one of the buttons along Start (three or six moves can be set, depending on the joypad used).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k3m.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/coach-k-college-basketball",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46234,
+        "name": "ATP Tour Championship Tennis",
+        "summary": "There are three game modes: Exhibition match, Exhibition Tournament (where the player competes in a 32-player tournament), ATP Senior Tour Event (where the player chooses one of the retired players and competes in a 8-player tournament) and the ATP Tour, where it's possible to create a player and develop his skills by winning (or simply doing well) on tournaments, with one extra point on each round won.\n\nGameplay uses a simple 3-button layout, where the A button lobs the ball, B performs a controlled passing shot and C allows the fastest top spin shots, with the directional pad affecting the direction and depth of the shot.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k1u.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/atp-tour-championship-tennis",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46238,
+        "name": "Blaster Master 2",
+        "summary": "It has been four years since Jason's Encounter with the Plutonium Boss and the radioactive mutants under the Earth. His only reminder of the incident is S.O.P.H.I.A., the vehicle he used to stop them, which he has hidden in an abandoned barn. One day, one bolt of lightning struck the house and caused the ceiling to crumble, knocking Jason unconscious. When Jason woke up, S.O.P.H.I.A. was in pieces and the parts he had collected from his first dealings with the Mutant Bosses were missing. Little does Jason know that there are more lightning beings where the first one came from and they are planning to destroy the Earth. The beings started digging towards the Earth's core in order to shift the planet's weight off its axis, leading to total annihilation. The parts from S.O.P.H.I.A. are being used to create a robotic army to assist the being in accomplishing their mission. Now, Jason must stop them, but he won't make it without the help of S.O.P.H.I.A. Since he can't recover the parts, he decided to redesign it to better prepare himself for the ordeal facing him. After 29 days, S.O.P.H.I.A. was completely rebuilt and ready for battle. Remembering where he saw the being's footsteps, Jason jumped in his vehicle and headed towards the mountains where the challenge begins.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k27.jpg",
+        "release_date": 742780800,
+        "rating": 42.35485032607333,
+        "rating_count": 5,
+        "genres": "Adventure",
+        "platform_ids": "19,29",
+        "external_url": "https://www.igdb.com/games/blaster-master-2",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46239,
+        "name": "Beast Wrestler",
+        "summary": "War of the Manmade Monsters!\n\nLife Science industries of the future have created the world's greatest sports warriors. Averaging 25 feet tall and weighing several tons each, these gigantic wrestlers grapple for the ultimate championship!\n\nControl your own titanic beast and master the various deathblow techniques. Use prize money to beef up your giant or enroll him in battle training events. Work with a Life Science team to create the most powerful fighter ever built by man!\n\n-Choose from a variety of bizarre and mighty Super Beasts!\n-Defeat the domestic champion to take on World-ranked players.\n-1 or 2 player earth-shaking, blockbusting action!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54z3.jpg",
+        "release_date": 689212800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/beast-wrestler",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46240,
+        "name": "Awesome Possum Kicks Dr. Machino's Butt",
+        "summary": "Awesome Possum Kicks Dr. Machino's Butt is an action platformer with gameplay very similar to the Sonic games. The possum can jump and run very quickly, as well as spin to hurt enemies and breeze through levels. Various robotic creatures will try to kill you during your journey to Dr. Machino’s lair, and you can either avoid them or try to defeat them as you go.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p1c.jpg",
+        "release_date": 752112000,
+        "rating": 54.3227708058226,
+        "rating_count": 5,
+        "genres": "Platform,Quiz/Trivia",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/awesome-possum-kicks-dr-machinos-butt",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46243,
+        "name": "Rolling Thunder 3",
+        "summary": "The events in the third game in the series are synchronous with RT2. At the end of the twentieth century, satellites around the globe are being shot down, disrupting communications. Secret agency Rolling Thunder discovers the organization behind the terror: Geldra. While agents Leila and Albatross are fighting the leader Gimdo (RT2), agent Jay is instructed to bring down Dread, the second-in-command.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p7s.jpg",
+        "release_date": 728524800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/rolling-thunder-3",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46244,
+        "name": "TNN Outdoors Bass Tournament '96",
+        "summary": "TNN Outdoors Bass Tournament '96 is the sequel to TNN Bass Tournament of Champions. It shares many elements with the PC game of the same name, but that version has an isometric-style map and a full 3D view for the fishing sequences. Just like the original game it is a fishing simulator that allows the player to access a free fishing mode or to participate in a fishing tournament. First, equipment needs to be bought. It consists of lures, rods, reels, lines and boats. Better items can only be acquired by winning money in tournaments.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobe9f.jpg",
+        "release_date": 823132800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29,13",
+        "external_url": "https://www.igdb.com/games/tnn-outdoors-bass-tournament-96",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46245,
+        "name": "Triple Play 96",
+        "summary": "Triple Play 96 is one of the earliest entries in EA's Triple Play series that featured a full MLB and MLBPA license with many of the top players of the 1995 season along with authentic stadiums from all 28 MLB teams along with 2,500 frames of animation to give the game a more realistic feel. Many of the standard options are present such as exhibition, season, playoffs, etc. along with a battery back-up that can keep extensive track on 25 different stat categories and has 12 unique pitches that can be chosen during the game. Players can also create their own baseball player and use them in the game or go against four friends.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p3p.jpg",
+        "release_date": 798163200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/triple-play-96",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46247,
+        "name": "Dashin' Desperadoes",
+        "summary": "Will and Rick were like two peas in a pod or more accurately, two cowpokes in a corral. In other words, these two cowboys were best of friends and nothing could tear them apart that is, until Jenny came to town. Since her arrival, the two best friends have become bitter rivals, each vying for her attention and affection. When Jenny's father decides to send her on a trip around the world, Will and Rick decide to race each other to see which one of them will accompany her. Through deserts, icebergs, shark-infested waters, and even ancient ruins these two go head-to-head in the wackiest race you've ever seen. In split-screen action, you and your opponent (either the computer or a friend) will have to use fancy footwork and a few tricks to be the first to the finish line and win Jenny's heart.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l1o.jpg",
+        "release_date": 742694400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/dashin-desperadoes",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46252,
+        "name": "Tom Mason's Dinosaurs for Hire",
+        "summary": "Unknown monsters and weird robotic creatures attack the Earth. For some reason, the only ones who can stop the invasion are the three Dinosaurs for Hire: Archie, a tyrannosaurus rex and their leader; the triceratops Lorenzo, lover of fine food, fine wine, and fine clothes, and the one-eyed, unpredictable stegosaurus Reese. Each dino has its own strengths and weaknesses.\n\nYou guide the dinosaur of your choice through the platform levels of the game. You are equipped with a gun: tons of enemies will attack you from all the sides, so your best bet will be walking with the fire button pressed down. You can shoot to all the directions and also engage in melee combat when the enemy is too close. Each level has a boss enemy waiting for you in the end. There is also a cooperative two-player mode.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zdw.jpg",
+        "release_date": 741571200,
+        "rating": 69.3370066682838,
+        "rating_count": 9,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tom-masons-dinosaurs-for-hire",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46253,
+        "name": "Mutant League Hockey",
+        "summary": "Hockey with an attitude! It's mutated mayhem on the ice in the wildest, funniest, goriest game ever. 23 wild mutant teams and 23 unique arenas, each with bizarre obstacles like exploding mines and ice pits. Call nasty plays like exploding pucks and rocket packs. Set the level of gory action, then watch the body parts go flying. Unique rules like bribing refs, funny penalties, and 2-point bonus goals. Use wild weapons: axes, sledgehammers and chainsaws. Two types of nets - Standard and Battle (protected by spikes). Substitute tired goalies with the \"Demon Net.\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oy4.jpg",
+        "release_date": 788832000,
+        "rating": 70.0,
+        "rating_count": 7,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mutant-league-hockey",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46254,
+        "name": "Mutant League Football",
+        "summary": "Anything can happen when the most awesome mutants battle to prove who rules the galactic gridiron. 16 vicious teams of aliens, robots, trolls, skeletons and super-humans. Set the \"Death Index\" from Rough, all the way up to Annihilation. Call wild plays or nasty audibles - when the QB throws a bomb, it's the real thing! Watch instant replays to see where the body parts land. Throw TNT at the halftime marching band.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oy3.jpg",
+        "release_date": 750211200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/mutant-league-football",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46259,
+        "name": "Traysia",
+        "summary": "In Traysia the player controls a young man named Roy, who lives in the town Johanna. All his life Roy has been dreaming about leaving the town and going to explore faraway lands. Now, finally, his chance has come. His uncle, a travelling merchant, is going on a journey, and Roy decides to leave with him. His girlfriend Traysia gives him a pendant, to remind him of her... will Roy be able to escape from all the dangers that await him on his long journey and to see Traysia again?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p3r.jpg",
+        "release_date": 698025600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/traysia",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46260,
+        "name": "Team USA Basketball",
+        "summary": "The game could be played in various ways: players could play against each other, or against the computer. Games against the computer were divided into two levels, \"exhibition\" or \"tournament\". Players could pick from one of the countries around the world to represent in the Olympics: USA, Yugoslavia, Angola, Australia, Canada, China, the CIS, Croatia, France, Italy, Lithuania, Slovenia, Netherlands, Spain.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/dyaot6mimaph0a8srfks.jpg",
+        "release_date": 722044800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/team-usa-basketball",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46261,
+        "name": "Sports Talk Baseball",
+        "summary": "Players can play either exhibition, regular season, all-star, or playoff games. The game also features authentic Major League Baseball rosters for the 1991 season. Gameplay commonly features double and triple plays, and only the fastest runners in the game are capable of stealing bases. It was one of the first video games to feature individual hitting abilities for each pitcher. Classic match-ups include Texas' Nolan Ryan versus Oakland's lineup with such all-stars as Jose Canseco, Rickey Henderson, Dave Henderson, and Mark McGwire.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/jgoaimcx34nmehsgk4an.jpg",
+        "release_date": 725760000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/sports-talk-baseball",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46265,
+        "name": "Ranger X",
+        "summary": "Engage in airborne combat with jump-jets and weapons of incredible power or link up with your cyber cycle for high speed ground attacks. Each step inches you closer to your goal and the fight of your life. You are Ranger X... A mysterious lone warrior who has risen from the ashes to return peace and justice to a failed society. Eight post-apocalyptic levels of high-intensity action! Monstrous mechanical bosses await your every move. Use jump-jets to attack by air or transform into the Super Cyber Cycle and roll to victory!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zhs.jpg",
+        "release_date": 741139200,
+        "rating": 88.76657116868608,
+        "rating_count": 15,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/ranger-x",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46268,
+        "name": "NFL Football '94 Starring Joe Montana",
+        "summary": "NFL Football '94 Starring Joe Montana is a 1993 Sega Mega Drive/Genesis game which has a realistic running commentary that runs while the player engages himself in exhibition, regular season, or playoff action.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oyq.jpg",
+        "release_date": 762739200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/nfl-football-94-starring-joe-montana",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46278,
+        "name": "Crystal's Pony Tale",
+        "summary": "You navigate your pony through various locations, collecting horseshoes on your way and \"paying\" them at level gates to pass to another location. You can explore the locations in any order you wish, traveling directly between them or using teleportation pictures. The game has more adventure than action elements. Crystal Pony cannot die in the game; if an enemy hits her, she merely loses one of her horseshoes. The only battles are against the witch, occurring every time you use a gem at the correct place. The pony would automatically jump over obstacles, but you can also make her jump with a corresponding button. You can get extra items by interacting with various objects and characters, pressing the action button.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pty.jpg",
+        "release_date": 780969600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/crystals-pony-tale",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46282,
+        "name": "Crüe Ball",
+        "summary": "Crüe Ball is a 1992 pinball video game. It is themed to glam metal band Mötley Crüe, it features three of their songs: \"Dr. Feelgood,\" \"Live Wire,\" and \"Home Sweet Home.\"\n\nIt features nine levels which are partitioned into three sections: a bottom, middle and top area. Players must smash a wall behind a floating head named Craig which will in turn \"crank it up\" which leads the player into the next level. The final boss of the game is the evil Mr. Gore, who can only be defeated by shooting three balls into his mouth.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l1j.jpg",
+        "release_date": 716601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Pinball",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/crue-ball",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46286,
+        "name": "Barney's Hide & Seek Game",
+        "summary": "Barney is a friendly dinosaur who likes playing with children. One day Barney and his little friends decide to play hide-and-seek game. Barney's task is to find the children and the presents they have hidden.\n\nBarney travels across four different levels. On each one there are five children and five presents to find. You can only jump in the game when there are higher platforms to access. Despite being a platformer, this is not an action game, since Barney can't die and there is no quick reaction required to complete the game. The game is designed for little children and has a very low difficulty level.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pi9.jpg",
+        "release_date": 757296000,
+        "rating": 39.22464495456073,
+        "rating_count": 6,
+        "genres": "Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/barneys-hide-and-seek-game",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46288,
+        "name": "Art Alive",
+        "summary": "Surprise yourself and impress your friends with astonishing graphics you can make in minutes. Animate them and your TV screen becomes a lively work of art. All with just your television and the 16-bit Genesis system. It's simply the easiest way to be an artist. Create masterpieces that run, jump, and dance! You can even record them on your VCR. It's better than a game... it's ART ALIVE! Turn your imagination loose with the gallery of tools: A rainbow of colors to paint with; 3 different pencil tips for freehand drawing; Circles, rectangles and squares in 3 different outline widths; Spray cans for shading patterns; An eraser and clear feature to make mistakes vanish; Over 50 supplied graphics and animations, including Sonic the Hedgehog and ToeJam & Earl, or create your own; Predrawn backdrops you can color with the fill bucket.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k1s.jpg",
+        "release_date": 690422400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/art-alive",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46522,
+        "name": "Arrow Flash",
+        "summary": "Arrow Flash is a side-scrolling space shooter. The player controls a female spaceship pilot who is sent on a mission into deep space to save the Earth from an assault by an evil dragon from another galaxy. Moving vertically or horizontally, players must avoid or kill the enemies and make it to the end of the level alive where a boss battle awaits. During gameplay, the player can switch at any time between two modes: normal spaceship and flying robot. The two forms use different weapons and also have different special abilities, called Arrow Flash. While the spaceship can fire destructive lasers for major damage, the robot can raise a shield that will protect from enemy attacks for some time and instantly kill anything that touches it. The Arrow Flash attacks can be charged by holding a button for several seconds, or collect icons during your flight to release it quickly afterwards.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co61vg.jpg",
+        "release_date": 656380800,
+        "rating": 50.23025465577688,
+        "rating_count": 7,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/arrow-flash",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46533,
+        "name": "David Robinson's Supreme Court",
+        "summary": "David Robinson's Supreme Court is a basketball game with both exhibition and tournament modes. Choose one out of four fictional teams and then draft various skilled fictional players onto the team. Exhibition mode lets the player choose to either player 3 on 3 or 5 on 5 while tournament mode only allows for 5 on 5 play. The game also features a roleplaying mode where the player takes the role of and controls only one player on the court.\n\nTournament mode lets the players team play the three other teams with the prize being a chance to go up against David Robinson's All-Stars. Speaking of which, David Robinson offers commentary at the halftime of games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l1u.jpg",
+        "release_date": 696902400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29,35",
+        "external_url": "https://www.igdb.com/games/david-robinsons-supreme-court",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46535,
+        "name": "College Football's National Championship II",
+        "summary": "It still has the standard set of modes such as Exhibition, Tournament and Season and updated rosters for the top schools of the time, reflecting the 1994 season. There are 32 teams with five added ones to this version (Wisconsin, North Carolina, Colorado State, Oregon and Washington State), however to add these schools five others were taken out that were in the previous game (San Diego State, Pitt, LSU, Arkansas and Houston). It also keeps track of 19 different stats along with authentic offensive and defensive plays attributed to each team.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l1f.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/college-footballs-national-championship-ii",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46536,
+        "name": "College Football USA 96",
+        "summary": "College Football USA 96 features gridiron action of the college ranks with 108 Division 1-A teams complete with 45 man rosters for each team. It features the standard game modes including Exhibition and Season along with the ability to play in the four major bowl games (Rose, Orange, Fiesta & Sugar) in an effort to win the National Championship.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l1b.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/college-football-usa-96",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46597,
+        "name": "Tecmo Super Hockey",
+        "summary": "Tecmo Super Hockey features the license from the NHLPA, having the top players of the game at the time. It offers exhibition and regular games as well as playing a season with updated stats and the ability to play in the All-Star game as well. Gameplay is similar to other games, with buttons to pass, shoot, making slap-shots and fake shots, as well as fighting, which is not a common feature. It can be played by two players simultaneously.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/au2kbfwpq6zxlrnfpow4.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tecmo-super-hockey",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46674,
+        "name": "The Earth Defend",
+        "summary": "Earth Defense (aka: The Earth Defend) is an unlicensed game for the Sega Mega Drive/Genesis; it was developed by AV Artisan and published by Realtec in both North America and Taiwan, without a license from Sega.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9868.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/the-earth-defend",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46682,
+        "name": "Zero Tolerance",
+        "summary": "The space station Europe-1 has been overrun by aliens. During one of the fights the nuclear cooling system has been damaged, resulting in a meltdown within hours. Your mission, as a team of five of the toughest persons in the Corps, is to infiltrate and gain control of Europe-1. You must sweep the entire station clean of aliens.\n\nZero Tolerance is a first-person shooter. It is required that you kill every single alien on each of the levels (hence the name). The five members of your team, who have different skills, start out with different weapons, and are your five chances of seeing this through.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gp5.jpg",
+        "release_date": 778377600,
+        "rating": 77.6562254323225,
+        "rating_count": 17,
+        "genres": "Shooter",
+        "platform_ids": "82,29,6",
+        "external_url": "https://www.igdb.com/games/zero-tolerance",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46684,
+        "name": "X-Perts",
+        "summary": "Terrorists have taken control of a top-secret undersea weapons facility! Unless the U.N. meets their demands, the terrorists will detonate a deep-sea thermonuclear device that will tear the earth apart. Facing global panic, the U.N. calls the X-PERTS, a 3-person ultra-secret counter-terrorist team. If the X-PERTS fail, the world pays! Play all three X-Perts at the same time and switch X-Perts during the game. Each X-Pert has unique attack weapons, technical skills, kill moves, and torture moves to extract information from human enemies. Use the X-Perts technical skills to hack computers and program robots. Real-world game play, where the game automatically saves the impact of your action and evolves as you play!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69sv.jpg",
+        "release_date": 836697600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/x-perts",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46686,
+        "name": "World Championship Soccer II",
+        "summary": "World Championship Soccer II is an update of the first game with improved graphics. It contains the teams from the previous game, but adds the 1994 World Cup teams to use in exhibition and tournament play. It also features eight teams from the 1986 and 1990 World Cups, more formations and strategy options, and a four-way play option so four people can play together.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p2f.jpg",
+        "release_date": 779760000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/world-championship-soccer-ii",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 46689,
+        "name": "Trampoline Terror!",
+        "summary": "From space, a menacing fortress appears in the sky. Surrounding it, a \"trampoline\" sidewalk armed with bombs and patrolled by enemy invaders. You, the Trampoline Terror, have the guts to fight back. Stealthful observation reveals self-destruct switches planted on 32 strongholds. Triggering each one will be no simple task. Powerful alien patrols will thwart your efforts, pushing you to the edge... and beyond! And beware the trampolines, whose very structure weakens with your every jump. Only your bounding skill and sharp cunning can save the day. So hop to it!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p3s.jpg",
+        "release_date": 633830400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/trampoline-terror",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 47059,
+        "name": "Tel-Tel Stadium",
+        "summary": "Tel-Tel Stadium is a 1990 baseball game. The game is a typical baseball game where you are only allowed to control the pitcher and batter - once the ball is hit, you can only watch what the rest of the team does.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmyd.jpg",
+        "release_date": 659145600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tel-tel-stadium",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 51942,
+        "name": "The Flintstones",
+        "summary": "This is a platform game based on the famous Flintstones series. The game features many original Flintstones characters, such as Fred, Wilma, Barney, and others. Instead of the usual \"save the princess\" or \"liberate the world\" kinds of a plot, \"The Flintstones\" is mainly based on small quests: Fred has to retrieve a lost item, etc. The large levels are divided into smaller stages. In the end of each level there is a boss battle. The gameplay involves mostly jumping and hitting the enemies on the heads with a club. The health is measured by hearts. During the game Fred will find many useful items, including some that will increase his health level.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4eb8.jpg",
+        "release_date": 730339200,
+        "rating": 80.99427922849236,
+        "rating_count": 18,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/the-flintstones--1",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 59760,
+        "name": "XDR: X-Dazedly-Ray",
+        "summary": "XDR horizontal shoot 'em-up released exclusively in Japan. The game is notable for being one of the poorest received Mega Drive games ever released, and was frequently voted the system's worst Japanese-developed game by readers of Beep! MegaDrive magazine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qyobkfyhvreypfgakrzm.jpg",
+        "release_date": 651628800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/xdr-x-dazedly-ray",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 70943,
+        "name": "Pete Sampras Tennis 96",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ecz.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/pete-sampras-tennis-96",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 72117,
+        "name": "NFL Sports Talk Football '93 Starring Joe Montana",
+        "summary": "NFL Sports Talk Football '93 is an American football video game featuring Joe Montana, released in 1992. It is the third in the series, and the first to be licensed by the National Football League. Features include in-game commentary generated from a bank of pre-recorded dialogue (courtesy of Lon Simmons), up to 50 different plays, dynamic zoom-in camera views and official team names.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mn8.jpg",
+        "release_date": 725760000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/nfl-sports-talk-football-93-starring-joe-montana",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 73006,
+        "name": "Instruments of Chaos Starring Young Indiana Jones",
+        "summary": "Instruments of Chaos Starring Young Indiana Jones is an action/adventure game with platforming elements. In it you control the titular character through missions around the world.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5mu9.jpg",
+        "release_date": 770428800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/instruments-of-chaos-starring-young-indiana-jones",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 78098,
+        "name": "Pelé!",
+        "summary": "Genesis soccer game starring the super famous Pelé. A Super NES version was planned but never released.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p0l.jpg",
+        "release_date": 754704000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "19,29",
+        "external_url": "https://www.igdb.com/games/pele",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 81222,
+        "name": "El Viento",
+        "summary": "El Viento is a platform game developed and published by Wolf Team for the Sega Genesis game console in 1991. It is the first in a trilogy of games, which includes El Viento, Earnest Evans and Anett Futatabi",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co289o.jpg",
+        "release_date": 685324800,
+        "rating": 60.46622766410601,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/el-viento",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 81522,
+        "name": "Superman",
+        "summary": "Superman (known in Europe as Superman: The Man of Steel) is a video game released by Sunsoft for the Mega Drive/Genesis in 1992. It is based on the DC Comics character of the same name. It is a traditional single-player side-scrolling arcade game where the player controls Superman through various levels in an effort to defeat the evil supervillain named Brainiac. Other super villains, as bosses, include The Prankster, Metallo and Mister Mxyzptlk.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27t5.jpg",
+        "release_date": 725760000,
+        "rating": 63.86795462383063,
+        "rating_count": 5,
+        "genres": "Adventure",
+        "platform_ids": "19,29",
+        "external_url": "https://www.igdb.com/games/superman--4",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 81530,
+        "name": "Red Zone",
+        "summary": "Red Zone, known as Hardwired during development and Commando Raid when demonstrated at Summer CES 1994, is a Sega Mega Drive game released in 1994 by Zyrinx.\n\nIt is noteworthy for achieving sprite rotations, 3D vectors and full motion video; things that were often considered impossible to do on Mega Drive hardware. No additional hardware (such as an extra chip in Virtua Racing is used. The game proudly announces this technical achievement before the title screen.\n\nZyrinx were previously responsible for Sub-Terrania, and the two games share similar graphics and logos. The soundtrack was again composed by Jesper Kyd.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p3z.jpg",
+        "release_date": 783648000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/red-zone--1",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 93373,
+        "name": "Gaiares",
+        "summary": "Gaiares is a horizontal-scrolling shoot em' up released for the Sega Megadrive/Genesis in 1990. The game bears a striking mechanic similarity to that of the R-Type series, alongside those of other well-known Shoot Em' Ups such as Gradius and Thunder Force, all of which it was trying to compete against.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6do2.jpg",
+        "release_date": 662169600,
+        "rating": 79.4598838378636,
+        "rating_count": 7,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/gaiares",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 122854,
+        "name": "Fastest 1",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uf9.jpg",
+        "release_date": 678067200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/fastest-1",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 126091,
+        "name": "NFL 98",
+        "summary": "NFL 98 (also known as NFL Prime Time 98) is a sports video game released for the Sega Genesis in 1997. Based on the National Football League, the game was a follow up to Sega's only football video game for the Sega Saturn, NFL '97. It is the last game in Sega's original Joe Montana/NFL series, which would be succeeded by NFL 2K.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5oyp.jpg",
+        "release_date": 883526400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/nfl-98",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 135590,
+        "name": "Uzu Keobukseon",
+        "summary": "Uzu Keobukseon is a vertical scrolling shooter, released only in Korea. Players controlled the title ship, a purple and gold space-age battle cruiser designed as a turtle ship, complete with sails and oars, in eight various stages.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2c7m.jpg",
+        "release_date": 725760000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/uzu-keobukseon",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 136726,
+        "name": "Rambo III",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4odg.jpg",
+        "release_date": 624931200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/rambo-iii--2",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 222830,
+        "name": "Pro Moves Soccer",
+        "summary": "Pro Moves Soccer is a soccer video game developed by Danish studios BGS Developments and ZAT Productions and published by ASCII Entertainment for the Sega Genesis in North America.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p0w.jpg",
+        "release_date": 752112000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/pro-moves-soccer",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 234834,
+        "name": "The Adventures of Batman & Robin",
+        "summary": "The Mega Drive/Genesis version, developed by Clockwork Tortoise and published by Sega, is a run 'n' gun where both Batman and Robin must stop Mr. Freeze, who plans to freeze Gotham City. In order to keep the duo busy, he also frees the Joker, Two-Face and the Mad Hatter, each one with their own agenda. The Joker celebrates his birthday wreaking havoc in Gotham and stealing diamonds, Two-Face tries to take over the city from above, and Mad Hatter is creating a robot army in his surreal lair.\n\nThe game can be played by two players simultaneously; one player with Batman, and the other with Robin. Both characters are identical in terms of playability, and both use batarangs, bolas, or shurikens in long-range attacks, while using melee attacks at short range. There are four levels consisting of several stages, mostly of a straight left-to-right traverse to the end where the boss awaits. In some levels the game switches to a side-scrolling shooter, in which the players must control the Batwings.\n\nThe game is regarded as being extremely difficult to complete, and also known for showcasing some of the most impressive special effects on the Mega Drive/Genesis. It also features a soundtrack by Jesper Kyd. This accounts for the relatively high quality of Kyd's compositions, as well as the fairly simple FM synthesized nature of the game's sound effects.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6378.jpg",
+        "release_date": 807321600,
+        "rating": 74.90763163357089,
+        "rating_count": 12,
+        "genres": "Shooter,Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/the-adventures-of-batman-and-robin--1",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 281554,
+        "name": "Outback Joey",
+        "summary": "Outback Joey is a fitness focused platform game, specifically designed for the Sega Genesis' HeartBeat Catalyst accessory. Joey, the main character, navigates through four distinct levels. He utilizes his jumping ability to combat enemies with kicks and dodge obstacles. At specific points within the game, Joey has the opportunity to obtain boxing gloves, enhancing his ability to vanquish foes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kvs.jpg",
+        "release_date": 754099200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/outback-joey",
+        "cached_at": 1778663173
+      },
+      {
+        "id": 330523,
+        "name": "Tun Shi Tian Di III",
+        "summary": "Tun Shi Tian Di III, also known as Conquering the World III or Destiny of an Emperor III, is an unlicensed Sega Mega Drive RPG released by SKOB during the 1990s. Two versions of the game exist, the former with traditional Chinese text for sale in Taiwan, and the latter in simplified Chinese for sale in mainland China. Despite its name, Tun Shi Tian Di I and Tun Shi Tian Di II are not thought to have existed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9d1x.jpg",
+        "release_date": 883526400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "29",
+        "external_url": "https://www.igdb.com/games/tun-shi-tian-di-iii",
+        "cached_at": 1778663173
+      }
+    ]
+  }
+}

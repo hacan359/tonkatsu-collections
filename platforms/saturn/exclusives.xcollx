@@ -1,0 +1,1268 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Sega Saturn Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:25+00:00",
+  "description": "Games released exclusively on Sega Saturn, sourced from Wikipedia category \"Sega Saturn-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1669,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Panzer_Dragoon_II_Zwei"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1671,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Saga"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3801,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Dungeon_Master_Nexus"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4127,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Grandia%3A_Digital_Museum"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10221,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shinobi_Legions"
+    },
+    {
+      "media_type": "game",
+      "external_id": 15021,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Albert_Odyssey%3A_Legend_of_Eldean"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18493,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Nanatsu_Kaze_no_Shima_Monogatari"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19417,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Keio_Flying_Squadron_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19666,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Burning_Rangers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19717,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Clockwork_Knight_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19720,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Wing_Arms"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19732,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/NHL_All-Star_Hockey_%28Sega_Saturn_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19738,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Hydlide"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19740,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Cyber_Speedway"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19744,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Robotica"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19755,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Sega_International_Victory_Goal"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19756,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Clockwork_Knight"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22504,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/The_Legend_of_Oasis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25804,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Mr._Bones_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28393,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Saturn_Bomberman"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28396,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shining_Force_III"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45397,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Zap%21_Snowboarding_Trix"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45413,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Blast_Wind"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45454,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Nissan_Presents%3A_Over_Drivin%27_GT-R"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45456,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shinrei_Jusatsushi_Tar%C5%8Dmaru"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45462,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Bulk_Slash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45464,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Dragon_Ball_Z%3A_Shin_But%C5%8Dden"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45477,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Open_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45483,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Scud%3A_The_Disposable_Assassin_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45485,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/NFL_%2797"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45495,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Astal"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45504,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Monsters"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45511,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/World_Series_Baseball_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45516,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Congo_The_Movie%3A_The_Lost_City_of_Zinj"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45519,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/High_Velocity"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45526,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Ghen_War"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46050,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Super_Tempo"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46054,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Gungriffon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46057,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Deep_Fear"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46058,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Dark_Savior"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46059,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shining_Wisdom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46063,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shining_the_Holy_Ark"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46087,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Black_Fire_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46095,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Choro_Q_Park"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46097,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Highway_2000_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46098,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Hang-On_GP"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46668,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/D-Xhird"
+    },
+    {
+      "media_type": "game",
+      "external_id": 58549,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Terra_Cresta_3D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66076,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Side_Story_III%3A_Sabakareshi_Mono"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66221,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Saturn_Bomberman_Fight"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71493,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Lunacy_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71716,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Cyber_Doll"
+    },
+    {
+      "media_type": "game",
+      "external_id": 73152,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/CrimeWave"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80164,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Thunder_Force_Gold_Pack"
+    },
+    {
+      "media_type": "game",
+      "external_id": 91943,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/SteamGear_Mash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92102,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Gotha%3A_Ismailia_Seneki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93007,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Wachenr%C3%B6der"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94005,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Linkle_Liver_Story"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94110,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/World_Series_Baseball_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 95383,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/F1_Challenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 96091,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Digital_Dance_Mix_Vol._1_Namie_Amuro"
+    },
+    {
+      "media_type": "game",
+      "external_id": 105043,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 123631,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Quo_Vadis_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 165449,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Iron_Storm_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 176116,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Greatest_Nine"
+    },
+    {
+      "media_type": "game",
+      "external_id": 176684,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Virus_%281997_video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1669,
+        "name": "Panzer Dragoon II Zwei",
+        "summary": "Panzer Dragoon II Zwei is an \"on-rails\" shoot 'em up game released exclusively for the Sega Saturn. It was the second Panzer Dragoon game released but it is a prequel of the series. It was developed by Team Andromeda, one of Sega's internal development studios.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ixu.jpg",
+        "release_date": 827452800,
+        "rating": 71.72586437481418,
+        "rating_count": 18,
+        "genres": "Shooter",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/panzer-dragoon-ii-zwei",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 1671,
+        "name": "Panzer Dragoon Saga",
+        "summary": "Enter the world of Panzer Dragoon Saga and experience a game like no other: a fusion of classic Panzer action with the most technologically advanced RPG to come to Saturn. Board your morphing dragon and behold as the mysteries of the Panzer world unfurl across four massive CDs. The new \"rail free\" 3D engine lets you soar deeper into role-playing adventure than you ever before imagined. Your destiny awaits.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobalf.jpg",
+        "release_date": 886032000,
+        "rating": 80.977497526506,
+        "rating_count": 26,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/panzer-dragoon-saga",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 3801,
+        "name": "Dungeon Master Nexus",
+        "summary": "Dungeon Master Nexus is part of the Dungeon Master series, it is the first game in the series using a 3D graphics engine. The game features 15 levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5s3t.jpg",
+        "release_date": 890870400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Role-playing (RPG)",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/dungeon-master-nexus",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 4127,
+        "name": "Grandia",
+        "summary": "Grandia is a role-playing video game developed by Game Arts and published by Entertainment Software Publishing for the Sega Saturn console as the first game in their Grandia series. Initially released in Japan in 1997, the game was later ported to the PlayStation in 1999, with an English version of the game appearing on the platform in North America in the following September by Sony Computer Entertainment America, and later in Europe in March 2000 by Ubisoft. The game was produced by much of the same staff who worked on the company's previous role-playing endeavor, the Lunar series, including producer Yoichi Miyagi and music composer Noriyuki Iwadare.\n\nSince its release, Grandia has become notable for its combat mechanics, which have been carried over to future games within the franchise, and has spawned two spin-off titles – Grandia: Digital Museum and Grandia: Parallel Trippers – both released exclusively in Japan. In celebration of the announcement of renewing development on Grandia Online, which acts as a prequel to Grandia, the game was re-released on Sony's PlayStation Network platform in Japan as a downloadable title in April 2009 and in North America on February 25, 2010. It was re-released in Europe on November 10, 2010.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafk6.jpg",
+        "release_date": 882403200,
+        "rating": 76.02580691709007,
+        "rating_count": 51,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9,34,32,7,38",
+        "external_url": "https://www.igdb.com/games/grandia",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 10221,
+        "name": "Shinobi Legions",
+        "summary": "Shinobi Legions, known as Shinobi X in Europe and as Shin Shinobi Den in Japan, is fifth and final game in original Shinobi series. It was developed and published by Sega in 1995 for Sega Saturn.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30ik.jpg",
+        "release_date": 804470400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/shinobi-legions",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 15021,
+        "name": "Albert Odyssey: Legend of Eldean",
+        "summary": "Albert Odyssey: Legend of Eldean is a role-playing video game developed by Sunsoft for the Super Nintendo, but cancelled and ported to the Sega Saturn. It is the first Albert Odyssey title to be released in English, as well as the first to feature traditional turn-based role-playing elements as opposed to tactical, strategy-based gameplay. Legend of Eldean was created as a \"gaiden\", or sidestory to the original titles, and contains back story, characters, and plot that are independent from earlier games in the series. The North American version received generally favorable reviews, with the game's translation invoking mixed criticism both for its overly-humorous tone and departure from the original Japanese dialogue.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3z93.jpg",
+        "release_date": 839548800,
+        "rating": 65.87371512481644,
+        "rating_count": 8,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "32,58",
+        "external_url": "https://www.igdb.com/games/albert-odyssey-legend-of-eldean",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 18493,
+        "name": "Nanatsu Kaze no Shima Monogatari",
+        "summary": "Tales of the Seven Wind Islands is a fantasy adventure game exclusively for the SEGA Saturn by Enix.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3001.jpg",
+        "release_date": 880588800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/nanatsu-kaze-no-shima-monogatari",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19417,
+        "name": "Keio Flying Squadron 2",
+        "summary": "Keio Flying Squadron 2 was released in 1996 for the Sega Saturn in Japan, Europe, and Australia. The second installment of the series continues the story of Rami's adventures as the Keeper of the Secret Treasure (a sphere passed down through generations of Rami's family). Rami races Dr. Pon and a new rival Himiko Yamatai for an ancient treasure that can be unlocked with six spheres. Two of the stages retain the shoot-'em-up style of the first game, but the lesser dragons can be obtained as bonuses only.\n\nMainly the stages consist of sidescroling platformer stages. These scroll from right to left on the Japanese version and left to right on all other versions. Several bonuses can be collected including three weapons (Rami can also bounce on the heads of enemies to defeat them):\nA large mallet, used only for hitting enemies\nAn umbrella, used to hit enemies, float and deflect overhead obstacles\nA bow, used to shoot arrows at enemies.\n\nBesides the platformer and shoot-'em-up stages, there is vertically scrolling special stages, an underwater stage and a rollercoaster stage, making the game a multi-genre platformer. Points spheres can be collected throughout the game. A reward system accessed from the main menu unlocked helpful hints and behind-the-scenes extras depending on the highest and lowest scores achieved through playing.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3s8b.jpg",
+        "release_date": 832291200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/keio-flying-squadron-2",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19666,
+        "name": "Burning Rangers",
+        "summary": "Sonic Team brings you the fire fighting heroes of the future... The Burning Rangers. In the life of a Burning Ranger, danger lurks around every corner, and you'll find there are many. Hazardous missions await you, the prime objective being to save the lives of helpless survivors. You will be assisted by an advanced voice navigation system, but the rest is up to you. You must think fast and act quickly if you are to save the day. Scorching graphics, intense gameplay, thrills without the kills... go for it!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3inj.jpg",
+        "release_date": 890870400,
+        "rating": 70.01745369921458,
+        "rating_count": 5,
+        "genres": "Shooter,Platform",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/burning-rangers",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19717,
+        "name": "Clockwork Knight 2",
+        "summary": "Clockwork Knight 2 uses identical gameplay to that of its predecessor, right down to using all the same items and having four rooms with three levels each, plus a final boss.\n\nHowever, there are three minor additions:\nFour playing cards are scattered around each level. Spinning all four cards gives players a Gold Key; collecting all 32 cards in the game yields a secret code.\nThere are some forced scrolling levels in which Pepper rides on the back of his steed Barobaro. Attacking is done not with Pepper's key in these levels, but by firing Barobaro's head at enemies.\nAn additional game mode called \"Bosses Galore\" lets the player control either Pepper or Ginger in fighting all the bosses of both Clockwork Knight games one after the other. Doing well in this mode is said to unlock a mini-game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5rrs.jpg",
+        "release_date": 818985600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/clockwork-knight-2",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19720,
+        "name": "Wing Arms",
+        "summary": "Wing Arms is a blend of flight simulator and action game for the Sega Saturn, released in 1995. In an alternate history set after WWII, the player has to fight a multinational company which wants to prevent the war from ending.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4aka.jpg",
+        "release_date": 812332800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/wing-arms",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19732,
+        "name": "NHL All-Star Hockey",
+        "summary": "NHL All-Star Hockey is a Sports game, developed by Gray Matter and published by Sega, which was released in 1995.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gp6.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "35,32",
+        "external_url": "https://www.igdb.com/games/nhl-all-star-hockey",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19738,
+        "name": "Virtual Hydlide",
+        "summary": "Action/RPG's don't get more real than this! Discover the ultimate fantasy world in this compelling epic adventure! An enchanted realm known as the Dream World has been captured an army of supernatural warriors, zombies, vampires and more infest the once peaceful land, awaiting new battles and conquests.\n\nYou are a hero, born to the sword. Your mission is to free Dream World from the grip of the undead maravders by using your wits, your sword, and few magic items you uncover in your travels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4l9a.jpg",
+        "release_date": 799027200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/virtual-hydlide",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19740,
+        "name": "Cyber Speedway",
+        "summary": "Cyber Speedway (Gran Chaser in Japan) is a 1995 racing video game developed by NexTech and published by Sega for the Sega Saturn.\n\nIt is a spiritual sequel to 1993 computer game CyberRace, as both games have a similar theme, and vehicles designed by Syd Mead",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ak0.jpg",
+        "release_date": 801446400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/cyber-speedway",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19744,
+        "name": "Robotica",
+        "summary": "Robotica was the first, first-person shooter for the platform and a first generation game for the console. It is somewhat similar to Space Hulk, only that the player takes the role of a machine that rebels against the robots to save mankind. The weapons include a punch, Vulcan gun, Missiles, and Lasers. The main environment is made up of various hallways. The player runs through the various stages collecting keys, using computers, and triggering lights. The enemies are relatively basic but are dangerous in numbers.\n\nThe game is set in 2877, 800 years after the world's peacekeeping unions have collapsed. They are replaced with World Silent Security Service, a global world order to maintain the security on earth and in space. However, over time the role of the order is questioned, and the Reformist Faction rebel group sends three pilots in Laocorn assault robots to the WSSS' space station Daedalus in earth's orbit. Two are immediately destroyed, but the player gets to control the remaining robot.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gt2.jpg",
+        "release_date": 796003200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/robotica",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19755,
+        "name": "Worldwide Soccer: Sega International Victory Goal Edition",
+        "summary": "Focused on national teams (12, including Italy, Spain, Denmark, Netherlands, England, Argentina, France, USA, Germany, Romania, Belgium and Brazil), the game offers a 2.5D environment (polygonal stadium and sprites for players) and three camera angles (back, isometric and side) with four zooming levels. Modes include Exhibition, World League (either single or double, with 44 matches and a grand final to crown the Grand Champion), S-League (just one round, 11 matches), cup knockout and penalty shootout, the game keeping track of statistical information of each competition. Gameplay is regular arcade, with simplicity being privileged over tactical knowledge or complex controls, with the game offering the possibility to choose between three types of controls. Other options include the ability to choose one of four difficulty levels, length of each half (3, 6 or 15 minutes) and weather conditions (fine, rain or random).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/jvgjzssvpkoiavmtwtts.jpg",
+        "release_date": 807235200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/worldwide-soccer-sega-international-victory-goal-edition",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 19756,
+        "name": "Clockwork Knight",
+        "summary": "Clockwork Knight is a 2.5D side-scrolling platformer where you play as the toy soldier Sir Tongara de Pepperouchau III. The game offers a combination of pre-rendered 3D graphics and 3D environment.\n\nThe game has four rooms Pepper must traverse; Betsy's room, Kevin's room, Kitchen and Attic, each containing two levels and a boss fight at the end, with a total of five bosses and eight levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4oeq.jpg",
+        "release_date": 786931200,
+        "rating": 62.00066807525105,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/clockwork-knight",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 22504,
+        "name": "The Legend of Oasis",
+        "summary": "The Legend of Oasis is the prequel to Beyond Oasis, also known as The Story of Thor. Like its predecessor, it is an action game with role-playing elements. The gameplay is quite similar to that of Beyond Oasis. Leon can attack with melee weapons or use a bow for long-ranged attack. His armlet also allows him to summon spirits, who would damage the enemy or heal Leon. Instead of the usual experience points system the game features \"ranks\" (equivalent to levels); higher ranks increase the protagonist's hit points and can be gained by recovering his health multiple times.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobnpp.jpg",
+        "release_date": 830476800,
+        "rating": 72.23388201615893,
+        "rating_count": 5,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/the-legend-of-oasis",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 25804,
+        "name": "Mr. Bones",
+        "summary": "Mr. Bones, is a multi-genre video game released for the Sega Saturn in 1996, created for SEGA by Ed Annunziata and Zono Incorporated. The game's soundtrack was composed and performed by famed guitarist Ronnie Montrose.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r3e.jpg",
+        "release_date": 844128000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/mr-bones",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 28393,
+        "name": "Saturn Bomberman",
+        "summary": "Saturn Bomberman is an action game by Hudson Soft for the Sega Saturn. The twelfth installment in the Bomberman series, it was first released in Japan on July 19, 1996, in Europe in May 1, 1997, and in North America in September 4, 1997. It is best known for its multiplayer functionality for up to ten players using multitaps. It received praise for its gameplay and multiplayer, but criticism for not advancing the Bomberman series enough.\n\nSaturn Bomberman can also connect to the Sega Saturn NetLink internet system, allowing two people from opposite ends of the earth to battle it out.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2su8.jpg",
+        "release_date": 837734400,
+        "rating": 83.7396665580091,
+        "rating_count": 9,
+        "genres": "Puzzle",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/saturn-bomberman",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 28396,
+        "name": "Shining Force III",
+        "summary": "Shining Force III is a fantasy turn-based tactics role-playing video game designed for the Sega Saturn by Camelot Software Planning. It is a continuation of the Shining series. Comprising three separate but overlapping storylines, the Japanese version of Shining Force III was released in three volumes, known as: \"Scenario 1 - God Warrior of the Kingdom\", \"Scenario 2 - Target: Child of God\", and \"Scenario 3 - \"Bulzome Rising\".\nIn America and Europe, only Scenario 1 was released. The real ending to the game can only be viewed by completing all the games in the series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co300x.jpg",
+        "release_date": 881798400,
+        "rating": 79.57978310249246,
+        "rating_count": 11,
+        "genres": "Role-playing (RPG),Strategy,Tactical",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/shining-force-iii",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45397,
+        "name": "Zap! Snowboarding Trix",
+        "summary": "Zap! Snowboarding Trix is a Sega Saturn sports game released exclusively in Japan. It was followed by Zap! Snowboarding Trix '98.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4x9h.jpg",
+        "release_date": 858902400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/zap-snowboarding-trix",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45413,
+        "name": "Blast Wind",
+        "summary": "Blast Wind is a shoot-'em-up game released exclusively in Japan for the Sega Saturn in 1997.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co61l3.jpg",
+        "release_date": 853459200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/blast-wind",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45454,
+        "name": "Nissan Presents Over Drivin' GT-R",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7v5o.jpg",
+        "release_date": 853718400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/nissan-presents-over-drivin-gt-r",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45456,
+        "name": "Shinrei Jusatsushi Taroumaru",
+        "summary": "Shinrei Jusatsushi Taroumaru is an Action game, developed and published by Time Warner Interactive, which was released in Japan in 1997.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co526p.jpg",
+        "release_date": 853459200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/shinrei-jusatsushi-taroumaru",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45462,
+        "name": "Bulk Slash",
+        "summary": "After the great galactic war ends, the planet Blau and its citizens are oppressed and discriminated against by the victors. Former military chief Alois Gardona enacts a coup d'état, to bring Blau back to power, and so a coalition of planets is rallied to put a stop to them. As Chris Dori you are an S.D.F. pilot who must single-handedly win the war.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4g6s.jpg",
+        "release_date": 868579200,
+        "rating": 80.0,
+        "rating_count": 5,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/bulk-slash",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45464,
+        "name": "Dragon Ball Z: Shin Butouden",
+        "summary": "It is the fourth installment in the Butouden series. It features 27 playable characters, their sprites being those used in the earlier game \"Dragon Ball Z - Ultimate Battle 22\" for the Sony PlayStation. Also, the game's introduction is made with scenes recycled from the introduction of Ultimate Battle 22.\n\nThe game also features two other exclusive modes: Group Battle and Mr. Satan mode. In Group Battle, players gets to create a team of five characters and fight against either another player or an AI-controlled character.\nIn Mr. Satan mode, Mr. Satan is trying to raise enough money to pay off his debt to Android 18, and the player places bets on matches and cheats by using several items, such as banana peels, guns, and dynamite.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lg8.jpg",
+        "release_date": 816566400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/dragon-ball-z-shin-butouden",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45477,
+        "name": "Virtual Open Tennis",
+        "summary": "One of only two tennis games released for the Saturn. Features include a 3 modes of play (tournament, exhibition and practice), 3 playing surfaces and 10 players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40bq.jpg",
+        "release_date": 823132800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/virtual-open-tennis",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45483,
+        "name": "Scud: The Disposable Assassin",
+        "summary": "SCUD: The Disposable Assassin is a video game based on the Rob Schrab comic series of the same name.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4t4u.jpg",
+        "release_date": 859507200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/scud-the-disposable-assassin",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45485,
+        "name": "NFL '97",
+        "summary": "NFL '97 is a follow-up video game to Sega's classic Joe Montana series on the Sega Mega Drive/Genesis. NFL '97 featured some sound effects directly from that series. NFL 97 was released exclusively for the Sega Saturn.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co409b.jpg",
+        "release_date": 849398400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/nfl-97",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45495,
+        "name": "Astal",
+        "summary": "Somewhere in the universe, The Goddess Antowas created a world from a single jewel. On this world, Quartilia, she created the sky, earth, and air. To inhabit this world, she created two humans - from a green jewel, a girl: Leda, who has the power to make things live on Quartilia. And from a red Jewel, a boy: Astal, whose purpose was to protect Leda. Content with her creation, Antowas slept.\nWhile she slept, the evil Jerado tried to take over Quartilia. To ensure victory, Jerado created a warrior: Geist. Geist kidnapped Leda, and held her at the bottom of the ocean. In an effort to get her back, Astal tore Quartilia apart, awakening Antowas. As punishment, Antowas banished Astal to Quartilia's moon. Leda took pity on Astal, and gave him her jewel. Once Astal and Jerado were dealt with, Antowas went back to sleep.\nHowever, Geist was still free, and Quartilia was not restored from the changes Jerado wrought. From his prison on the moon, Astal witnessed Geist kidnap Leda again. Consumed with the need to protect her, he freed himself and returned to Quartilia. Now Astal journeys in search of Leda through a Quartilia transformed by Jerado's dark design, along with a strange bird who for some reason just won't leave him alone...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30of.jpg",
+        "release_date": 814752000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/astal",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45504,
+        "name": "Battle Monsters",
+        "summary": "There’s a rumble in hell… and you’re invited.\n\nTwelve psychotic monsters fight fist-and-fang in the darkest, goriest head-to-head combat ever! In bone-chilling interactive, multi-leveled environments, the beasts of the undead trade clawfuls of sickening supermoves in their bid to rule the underworld. Overflowing with guts, droll and slime, Battle Monsters is multi-hit, mid-air fighting blood lust… Feeling lucky, freak?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6amv.jpg",
+        "release_date": 804643200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/battle-monsters",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45511,
+        "name": "World Series Baseball II",
+        "summary": "This is the Sega Saturn's second entry in the World Series Baseball series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ajp.jpg",
+        "release_date": 841449600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/world-series-baseball-ii",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45516,
+        "name": "Congo The Movie: The Lost City of Zinj",
+        "summary": "Congo the Movie: The Lost City of Zinj is a first-person shooter developed by Jumpin Jack and published by Sega for the Sega Saturn in 1996.\n\nThe game uses elements of the film Congo to tell a side story following the exploits of Butembo Kabalo (played by Steven Anthony Jones), the only survivor of the first Travicom expedition in search of diamonds in the Congo jungle.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gya.jpg",
+        "release_date": 823132800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/congo-the-movie-the-lost-city-of-zinj",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45519,
+        "name": "High Velocity: Mountain Racing Challenge",
+        "summary": "A touge racing game developed by Cave.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/m6zjlftou3ngoc9a15yt.jpg",
+        "release_date": 815961600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/high-velocity-mountain-racing-challenge",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 45526,
+        "name": "Ghen War",
+        "summary": "The Ghen War is first person shooter where you pilot a mech-like suit and traverse a multitude of environments to destroy every Ghen alien who turned on you and the rest of your human bretheren. This Sega Saturn exclusive is known for its dynamic soundtrack and landmark terrain deformation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gy7.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/ghen-war",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46050,
+        "name": "Super Tempo",
+        "summary": "Tempo now teams up with its eponymous host and his girlfriend Katy to rescue the Prince of Music World from Planet Technotch.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co50no.jpg",
+        "release_date": 896400000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/super-tempo",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46054,
+        "name": "Gungriffon",
+        "summary": "The Gun Griffon armored mechanoid is the most sophisticated military hardware yet to grace the battlefields of the 21st century. As a leading commander of the Asian Pacific Community's army, you control a devastating array of weapons in your bid to smash the enemy's defenses and destroy their key strategic targets before time runs out.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co301c.jpg",
+        "release_date": 826848000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/gungriffon",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46057,
+        "name": "Deep Fear",
+        "summary": "All contact is lost with a submarine on a routine mission which then crashes into an underwater facility. The occupants of the underwater facility are ordered to board the submarine and find out what went wrong. On board the vessel, strange things are happening which are taking control of the crew. The crew are mutating due to an alien parasite and members of the search team have to figure out what is happening and how to stop it!\n\nThe game is played via a third person view which is just behind the character and you look over his shoulder. The game is based underwater in a submarine so the developers have added a claustrophobic feeling by giving some areas a limited amount of air so you have to run through to activate the air circulation system. Controls are your typical Resident Evil style which is you pull the Right shoulder button to draw your gun, your d-pad to aim and then a button to shoot. Along your journey of the submarine, you will need to find objects such as keycards to unlock doors and better weapons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7l9l.jpg",
+        "release_date": 900547200,
+        "rating": 53.31989016557379,
+        "rating_count": 6,
+        "genres": "Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/deep-fear",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46058,
+        "name": "Dark Savior",
+        "summary": "Put on your thinking caps and prepare to face fierce enemies! Assume the role of Garian, a sword-wielding warrior in search of his escaped prisoner, Bilan. Discover hidden treasures as you explore amazing 3D environments while navigating through a series of mind-melting puzzles!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tsd.jpg",
+        "release_date": 841363200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/dark-savior",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46059,
+        "name": "Shining Wisdom",
+        "summary": "Once, long ago, a fearsome giant known as the \"Dark Titan\" rose from the abyss and nearly destroyed all Palacia before being bound by magic. Now, the Black Elf Pazort is scheming to rule the world by returning the Dark Titan from the depths of the abyss! But, there is hope. Mars, the son of the legendary warrior Jiles, begins his service in the King's guard at castle Odegan this very day. Guide him through the terrifying traps and devious dungeons as you struggle to seal the Four Elementals that can power Pazort's scheme! Your journey will not be easy. The Lily Pads of Sudden Discomfort lie near every watery path. Rainbow Stinger Scorpions block critical junctions. And, Pazort himself waits in the dank depths of the Catacomb Marsh, guarding the rising Titan. To succeed, you must wield special weapons, items, and power orbs with skill never before witnessed in the land. And succeed you must, for failure will result in the end of all mankind, and the loss of that important victory smooch from the princess.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ek7.jpg",
+        "release_date": 808099200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/shining-wisdom",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46063,
+        "name": "Shining the Holy Ark",
+        "summary": "As the capable mercenary Arthur, you must summon every ounce of your role-playing prowess and lead your comrades on a do-or-die hunt for the kingdom's sacred artifacts. It's the RPG you've been waiting for, loaded with enough Medieval monsters and challenging \"four character\" control to stretch your role playing skills far beyond your wildest imagination.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ltf.jpg",
+        "release_date": 851040000,
+        "rating": 79.14507627753497,
+        "rating_count": 8,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/shining-the-holy-ark",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46087,
+        "name": "Black Fire",
+        "summary": "In Black Fire, the player takes control of the most sophisticated helicopter on the planet taking on a very dangerous enemy. The player's helicopter is state of the art, but the enemy they are fighting has acquired alien technology and is using it to try and conquer the world and it is up to the player to use all the flying skill they have and try to stop them. \n \nBlack Fire is rendered in 3-D and has a 360 degree field to maneuver. The chopper is outfitted with missiles and machine guns and flies through 15 levels, destroying enemy targets and providing support to allied units with the story told through CGI cutscenes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/u0ui2bqb9iraktrxsawm.jpg",
+        "release_date": 822268800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/black-fire",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46095,
+        "name": "Choro Q Park",
+        "summary": "Racing game for the Sega Saturn in which players race Takara's Choro Q/Penny Racers line of toy cars.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co526i.jpg",
+        "release_date": 888364800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/choro-q-park",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46097,
+        "name": "Highway 2000",
+        "summary": "Rev up for the road race of the century! Highway 2000 delivers driving excitement with all cylinders firing! Fly through five harrowing highway courses with your choice of three high-performance racing machines - the speed and handling of the Mad Viper, the awesome acceleration of the Dark Nebula and the stick-to-the-road grip of the Rapid Fire. Slide with all four wheels into a hairpin curve. Negotiate treacherous tunnels, narrow bridges and heavy highway traffic. Challenge a fellow racer to a winner takes all split-screen barn burner! You can see the action from above, from the road or your driver's seat. It's your road! Get out onto the highway and go!\n\nThis is the Australian/European version of Wangan Dead Heat, released in Japan. This version cut all of the content relating to wooing women in the career, a large part of the Japanese release. It is a spin-off of Genki's Shutokou Battle racing series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53ht.jpg",
+        "release_date": 823132800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Arcade",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/highway-2000",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46098,
+        "name": "Hang-On GP",
+        "summary": "Hang-On GP features three tracks: Albatross Cliff Reef, Great Crimson Wall, and New Dwells. Each track contains an additional route that becomes available after a high placing. This makes a total of six possible races.\n\nPlayers can choose from among ten motorcycles to use during a race as well as an automatic or manual transmission for each. Players can also decide how the bike should control, highside or power slide.\n\nPlacing in the top three on any of the first three tracks will release the additional routes. When players place in the top three on the additional routes an endurance mode will be available. In endurance mode players attempt to complete as many laps as they can in 10 minutes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55vt.jpg",
+        "release_date": 814752000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/hang-on-gp",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 46668,
+        "name": "D-Xhird",
+        "summary": "Arena fighting with weapons clashing! This is the ultimate fight! 3D battle with incredible graphics unlike any you've ever seen on Sega Saturn! Take to the ring, punk!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5rhk.jpg",
+        "release_date": 864950400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/d-xhird",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 58549,
+        "name": "Terra Cresta 3D",
+        "summary": "As the game's title implies, Terra Cresta is now in 3D. This title was a Saturn exclusive.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3j8l.jpg",
+        "release_date": 870998400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/terra-cresta-3d",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 66076,
+        "name": "Mobile Suit Gundam Side Story III: Sabakareshi Mono",
+        "summary": "Sabakareshi Mono is the final game in the Blue Destiny trilogy of Gundam-based shooters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rrh.jpg",
+        "release_date": 857692800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/mobile-suit-gundam-side-story-iii-sabakareshi-mono",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 66221,
+        "name": "Saturn Bomberman Fight!!",
+        "summary": "Saturn Bomberman Fight!! is a 1997 maze video game developed and published by Hudson Soft for the Sega Saturn. It is the second Bomberman game for the Saturn, after Saturn Bomberman. It features full 3D graphics unlike previous titles in the series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p42.jpg",
+        "release_date": 881798400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/saturn-bomberman-fight",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 71493,
+        "name": "Lunacy",
+        "summary": "Lunacy, released in Europe as Torico and in Japan as Gekka Mugentan Torico (月花霧幻譚 Torico), is an adventure game developed by System Sacom and published by Sega for the Sega Saturn in 1996. Lunacy is an interactive movie adventure consisting of a long series of interconnecting full motion video (FMV) sequences, much like The 7th Guest and System Sacom's earlier Saturn game, Mansion of Hidden Souls.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z04.jpg",
+        "release_date": 835920000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/lunacy--1",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 71716,
+        "name": "Cyber Doll",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2z10.jpg",
+        "release_date": 839548800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/cyber-doll",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 73152,
+        "name": "CrimeWave",
+        "summary": "CrimeWave takes place in the fictional futuristic city of Mekeo, plagued by rampant crime and chaos. To combat this crimewave, the corrupt mayor has privatized the city's police force and offers bounties to anyone that takes out a wanted criminal, effectively turning the police into bounty hunters. The player takes the role of a member of the Mekeo Vehicle Police patrolling the city with their heavily armed police car to take out criminals and collect bounty money while simultaneously fighting off rival cops that are out for the same bounties.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ajn.jpg",
+        "release_date": 847411200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Racing",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/crimewave",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 80164,
+        "name": "Thunder Force: Gold Pack 2",
+        "summary": "The second of two Saturn compilations for the Thunder Force series. It includes the arcade game Thunder Force AC and a port of the Sega Mega Drive/Genesis game Thunder Force IV.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7s5v.jpg",
+        "release_date": 849830400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/thunder-force-gold-pack-2",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 91943,
+        "name": "SteamGear Mash",
+        "summary": "An isometric-view action platformer",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5204.jpg",
+        "release_date": 812332800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/steamgear-mash",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 92102,
+        "name": "Gotha",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3t4s.jpg",
+        "release_date": 801532800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/gotha",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 93007,
+        "name": "Wachenröder",
+        "summary": "Wachenröder is a turn based game with 3D maps and set in the victorian era. The story takes place in a dark future on the island Edward, which is ruled by the noble and magnanimous King Wizar.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30fh.jpg",
+        "release_date": 902361600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Tactical",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/wachenroder",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 94005,
+        "name": "Linkle Liver Story",
+        "summary": "Linkle Liver Story is an action-oriented RPG that takes place on a distant planet called Mamuuna whose inhabitants are humans with animal qualities. The story centers around the \"Mother Flower\" which gives life to all new beings on the planet when one day it disappears.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69o8.jpg",
+        "release_date": 826848000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/linkle-liver-story",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 94110,
+        "name": "World Series Baseball",
+        "summary": "World Series Baseball, known in Japan as Hideo Nomo World Series Baseball, is a Sega Saturn baseball game developed and published by Sega. An entry in the titular World Series Baseball series of baseball titles, the game was first released in the United States in November 1995, with a worldwide release in the following months. In Japan, World Series Baseball game is sponsored by professional Japanese baseball player Hideo Nomo.\n\nThe game later received a 1996 sequel, World Series Baseball II.\n\nThis Saturn version is unrelated to the Sega Mega Drive and Sega Game Gear games of the same name - it is a brand new entry, despite not having a brand new name (although during development it was known as Grand Slam Baseball), which takes advantage of the system's 3D graphics.\n\nJapanese version possibly to make this distinction, being sponsored by Hideo Nomo. This of course, can cause further confusion, as there is a Nomo Hideo no World Series Baseball for the Game Gear also. It would not be the last game to disregard previous entries in the series - a 2001 World Series Baseball exists also.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3uwm.jpg",
+        "release_date": 812505600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/world-series-baseball--2",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 95383,
+        "name": "F1 Challenge",
+        "summary": "F1 Challenge was the only Formula One title released on the SEGA Saturn, giving the player the opportunity to control five authentic Formula One cars and their drivers (Michael Schumacher, Damon Hill, Jean Alesi, Ukyo Katayama and Mika Häkkinen), with the ability to tweak their car before races, ranging from tire pressure, tire type, wing angle, etc.\n\nThere are six tracks to choose from: Hockenheim, Monte Carlo, Suzuka and three different configurations for a fictional track, Neo City, each with their own hairpin turns and fast straightaways. The player can choose from two behind the car views (no cockpit view is available) along with a pop-up screen that acts as a rear view mirror. Features a FOCA (Formula One Constructors Association) license which allows the use of thirteen teams with twenty-six drivers from the 1995 season from which the above mentioned five are the only ones playable.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co526k.jpg",
+        "release_date": 842227200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/f1-challenge",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 96091,
+        "name": "Digital Dance Mix Vol. 1: Namie Amuro",
+        "summary": "A Sega Saturn Tech Demo / Rhythm game developed by Sega's AM2 Research Division. The game uses Japanese Queen Of Pop Namie Amuro as the subject to demonstrate features of the Sega Saturn's game engine such as live rendering, lighting effects and texture mapping.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/wta1mvdcnfndtpkbvu5t.jpg",
+        "release_date": 883526400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/digital-dance-mix-vol-1-namie-amuro",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 105043,
+        "name": "Magic Knight Rayearth",
+        "summary": "The balance in the magical world of Cefiro is supported by the prayers of the lovely princess Emerald. When the evil Sage Master imprisoned her, the existence of the entire world was endangered. Using her spiritual powers, the princess contacted three Japanese high-school girls, Hikaru, Umi, and Fuu, turned them into Magic Knights, and summoned them to Cefiro, where their goal is to save her and to restore the balance.\n\nThis adaptation of the eponymous manga and anime series is an action game with light role-playing elements, somewhat similar in style to Zelda games. The protagonists are all the three girls, but the player can controls only one of them at a time. Each one has advantages and disadvantages, as well as different fighting styles: Hikaru uses swords, Umi a rapier, and Fuu a bow. The player advances through the game by exploring the world, talking to non-playable characters, and fighting enemies in real-time combat. There is no experience system; new abilities (among them swimming and jumping) are gained as dictated by the story, and must be used in certain points in order to advance.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40h8.jpg",
+        "release_date": 809308800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/magic-knight-rayearth--1",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 123631,
+        "name": "QuoVadis 2: Wakusei Kyoushuu Ovan Rei",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6evy.jpg",
+        "release_date": 860112000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/quovadis-2-wakusei-kyoushuu-ovan-rei",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 165449,
+        "name": "Iron Storm",
+        "summary": "Iron Storm is a traditional turn-based strategy game. The original Japanese release was the second entry in Sega's Advanced Daisenryaku series, with gameplay very similar to that of it's 16-bit predecessor, changing some details and using 3D animations for the combat cutscenes. The game uses a hex-based map and features fog-of-war, weather, unit experience, unit upgrading, supply, and other common strategy wargame features.\n\nUnlike the previous game, three campaigns are available instead of one. Japanese, as well as United States forces can be commanded now in addition to German units. The scenarios that are played during a campaign can change depending on the battle results - a successful player may invade North America for example. There are also ten scenarios with pre-set forces separately available for selection in Standard Mode, during which the control of all involved armies can be switched to a human player.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co408k.jpg",
+        "release_date": 811728000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Turn-based strategy (TBS)",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/iron-storm--1",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 176116,
+        "name": "Greatest Nine '96",
+        "summary": "Greatest Nine '96, is a Sega Saturn sequel to Kanzen Chuukei Pro Yakyuu Greatest Nine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co404d.jpg",
+        "release_date": 842918400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/greatest-nine-96",
+        "cached_at": 1778663185
+      },
+      {
+        "id": 176684,
+        "name": "Virus",
+        "summary": "It is the 22nd century. Human beings have long reached outer space and traveled to other planets. But they could not find happiness, and soon their only source of feelings became the \"Cyber Net\", a virtual world where people could experience simple emotions such as love or hatred. One day, a deadly virus was discovered in the Cyber Net. A special unit called Blue Metal was sent to annihilate the virus. But something went wrong, and the members of the unit were killed. Serge Shadix survived, but his brother Leon never came back. This accident made Serge join a force called STAND (Special Team for Alert to Network Destruction), which specialized in cybernetic crimes. Will Serge be able to solve the mystery and discover the secret of the virus?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40cm.jpg",
+        "release_date": 872208000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Point-and-click,Shooter,Puzzle,Adventure",
+        "platform_ids": "32",
+        "external_url": "https://www.igdb.com/games/virus--2",
+        "cached_at": 1778663185
+      }
+    ]
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "3DO Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:02+00:00",
+  "description": "Games released exclusively on 3DO, sourced from Wikipedia category \"3DO Interactive Multiplayer-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 4249,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Gridders"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4266,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Real_Pinball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4272,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/VR_Stalker"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4277,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Jurassic_Park_Interactive"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4278,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Doctor_Hauzer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4288,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Seal_of_the_Pharaoh"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4295,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Foes_of_Ali"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4296,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Immercenary"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4298,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Zhadnost%3A_The_People%27s_Party"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4307,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Ultraman_Powered_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4313,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Stellar_7%3A_Draxon%27s_Revenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4314,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Guardian_War"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4315,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Scramble_Cobra"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4321,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Twisted%3A_The_Game_Show"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4322,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Iron_Angel_of_the_Apocalypse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4325,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Shadow%3A_War_of_Succession"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4326,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Way_of_the_Warrior"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4333,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/PaTaank"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4337,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Escape_from_Monster_Manor"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4341,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Demolition_Man_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11860,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Blade_Force"
+    },
+    {
+      "media_type": "game",
+      "external_id": 13240,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/John_Madden_Football_%281994_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37224,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/The_Doraemons_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 38830,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Club_3DO%3A_Station_Invasion"
+    },
+    {
+      "media_type": "game",
+      "external_id": 39017,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Slam_%27N_Jam_%2795"
+    },
+    {
+      "media_type": "game",
+      "external_id": 60531,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Y%C5%AB_Y%C5%AB_Hakusho_%281994_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66410,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/The_Life_Stage%3A_Virtual_House"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92033,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Advanced_Dungeons_%26_Dragons%3A_Slayer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 95438,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Crash_%27N_Burn_%281993_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 112030,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Kurokishi_no_Kamen"
+    },
+    {
+      "media_type": "game",
+      "external_id": 316798,
+      "platform_id": 50,
+      "comment": "https://en.wikipedia.org/wiki/Pretty_Soldier_Sailor_Moon_S_%283DO_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 4249,
+        "name": "Gridders",
+        "summary": "The player is cast as a boy named Zack, who's only goal is to reach the basement of an evil corporation in order to destroy it, but first he has to get through 36 levels of death in order to reach it.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3yqd.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/gridders",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4266,
+        "name": "Real Pinball",
+        "summary": "Real Pinball is the standard video game conversion of the actual machines with five different tables to choose from with the main goal being to gain as many points as possible by using the game controller to control the flippers of the machine. The game features realistic graphics made to resemble an actual machine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6vdv.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Pinball",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/real-pinball",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4272,
+        "name": "VR Stalker",
+        "summary": "Sometime in the near future, the United States has come under attack by a mysterious threat. After New York and Los Angeles are destroyed, many Americans have formed an underground resistance to fight off the attackers using a VR Simulator to control their planes to keep their fighters alive. The player has been recruited and is codenamed \"Stalker\" to defend the U.S. and bring back peace and order. \n \nThere are 15 missions in all, where the player has to complete certain objectives, such as destroy a certain amount of enemies or defend certain targets. The planes are mostly modern age such as the A-10 Warthog. The player can choose to use either the plane's machine guns or missiles to bring down enemy targets.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p6f.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/vr-stalker",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4277,
+        "name": "Jurassic Park Interactive",
+        "summary": "The power is out... The dinosaurs are loose... And only you stand between the guests and their certain demise! Take your place in the control room and use the computer systems and security cameras to locate those guests and help them to safety.\n\nBut be careful... The jungle is crawling with Spitters ready to ambush you with their deadly venom. Can you zap them in time with your electro-stun gun? So prepare to enter a world of spectacular computer rendered graphics and live action video sequences including scenes from the most popular motion picture of all time - the world of Jurassic Park Interactive!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ze3.jpg",
+        "release_date": 788832000,
+        "rating": 33.97618453082178,
+        "rating_count": 5,
+        "genres": "Puzzle,Racing,Adventure",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/jurassic-park-interactive",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4278,
+        "name": "Doctor Hauzer",
+        "summary": "In 1952, an Investigator (You) is searching for the archeologist Dr. Hauzer, who has disappeared. The Investigator finds a large house in the middle of nowhere that belonged to Dr. Hauzer. The home is built over an archeology site, with Doctor Hauzer having become obsessed with a deity named Kellbim. It is up to you to find Doctor Hauzer and what happened to his interns.\n\nOne of the earliest Survival Horror games, Doctor Hauzer was released as a Japan exclusive for the 3DO by a development studio that was well-known for their detective\\mystery visual novels, top-down RPGS, Point-&-Click Adventure games, and Japanese localizations of Western games like Prince of Persia up till this point. Doctor Hauzer was Riverhill Soft's first foray into 3D. Influenced by the successful Alone In The Dark, your character will navigate a fully 3D environment and die numerous times in the house's deadly traps, including some that are unavoidable for first time players. You have unlimited save games so you can view the death animations as part of the fun. You can switch the view between first-person, third-person, or overhead. Choosing a different view will help you overcome some traps, including some platforming.\n\nThere are several major reasons why this game was never released outside Japan: It's relatively easy with no monsters to fight, is roughly 1-hour long, has an incredibly bad framerate that can get as low as 3 frames-per-second (the 4DO emulator can \"overclock\" the CPU up to 400%, making it less choppy), some music is plagurized like the theme song being a near identical copy of the Beetlejuice movie's theme, and was on a platform that was already failing in the West.\n\nAn English fan translation is available, with only the FMV's remaining untranslated.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co61mo.jpg",
+        "release_date": 767577600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/doctor-hauzer",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4288,
+        "name": "Seal of the Pharaoh",
+        "summary": "Seal of the Pharaoh is a mix of RPG, puzzle-solving and first-person adventuring.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ywq.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/seal-of-the-pharaoh",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4295,
+        "name": "Foes of Ali",
+        "summary": "Foes of Ali is a 3-D boxing game with ten different boxers to choose from: George Chuvalo, Henry Cooper, Jimmy Ellis, Bob Foster, Joe Frazier, Sonny Liston, Ken Norton, Leon Spinks, Chuck Wepner and of course the games namesake Muhammad Ali.\n\nThere are three modes to choose from: Exhibition where the player can choose any boxer to fight another, or the player can choose any of Ali's historic fights to play, Tournament where a player fights a series of boxers in an 8 man tournament tree to become champion and Career Mode, where the player can only play as Muhammed Ali and fight the other boxers in order as he did in real life.\n\nPlayers fight opponents with the basic punch moves, jabs, uppercuts and hooks along with defensive moves like blocking and grabbing. Fatigue is not simulated, but players can slow down their opponents after a series of large successful hits along with bruises, blooded and black eyes.\n\nThere are 21 different camera views to choose from, including first-person that will react to their fighters being hit (ex. if a player keeps getting hit in the eyes, the screen will start to blacken, simulating a swollen eye and if they take a hard enough punch they will actually see the game through double vision). Championship photos of each boxer is also show before a fight and commentary is provided by Tim Gammon.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7eif.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/foes-of-ali",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4296,
+        "name": "Immercenary",
+        "summary": "In the future, mankind has been enslaved in a virtual reality simulation known as Perfect. This simulation is controlled by an entity known as Perfect1 and it has to be destroyed in order to shut down the system. You are Immercenary Number Five, and it's your job to do it.\n\nFrom a secret lab you log into the simulation which sends you to a place in Perfect known as the Garden. Every entity in the game has a certain rank that determines its offensive and defensive capabilities. You start at 255, the lowest rank, and must rise in ranks to defeat Perfect1, who holds rank number 1. To do so, you destroy higher-ranked Rithms, as the other entities in the game are called. To pass beyond certain ranks, unique Rithms high in the Perfect hierarchy have to be destroyed.\n\nDifferent weapons and power-ups can be collected and spent offensive and defensive energy can be recharged at energy spires. In the center of the Garden is a place called DOAsys, which functions as a neutral zone and healing center. There you can talk to other Rithms and ask for hints about combating special Rithms and where to find special items. These dialogue sequences take the form of live action clips of actors in elaborate costumes playing the Rithms.\n\nWhen the player logs out of the simulation or is violently forced out, he returns to the lab where one may load and save a game and access detailed statistics on the trips to Perfect.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gs5.jpg",
+        "release_date": 794016000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/immercenary",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4298,
+        "name": "Zhadnost: The People's Party",
+        "summary": "Welcome to Zhadnost, the \"most popular game on Bizzarnian state run television\"! Bizzarnia, a small communist nation has kidnapped contestants for this its favourite game show and is playing them against each other to compete for their freedom.\n\nIn this party game for two to four people you will be in near constant action. You will play mini-games with such names as Propaganda, and Eye Spy. Try to force your opponents into harder games and uncover secrets about their characters. All characters are live action including the host.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawpy.jpg",
+        "release_date": 791856000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Strategy,Quiz/Trivia",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/zhadnost-the-people-s-party",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4307,
+        "name": "Ultraman Powered",
+        "summary": "The player is cast as Ultraman, a Japanese masked super hero who has to fight the weirdest creatures that arrived from somewhere to destroy everything. Some of them looks like giant dinosaurs and the others are too odd to describe. This title is a one-on-one fighting game. The player has the option to fight in versus mode or story mode. Also, a two-player mode is included, to battle against human opponents.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fa2.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Shooter",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/ultraman-powered",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4313,
+        "name": "Stellar 7: Draxon's Revenge",
+        "summary": "Gir Draxon's back!\n\nTwo thousand years in the future, mankind fights against an ancient enemy! Gir Draxon, Overlord of the Arcturan Empire, has returned with a mysterious Warplink capable of funnelling his Death Cruisers from distant worlds.\n\nYou and a prototype heavy assault vehicle, code-named Raven, are all that stand between the Arcturan invasion fleet and the certain destruction of Terran Command!\n\nDraxon's Revenge brings 3DO roaring to life!\n\nWith Draxon's Revenge, the awesome 3DO system engages you in a complete Sci-Fi battle experience!\n\nPilot the Raven through true 3D space. Feel the smoothness of control! Shake to the thunder of her firepower! Battle sweeping attacks of enemies so real... you'll need sunblock to prevent blaster burn!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p64.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/stellar-7-draxon-s-revenge",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4314,
+        "name": "Guardian War",
+        "summary": "Welcome to GUARDIAN WAR.\n\nThis is a story about another world, another time. This was a beautiful world guarded by Goddess Erald. Darkness feared the Goddess Erald, and there was no way that Darkness could enter this beautiful world, until.....\nGUARDIAN WAR’\n\n-All combats take place with 3D animations.\n-Gain experience and new powers.\n-32,000 color 3D graphics.\n-Fully animated 3D magic effects.\n-55 3D computer graphic characters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3h44.jpg",
+        "release_date": 733881600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/guardian-war",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4315,
+        "name": "Scramble Cobra",
+        "summary": "Scramble Cobra is a 3-D helicopter action game, where the player takes command of a Cobra helicopter gunship, flying through various battlefields, using their Vulcan machine guns and hydra rockets to destroy enemy tanks, helicopters and other assorted units.\n\nThere are ten missions in all to play through. The player has to complete each mission in an allotted amount of time. The missions mainly consist of search and destroy objectives. It also has live-action videos to tell the story and is played from the view of the helicopters cockpit.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80au.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/scramble-cobra",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4321,
+        "name": "Twisted: The Game Show",
+        "summary": "Similar to the You Don't Know Jack series of games, Twisted: The Game Show is a trivia challenge game for up to 4 players. The game offers a humorous mix of live character video and computer graphics.\n\nAfter an introduction by the host Twink Fizzdale, you can select your personality by viewing video clips of the various characters egging you on to select them. You advance or retreat through the game board based on your responses to various puzzles, mini-games and trivia questions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p6c.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Strategy,Quiz/Trivia",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/twisted-the-game-show",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4322,
+        "name": "Iron Angel of the Apocalypse",
+        "summary": "You play a character known as Tetsujin. You are a cyborg/robot creation of an evil scientist. The scientist intended to use you to wipe out the human race, but instead you decided to turn against your maker and escape. The story unfolds as you fight your way to the top of a skyscraper to confront the mad scientist.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gyj.jpg",
+        "release_date": 765849600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/iron-angel-of-the-apocalypse",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4325,
+        "name": "Shadow: War of Succession",
+        "summary": "The leader of S.H.A.D.O.W., the world's largest criminal organization, has just been brutally murdered. From around his vast criminal empire they have come to do battle, seven of the Shadow King's best lieutenants. To the winner will go the ultimate prize: the right to be named the next Shadow King. To the losers, there is only death. SHADOW: War of Succession is a fast-paced fighting game that features live, full-sized, digitized actors. The characters possess their own distinct special moves and weapons. This game uses photo-realistic 3D rendered backgrounds. Full cinematic scenes and hundreds of digitized sound effects and real voices intensify the furious fighting action!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uy2.jpg",
+        "release_date": 778464000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Strategy",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/shadow-war-of-succession",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4326,
+        "name": "Way of the Warrior",
+        "summary": "The planet's greatest warriors have been assembled in a citadel, high atop the Himalayan mountains. It is here that only one challenger will survive and have his name etched with magical blood into the Book of Warriors. The tournament will bring together good, evil, mortal, and immortal. The outcome will lie in the hands of one... you. Find the way, noble challenger, find the Way of the Warrior.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p6g.jpg",
+        "release_date": 778204800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Arcade",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/way-of-the-warrior",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4333,
+        "name": "PaTaank",
+        "summary": "If you've ever thought of what it feels like to be the ball in a pinball machine, playing PaTaank might give you some idea.\n\nInstead of flapping the flippers, the player controls the ball, or in PaTaank, a UFO-shaped puck around the three different tables. The tables are named Surf Room, Luv Room, and Disaster Room and they are connected to each other via Nexus. Player can choose to play one room or in the MetaGame mode, all of them in sequence. Each room has an objective and in the MetaGame mode, player must reach that objective to advance into the next room via the Nexus.\n\nLike any pinball, there are targets, tunnels, blocks, and all sorts of flashing things that increase the score, light up letters, or grant bonus items. In addition to inertial control of the puck, player can apply thrust, which is limited, and activate magnetos, which are scattered around the room.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6vaz.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Pinball",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/pataank",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4337,
+        "name": "Escape from Monster Manor",
+        "summary": "The undead have been unleashed upon the world. Only a holy talisman can destroy them, but it has been broken into pieces and hidden in Monster Manor. Now you must venture into the cursed mansion and find the pieces so that humanity may be saved.\n\nThe game is a first-person-shooter where you have to destroy enemies like ghosts, skeletons and zombies using your only gun. Items scattered around the house include health packs, gun energy, treasure and keys that are used to open doors that block your way to the next talisman piece. The game has twelve levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p54.jpg",
+        "release_date": 732153600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/escape-from-monster-manor",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 4341,
+        "name": "Demolition Man",
+        "summary": "Demolition Man is a game based on the 1993 movie by the same name. You play as John Spartan (Sly Stallone); thawed out from cryo-prison into a peaceful, Utopian future. Your task is to capture your nemesis, the psychopathic Simon Phoenix (Wesley Snipes), who has freed himself from prison and is wreaking havoc around town.\n\nThe 3DO version adopts a unique multimedia approach to the concept of a movie tie-in. Cutscenes and clips from the film are used when appropriate, but Stallone and actual props from the film (such as his uniform) were also brought in to shoot bluescreen clips specifically for the game. Stallone is placed inside the CD environments, setting up the coming gameplay sequences, which loosely act as an expanded \"director's cut\" of events in the film",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ebm.jpg",
+        "release_date": 778809600,
+        "rating": 48.50340505282379,
+        "rating_count": 6,
+        "genres": "Fighting,Shooter",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/demolition-man",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 11860,
+        "name": "Blade Force",
+        "summary": "In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family. He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city. With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p4v.jpg",
+        "release_date": 814147200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/blade-force",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 13240,
+        "name": "John Madden Football",
+        "summary": "John Madden and the NFL team up to create a new version of John Madden Football, designed specifically for the 3DO Interactive Multiplayer. You get the proven gameplay of the best selling 16-bit football game of all time, all new digitized graphics, CD quality sound and over 100 authentic video highlights from NFL Films. So, suit up and experience the only game that delivers real NFL action!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/u3bslacqcvvdbbyoau5a.jpg",
+        "release_date": 768182400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/john-madden-football--1",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 37224,
+        "name": "Doraemon Yuujou Densetsu",
+        "summary": "Doraemon Yuujou Densetsu is an Adventure game, developed and published by Shogakukan, which was released in Japan in 1995.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2oyj.jpg",
+        "release_date": 799804800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/doraemon-yuujou-densetsu",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 38830,
+        "name": "Club 3DO: Station Invasion",
+        "summary": "Club 3DO: Station Invasion is an educational game, presented as a game show and designed for children ages 7 to 14. Your job is to be the best producer at an all-kid television station. Choose from five hit shows: a sitcom, game show, talk show, soap opera and a mystery adventure. Solve the puzzles and challenges of each show to get higher ratings. The game provides a mix of computer graphics and live character video.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3y51.jpg",
+        "release_date": 773020800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/club-3do-station-invasion",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 39017,
+        "name": "Slam 'n Jam 95",
+        "summary": "Slam 'N Jam '95 is a game similar in style to the arcade game Run & Gun and NBA Jam, with a five-on-five team game in a 3-D style perspective. The gameplay is geared towards more of an arcade feel rather than simulation and does not feature any NBA license but resembles actual teams and modeled after top players of the time. \n \nIt also features the obligatory modes such as Exhibition, Playoffs and Season and the ability to let friends go head-to-head. Then CNN sportscaster Van Earl Wright lends his voice talents to the game for in game commentary.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p5w.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/slam-n-jam-95",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 60531,
+        "name": "YuYu Hakusho",
+        "summary": "YuYu Hakusho is a fighting game based on the YuYu Hakusho anime. The player can choose from 15 characters, each of which has their own special and hyper moves. The animation for the characters was modeled by the animation studio Pierrot who also did the TV animation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bqc.jpg",
+        "release_date": 788140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/yuyu-hakusho",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 66410,
+        "name": "The Life Stage: Virtual House",
+        "summary": "The Life Stage: Virtual House is a house-building game that allows players to construct fantasy houses from a simplified modeling interface.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co776x.jpg",
+        "release_date": 730944000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Adventure",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/the-life-stage-virtual-house",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 92033,
+        "name": "Advanced Dungeons & Dragons: Slayer",
+        "summary": "Slayer is an Action game, published by Rack It (Hewson) as a budget title, which was released in 1988. The game features three levels of horizontal shooting action with end of level guardians after each level. There are power-ups which give you extra firepower and shields,",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ord.jpg",
+        "release_date": 778982400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Role-playing (RPG)",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/advanced-dungeons-and-dragons-slayer",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 95438,
+        "name": "Crash 'n Burn",
+        "summary": "In Crash 'n Burn, players assume the role of any one of six cyberpunks, each equipped with a unique car and a deadly supply of weapons. Full-motion videos of the racers are accessible in between races, in which each character flaunt their skills and insult their opponents with death threats. The game has rally and tournament modes with a total of 30 tracks designed for one player.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coav0e.jpg",
+        "release_date": 749692800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Racing",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/crash-n-burn--1",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 112030,
+        "name": "Kurokishi no Kamen",
+        "summary": "Kurokishi no Kamen is a video game developed by Humming Bird Soft and published by Matsushita for the 3DO, as part of the Ghost Hunter series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8l07.jpg",
+        "release_date": 770083200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/kurokishi-no-kamen",
+        "cached_at": 1778663162
+      },
+      {
+        "id": 316798,
+        "name": "Pretty Soldier Sailor Moon S",
+        "summary": "With the world at peace, the nine senshi challenge each other for supremacy. The player chooses one of the five Inner Senshi, the four Outer Senshi or Chibiusa. The fighting takes place in various scenes in Tokyo, with the player required to beat the senshi opponent two times out of three. The camera zooms in and out, depending on how far the opponents are from each other. The player can use special control combinations to invoke the senshi's special powers. After beating the other eight senshi, the player must defeat Super Sailor Moon to claim the title of Super Senshi.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqa6.jpg",
+        "release_date": 795398400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "50",
+        "external_url": "https://www.igdb.com/games/pretty-soldier-sailor-moon-s",
+        "cached_at": 1778663162
+      }
+    ]
+  }
+}

@@ -55,7 +55,7 @@ All collections use Tonkatsu Box's native [`.xcoll`/`.xcollx`](#file-format-xcol
 | | Platform | Complete | Top 50 | Exclusives |
 |:---:|---|:---:|:---:|:---:|
 | <img src="logos/nes_18.png" height="28"> | **Nintendo Entertainment System** | [1,705](platforms/nes/complete.xcollx) | [50](platforms/nes/top.xcollx) | [328](platforms/nes/exclusives.xcoll) |
-|  | **Sega Master System** | [574](platforms/master-system/complete.xcollx) | — | [51](platforms/master-system/exclusives.xcoll) |
+| <img src="logos/master-system_64.png" height="28"> | **Sega Master System** | [574](platforms/master-system/complete.xcollx) | — | [51](platforms/master-system/exclusives.xcoll) |
 | <img src="logos/atari7800_60.png" height="28"> | **Atari 7800** | [98](platforms/atari-7800/complete.xcollx) | — | [6](platforms/atari-7800/exclusives.xcoll) |
 
 ### Generation 4 — 16-bit era (1987–1996)
@@ -63,13 +63,13 @@ All collections use Tonkatsu Box's native [`.xcoll`/`.xcollx`](#file-format-xcol
 | | Platform | Complete | Top 50 | Exclusives |
 |:---:|---|:---:|:---:|:---:|
 | <img src="logos/snes_19.png" height="28"> | **Super Nintendo Entertainment System** | [2,023](platforms/snes/complete.xcollx) | [50](platforms/snes/top.xcollx) | [338](platforms/snes/exclusives.xcoll) |
-|  | **Sega Genesis / Mega Drive** | [1,693](platforms/genesis/complete.xcollx) | [50](platforms/genesis/top.xcollx) | [156](platforms/genesis/exclusives.xcoll) |
+| <img src="logos/genesis_29.png" height="28"> | **Sega Genesis / Mega Drive** | [1,693](platforms/genesis/complete.xcollx) | [50](platforms/genesis/top.xcollx) | [156](platforms/genesis/exclusives.xcoll) |
 | <img src="logos/gameboy_33.png" height="28"> | **Game Boy** | [1,519](platforms/gb/complete.xcollx) | [50](platforms/gb/top.xcollx) | [132](platforms/gb/exclusives.xcoll) |
 | <img src="logos/gamegear_35.png" height="28"> | **Sega Game Gear** | [432](platforms/game-gear/complete.xcollx) | — | [38](platforms/game-gear/exclusives.xcoll) |
 | <img src="logos/turbografx_86.png" height="28"> | **TurboGrafx-16 / PC Engine** | [420](platforms/turbografx/complete.xcollx) | — | [30](platforms/turbografx/exclusives.xcoll) |
 | <img src="logos/neogeo_80.png" height="28"> | **Neo Geo AES** | [168](platforms/neo-geo/complete.xcollx) | — | — |
 | <img src="logos/sega32x_30.png" height="28"> | **Sega 32X** | [60](platforms/sega-32x/complete.xcollx) | — | [12](platforms/sega-32x/exclusives.xcoll) |
-|  | **Sega CD / Mega-CD** | [252](platforms/sega-cd/complete.xcollx) | — | [36](platforms/sega-cd/exclusives.xcoll) |
+| <img src="logos/segacd_78.png" height="28"> | **Sega CD / Mega-CD** | [252](platforms/sega-cd/complete.xcollx) | — | [36](platforms/sega-cd/exclusives.xcoll) |
 
 ### Generation 5 — 32/64-bit era (1993–2001)
 
@@ -90,31 +90,31 @@ All collections use Tonkatsu Box's native [`.xcoll`/`.xcollx`](#file-format-xcol
 | <img src="logos/xbox_11.png" height="28"> | **Xbox** | [1,230](platforms/xbox/complete.xcollx) | [50](platforms/xbox/top.xcollx) | [107](platforms/xbox/exclusives.xcoll) |
 | <img src="logos/gamecube_21.png" height="28"> | **Nintendo GameCube** | [975](platforms/gamecube/complete.xcollx) | [50](platforms/gamecube/top.xcollx) | [88](platforms/gamecube/exclusives.xcoll) |
 | <img src="logos/dreamcast_23.png" height="28"> | **Sega Dreamcast** | [718](platforms/dreamcast/complete.xcollx) | — | [119](platforms/dreamcast/exclusives.xcoll) |
-|  | **PlayStation 2** | — | [50](platforms/ps2/top.xcollx) | [545](platforms/ps2/exclusives.xcoll) |
+| <img src="logos/ps2_8.png" height="28"> | **PlayStation 2** | — | [50](platforms/ps2/top.xcollx) | [545](platforms/ps2/exclusives.xcoll) |
 
 ### Generation 7 — HD era (2004–2013)
 
 | | Platform | Complete | Top 50 | Exclusives |
 |:---:|---|:---:|:---:|:---:|
 | <img src="logos/psp_38.png" height="28"> | **PlayStation Portable** | [3,008](platforms/psp/complete.xcollx) | — | [250](platforms/psp/exclusives.xcoll) |
-|  | **Nintendo Wii** | — | [50](platforms/wii/top.xcollx) | [323](platforms/wii/exclusives.xcoll) |
-|  | **Xbox 360** | — | [50](platforms/xbox-360/top.xcollx) | [217](platforms/xbox-360/exclusives.xcoll) |
-|  | **PlayStation 3** | — | [50](platforms/ps3/top.xcollx) | [169](platforms/ps3/exclusives.xcoll) |
+| <img src="logos/wii_5.png" height="28"> | **Nintendo Wii** | — | [50](platforms/wii/top.xcollx) | [323](platforms/wii/exclusives.xcoll) |
+| <img src="logos/xbox360_12.png" height="28"> | **Xbox 360** | — | [50](platforms/xbox-360/top.xcollx) | [217](platforms/xbox-360/exclusives.xcoll) |
+| <img src="logos/ps3_9.png" height="28"> | **PlayStation 3** | — | [50](platforms/ps3/top.xcollx) | [169](platforms/ps3/exclusives.xcoll) |
 
 ### Generation 8+ — Modern era (2013+)
 
 | | Platform | Complete | Top 50 | Exclusives |
 |:---:|---|:---:|:---:|:---:|
-|  | **PlayStation 4** | — | [50](platforms/ps4/top.xcollx) | [48](platforms/ps4/exclusives.xcoll) |
-|  | **PlayStation 5** | — | [50](platforms/ps5/top.xcollx) | [23](platforms/ps5/exclusives.xcoll) |
-|  | **Xbox One** | — | [50](platforms/xbox-one/top.xcollx) | [16](platforms/xbox-one/exclusives.xcoll) |
-|  | **Nintendo Switch** | — | [50](platforms/switch/top.xcollx) | [182](platforms/switch/exclusives.xcoll) |
+| <img src="logos/ps4_48.png" height="28"> | **PlayStation 4** | — | [50](platforms/ps4/top.xcollx) | [48](platforms/ps4/exclusives.xcoll) |
+| <img src="logos/ps5_167.png" height="28"> | **PlayStation 5** | — | [50](platforms/ps5/top.xcollx) | [23](platforms/ps5/exclusives.xcoll) |
+| <img src="logos/xboxone_49.png" height="28"> | **Xbox One** | — | [50](platforms/xbox-one/top.xcollx) | [16](platforms/xbox-one/exclusives.xcoll) |
+| <img src="logos/switch_130.png" height="28"> | **Nintendo Switch** | — | [50](platforms/switch/top.xcollx) | [182](platforms/switch/exclusives.xcoll) |
 
 ### PC
 
 | | Platform | Complete | Top 50 | Exclusives |
 |:---:|---|:---:|:---:|:---:|
-|  | **PC (Windows)** | — | [50](platforms/pc/top.xcollx) | — |
+| <img src="logos/pc_6.png" height="28"> | **PC (Windows)** | — | [50](platforms/pc/top.xcollx) | — |
 
 ---
 

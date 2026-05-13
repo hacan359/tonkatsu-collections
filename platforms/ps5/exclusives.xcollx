@@ -1,0 +1,451 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "PlayStation 5 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:23+00:00",
+  "description": "Games released exclusively on PlayStation 5, sourced from Wikipedia category \"PlayStation 5-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 132226,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Quantum_State_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 134587,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Destruction_AllStars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 134597,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Astro%27s_Playroom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 134606,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Demon%27s_Souls_%282020_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 139072,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Neptunia_ReVerse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 168667,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Marvel%27s_Wolverine"
+    },
+    {
+      "media_type": "game",
+      "external_id": 194005,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Demetrios%3A_The_Big_Cynical_Adventure_%E2%80%93_Replastered"
+    },
+    {
+      "media_type": "game",
+      "external_id": 218744,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Silent_Hill%3A_The_Short_Message"
+    },
+    {
+      "media_type": "game",
+      "external_id": 225779,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/R-Type_Final_3_Evolved"
+    },
+    {
+      "media_type": "game",
+      "external_id": 237742,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/C-Smash_VRS_New_Dimension"
+    },
+    {
+      "media_type": "game",
+      "external_id": 259871,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Daba%3A_Land_of_Water_Scar"
+    },
+    {
+      "media_type": "game",
+      "external_id": 259875,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/The_Winds_Rising"
+    },
+    {
+      "media_type": "game",
+      "external_id": 268370,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Paper_Beast_Enhanced_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 303811,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Astro_Bot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 317627,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei"
+    },
+    {
+      "media_type": "game",
+      "external_id": 325611,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Intergalactic%3A_The_Heretic_Prophet"
+    },
+    {
+      "media_type": "game",
+      "external_id": 328275,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Code_Violet"
+    },
+    {
+      "media_type": "game",
+      "external_id": 331215,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Saros_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389426,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Dead_or_Alive_New_Project"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389432,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Project_Windless"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389436,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Rev._NOiR"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389441,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/God_of_War_Trilogy_Remake"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389443,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/God_of_War_Sons_of_Sparta"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 132226,
+        "name": "Quantum Error",
+        "summary": "Quantum Error is a cosmic-horror FPS.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co29q3.jpg",
+        "release_date": 1698969600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "169,48,6,167",
+        "external_url": "https://www.igdb.com/games/quantum-error",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 134587,
+        "name": "Destruction AllStars",
+        "summary": "Stars and cars collide.\n\nDominate the glittering global phenomenon of Destruction AllStars – the spectacular prime-time sport for dangerous drivers!\nMaster the art of intense vehicle-based combat through timing, tactics and skills to cause colossal amounts of damage, destruction and devastation in vibrant arenas across the globe.\n\nPile-on the destruction from behind the wheel or leap into the arena with a breathtaking reel of parkour action by dodging attacks, taking over vehicles or using abilities to disrupt the onslaught of incoming vehicles.\n\nCause enough mayhem to power up your AllStars game-changing hero vehicle fueled with special abilities.\n\nA roster of 16 blockbuster Destruction AllStars are revved up and ready to compete in the name of entertainment and demolition. So, strap in for intense, explosive and unpredictable levels of free-flowing action and fight to be crowned the Global Destruction Federation Champion.\n\nIt’s time to run, ram and slam. See you in the arena.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gw6.jpg",
+        "release_date": 1612224000,
+        "rating": 54.93332567001993,
+        "rating_count": 14,
+        "genres": "Racing,Sport",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/destruction-allstars",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 134597,
+        "name": "Astro's Playroom",
+        "summary": "Astro and his crew lead you on a magical introduction through PS5 in this fun platformer that comes pre-loaded on PS5. Explore four worlds, each based on PS5’s console components. Each area showcases innovative gameplay that taps into the new features of the PS5's DualSense wireless controller.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hb4.jpg",
+        "release_date": 1605139200,
+        "rating": 83.97854894165322,
+        "rating_count": 297,
+        "genres": "Platform,Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/astros-playroom",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 134606,
+        "name": "Demon's Souls",
+        "summary": "Entirely rebuilt from the ground up and masterfully enhanced, Demon's Souls is a remake of the 2009 release that introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality with incredible performance. The remake features improved graphics and animations, sound and lighting tweaks and a reimagining of many of the visual, musical and mechanical aspects of the original game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kj9.jpg",
+        "release_date": 1605139200,
+        "rating": 86.72325242237036,
+        "rating_count": 205,
+        "genres": "Role-playing (RPG),Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/demons-souls",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 139072,
+        "name": "Neptunia reVerse",
+        "summary": "Arrange Mode is a new mode for Go! Go! 5D Game: Neptunia reVerse, the upgraded version of Hyperdimension Neptunia Re;Birth 1, coming to the PS5 in December 2020 in Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b2e.jpg",
+        "release_date": 1608163200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/neptunia-reverse",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 168667,
+        "name": "Marvel's Wolverine",
+        "summary": "As he searches for answers about his past, Wolverine will do whatever it takes – unleashing brutal claw combat, violent rage and relentless determination – to cut through the mystery of the man he used to be.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob5mk.jpg",
+        "release_date": 1789430400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/marvels-wolverine",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 194005,
+        "name": "Demetrios: The BIG Cynical Adventure Replastered",
+        "summary": "Demetrios is a quirky point and click adventure game inspired by classics like Broken Sword, packed with tons of humor, now in 4k!\n\nBjorn Thonen, a slob of an antique dealer living in Paris, is robbed one night after coming home drunk. Forced to conduct his own investigation with the help of his neighbor Sandra, he ends up involved in a murky, mysterious affair. Will these unlikely heroes be able to rise up and discover ancient secrets?\n\nThe game offers situations and puzzles for beginners and experts alike, with a high degree of interactivity. Explore ridiculous item combinations, just to see what happens!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ml1.jpg",
+        "release_date": 1646697600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Point-and-click,Puzzle,Adventure,Indie",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/demetrios-the-big-cynical-adventure-replastered",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 218744,
+        "name": "Silent Hill: The Short Message",
+        "summary": "Silent Hill: The Short Message is a free-to-play Silent Hill spin-off set in modern-day Germany. Players explore a location known as The Villa from a first-person perspective.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7p8y.jpg",
+        "release_date": 1706659200,
+        "rating": 61.88487733469653,
+        "rating_count": 37,
+        "genres": "Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/silent-hill-the-short-message",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 225779,
+        "name": "R-Type Final 3 Evolved",
+        "summary": "R-Type Final 3 Evolved serves simultaneously as a sequel to R-Type Final 2, offering a whole new 7-stage campaign made in the engine of Final 2, whilst also serving as a compilation of most of content released for R-Type Final 2.\n\nAdditional features such as R-Park, an online area where one can interact with other players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7dst.jpg",
+        "release_date": 1679529600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform,Arcade",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/r-type-final-3-evolved",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 237742,
+        "name": "C-Smash VRS",
+        "summary": "SEGA’s futuristic sports classic is reimagined for VR and enters a New Dimension on PS5!\n\nC-Smash VRS fuses low-gravity racket action with block-breaking challenges and incredible style in a cosmic setting.\n\nImagine feeling both stimulated and relaxed, your mind and full-body avatar at one with the best music and stunning visuals. A truly transportive experience.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co75qb.jpg",
+        "release_date": 1687478400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Simulator,Sport,Arcade",
+        "platform_ids": "386,390,471,167",
+        "external_url": "https://www.igdb.com/games/c-smash-vrs",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 259871,
+        "name": "Daba: Land of Water Scar",
+        "summary": "Daba: Land of Water Scar is a new title from Dark Star. It tells the story of a humanoid clay puppet. When the world is on the verge of collapse, the puppet traces the whereabouts of the water fragments within the ancient city, and throughout their journey of defeating enemies and seeking answers, unravels the story of the world and oneself. The game features various landscapes including abandoned ruins, a magnificent ancient city, gloomy prison, vast rift valley, expansive snowfield, deadly forest, and a floating city. Non-linear levels are interconnected, distinct, and intricate.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6vrr.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/daba-land-of-water-scar",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 259875,
+        "name": "The Winds Rising",
+        "summary": "The Winds Rising is a story-driven action RPG developed by TiGames. It follows the journey of a girl from a peaceful village who embarks on a grand adventure after she encounters a lost monster cub, which affects the rise and fall of the entire kingdom. Her fate is in the player’s hands. Players can look forward to a refreshing and smooth combat experience, immersive and captivating story, and a world of ever-changing adventure.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6vrw.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/the-winds-rising",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 268370,
+        "name": "Paper Beast: Enhanced Edition",
+        "summary": "Help this unique ecosystem and experience an extraordinary adventure!\n\nSomewhere in the depths of Big Data, a new world has been born. A surreal land where life is just as rich and varied as on our own earth.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co74t8.jpg",
+        "release_date": 1695772800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Simulator,Indie",
+        "platform_ids": "390,167",
+        "external_url": "https://www.igdb.com/games/paper-beast-enhanced-edition",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 303811,
+        "name": "Astro Bot",
+        "summary": "Buckle up for some epic PlayStation camaraderie, join forces with your favourite PlayStation icons and show the universe that small is mighty in this fresh new Astro adventure, exclusive to PS5 consoles!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba3k.jpg",
+        "release_date": 1725580800,
+        "rating": 90.57583167561775,
+        "rating_count": 147,
+        "genres": "Platform,Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/astro-bot",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 317627,
+        "name": "Ghost of Yotei",
+        "summary": "The game takes place 300 years after Ghost of Tsushima. Set in the lands surrounding Mount Yōtei, a towering peak in the heart of Ezo, an area of Japan known as Hokkaido in present day.\n\nThe area is outside the rule of Japan, and filled with sprawling grasslands, snowy tundras, and unexpected dangers.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9coo.jpg",
+        "release_date": 1759363200,
+        "rating": 85.63115477439263,
+        "rating_count": 93,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/ghost-of-yotei",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 325611,
+        "name": "Intergalactic: The Heretic Prophet",
+        "summary": "Set thousands of years in the future, Intergalactic: The Heretic Prophet puts players into the role of Jordan A. Mun, a dangerous bounty hunter who ends up stranded on Sempiria – a distant planet whose communication with the outside universe went dark hundreds of years ago. Jordan will have to use all her skills and wits if she hopes to be the first person in over 600 years to leave its orbit.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95gc.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/intergalactic-the-heretic-prophet",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 328275,
+        "name": "Code Violet",
+        "summary": "Developed by TeamKill Media, Code Violet is a third-person action horror game, where you take on the role of Violet Sinclair, a girl plucked from the past who must unravel the mysteries of the Aion Bioengineering Complex as she avoids, hides or fights against the creatures who have overrun it.\n\nWith the evacuation protocol in effect, Violet’s main goal is to escape the complex and save those she cares for, but with the creatures and a mysterious Director doing all in their power to stop you, will you get out alive?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6dd.jpg",
+        "release_date": 1768003200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/code-violet",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 331215,
+        "name": "Saros",
+        "summary": "Saros is an action game developed by Housemarque and published by Sony Interactive Entertainment. Players control Arjun Devraj, a Soltari Enforcer investigating a lost off-world colony on Carcosa. The game features fast-paced third-person combat, boss encounters, and progression across repeated attempts.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajye.jpg",
+        "release_date": 1777507200,
+        "rating": 79.96261802791844,
+        "rating_count": 5,
+        "genres": "Shooter",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/saros",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 389426,
+        "name": "Dead or Alive New Project",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobigv.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/dead-or-alive-new-project",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 389432,
+        "name": "Project Windless",
+        "summary": "Project Windless is a single-player open-world action RPG set in the universe of the acclaimed Korean fantasy novel series The Bird That Drinks Tears.\n\nStep into a mythic age as a mighty Rekon warrior and journey across a breathtaking, war-torn world. Stand against overwhelming odds, forge alliances, and wage war across massive battlefields to unite a fractured land and give birth to a new kingdom.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobigr.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/project-windless",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 389436,
+        "name": "Rev. Noir",
+        "summary": "When Hope Sparks Catastrophe\n\nIn a world shrouded in lightfall, a natural phenomenon that brings death to those it touches,\nA lonely boy who suffers from amnesia becomes acquainted with a special girl.\nTogether, they set out on a journey to stop this phenomenon,\nBelieving that the journey will save the world, and in turn, save her.\n\nFate, bestowed by the Gods?\nOr the power of will, borne from within humankind?\nTheir journey ends up shaking the world.\n\nUnravel the mandate of heaven, and weave together the threads of hope in this completely new RPG experience.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobiht.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/rev-noir",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 389441,
+        "name": "God of War Trilogy Remake",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobih2.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/god-of-war-trilogy-remake",
+        "cached_at": 1778663183
+      },
+      {
+        "id": 389443,
+        "name": "God of War Sons of Sparta",
+        "summary": "Every legend has a beginning – before he was a God, before he was a father, Kratos was a young Spartan!\nExperience an untold chapter in Kratos’ journey set during the harsh years of Spartan training alongside his brother Deimos. Through endless trials, their minds, bodies, and hearts have been molded to become Spartan soldiers for whom duty and honor mean everything.\nAfter a fellow cadet goes missing, Kratos and Deimos vow to find him and embark on an adventure that will put their training and Spartan spirit to the test.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobigb.jpg",
+        "release_date": 1770854400,
+        "rating": 70.02423372947403,
+        "rating_count": 7,
+        "genres": "Platform,Adventure",
+        "platform_ids": "167",
+        "external_url": "https://www.igdb.com/games/god-of-war-sons-of-sparta",
+        "cached_at": 1778663183
+      }
+    ]
+  }
+}

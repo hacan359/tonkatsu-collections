@@ -1,0 +1,3225 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "PlayStation 3 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:21+00:00",
+  "description": "Games released exclusively on PlayStation 3, sourced from Wikipedia category \"PlayStation 3-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 515,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Infamous_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 523,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Infamous_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1058,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/LittleBigPlanet_%282008_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1213,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Tales_of_Xillia_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1278,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Resistance%3A_Fall_of_Man"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1291,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/God_of_War%3A_Ascension"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1320,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Dust_514"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1460,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/LocoRoco_Cocoreccho%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1598,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Gran_Turismo_HD_Concept"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1599,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Gran_Turismo_5_Prologue"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1602,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Gran_Turismo_5"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1792,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_Future%3A_Tools_of_Destruction"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1794,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_Future%3A_Quest_for_Booty"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1795,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_Future%3A_A_Crack_in_Time"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1796,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank%3A_All_4_One"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1866,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Killzone_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1867,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Killzone_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2140,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/LittleBigPlanet_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2553,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/MotorStorm_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2554,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/MotorStorm%3A_Pacific_Rift"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2555,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/MotorStorm%3A_Apocalypse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2589,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank%3A_Into_the_Nexus"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2969,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Rain_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3161,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/One_Piece%3A_Pirate_Warriors_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3205,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Resistance_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3206,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Resistance_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4692,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Lumines_Supernova"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5416,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Twisted_Metal_%282012_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5619,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Demon%27s_Souls"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6459,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Katamari_Forever"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6628,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ace_Combat_Infinity"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7265,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/3D_Dot_Game_Heroes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7267,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Afrika_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7270,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Another_Century%27s_Episode%3A_R"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7271,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Aquanaut%27s_Holiday%3A_Hidden_Memories"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7274,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ar_Tonelico_Qoga"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7280,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Bleach%3A_Soul_Resurrecci%C3%B3n"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7283,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Buzz%21%3A_Quiz_TV"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7286,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Dead_or_Alive_5_Ultimate%3A_Core_Fighters"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7287,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Derby_Time_Online"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7299,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Disgaea_D2%3A_A_Brighter_Darkness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7302,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Eye_of_Judgment"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7305,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Fight%3A_Lights_Out"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7307,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Folklore_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7315,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Genji%3A_Days_of_the_Blade"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7316,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Gran_Turismo_6"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7317,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Haze_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7318,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Heavenly_Sword"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7354,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Initial_D_Extreme_Stage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7362,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Lair_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7363,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Last_Rebellion"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7365,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/MAG_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7366,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Megazone_23%3A_Aoi_Garland"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7368,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Mist_of_Chaos"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7376,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam%3A_Crossfire"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7377,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Unicorn_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7379,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Boku_no_Natsuyasumi_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7387,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Pain_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7391,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Puppeteer_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7441,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ridge_Racer_7"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7442,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7454,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Miyasato_Miyoshi_Kyoudai_Naizou%3A_Sega_Golf_Club"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7457,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Siren%3A_Blood_Curse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7459,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/SOCOM_4_U.S._Navy_SEALs"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7460,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/SOCOM_U.S._Navy_SEALs%3A_Confrontation"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7461,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Starhawk_%282012_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7462,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Supercar_Challenge_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7465,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Idolmaster_One_For_All"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7467,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Tokyo_Jungle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7474,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Trinity_Universe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7475,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Trinity%3A_Souls_of_Zill_O%27ll"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7476,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Untold_Legends%3A_Dark_Kingdom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7479,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Warhawk_%282007_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7482,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/White_Knight_Chronicles"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7483,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/White_Knight_Chronicles_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7489,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Yakuza%3A_Dead_Souls"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7660,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Tekken_Revolution"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7724,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/.detuned"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7727,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Linger_in_Shadows"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7850,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Infamous%3A_Festival_of_Blood"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8186,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/LittleBigPlanet_Karting"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8576,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Drakengard_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8577,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Magus_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10741,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Railfan_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11009,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Supersonic_Acrobatic_Rocket-Powered_Battle-Cars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 13560,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Super_Rub_%27a%27_Dub"
+    },
+    {
+      "media_type": "game",
+      "external_id": 14527,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Datura_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 15201,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/SingStar_Guitar"
+    },
+    {
+      "media_type": "game",
+      "external_id": 15260,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/SingStar_Dance"
+    },
+    {
+      "media_type": "game",
+      "external_id": 16128,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Kung_Fu_Rider"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18230,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Medieval_Moves%3A_Deadmund%27s_Quest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18237,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Sports_Champions"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18238,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Sports_Champions_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18240,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Echochrome_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19435,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Catan_%282008_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19664,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/PlayStation_Move_Heroes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19802,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Guided_Fate_Paradox"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19830,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Eight_Days"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19922,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Time_and_Eternity"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20114,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Sorcery_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20196,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Gear_Solid%3A_The_Legacy_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20396,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Savage_Moon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20407,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Start_the_Party%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20408,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Shoot_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20445,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/PixelJunk_SideScroller"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20449,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Time_Crisis%3A_Razing_Storm"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20570,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Carnivores%3A_Dinosaur_Hunter_HD"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20630,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/PlayStation_Move_Ape_Escape"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20692,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Trash_Panic"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20701,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Calling_All_Cars%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20762,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/PixelJunk_Racers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20826,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Carnival_Island"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20881,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Legasista"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21084,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Ico_%26_Shadow_of_the_Colossus_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21136,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Crash_Commando"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21167,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Eat_Them%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21244,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Tanks"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21246,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Comet_Crash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21287,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Punisher%3A_No_Mercy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21348,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Last_Guy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21397,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Formula_One_Championship_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21570,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Tekken_Hybrid"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21575,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Planet_Minigolf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21710,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Short_Peace"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21714,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/PixelJunk_4am"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21808,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Elefunk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21816,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/High_Velocity_Bowling"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21818,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Dark_Mist"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21881,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Snakeball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22030,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Soulcalibur%3A_Lost_Swords"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22191,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Book_of_Spells"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23092,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Nucleus_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23105,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Blast_Factor"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23357,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Invizimals%3A_The_Lost_Kingdom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25089,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Walking_with_Dinosaurs_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25090,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Diggs_Nightcrawler"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25099,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Book_of_Potions"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25184,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Saint_Seiya%3A_Sanctuary_Battle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 26101,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Cash_Guns_Chaos"
+    },
+    {
+      "media_type": "game",
+      "external_id": 26754,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/TV_Superstars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 27001,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Toy_Home"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44572,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_Ultra"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45281,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Spelunker_HD"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45282,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Sodium_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52032,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Akimi_Village"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52152,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Beat_Sketcher"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52227,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Funky_Lab_Rat"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52236,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/High_Stakes_on_the_Vegas_Strip%3A_Poker_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52530,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Kung-Fu_Live"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52614,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Novastrike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52823,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Go%21_Sports_Skydiving"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52908,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Tales_from_Space%3A_About_a_Blob"
+    },
+    {
+      "media_type": "game",
+      "external_id": 52990,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Under_Siege_%282011_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 53013,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Wakeboarding_HD"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65049,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Daisenryaku_Perfect_HD"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65467,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Macross_Frontier"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66897,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/The_Trials_of_Topoq"
+    },
+    {
+      "media_type": "game",
+      "external_id": 72936,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Go%21_Sports_Ski"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79292,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Macross_30%3A_Voices_across_the_Galaxy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93616,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Shiki-Tei"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93953,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Operation_Creature_Feature"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94999,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/PachiPara_DL_Hyper_Sea_Story_In_Karibu"
+    },
+    {
+      "media_type": "game",
+      "external_id": 97105,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/GTI_Club%2B%3A_Rally_C%C3%B4te_d%27Azur"
+    },
+    {
+      "media_type": "game",
+      "external_id": 99979,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Mesmerize_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 154692,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Everybody%27s_Golf_5"
+    },
+    {
+      "media_type": "game",
+      "external_id": 206084,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Tori-Emaki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 229454,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Namco_Museum_Essentials"
+    },
+    {
+      "media_type": "game",
+      "external_id": 268764,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Wangan_Midnight_%282007_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 336101,
+      "platform_id": 9,
+      "comment": "https://en.wikipedia.org/wiki/Everybody_Dance_%28video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 515,
+        "name": "Infamous 2",
+        "summary": "Blamed for the destruction of Empire City and haunted by the ghosts of his past, reluctant hero Cole MacGrath makes a dramatic journey to the historic Southern city of New Marais in an effort to discover his full super-powered potential -- and face a civilization-ending confrontation with a dark and terrifying enemy from his own future. Gifted with extraordinary god-like abilities, Cole alone has the power to save humanity, but the question is-- will he choose to do so?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co525u.jpg",
+        "release_date": 1307404800,
+        "rating": 81.56229097768899,
+        "rating_count": 275,
+        "genres": "Puzzle,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/infamous-2",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 523,
+        "name": "Infamous",
+        "summary": "Infamous is a single player open-world action/adventure game that places you in the role of Cole McGrath, a once regular guy who in the aftermath of a horrific catastrophe finds himself not only alive, but developing a fantastic array of superpowers. Going from ordinary to extraordinary overnight isn't something to take lightly. With these powers does one exact revenge? Protect the innocent? Or perhaps, dabble in a little of both? The choice is yours in Infamous.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co525t.jpg",
+        "release_date": 1243296000,
+        "rating": 76.28604443561899,
+        "rating_count": 351,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/infamous",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1058,
+        "name": "LittleBigPlanet",
+        "summary": "Welcome to LittleBigPlanet – a world of infinite possibilities, where imagination becomes reality and the powers of creation are firmly in your hands. If you can think of it, you can create it if you can create it, you can share it if you can share it, you can play it – and watch our colorful LittleBigPlanet grow and diversify!\n\nIt’s a new kind of game that unleashes the creativity in everyone. Design your own character and play over 50 awesome developer levels packed with dangers to navigate, races to win and puzzles to solve. As you play you will learn the skills to build a world of your own by earning creative tools and collecting hundreds of items. Use these items and tools to shape amazing levels of your own, featuring puzzles, challenges, and enemies of your own design. When you are ready, go online to access the LBP community and Share your creations for everyone to play.\n\nLittleBigPlanet is a world with no limits – a world that’s yours to shape, build and explore.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p0f.jpg",
+        "release_date": 1225065600,
+        "rating": 79.20989615970929,
+        "rating_count": 270,
+        "genres": "Platform",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/littlebigplanet",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1213,
+        "name": "Tales of Xillia 2",
+        "summary": "The game takes place a year after Tales of Xillia. Elle Mel Marta is given specific instructions by her father to board a train and to find the Land of Canaan. Her train is hijacked before its departure and Ludger Will Kresnik boards it to save her. The train crashes and the two receive life saving treatment from Clanspia Inc. which puts Ludger in debt. Clanspia Inc. hires Ludger, intending to use his Kresnik powers to destroy alternative timelines because the spirit Origin can no longer sustain the abundance of souls in the worlds. While working off the debt, Ludger also searches for his brother, Julius Will Kresnik, who has been blamed for the train hijacking.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25yo.jpg",
+        "release_date": 1351728000,
+        "rating": 78.39683326941038,
+        "rating_count": 42,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/tales-of-xillia-2",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1278,
+        "name": "Resistance: Fall of Man",
+        "summary": "In an alternate 1951, Sgt. Nathan Hale is among a unit of US soldiers sent to aid the British military against the invading aliens, known as Chimera. When Hale's unit is completely wiped out in a surprise attack, he struggles for survival...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b4m.jpg",
+        "release_date": 1163203200,
+        "rating": 70.0393779892215,
+        "rating_count": 121,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/resistance-fall-of-man",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1291,
+        "name": "God of War: Ascension",
+        "summary": "God of War: Ascension, the seventh instalment in the God of War series, acts as a prequel to the preceding games. The narrative revolves around Kratos, the protagonist from earlier instalments, who was once a loyal servant of the God of War, Ares. Tricked by Ares into unknowingly murdering his own family, Kratos breaks the blood oath binding him to Ares and abandons his former master. Subsequently, Kratos finds himself imprisoned and must navigate a path to freedom, severing the bond between him and Ares.\n\nThe game retains the familiar hack-and-slash combat system of its predecessors, featuring Kratos wielding the Blades of Chaos. However, a new addition, the World Weapon system, allows Kratos to wield various weapons. Additionally, Kratos can now acquire up to four magical disciplines—Fires of Ares, Ice of Poseidon, Lightning of Zeus, and Soul of Hades—each bestowing unique abilities and imbuing his weapon with magic. For instance, the Ice of Poseidon enables underwater breathing. Rage, a recurring feature, undergoes modifications; it accumulates through attacks, and when the bar is full, it automatically unleashes until the player ceases attacking or sustains damage. Three new relics provide Kratos with the ability to manipulate time, create a \"shadow\" self, and dispel illusions crafted by his guardians.\n\nNotably, God of War: Ascension introduces online multiplayer to the series. Players, before engaging in multiplayer battles, align with one of four gods—Ares, Hades, Zeus, or Poseidon—each offering a distinct set of abilities. As players accumulate experience and level up their warriors, they unlock magical abilities, armour, weapons, relics, and other treasures. The game features four distinct multiplayer modes: Team Favor of the Gods, Match of Champions, Trial of the Gods, and Capture the Flag",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3die.jpg",
+        "release_date": 1363046400,
+        "rating": 74.82725087936257,
+        "rating_count": 252,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/god-of-war-ascension",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1320,
+        "name": "EVE: Dust 514",
+        "summary": "DUST 514 brings intense infantry combat, large-scale warfare, and deep character advancement to a free-to-play massively multiplayer shooter, exclusively on the PlayStation3.\n\nThis is the next generation of first-person shooters, where a single victory could prove the crushing blow to a galactic empire of thousands of EVE Online gamers.\n\nFight, dominate, and hone your skills as an elite mercenary with an unparalleled array of armor, weapons, and vehicles in massive online battles of up to 48 players. Customize every aspect of your gameplay, from your characters’ weapons, equipment, and skills to the vehicles they drive.\n\nWage war in the notorious, persistent universe of EVE Online, where every battle and every action can affect the balance of power among thousands of players. Win battles, acquire territories, amass wealth, and build empires to establish yourself as a major influence in the ongoing conflicts of EVE Online.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1htl.jpg",
+        "release_date": 1368489600,
+        "rating": 57.27006115530422,
+        "rating_count": 8,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/eve-dust-514",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1460,
+        "name": "LocoRoco Cocoreccho",
+        "summary": "LocoRoco Cocoreccho! (or Oideyo LocoRoco!! BuuBuu Cocoreccho! (おいでよロコロコ！！ BuuBuu Cocoreccho!?), in Japan, meaning \"LocoRoco Come On Over(!)! BuuBuu Cocoreccho!\") is a video game in the LocoRoco series released on the PlayStation Network for PlayStation 3 on September 21, 2007.[1] Described as an \"interactive screensaver\",[2] LocoRoco Cocoreccho! features an autonomous two-dimensional environment in which the world and characters play even without input from the player.[3] The game is capable of running at full high-definition 1080p display resolution.[2]",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3irb.jpg",
+        "release_date": 1190246400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/locoroco-cocoreccho",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1598,
+        "name": "Gran Turismo HD Concept",
+        "summary": "Gran Turismo HD Concept was the first installment of the Gran Turismo racing series to be released on the PlayStation 3. It was made available as a free download on the PlayStation Store. A Blu-ray Disc version, called \"Install Disc\", was released in Japan in limited quantities in September 2007. This game was intended to be a sneak preview, in the likes of Gran Turismo Concept, preceding the release of a full version title but the Gran Turismo HD project was canceled and replaced by Gran Turismo 5 Prologue.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20bg.jpg",
+        "release_date": 1166918400,
+        "rating": 44.78211093290699,
+        "rating_count": 5,
+        "genres": "Racing,Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/gran-turismo-hd-concept",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1599,
+        "name": "Gran Turismo 5 Prologue",
+        "summary": "Gran Turismo 5 Prologue is a precursor and sampling of Gran Turismo 5 and replaced Gran Turismo HD Concept. The \"Prologue\" suffix is a self-reference to Gran Turismo 4 Prologue, which was released one year before the full version of Gran Turismo 4. Since October 3, 2008, the game is now referred to as Gran Turismo 5 Prologue Spec III which is the software's version 3.0 title. Gran Turismo 5 Prologue Spec III features 16-player online races, over 70 cars (including tuned cars), 6 tracks, 12 layouts, a 60 frames per second frame rate (during races, replays are displayed at 30 frames per second) and LPCM 7.1ch high definition sound.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20bj.jpg",
+        "release_date": 1197504000,
+        "rating": 63.57573029510807,
+        "rating_count": 26,
+        "genres": "Racing,Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/gran-turismo-5-prologue",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1602,
+        "name": "Gran Turismo 5",
+        "summary": "Gran Turismo 5 is the fifth game in the Gran Turismo racing video game series. It expands on the game's Prologue version and is the first entry of the series to be developed for PlayStation 3. The game marks the first entry in the series with online races with support for up to 16 players. Over 1,000 cars, 26 different locations, and 71 different tracks are available in the game. Night racing also returns. World Rally Championship, NASCAR and Super GT licenses are utilized for the first time in the Gran Turismo series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20bm.jpg",
+        "release_date": 1290556800,
+        "rating": 83.22139588256384,
+        "rating_count": 146,
+        "genres": "Racing,Simulator,Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/gran-turismo-5",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1792,
+        "name": "Ratchet & Clank Future: Tools of Destruction",
+        "summary": "Ratchet & Clank Future: Tools of Destruction (known as Ratchet & Clank: Tools of Destruction in most PAL countries) is a 2007 platformer video game developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation 3. The game was released on October 23, 2007 in North America and on November 9, 2007 in Europe. It is the first PlayStation 3 installment for the Ratchet & Clank franchise, as well as the first installment for the \"Future\" series. It was also one of the first PlayStation 3 games to support DualShock 3 rumble straight from the disc.\n\nRatchet & Clank Future: Tools of Destruction was met with critical acclaim upon release. Most positive comments concerned the \"engaging\" and \"fun\" gameplay, while ost criticism was aimed at the game's technical issues. The game was nominated for several awards from gaming publications and was considered a commercial success.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8542.jpg",
+        "release_date": 1193097600,
+        "rating": 78.53633379541128,
+        "rating_count": 138,
+        "genres": "Shooter,Platform,Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ratchet-clank-future-tools-of-destruction",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1794,
+        "name": "Ratchet & Clank Future: Quest for Booty",
+        "summary": "Ratchet & Clank Future: Quest for Booty (known as Ratchet & Clank: Quest for Booty in Europe, Africa and Australia) is a 2008 platform game developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation 3. The game is the sixth main instalment in the Ratchet & Clank series and the second instalment in its Future saga. The game continues from where Tools of Destruction left off, where Clank was taken by the Zoni, and follows Ratchet's quest to find him. Due to its length of approximately three to four hours of playtime, it was released at a lower price point than most standard retail games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x4h.jpg",
+        "release_date": 1219276800,
+        "rating": 69.9471458149682,
+        "rating_count": 102,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ratchet-clank-future-quest-for-booty",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1795,
+        "name": "Ratchet & Clank Future: A Crack in Time",
+        "summary": "Ratchet & Clank Future: A Crack in Time (known as Ratchet & Clank: A Crack in Time in most PAL countries) is a platform game developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation 3 video game console. It is the sequel to Ratchet & Clank Future: Tools of Destruction and Ratchet & Clank Future: Quest for Booty. The game was released for the PlayStation 3 in North America on October 27, 2009, in Australia on November 5, 2009, and in Europe on November 6, 2009.\nA fourth installment, titled Ratchet & Clank: Into the Nexus, was released in November 2013 for the PlayStation 3.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fjt.jpg",
+        "release_date": 1256601600,
+        "rating": 79.96796346701788,
+        "rating_count": 147,
+        "genres": "Shooter,Platform,Adventure,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ratchet-clank-future-a-crack-in-time",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1796,
+        "name": "Ratchet & Clank: All 4 One",
+        "summary": "We find our heroes in the midst of a dilemma of intergalactic proportions when Dr. Nefarious' latest evil plan goes awry leaving Ratchet, Clank, Qwark and Nefarious himself caught in the snare of a powerful and mysterious machine. Begrudgingly, the Galaxy's biggest do-gooders and its most sinister criminal must work together to discover a means of escape in this action-packed installment of the Ratchet & Clank series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co230s.jpg",
+        "release_date": 1318896000,
+        "rating": 59.50413218711568,
+        "rating_count": 58,
+        "genres": "Platform,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ratchet-clank-all-4-one",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1866,
+        "name": "Killzone 2",
+        "summary": "Killzone 2 is the third game in the Killzone franchise and continues the story two years after the events of the first two games. The gameplay consists of what the developers describe as Hollywood Realism, focusing on scripted, cinematic gameplay. The game is played entirely from the first-person perspective, except for the portions with vehicular combat with a tank and an exoskeleton. Next to the single-player campaign, there is squad-based multiplayer called Warzone with five different kinds of missions (Assassination, Search & Retrieve, Search & Destroy, Bodycount and Capture & Hold) based on seven kinds of classes. There is support for up to 32 players, with the addition of bots to fill the remaining spots.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3j9z.jpg",
+        "release_date": 1235520000,
+        "rating": 78.41694067217969,
+        "rating_count": 160,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/killzone-2",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 1867,
+        "name": "Killzone 3",
+        "summary": "Killzone 3 is the fourth game in the Killzone franchise. Several improvements have been made over its prequel, and it can be seen in overall smoother and more balanced gameplay. As in previous game, you will commandeer various turrets and vehicles which will add to firepower but will leave you with rails-driven gameplay. One of the new weapons is a jet-pack which lets you jump and semi-fly with unlimited ammo as a part of new exoskeleton. The environment can sometimes be destroyed or used to your advantage, shooting barrels or certain plants will take out nearby enemy soldiers. Beside single-player campaign, Killzone 3 offers an upgraded version of Killzone 2's multiplayer. The game is also the first in the franchise to support 3D TVs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mer.jpg",
+        "release_date": 1298332800,
+        "rating": 77.18075664524018,
+        "rating_count": 142,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/killzone-3",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 2140,
+        "name": "LittleBigPlanet 2",
+        "summary": "LittleBigPlanet 2 is a puzzle platformer video game centered around user-generated content, first announced on May 8th, 2010 in the June 2010 issue of gaming magazine Game Informer. The game was developed by Media Molecule and published by Sony Computer Entertainment Europe for the PlayStation 3 console, and is the last major Little Big Planet game in the series to be produced by Media Molecule, as the sequel, Little Big Planet 3 would be produced by Sumo Digital, Tarsier Studios, and The Station.\n\nUnlike the original LittleBigPlanet which was marketed as a \"Platform game\", LittleBigPlanet 2 was marketed as a \"Platform for Games\". The game is 100% backwards compatible with all user-created content (including personal profiles) from the first game. It is a direct sequel to LittleBigPlanet, and the third game in the series. The disc also features Sackboy's Prehistoric Moves, a ModNation Racers demo, as well as a PlayStation Network tutorial video.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ijw.jpg",
+        "release_date": 1295308800,
+        "rating": 82.55689281460528,
+        "rating_count": 163,
+        "genres": "Platform,Puzzle,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/littlebigplanet-2",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 2553,
+        "name": "MotorStorm",
+        "summary": "Welcome to MotorStorm, the world's most brutal off-road racing event where the goal is to win at all costs. Choose from seven vehicle types, from high-flying dirt bikes to powerful big rigs, and destroy anything that gets in your way in a no-holds barred sprint to the finish. Try and survive. Real-Time Deforming Terrain: The terrain literally gets torn up with each passing vehicle, causing each lap to be different. Advanced particle effects cause debris and muck to \"stick\" to each vehicle. Vehicular Combat and Damage: Destroy anything that gets in your way. Smash your opponents and view spectacular Hollywood-style crash sequences. Take the Race Online: Intense head-to-head off-road racing. Challenge the competition over voice chat. AI opponents simulate human traits, like showing off, attacking, taunting, and doing whatever it takes to win.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26t9.jpg",
+        "release_date": 1166054400,
+        "rating": 75.00958123286654,
+        "rating_count": 50,
+        "genres": "Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/motorstorm",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 2554,
+        "name": "MotorStorm: Pacific Rift",
+        "summary": "The first MotorStorm wowed fans with its heady formula of brutal, unpredictable off-road racing, festival vibes and stunning Monument Valley desert scenery. Now Motorstorm Pacific Rift takes you to a solitary tropical paradise in the Pacific Ocean, ready for a whole new take on no-holds-barred racing action through thick swamps, dense jungle, towering peaks and steaming volcanoes.\n\nNot just pretty backdrops to the action, these environments take center stage in challenging players with everything in Mother Nature's arsenal. Thick mud, tangled undergrowth, swift flowing rivers, choking volcanic clouds and searing lava pools all test the drivers to their limits and beyond.\n\nExpect a rich festival of off road racing, along with a host of game modes and rewards. It's brutal, dangerous, relentless, and unpredictable and more than a game - MotorStorm Pacific Rift is a way of life.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26t6.jpg",
+        "release_date": 1225152000,
+        "rating": 84.25757249966317,
+        "rating_count": 38,
+        "genres": "Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/motorstorm-pacific-rift",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 2555,
+        "name": "MotorStorm: Apocalypse",
+        "summary": "MotorStorm: Apocalypse (released as MotorStorm 3 in Asia) is a 2011 racing 3D video game by Evolution Studios and published by Sony Computer Entertainment for the PlayStation 3. It is the fourth game in the MotorStorm series and the third for the PlayStation 3. It was announced shortly before the beginning of the Electronic Entertainment Expo 2010 on the PlayStation Blog by Evolution Studios on 10 June 2010.\n\nMotorStorm: Apocalypse was released in Europe on 16 March 2011 but the UK release on 18 March was delayed by Sony Computer Entertainment UK following the 2011 Tōhoku earthquake and tsunami in Japan. The Australian launch went ahead as planned on 17 March, but Sony announced further shipments of the game to that country would be halted in the wake of the disaster. The planned North American release date of 12 April 2011 was delayed by Sony who later confirmed new releases dates of 31 March 2011 in the UK and 3 May 2011 in North America.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26tb.jpg",
+        "release_date": 1300233600,
+        "rating": 66.15201924986557,
+        "rating_count": 35,
+        "genres": "Racing,Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/motorstorm-apocalypse",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 2589,
+        "name": "Ratchet & Clank: Into the Nexus",
+        "summary": "Ratchet & Clank: Into the Nexus (known as Ratchet & Clank: Nexus in Europe) is a 2013 platform video game developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation 3. It is the fourth and final installment in the \"Future\" series. The series is noted for the inclusion of exotic and unique locations and over the top gadgets, a concept of the traditional Ratchet & Clank experience, that returns in this game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x4i.jpg",
+        "release_date": 1383696000,
+        "rating": 78.41882915391042,
+        "rating_count": 74,
+        "genres": "Shooter,Platform,Strategy,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ratchet-clank-into-the-nexus",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 2969,
+        "name": "Rain",
+        "summary": "rain is the enchanting tale of a boy who chases after a girl with an invisible silhouette. After discovering that the girl is being hunted by ghostly creatures, he embarks on his own journey into the mysterious world of rain to save her. Upon entering the world he discovers that he has also become invisible and he must learn to navigate through the unknown, using the rain to guide and protect him.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2cfl.jpg",
+        "release_date": 1380585600,
+        "rating": 75.62092668898183,
+        "rating_count": 35,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/rain",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 3161,
+        "name": "One Piece: Pirate Warriors",
+        "summary": "Pirate Warriors is an action game incorporating elements from both the Dynasty Warriors series and the One Piece series. The game's story mode, Main Log, allows the player to play through the storyline. The Adventure mode uses Luffy to play through the events of the One Piece series and the battle mode allows the player to use characters in battles. In Another Log, the player can play through a character's storyline. With it are several stories exclusive to the game",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyxq.jpg",
+        "release_date": 1330560000,
+        "rating": 69.72028530549795,
+        "rating_count": 26,
+        "genres": "Fighting,Role-playing (RPG),Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/one-piece-pirate-warriors",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 3205,
+        "name": "Resistance 2",
+        "summary": "After a valiant struggle to stop the Chimera invasion in Europe, mankind must make its last stand on the shores of the United States.\nResistance 2 delivers an unprecedented console gaming experience with a standalone eight-player, class-based online co-op campaign and 60-player online competitive multiplayer. An epic single-player campaign will feature a new weapons arsenal to combat giant boss encounters that increase the scale of the conflict to new heights.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vd.jpg",
+        "release_date": 1225756800,
+        "rating": 73.40575926877678,
+        "rating_count": 107,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/resistance-2",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 3206,
+        "name": "Resistance 3",
+        "summary": "The third and currently final installment in the Resistance series. Resistance 3 portrays Capelli's heroic survival inside the brutal Resistance world. Featuring new upgradeable weapons, the return of the weapon wheel, two-player online or split-screen campaign co-op and a progression-based multiplayer experience, Resistance 3 delivers a heroic-yet savage first-person shooter experience.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b3y.jpg",
+        "release_date": 1315267200,
+        "rating": 77.87940299263033,
+        "rating_count": 95,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/resistance-3",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 4692,
+        "name": "Lumines Supernova",
+        "summary": "In January 2009 Lumines Supernova was released on the PlayStation Network. It has all the features of Lumines Live! (with the exception of online multiplayer) as well as the sequencer from Lumines II and a new mode, DigDown Mode. DigDown Mode is a timed mode where the player has to clear two vertical lines within a time limit to move \"down\" to the next stage.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3s4t.jpg",
+        "release_date": 1229558400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music,Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/lumines-supernova",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 5416,
+        "name": "Twisted Metal",
+        "summary": "Twisted Metal is a vehicle combat video game developed by Eat Sleep Play and published by Sony Computer Entertainment for the PlayStation 3. It is a reboot of the Twisted Metal franchise. The game was originally planned to be released in October 2011 but was delayed to early 2012.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sjc.jpg",
+        "release_date": 1329177600,
+        "rating": 59.7710184574662,
+        "rating_count": 39,
+        "genres": "Shooter,Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/twisted-metal-3bd4555a-3fd8-41bd-a0d7-d47d8c707651",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 5619,
+        "name": "Demon's Souls",
+        "summary": "A third-person action RPG with cooperative and competitive multiplayer elements in which the player enters the kingdom of Boletaria as it is being ravaged by a fog that spawns murderous demons. The player has to hunt down the arch demons situated in five disparate areas within the kingdom and partake in punishing combat to reach the Old One, the vengeful being that brought the fog to Boletaria.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27sk.jpg",
+        "release_date": 1233792000,
+        "rating": 85.52395909323401,
+        "rating_count": 385,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/demon-s-souls",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 6459,
+        "name": "Katamari Forever",
+        "summary": "Katamari Forever contains 34 stages, with all but three of the stages being taken from previous titles in the series. Half of the stages take place within the mind of the King of All Cosmos, who gets knocked in the head and suffers from amnesia. The levels are black-and-white in appearance, and the objective is to roll up junk to bring color back to the stages. The other half of the stages take place in the present, where RoboKing, a robotic version of the King of All Cosmos created by the cousins, goes on a rampage and destroys all the stars in the sky.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hjm.jpg",
+        "release_date": 1248307200,
+        "rating": 90.08662209412807,
+        "rating_count": 17,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/katamari-forever",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 6628,
+        "name": "Ace Combat Infinity",
+        "summary": "The infinite blue of the open skies awaits not only veteran but also budding flying aces in Ace Combat Infinity. Evolving the legendary series with a brand new story and innovative multiplayer, the game turns the sky into an endless blue battleground, bursting with aerial drama and destruction.\n\nWhether a combat-ready pro or a battle-shy beginner, Ace Combat Infinity will let every player become a deadly flying ace, as they embark on a series of high velocity missions. In the solo story Campaign mode, players will be immersed in a brand new story and unleash aerial devastation with surgical precision. The new Online Co-op Mission multiplayer mode lets aces team up to see who can inflict the most damage on the enemy. Execute pre-flight checks -- the endless blue awaits.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pdm.jpg",
+        "release_date": 1400544000,
+        "rating": 70.65025555208068,
+        "rating_count": 12,
+        "genres": "Simulator,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ace-combat-infinity",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7265,
+        "name": "3D Dot Game Heroes",
+        "summary": "3D Dot Game Heroes is an action adventure title paying a strong homage to 8bit adventure games such as The Legend of Zelda and Final Fantasy Adventures.\nThe game uses a unique style, presenting 2D retro-style graphics in a 3D environment using voxels",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uui.jpg",
+        "release_date": 1257379200,
+        "rating": 73.79422774034624,
+        "rating_count": 14,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/3d-dot-game-heroes",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7267,
+        "name": "Afrika",
+        "summary": "Become a photo journalist in the wild yonder of Africa in a videogame featuring amazing, realistic animal models and vast landscapes to visit. Africa's animals and plants are all rendered in stunning photorealistic detail. As a photographer, you'll use licensed, real-world photography equipment to complete assignments and capture everything from bathing hippos to a cheetah on the hunt. Explore the land, find new animals, and earn a name for yourself as a professional photographer!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2siw.jpg",
+        "release_date": 1219881600,
+        "rating": 69.88874504901798,
+        "rating_count": 5,
+        "genres": "Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/afrika",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7270,
+        "name": "Another Century's Episode: R",
+        "summary": "Another Century's Episode: R, abbreviated as A.C.E.: R, is a mecha action video game developed by FromSoftware and Banpresto and published by Bandai Namco Games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tga.jpg",
+        "release_date": 1282176000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/another-century-s-episode-r",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7271,
+        "name": "Aquanaut's Holiday: Hidden Memories",
+        "summary": "The actual story mode of the game can be compared to an adventure game. The main - unnamed - character is a journalist, in search of the missing oceanographer William \"Bill\" Graber. Using a submarine called the Dolphin no.2 you explore the seas for clues.\n\nThe game takes place in Kisira Atoll, in Polynesia. An oceanographic research facility named Kisira Base is the starting point and where you always come back to, for supplies (such as batteries for sonar navigation buoys) and equipment.\n\nTwo scientists work at the base, the young and dreamy Jessica Porter and the conservative chief Robert Kemelman. Both assist you in solving mysteries, each in their own way. Jessica likes to believe fairytales and legends, while Robert usually comes up with a scientific explanation.\n\nAll the fish, animals and other discoveries are added to a database. Some fish can communicate and the player has to repeat the sounds made by a fish, using the four trigger buttons of the Sixaxis controller.\n\nAt all times, the unlocked area of the map is free to explore as you like.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49vq.jpg",
+        "release_date": 1222300800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/aquanaut-s-holiday-hidden-memories",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7274,
+        "name": "Ar Tonelico Qoga: Knell of Ar Ciel",
+        "summary": "The third game in the Ar Tonelico series, and the first on PlayStation 3.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2v5b.jpg",
+        "release_date": 1264636800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Turn-based strategy (TBS),Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ar-tonelico-qoga-knell-of-ar-ciel",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7280,
+        "name": "Bleach: Soul Resurrección",
+        "summary": "The afterlife adventures of reluctant Soul Reaper Ichigo Kurosaki make their high-def video game debut in the PlayStation 3-exclusive Bleach: Soul Resurrección. Gamers can role-play through re-creations of their favorite plotlines from the Bleach comics and cartoon series, or seek out new side-adventures in the freely roamed game world, stocked with random encounters and fan-friendly details.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d3k.jpg",
+        "release_date": 1308787200,
+        "rating": 63.68474015030571,
+        "rating_count": 16,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/bleach-soul-resurreccion",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7283,
+        "name": "Buzz!: Quiz TV",
+        "summary": "Buzz! Quiz TV marks the debut of Sony's party-quiz series, Buzz!, to the PlayStation 3; adding the ability for players to compete online as well as write their own questions and exchange quiz packs online.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60bc.jpg",
+        "release_date": 1215129600,
+        "rating": 63.27279776890543,
+        "rating_count": 6,
+        "genres": "Quiz/Trivia",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/buzz-quiz-tv",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7286,
+        "name": "Dead or Alive 5 Ultimate",
+        "summary": "Dead or Alive 5 Ultimate is a fighting game in the Dead or Alive series. The game is an expanded edition of the 2012 title Dead or Alive 5, incorporating some features from the PlayStation Vita's Dead or Alive 5 Plus as well as additional content, including five characters that are new or returning to the series (including two Ninja Gaiden characters), as well as gameplay system tweaks and expansions, many of them in the online multiplayer tag team mode (including an introduction of two-on-two tag team battles).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a1l.jpg",
+        "release_date": 1378166400,
+        "rating": 76.78587129954552,
+        "rating_count": 10,
+        "genres": "Fighting",
+        "platform_ids": "52,9,12",
+        "external_url": "https://www.igdb.com/games/dead-or-alive-5-ultimate",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7287,
+        "name": "Derby Time Online",
+        "summary": "This Sony-developed horse racing game is coming to the PlayStation 3.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/jp1zgopg4w85q0vgk7ze.jpg",
+        "release_date": 1226534400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/derby-time-online",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7299,
+        "name": "Disgaea D2: A Brighter Darkness",
+        "summary": "Disgaea D2: A Brighter Darkness is a tactical RPG in the Disgaea series. The game is a sequel to 2003's Disgaea: Hour of Darkness for the PlayStation 2, where the respective main characters of that game will again be the focus. Gameplay in Disgaea D2 remains the same as other core Disgaea games in the series. Monster Mounting is a new feature that replaces Magichange from Disgaea 3 and Disgaea 4. Characters can also build relationships with each other and their compatibility is determined by a heart scale of 1 to 5. Another feature is the Cheat Shop, which allows the player to modify certain attributes such as lowering the gain rate of something like experience, to raise the gain rate of something else, like Hell.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25nx.jpg",
+        "release_date": 1363737600,
+        "rating": 76.67901977389822,
+        "rating_count": 9,
+        "genres": "Role-playing (RPG),Strategy,Tactical",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/disgaea-d2-a-brighter-darkness",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7302,
+        "name": "The Eye of Judgment",
+        "summary": "The Eye of Judgment provides a visually stunning experience that adds a third dimension to the trading card game genre.\nPlayers compete by selecting a card and placing the coded card in front of the Playstation Eye for their respective creatures to come to life and battle on screen. Players take turns placing cards as they jostle for control; the winner is the first player to conquer five of the nine squares of the \"9 Fields\" battle mat. The gamers task is to conquer the board by deploying their cards more skillfully than their opponent.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8722.jpg",
+        "release_date": 1193097600,
+        "rating": 58.55398553457366,
+        "rating_count": 5,
+        "genres": "Strategy,Turn-based strategy (TBS),Card & Board Game",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-eye-of-judgment",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7305,
+        "name": "The Fight: Lights Out",
+        "summary": "The Fight: Lights Out is an action fighting video game. The game is presented with predominantly black-and-white graphics but bright red blood.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20l2.jpg",
+        "release_date": 1288828800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-fight-lights-out",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7307,
+        "name": "Folklore",
+        "summary": "The vision of legendary game creator Yoshiki Okamoto (executive producer for Onimusha, Devil May Cry and Resident Evil), Folklore is a brand new action adventure title for PS3.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob94f.jpg",
+        "release_date": 1182384000,
+        "rating": 73.85348495524974,
+        "rating_count": 21,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/folklore",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7315,
+        "name": "Genji: Days of the Blade",
+        "summary": "It's been three years since Yoshitune Minamoto and Benkei Musashibo, warriors of the Genji Clan, defeated the Heishi Clan in a war over the \"Amahagane\". The Amahagane are sacred jewels which grant the owners godlike powers, such as Kamui. Now, rumors are spreading of new, ungodly creatures fighting with Heishi warriors, even without the powers of Amahagane. Yoshitsune and his companions must draw their weapons again, and with the new strength given to them by the Amahagane, defeat the new evil to save all of Japan.\n\nGenji: Days of the Blade, sequel to the PlayStation 2 game Genji: Dawn of the Samurai, is an action game, based in ancient/feudal Japan, in which you must defeat a new, mysterious source of evil to save your country. You control one of four characters (changeable in real-time), each with their own weapons, abilities, strengths, and weaknesses.\n\nYoshitsune Minamoto and Benkei Musashibo, the main characters of the previous game, join with Gozen Shizuka and Lord Buson to complete their quest. Yoshitsune is a young warrior who wields a katana in each hand, Benkei is a mighty warrior-monk who uses a war club and a naginata for weapons. Shizuka is a nimble priestess who is adept with chained blades, and Buson is a God of War from the Overworld who carries a double saber and can use supernatural powers.\n\nThe game play involves fighting many enemies and bosses with regular attacks, combo attacks, and Kamui. Kamui is a power that you can use to summon a magical space around you in which you unleash multiple special attacks on surrounding enemies by pressing buttons in series as they appear on the screen. Your Kamui bar fills as you land successful hits on opponents. The characters travel through both levels based on real locations in Japan and fantasy locations, defeating everything from regular Heishi warriors to giant, mutated enemy crabs. The level design involves platformer elements and solving small puzzles, such as destroying Masho flowers scattered throughout an area to open a door.\n\nThe game also has RPG elements; you collect Amahagane and Mashogane hidden around levels and from fallen enemies. They can be used to augment character stats and weapon attack power, respectively. You can also find new weapons and items such as herbs with healing properties, or scrolls that give you attack bonuses for a period of time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2902.jpg",
+        "release_date": 1163203200,
+        "rating": 69.9213175776168,
+        "rating_count": 7,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/genji-days-of-the-blade",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7316,
+        "name": "Gran Turismo 6",
+        "summary": "Gran Turismo 6 is a racing video game and the sixth main installment—and twelfth overall entry—in the Gran Turismo series.\n\nNew features include the addition of more cars and tracks, enhanced car customization options, and partnerships with the Goodwood Festival of Speed, the Ayrton Senna Institute, the FIA, and NASA.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wi4.jpg",
+        "release_date": 1386201600,
+        "rating": 81.78386251390646,
+        "rating_count": 83,
+        "genres": "Racing,Simulator,Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/gran-turismo-6",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7317,
+        "name": "Haze",
+        "summary": "Haze is a first-person shooter video game developed by Free Radical Design and published by Ubisoft for the PlayStation 3. It was released worldwide in May 2008. Releases for Xbox 360 and Microsoft Windows were canceled.\n\nThe game takes place in a dystopian future, where the Mantel Corporation rule the world with a drug called Nova-Keto-Thyrazine - also called Nectar, a \"nutritional supplement\" that enables soldiers to fight harder and smarter, but also induces a hallucinogenic effect, where soldiers are no longer cognizant of the real battlefield around them, instead viewing an idyllic, painless environment.\n\nThe game takes place over a three-day period as Mantel battles a group of rebels known as \"The Promise Hand\" which is led by Gabriel \"Skin Coat\" Merino, with the player assuming the role of Shane Carpenter, a 25-year-old Mantel soldier. After Carpenter witnesses the effect Nectar is having on his fellow soldiers, and after a twist in the storyline Shane then turns rogue and teams up with The Promise Hand to take on Mantel.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28oe.jpg",
+        "release_date": 1211241600,
+        "rating": 64.19986652710845,
+        "rating_count": 21,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/haze",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7318,
+        "name": "Heavenly Sword",
+        "summary": "Developed by Ninja Theory, Heavenly Sword is a visually stunning martial arts drama set in a mythical time and place in the Far East.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w52.jpg",
+        "release_date": 1189555200,
+        "rating": 72.383088564819,
+        "rating_count": 63,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/heavenly-sword",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7354,
+        "name": "Initial D Extreme Stage",
+        "summary": "This game is a console port of Initial D Arcade Stage 4.\nExtreme Stage has 2 versions: Asian and Japanese.\n\nThe Asian version's manual is in english, and lacks online mode (which allows you to race against other people online and unlock auras for your car).\n\nThe Japanese version's manual is in japanese, unlike the other version, this one has online mode.\n\nThe game also had DLCs:\n- Manga scans that can be seen in-game\n- Extra cars (this DLC has been removed from PS Store)",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2flg.jpg",
+        "release_date": 1215043200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/initial-d-extreme-stage",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7362,
+        "name": "Lair",
+        "summary": "In a world ravaged by endless conflict and natural disaster, a call for peace turns into a bloodbath of betrayal and deceit. Playing as a warrior riding a voracious dragon trained for deadly aerial and ground combat, and capable of scorching, clawing and smashing thousands of enemies, gamers must defeat countless armies to save a civilization. Together, the gamer and the beast will attempt to change the destiny of a world on the brink of extinction.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wre.jpg",
+        "release_date": 1188432000,
+        "rating": 68.78806922899416,
+        "rating_count": 9,
+        "genres": "Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/lair",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7363,
+        "name": "Last Rebellion",
+        "summary": "In Last Rebellion, assume the roles of Nine and Aisha who share a single body in the cursed world of Junovald, a land where two gods govern life and death. Decimate your enemies using an intuitive, turn-based battle system which allows you to target individual body parts, as you protect the world from demons and seek revenge for your father's death.\n\nCombining action and strategy, Last Rebellion adds a twist to battles and field exploration with a character switching function. Players can jump between Nine and Aisha at will -- each possess unique, customizable skill sets, so it is important to assign skills to both characters that suit your play style. Match the two characters well and you will be better prepared for what's lurking in the shadows of Junovald.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qja.jpg",
+        "release_date": 1264636800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Role-playing (RPG)",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/last-rebellion",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7365,
+        "name": "MAG",
+        "summary": "Find out if you're man enough to command a 128-strong army into battle with this huge, online first-person shooter for PS3.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2so1.jpg",
+        "release_date": 1264464000,
+        "rating": 69.5848009423865,
+        "rating_count": 6,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/mag",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7366,
+        "name": "Megazone 23: Aoi Garland",
+        "summary": "An adventure game based on the anime series Megazone 23.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gwk.jpg",
+        "release_date": 1189641600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/megazone-23-aoi-garland",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7368,
+        "name": "Mist of Chaos",
+        "summary": "Mist of Chaos is a Strategy game, developed and published by Idea Factory, which was released in Japan in 2007.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ih1.jpg",
+        "release_date": 1174521600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/mist-of-chaos",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7376,
+        "name": "Mobile Suit Gundam: Crossfire",
+        "summary": "This is an installment of the anime game series, Gundam, Mobile Suit Gundam: Crossfire takes place Nine months after the Zeon forces attacked, and now the forces of the Earth Federation are about to launch a full blown counter attack. You have the choice of either siding with the earth forces and aid the counter offensive, or join the Zeon and crush the Federation resistance.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tv0.jpg",
+        "release_date": 1163203200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/mobile-suit-gundam-crossfire",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7377,
+        "name": "Mobile Suit Gundam Unicorn",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tg9.jpg",
+        "release_date": 1331164800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/mobile-suit-gundam-unicorn",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7379,
+        "name": "Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen",
+        "summary": "Boku no Natsuyasumi 3 is the third main game in the life simulation series of spending a summer vacation in Japan. This time the fourth grader Boku goes to his uncle and aunt's farm in the wide-open countryside of Hokkaidō on 1st August 1975. It is the same period as the previous two games, so once again it is an alternate universe sequel. He is dropped there by his father as his sister will be born that month. His uncle and aunt have a daughter called Midori who has the same age as Boku.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ues.jpg",
+        "release_date": 1183593600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7387,
+        "name": "Pain",
+        "summary": "It’s the funniest game in town! Load characters into a super-sized, ultra-powerful slingshot and launch them into an active, physics-controlled environment filled with precarious and humorous situations. Score points by stringing together PAINful collisions and unleashing chaos on the downtown environment. Join the PAIN online community to keep up with PAIN’s ever evolving gameplay. Compete with other players worldwide on the Global Leaderboards. See you in PAIN!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2itk.jpg",
+        "release_date": 1196294400,
+        "rating": 72.35793752679098,
+        "rating_count": 13,
+        "genres": "Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/pain",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7391,
+        "name": "Puppeteer",
+        "summary": "One dark moonlit night, a young boy named Kutaro was carried away by the maleficent Moon Bear King to a black castle where the unlucky lad was transformed into a puppet.\n\nKutaro displeased the terrible tyrant, who devoured the boy's wooden head and cast away his body. But the headless hero was not alone, for he had discovered a very special pair of scissors to help him on his harrowing adventure to find his head, and his way home.\n\nPuppeteer is a brand new franchise developed exclusively for PlayStation 3 by SCE JAPAN Studio. Set in a magical puppeteer’s theatre, this title will introduce you to a strange and fantastic world, where the environment is constantly changing. Players will enjoy a rich, dark fairytale where surprises lurk around every corner.\n\nKey Features\n\nSwappable Heads -Kutaro can change his head anytime he chooses. Lose your head and you lose a life, but use your head and you’ll discover that you have the ability to change the world\nUnique Platforming -Wielding a pair of magical scissors, Kutaro cuts and crops his way through the adventure\nDynamic Interactive Backgrounds -A huge variety of backgrounds that are continually changing, taking you on a journey of discovery that will surprise and thrill\nTheatrical Storytelling -Audience, lights, sets, music and narration all combine to create a mesmerizing, unique storytelling experience",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k0q.jpg",
+        "release_date": 1378339200,
+        "rating": 82.26941865659632,
+        "rating_count": 32,
+        "genres": "Platform,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/puppeteer",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7441,
+        "name": "Ridge Racer 7",
+        "summary": "Ridge Racer 7 is the seventh console installment in the Ridge Racer series of racing games, released on PlayStation 3. The game has around 40 cars, many of which return from Ridge Racer 6 and the PSP incarnations of the game. There are also 22 courses, available in forward, reverse and mirror mode. The game runs at 1080p resolution and at 60 frames per second. It also features Dolby Digital 5.1 surround sound and free online gameplay via the PlayStation Network.\n\nThe game was first unveiled at the 2006 E3 event in a teaser trailer, and the first trailer of game footage was shown at the 2006 Tokyo Game Show.\n\nLike many other games in the series, it features a full motion video opening that stars Reiko Nagase.\n\nThe game has since been re-issued under Sony's \"Platinum\" and \"The Best\" budget lines.\n\nA patch was made available in October 2010 titled \"Ridge Racer 7 3D License Version\" that enables Ridge Racer 7 to be played in 3D.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f7v.jpg",
+        "release_date": 1163203200,
+        "rating": 74.26094238591108,
+        "rating_count": 9,
+        "genres": "Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ridge-racer-7",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7442,
+        "name": "Ryuu ga Gotoku Kenzan!",
+        "summary": "Ryu ga Gotoku Kenzan! is an action-adventure video game published by Sega for the PlayStation 3. It is a jidaigeki-themed spin-off game in the Like a Dragon series. It was released exclusively in Japan on March 6, 2008.\n\nKenzan! is a dramatic telling of the life of the historical figure Miyamoto Musashi, who retired and adopted a new identity, but is later drawn into a new conflict where he must hunt down an imposter using his namesake.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1paz.jpg",
+        "release_date": 1204761600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/ryuu-ga-gotoku-kenzan",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7454,
+        "name": "Miyazato San Kyoudai Naizou: Sega Golf Club",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/owp1wizlzlwlkqeyq2n4.jpg",
+        "release_date": 1163203200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/miyazato-san-kyoudai-naizou-sega-golf-club",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7457,
+        "name": "Siren: Blood Curse",
+        "summary": "A TV crew from America arrive to research and film an exposé on the urban myth of Hanuda, the Vanished Village, where human sacrifices are said to have taken place.\n\nHanuda is a dark, eerie world, frozen in the 1970s and surrounded by a red sea. An ancient curse has been set upon the town and you, as the visitors, must save the remaining inhabitants including the beautiful Miyako. In order to survive you must defend yourself from the vicious Shibito, or living dead, and other terrifying monsters.\n\nAcross 12 chapters of horror, gamers will confront the mysteries of Hanuda in this new chapter of the the cult classic horror game. Throughout the game you will play each of the visitors to the village. The game's unique Sight-Jack System enables you to switch seamlessly between the visions of the hunted and the hunters. Blood, guts and gore are super-enhanced by amazing graphic effects, an advanced physics engine and shockingly realistic facial animations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1dr.jpg",
+        "release_date": 1215907200,
+        "rating": 70.5278928213915,
+        "rating_count": 27,
+        "genres": "Shooter,Puzzle,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/siren-blood-curse",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7459,
+        "name": "SOCOM 4: U.S. Navy SEALs",
+        "summary": "Lead a five-person squad on a mission to neutralize those responsible for the elimination of a NATO Special Forces team in this continuation of Sony's squad-based shooter series. Fourteen single-player missions are part of a six-day battle in Southeast Asia, with an enemy AI designed to follow authentic squad tactics in response to your decisions on the battlefield. Issue orders to your fellow soldiers with a context-based command system, while calling for the support of UAV surveillance drones and aerial strikes when needed.\n\nUtilize cover to protect your squad from attacks as you attempt to take out the enemy's defensive positions with explosive devices and heavy munitions. As you progress, you'll be able to expand your offensive arsenal by collecting the weapons from fallen foes. In addition to the single-player campaign, SOCOM 4 also includes competitive and cooperative multiplayer modes. Both the PlayStation Move and traditional Dual Shock controllers are supported as well.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99jw.jpg",
+        "release_date": 1303171200,
+        "rating": 69.95333789585018,
+        "rating_count": 5,
+        "genres": "Shooter,Tactical",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/socom-4-u-s-navy-seals",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7460,
+        "name": "SOCOM: U.S. Navy SEALs Confrontation",
+        "summary": "SOCOM: Confrontation focuses on online play and the global community and clans that support it. With support for Tournaments, Clan Ladders, Leader Boards, this latest title in the multi-million unit selling franchise is exactly what SOCOM fans have been clamoring for. Additionally, players will be able to modify their appearance through facial and physical customization. A global-scale experience, SOCOM Confrontation gives players the opportunity to battle against the best and brightest from the U.S., Europe and Asia. SOCOM Confrontation deploys with five new North African themed maps, including a 32-player version of \"Crossroads.\" Additional themed packs for SOCOM Confrontation will be made available for download via the Playstation Store.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2372.jpg",
+        "release_date": 1223942400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/socom-u-s-navy-seals-confrontation",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7461,
+        "name": "Starhawk",
+        "summary": "In the far reaches of space, factions of humanity battle over a rare and dangerous resource known as Rift Energy. Colonies of humans called Rifters have been exploring the \"Frontier\" of planets, but find their way of life threatened by the Outcast, a ruthless species of humans who have mutated into psychotic monsters due to exposure to this very same Rift Energy. Caught in the middle is Emmett Graves, a hired gunslinger ostracized from society because of his own exposure to Rift Energy, leaving him partially mutated, but still able to retain his humanity. Graves is drawn back to his home settlement to face a mysterious outlaw and his war band of Outcast warriors.\n\nStarhawk provides fast paced third-person shooter action set in this lawless frontier of space, allowing players to instantly alter the battlefield by calling down offensive and defensive structures in real-time from an orbiting drop ship, all while blasting away at enemies in the middle of huge single-player or multi-player firefights.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4903.jpg",
+        "release_date": 1336435200,
+        "rating": 70.00000000000001,
+        "rating_count": 10,
+        "genres": "Shooter,Real Time Strategy (RTS),Strategy",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/starhawk",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7462,
+        "name": "Supercar Challenge",
+        "summary": "SuperCar Challenge for the PlayStation 3 is a high-octane racing game featuring both arcade and simulation tarmac thrills. \nBuilding on the critically acclaimed Ferrari Challenge racing simulation engine, SuperCar Challenge heralds the addition of the sexiest supercars on the planet while improving on its spiritual prequel in every way. Over 40 cars are available to throw around the most celebrated corners on the racing calendar. Experience the thrills and spills that come with harnessing the full grunt of an Aston Martin DB9, the Ferrari FXX, the McLaren F1 and many more! More than 20 tracks will also be available, with old favourites such as Silverstone and Spa mixed in with the joys of Nürburgring and the fictitious charms of Riviera.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hsj.jpg",
+        "release_date": 1252022400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/supercar-challenge",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7465,
+        "name": "The Idolmaster: One For All",
+        "summary": "The Idolmaster: One For All is a Japanese raising simulation video game in The Idolmaster series. The story in One For All is told from the perspective of a producer in charge of leading and training a group of pop idols to stardom. Its gameplay, while most similar to its predecessor The Idolmaster 2, features several improvements and differences, and allows players to produce all 13 idols from 765 Production, the main talent agency featured in the series. The office environment was redesigned to give it a more natural feeling, and a focus was put on \"returning to the starting point\" in The Idolmaster series with One For All centered on growing alongside novice idols in a small talent agency.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wf5.jpg",
+        "release_date": 1400112000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music,Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-idolmaster-one-for-all",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7467,
+        "name": "Tokyo Jungle",
+        "summary": "In Tokyo Jungle, everything is the enemy, and only the strongest will survive!\n\nWith over 50 playable animals to choose from, unleash your inner beast to hunt your way to the top of Tokyo's post-apocalyptic food chain. Whether in Story or Survival Mode, you never know where your next meal will come from or the dangers you'll face, so be prepared for anything and everything. Forage through this desolate but dangerous city to complete story-based challenges using a variety of survival skills, from all-out attack to stealth. Beware-- you are not the only animal out there hunting for survival!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ajh.jpg",
+        "release_date": 1339027200,
+        "rating": 73.32246486572419,
+        "rating_count": 29,
+        "genres": "Role-playing (RPG),Simulator,Strategy,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/tokyo-jungle",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7474,
+        "name": "Trinity Universe",
+        "summary": "Trinity Universe is a PlayStation 3 role-playing game developed by Idea Factory, Gust Corporation and Nippon Ichi Software.\n\nTrinity Universe is in full 3D featuring dungeons, battles and two plot lines: Goddess and Devil King. Gust Corporation created the storyline for Goddess, while NIS created the Devil King story.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xj7.jpg",
+        "release_date": 1254355200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/trinity-universe",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7475,
+        "name": "Trinity: Souls of Zill O'll",
+        "summary": "Trinity: Souls of Zill O'll is an action fantasy role-playing video game set in part of the Zill O'll series. The game is a prequel, taking place five years before the events in Zill O'll.\nDownloadable content that included additional quests and alternate costumes for the main party was released only in Japan and was not translated for other regions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3jci.jpg",
+        "release_date": 1290643200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/trinity-souls-of-zill-o-ll",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7476,
+        "name": "Untold Legends: Dark Kingdom",
+        "summary": "The ultimate next-gen action-RPG experience! Embark on a fantasy adventure across more than 30 levels as one of three unique heroes. Experience next generation gaming in true high definition. Adventure cooperatively, play online, or acquire new content through the Playstation Network. Unique physics-based gameplay takes hack n' slash to an all-new level.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bq0.jpg",
+        "release_date": 1163721600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Hack and slash/Beat 'em up",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/untold-legends-dark-kingdom",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7479,
+        "name": "Warhawk",
+        "summary": "Based on the original PlayStation game of the same name, Warhawk for the PlayStation 3 opts for team-based multiplayer action on the ground and in the air instead of single-player flight combat.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0cf.jpg",
+        "release_date": 1188259200,
+        "rating": 60.16501033973146,
+        "rating_count": 16,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/warhawk",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7482,
+        "name": "White Knight Chronicles",
+        "summary": "White Knight Chronicles is a Japanese RPG (role-playing game) which allows players to explore an expansive and exciting world of turn-based combat, adventure and comradery A PlayStation 3 exclusive, it was created by noted Japanese RPG game developer Level-5 and features both single player and online multiplayer action, the awesome power to assume the shape of the White Knight, the ability to build a persistent online town/lobby, communication via online blogs, message boards and quest logs, voice chat and beautiful game environments.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8kzz.jpg",
+        "release_date": 1230163200,
+        "rating": 66.0375675202039,
+        "rating_count": 12,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/white-knight-chronicles",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7483,
+        "name": "White Knight Chronicles II",
+        "summary": "White Knight Chronicles II, the sequel to White Knight Chronicles: International Edition, is an epic role-playing game available exclusively on the PlayStation 3 computer entertainment system. The game masterfully blends the cinematic storytelling of a single player role-playing game (RPG) with an entertaining and interactive co-op multiplayer RPG experience. From famed Japanese developer LEVEL-5, White Knight Chronicles II, features stunning graphics, over 400 new weapons and armors, and new skills and spells that make battles more interactive, strategic, and fast-paced. In addition to the full sequel, the game also includes the remastered White Knight Chronicles: International Edition as a bonus, delivering two full games and over 100 hours of combined gameplay.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nsq.jpg",
+        "release_date": 1278547200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/white-knight-chronicles-ii",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7489,
+        "name": "Yakuza: Dead Souls",
+        "summary": "Yakuza: Dead Souls is an action-adventure/survival horror video game, developed and published by Sega exclusively for the PlayStation 3. The game is the sixth installment in the Yakuza series. The game is set during a zombie outbreak in Kamurocho.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xqj.jpg",
+        "release_date": 1307577600,
+        "rating": 80.97257769028457,
+        "rating_count": 11,
+        "genres": "Shooter,Role-playing (RPG),Sport,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/yakuza-dead-souls",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7660,
+        "name": "Tekken Revolution",
+        "summary": "One of the best-selling franchises of all time is now available for FREE! Jump on as one of your favorite characters and pummel your way to victory! For the first time in the franchise, level up your characters! Break through walls, break through the floor, and ultimately break your opponent.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co83wo.jpg",
+        "release_date": 1370908800,
+        "rating": 71.92668716133414,
+        "rating_count": 23,
+        "genres": "Fighting,Racing,Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/tekken-revolution",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7724,
+        "name": ".Detuned",
+        "summary": "Developed by .theprodukkt, .detuned is a personalized, interactive music experience which gives you the opportunity to create dynamic artwork in real-time to accompany your XMB music collection. Manipulate the given scene by interacting with and modifying its unique graphics using the dual shock 3 Wireless Controller. Plus you can change and tweak your own music to accompany the scene. Download .detuned today for an artistic music experience.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3bf4.jpg",
+        "release_date": 1253145600,
+        "rating": 31.09121657530657,
+        "rating_count": 10,
+        "genres": "Music,Indie",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/dot-detuned",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7727,
+        "name": "Linger In Shadows",
+        "summary": "Linger in Shadows is not a game, but rather an experiment into the realm of interactive digital art. Created by a collective of talented artists based in Bringing this underground digital art culture exclusively to the PlayStation Network, it delivers a truly unique journey that will challenge and entertain you, and change the way you think about games and art forever.\n\nDive into the world of Linger in Shadows, where a dark and mysterious creature lingers in the shadows, protecting the ancient Temple on its high perch above the ruined city below. Use the SIXAXIS controller to interact with and manipulate the environment and the very fabric of time and reality.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3bch.jpg",
+        "release_date": 1223510400,
+        "rating": 55.14668486032025,
+        "rating_count": 22,
+        "genres": "Puzzle,Indie,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/linger-in-shadows",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 7850,
+        "name": "Infamous: Festival of Blood",
+        "summary": "Infamous: Festival of Blood is an action-adventure video game developed by Sucker Punch Productions for the PlayStation 3 video game console. Festival of Blood is a standalone expansion in the Infamous series based on the Infamous 2 engine and map but does not require a copy of Infamous 2 in order to play.\n\nThe story is set aside from the canon aspect of the Infamous series, being a spoof told by the main protagonist's friend Zeke Dunbar. The game features new characters, powers and comes with a new comic cutscene creation for the main game Infamous 2 '​s user-generated content, as well as support for the PlayStation Move controller. Unlike previous games, the game does not feature karmic choices on missions due to Cole's vampire state.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yh0.jpg",
+        "release_date": 1319500800,
+        "rating": 72.07821713534676,
+        "rating_count": 59,
+        "genres": "Platform,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/infamous-festival-of-blood",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 8186,
+        "name": "LittleBigPlanet Karting",
+        "summary": "Give full throttle to your imagination and join Sackboy and Sackgirl on the starting grid for a kart racing adventure like no other. Fire up your engines, jump behind the steering wheel and take on your friends and foes in breathtakingly unpredictable battles through an ever-changing world of content. Are you ready?\n\nLittleBigPlanet Karting combines the excitement and fun of a racing game with the ability to create any race you can imagine. Take advantage of simple and powerful creation tools to easily build your own tracks, design unique power-ups or customise your karts. Want to race a boxing glove through a land made of cheese? And then fire pizzas from your kart? You got it. Just watch out for those skull shaped hovercrafts. And flaming snakes. And whatever else is out there...\n\nBattle your friends online via PlayStation Network or in the same room using the split-screen mode, complete challenges or dive into the community to discover new player-created courses. No two tracks are ever the same, so you will never run out of new places to do battle. Race the unexpected and leave the real world in the dust!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f3a.jpg",
+        "release_date": 1352160000,
+        "rating": 60.19128514444624,
+        "rating_count": 35,
+        "genres": "Racing,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/littlebigplanet-karting",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 8576,
+        "name": "Drakengard 3",
+        "summary": "Drakengard 3 transports players to a medieval world where six goddess-like sisters known as \"Intoners\" have brought peace to the earth with their power to manipulate magic through song. Harmony is disrupted, however, when the eldest sister, Zero, attempts to murder her younger sisters with the help of her dragon companion, Mikhail. As the story progresses, players find themselves in a battle to unravel the mystery of Zero and learn her true intentions.\n\nA prequel to the original Drakengard, Drakengard 3 features the series’ signature brand of action, pitting players against hordes of fiends and foes in remorseless hack-and-slash ground combat, and then sending them soaring for pitched aerial battles on the back of the dragon Mikhail.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25oy.jpg",
+        "release_date": 1387411200,
+        "rating": 74.61755146825627,
+        "rating_count": 49,
+        "genres": "Role-playing (RPG),Strategy,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/drakengard-3",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 8577,
+        "name": "Magus",
+        "summary": "In a world of fire and water, an unfathomable power waits. Magus has been imprisoned in a tower in the Waterfall Kingdom and tortured for years. His crime is unknown; his history is a mystery. He remains locked up, powerless, until a new prisoner named Kinna arrives and she aids him in his escape. So begins their journey to discover Magus’s true abilities—chroma magic, his innate talent to absorb power from the colors green, red, and purple in the surrounding environment to unleash deadly attacks. Along the way they must face the wrath of the Waterfall Kingdom and battle them to uncover Magus’s ultimate purpose. Why has this mysterious woman decided to help him? And why now, after all this time?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hsg.jpg",
+        "release_date": 1393286400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Role-playing (RPG),Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/magus",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 10741,
+        "name": "Railfan",
+        "summary": "The first PS3 installment of Ongakukan's Train Simulator series. It features three different rail lines - JR East's Chuo Line between Mitaka and Tokyo, the Keihan Electric Railway's Main Line between Demachiyanagi and Yodoyabashi, and the Chicago Transit Authority's Brown Line between Fullerton and the Loop. In a first for the series, it features full HD video, as well as the ability to view the train from an external viewpoint. In addition, the game also features a \"Densha de Go!\" mode emulating the gameplay of that series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qgbtmatndpvqcmvnc9rc.jpg",
+        "release_date": 1166572800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/railfan",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 11009,
+        "name": "Supersonic Acrobatic Rocket-Powered Battle-Cars",
+        "summary": "Supersonic Acrobatic Rocket-Powered Battle-Cars is a football game where players drive around in cars. Players can drive around on the walls and ceiling, and can do tricks to speed up their cars.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k31.jpg",
+        "release_date": 1223510400,
+        "rating": 59.44991389373249,
+        "rating_count": 7,
+        "genres": "Racing,Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/supersonic-acrobatic-rocket-powered-battle-cars",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 13560,
+        "name": "Super Rub 'a' Dub",
+        "summary": "Super Rub 'a' Dub stars the yellow duck from technical demos known as Ducks demo for the PlayStation 3 originally used at E3 2005 and 2006. Using the motion-sensing SIXAXIS controller, the player tilts a bathtub filled with water to move a rubber duck around the tub. There are many pitfalls to avoid, such as jumping out of the tub and toy sharks which will try to eat the smaller ducks. Online leaderboards track users fastest times, and allow users to see the replays of those fastest times. The game has three levels: fun, tricky, and tough. Each of these levels has 20 tubs that one needs to beat to proceed to the next level.\n\nIn August 2008 the game received an update named 3.00. In the update, there are now 9 different ducks to unlock, monthly leaderboards and an online store.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5zkd.jpg",
+        "release_date": 1175731200,
+        "rating": 63.19503315288674,
+        "rating_count": 6,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/super-rub-a-dub",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 14527,
+        "name": "Datura",
+        "summary": "Explore the haunting world of Datura and embark on a voyage of mystery.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n9r.jpg",
+        "release_date": 1336435200,
+        "rating": 61.1370063919588,
+        "rating_count": 5,
+        "genres": "Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/datura",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 15201,
+        "name": "SingStar Guitar",
+        "summary": "SingStar Guitar is a spin-off of the karaoke-only SingStar series. It was the first game in the series involving a gameplay element other than karaoke, allowing the use of a third party guitar controller such as those used in the Guitar Hero or Rock Band series.\n\nTracklist:\n\n3 Doors Down - Kryptonite\nBloc Party - Helicopter\nBlur - Song 2\nBuzzcocks - Ever Fallen In Love With Someone\nColbie Caillat - Bubbly\nDavid Bowie - The Man Who Sold The World\nElbow - Grounds For Divorce\nFlorence and the Machine - Kiss With a Fist\nFranz Ferdinand - No You Girls\nJamiroquai - Too Young to Die\nKaiser Chiefs - I predict a riot\nKasabian - Fire\nKT Tunstall - Suddenly I See\nLadyhawk - My Delirium\nMuse - Supermassive Black Hole\nParamore - CrushCrushCrush\nPixies - Debaser\nPulp - Disco 2000\nQueen & David Bowie - Under Pressure\nStereophonics - Just Looking\nThe Stone Roses - Waterfall\nThe Clash - Rock The Casbah\nThe Cult - She Sells Sanctuary\nThe Cure - The Lovecats\nThe Raconteurs - Steady As She Goes\nThe Veronicas - Untouched\nThe White Stripes - Fell In Love With A Girl\nTina Turner - Steamy Windows\nU2 - Beautiful Day\nVampire Weekend - A Punk",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9vg.jpg",
+        "release_date": 1287100800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/singstar-guitar",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 15260,
+        "name": "SingStar: Dance",
+        "summary": "SingStar Dance is a spin-off of the karaoke-only SingStar series. The game involves an element other than simply karaoke, and utilizes the PlayStation Move controller for dancing.\n\nTracklist:\n\n*N Sync – Bye Bye Bye\nBlack Eyed Peas – Shut Up\nBlondie – Heart Of Glass\nChris Brown – With You\nCyndi Lauper – Girls Just Wanna Have Fun\nDiana Ross and The Supremes – Baby Love\nGloria Gaynor – I Will Survive\nGossip – Standing In The Way Of Control\nGwen Stefani – What You Waiting For?\nJamiroquai – Cosmic Girl\nKC & The Sunshine Band – That’s The Way (I Like It)\nKid Cudi vs Crookers – Day ‘N’ Nite\nKool And The Gang – Celebration\nLa Roux – Bulletproof\nLady Gaga – Poker Face\nMC Hammer – U Can’t Touch This\nNew Kids On The Block – Hangin Tough\nOutkast – Hey Ya!\nPaula Abdul – Straight Up\nPitbull – I Know You Want Me (Calle Ocho)\nReel 2 Real feat. The Mad Stuntman – I Like To Move It\nRicky Martin – Living La Vida Loca\nRun DMC vs Jason Nevins – It’s Like That\nSalt N Pepa – Push It\nShaggy – Boombastic\nSir Mix A Lot – Baby Got Back\nSoulja Boy – Crank That\nThe Backstreet Boys – Everybody (Backstreet’s Back)\nThe Jackson 5 – I Want You Back\nThe Pussycat Dolls – Don’t Cha",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8hp2.jpg",
+        "release_date": 1288915200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/singstar-dance",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 16128,
+        "name": "Kung Fu Rider",
+        "summary": "It is an action video game for the PlayStation 3. Players have to utilize the Move controller to navigate through the crowded streets of Hong Kong on a sliding office chair.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zhp.jpg",
+        "release_date": 1283299200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/kung-fu-rider",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 18230,
+        "name": "Medieval Moves: Deadmund's Quest",
+        "summary": "The evil Sorcerer Morgrimm has invaded Prince Edmund's Castle and plots to take over the kingdom, raising an army of skeletons from beyond. Now you must fight Morgrimm and his minions to restore order to the kingdom! Use the fluid PS Move motion-controls to battle your foes using swords, arrows, throwing stars and more! Let the adventure begin!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ter.jpg",
+        "release_date": 1321315200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/medieval-moves-deadmunds-quest",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 18237,
+        "name": "Sports Champions",
+        "summary": "Sports Champions is a 2010 sports video game developed by San Diego Studio and Zindagi Games and published by Sony Computer Entertainment for PlayStation 3, which utilizes PlayStation Move. It was officially unveiled at the 2010 Game Developers Conference in San Francisco. The game is a collection of modern and medieval sports games published by Sony Computer Entertainment and is jointly developed by San Diego Studio and Zindagi Games as a launch game for the PlayStation Move which would be bundled with the controller in several regions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3kcm.jpg",
+        "release_date": 1284595200,
+        "rating": 70.2172084624536,
+        "rating_count": 18,
+        "genres": "Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/sports-champions",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 18238,
+        "name": "Sports Champions 2",
+        "summary": "Using the PlayStation Move motion controller and PlayStation Eye, players become part of the event as they use their controllers to compete in a variety of new sporting challenges. Building upon the game mechanics of the first title, Zindagi Games and Sony’s Worldwide San Diego Studio make it easily accessible for players of all levels to jump right into the action. Each of the six events will have you energized as you improve your backswing, bowl a strike or perfect your left hook.\n\nSports Champions 2 comes with six pulse-pounding events including five new games and an update to the beloved Archery event from the first title. The new events include Skiing, Tennis, Boxing, Golf, and Bowling, offering a variety of activities that will appeal to everyone. Sports Champions 2 features new game modes, including Party Play, a new game feature, which invites you to compete with your family and friends in custom, multi-sport tournaments. It will also include beginner friendly controls without needing to calibrate for easier pick-up-and-play, ensuring competitors of all ages can jump right in and join the fun, while seasoned veterans can choose advanced modes for a greater challenge. For added fun, users can choose the new Create-a-Player function to customize everything from their character’s outfit to their animation and sound. As you play, unlock new clothing, equipment and accessories to keep the creativity flowing.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a62.jpg",
+        "release_date": 1351555200,
+        "rating": 72.34140010984629,
+        "rating_count": 11,
+        "genres": "Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/sports-champions-2",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 18240,
+        "name": "Echochrome II",
+        "summary": "Presenting a brand new take on the puzzle genre, echochrome ii introduces a unique twist on gameplay that lets players use pure imagination to solve puzzles by controlling light and shadows.\n\nUtilizing the PlayStation Move motion controller and the PlayStation Eye camera, players can rotate levels and control light and shadows to change the way objects are viewed and the shadows they cast. The ultimate goal is to lead your character through the path from beginning to end, while learning how a variety of different objects can be combined with perspectives, angles and the use of light can be used to help solve the puzzle. Beware … much like echochrome, the possibilities are infinite and there is always more than meets the eye as every person can view each puzzle differently!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2c66.jpg",
+        "release_date": 1292889600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/echochrome-ii",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 19435,
+        "name": "Catan",
+        "summary": "Catan is an adaptation of the multiplayer board game Settlers of Catan, with special features exclusively for the console version. Players take on the roles of settlers, each attempting to build and develop holdings while trading and acquiring resources. The game has illustrations in three variations - including the traditional Kosmos and Mayfair editions and the 3D edition. It's game rules are flexible, including official and alternative \"homemade rules.\" Another feature is support for text chat and audio chat - communicate with your opponents! Play online with players from all over the world.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60c0.jpg",
+        "release_date": 1229558400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Quiz/Trivia,Card & Board Game",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/catan--1",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 19664,
+        "name": "PlayStation Move Heroes",
+        "summary": "The game offers both single-player and two-player cooperative multiplayer modes as players progress through a series of levels. Featuring six playable characters—Ratchet, Clank, Jak, Daxter, Sly Cooper, and Bentley—the game comprises a total of 50 levels categorized into five \"archetypes\", five weapon classes, and four environments. These environments include Paris from Sly Cooper & Bentley, Metropolis City on Kerwan from Ratchet & Clank, Haven City from Jak and Daxter, and Planet X, an original game-created environment.\n\nPlayers have the flexibility to choose their character for each level, with each character offering a distinct gameplay style and potential advantages on specific levels. In cooperative play, the second player assumes the role of the first player's sidekick character. For instance, if the first player selects Jak, the second player automatically becomes Daxter.\n\nThe five weapon classes—Disc, Whip, Bowling, Projectile, and Melee—each bring a unique gameplay element. The Disc is thrown akin to a frisbee, with players controlling its navigation remotely using the Move controller to achieve objectives like hitting moving targets. The Whip is operated via the Move controller with 1-to-1 movement. Bowling functions similarly to the Disc, where players throw a bowling ball and guide it using the Move controller. Projectiles involve various guns and weapons, such as grenade launchers. Melee utilizes each character's distinctive weapons—Sly's cane, Ratchet's wrench, or Jak's gunstaff—to engage enemies in a manner reminiscent of their original games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wbx.jpg",
+        "release_date": 1300752000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/playstation-move-heroes",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 19802,
+        "name": "The Guided Fate Paradox",
+        "summary": "God has never had it so rough!\nMeet Renya, who happened to become God through a lottery. And then, his self-proclaimed personal angel named Lilliel took him to Celestia right away.\nTogether, they will tackle countless randomly-generated dungeons in this story-driven rogue-like RPG in order to guide the fate of all mankind to a revolution!\nFight, grow strong, customize your appearance, strengthen your equipment, and then fight some more. The only limit to your strength is your imagination!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2eo9.jpg",
+        "release_date": 1358985600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Strategy",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-guided-fate-paradox",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 19830,
+        "name": "Eight Days",
+        "summary": "First appearing as an unnamed tech demo at E3 2005, Eight Days was officially announced at the Sony E3 press conference before being canceled shortly after.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6piy.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/eight-days",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 19922,
+        "name": "Time and Eternity",
+        "summary": "Kamza, a vibrant kingdom located on a lush ocean island, is in the midst of a national event celebrating the upcoming marriage of their princess to a valiant knight. But when a group of assassins appears during the ceremony, this dream come true transforms into their worst nightmare. As the knight lays mortally wounded, the princess reveals her longhidden secret - there is a second soul living within her, and together they control the power to travel through time. But can they act quickly enough to reverse the course of history and find out what happened that fateful day? Only time will tell...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ja8.jpg",
+        "release_date": 1349913600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/time-and-eternity",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20114,
+        "name": "Sorcery",
+        "summary": "Sorcery is a magical fantasy adventure for the PlayStation 3 that transforms your Move controller into an incredible magic wand. The Nightmare Queen terrorizes the countryside, and only one of the fabled Sorcerers can stop her.\n\nCombine ancient, primal spells of the old world into devastating attacks as you battle the forces of darkness. Can you become a Sorcerer and save our world before it is plunged into Nightmare?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4vpd.jpg",
+        "release_date": 1337644800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Role-playing (RPG),Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/sorcery",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20196,
+        "name": "Metal Gear Solid: The Legacy Collection",
+        "summary": "Metal Gear Solid: The Legacy Collection is a video game compilation released exclusively for the PlayStation 3. It includes all the mainline Metal Gear games directed and designed by Hideo Kojima (including the VR Missions standalone expansion) that were released from 1987 through 2012. Bonus content include motion comic adaptations of the Metal Gear Solid graphic novels by Kris Oprisko and Ashley Wood and a 100-page booklet that catalogs numerous promotional posters, brochures and advertisement related to the games in the compilation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co45jf.jpg",
+        "release_date": 1373328000,
+        "rating": 99.51315060427099,
+        "rating_count": 43,
+        "genres": "Shooter,Tactical,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/metal-gear-solid-the-legacy-collection",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20396,
+        "name": "Savage Moon",
+        "summary": "Savage Moon is a tower defense strategy game which sees the player protecting a remote, off-world mining facility from constant attack by Insectocytes, a type of carnivorous creature inhabiting the planets. The mission is to strategically place an array of upgradeable, defensive weapons in the way of the bugs. There is a range of towers, from rapid-fire machine guns to support towers such as the chaos tower.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3j8y.jpg",
+        "release_date": 1230076800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Real Time Strategy (RTS),Strategy",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/savage-moon",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20407,
+        "name": "Start the Party!",
+        "summary": "Start the Party!, previously known as Move Party, is a 2010 augmented reality party video game for the PlayStation 3, which utilizes the PlayStation Move controllers. It was officially unveiled at the 2010 Game Developers Conference in San Francisco. The game is the first game developed by Supermassive Games and was published by Sony Computer Entertainment for release as a launch title for the PlayStation Move and was bundled with it in Asian regions excluding Japan. The game is a collection of augmented reality mini-games which utilise the PlayStation Eye and was released in Europe on 16 September 2010 and North America on 17 September 2010.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobeyx.jpg",
+        "release_date": 1284508800,
+        "rating": 60.67388505724912,
+        "rating_count": 5,
+        "genres": null,
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/start-the-party",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20408,
+        "name": "The Shoot",
+        "summary": "The Shoot, known in Japan as Shooting Studio, is a rail shooter which uses the PlayStation Move controllers. The premise of the game involves participating in the filming of action movies; instead of the usual lives the player character's attempts to succeed are measured by \"takes\". The player-controlled B-Movie star shoots his way through multiple themed sets, filled with cardboard enemies and obviously fake environments.\n\nThe game features five movies, all spoofing different movie genres, such as Horror and Westerns. Throughout these movies the protagonist is tasked with defeating enemies, freeing the civilians and putting on the best possible performance by activating motion-based power-ups. The player can shoot into the floor to send out a shockwave to vanquish all enemies on the screen. It is also possible to spin on the spot to slow down time and get a more accurate shot. Shooting into the sky activates Rampage, a powerful machine gun.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co937u.jpg",
+        "release_date": 1287446400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-shoot",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20445,
+        "name": "PixelJunk SideScroller",
+        "summary": "PixelJunk SideScroller is a side-scrolling shoot 'em up game developed by Q-Games for the PlayStation 3 as part of the PixelJunk series. It was released on the PlayStation Store on 25 October 2011 in North America and 26 October 2011 in Europe. Visually, it is designed to resemble old vector-based games and is based on the \"Road to Dawn\" bonus stage in PixelJunk Shooter 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2h01.jpg",
+        "release_date": 1319500800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Puzzle,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/pixeljunk-sidescroller",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20449,
+        "name": "Time Crisis: Razing Storm",
+        "summary": "Time Crisis: Razing Storm, known in Japan as Big 3 Gun Shooting, is a compilation of light gun rail shooter video games by Namco for the PlayStation 3 home console. Featuring full compatibility with both the GunCon 3 light gun and the PlayStation Move motion control system, the compilation consists of ports of various arcade games. Developed by Nex Entertainment and published by Namco Bandai Games, the compilation was released in North America on October 19, 2010 and in Japan on October 21, 2010, which is the launch date of the PlayStation Move in Japan. It will also be released as part of a bundle with the PlayStation Move, PlayStation Eye and the Shooting attachment for the PlayStation Move in Japan and other Asian countries such as Singapore.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6et4.jpg",
+        "release_date": 1287446400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/time-crisis-razing-storm",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20570,
+        "name": "Carnivores: Dinosaur Hunter HD",
+        "summary": "In the near future advances in engineering made interstellar travel possible, bringing forth the era of space exploration.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2za4.jpg",
+        "release_date": 1378771200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator,Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/carnivores-dinosaur-hunter-hd",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20630,
+        "name": "PlayStation Move Ape Escape",
+        "summary": "It's time for some monkey business on PlayStation 3!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92nr.jpg",
+        "release_date": 1291852800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/playstation-move-ape-escape",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20692,
+        "name": "Trash Panic",
+        "summary": "Trash Panic is a puzzle game that has been compared to Tetris in terms of gameplay. Though in Trash Panic the object of the game is to compact items of garbage, not remove rows of blocks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3jcg.jpg",
+        "release_date": 1237420800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/trash-panic",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20701,
+        "name": "Calling All Cars!",
+        "summary": "Calling All Cars is a high-octane, cops n' robbers multiplayer, action/party game with cel-shaded graphics. The object of the game is to capture escaped convicts while battling against three other bounty hunters who are also trying to capture the criminals. Points are awarded for captured criminals, and the bounty hunter with the most points wins. The game features online multiplayer and split-screen play.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60by.jpg",
+        "release_date": 1178755200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/calling-all-cars",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20762,
+        "name": "PixelJunk Racers",
+        "summary": "PixelJunk Racers is an addictive slot car racing game that supports 1080p* and features single player and multiplayer fun (up to 7 players simultaneously offline!). Intuitive controls, 32 different race modes, and online rankings will provide countless hours of racing mayhem.\n\nKEY FEATURES\n• Unlimited Racing Action – 16 core racing modes with varying degrees of difficulty for a total of 32 modes, including an in-depth single-player tournament and offline multiplayer modes (up to 7 players!).\n• Full HD at 1080p – Speed through 10 richly detailed courses.\n• SIXAXIS Wireless Controller – Use the controller’s left and right buttons on the D-pad to steer through traffic, master cornering, and overtake rival vehicles.\n• Global Online Ranking – Play for your personal best in Score Attack and see how you stack up against other racers worldwide.\n\n*PixelJunk Racers is optimized for HDTVs",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2x24.jpg",
+        "release_date": 1189641600,
+        "rating": 69.69436260908563,
+        "rating_count": 5,
+        "genres": "Puzzle,Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/pixeljunk-racers",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20826,
+        "name": "Carnival Island",
+        "summary": "Carnival Island is a motion-controlled party video game. Take a trip to Carnival Island and experience the joy of classic family-friendly carnival fun in over 35 carnival games and attractions. Complete challenges, unlock adorable pets, and help bring magic and life back to the island. Using the PlayStation Move motion controller's precise tracking technology, every toss, roll, throw, spin, and slam is translated directly into the game for extremely accurate and responsive gameplay. Whether you're 5 or 65, family game night just got a lot more fun!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a63.jpg",
+        "release_date": 1321315200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/carnival-island",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 20881,
+        "name": "Legasista",
+        "summary": "Legasista is a PlayStation 3 game published by Nippon Ichi Software. It was released in Japan on disc in March 2012 then in North America and Europe exclusively as a downloadable game through the PlayStation Network in August 2012. It is a dungeon crawling action role-playing game. For the game's North American and European releases, it was not dubbed, spoken dialog remaining in the original Japanese.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z6l.jpg",
+        "release_date": 1331769600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/legasista",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21084,
+        "name": "The Ico & Shadow of the Colossus Collection",
+        "summary": "The Ico & Shadow of the Colossus Collection is a video game bundle that contains high-definition remasters of two older PlayStation 2 games for the PlayStation 3, and was developed by Bluepoint Games and released alongside Ico as The Ico & Shadow of the Colossus Collection in September 2011.\n\nThe Collection features:\n- High-definition (HD) graphics\n- Content previously missing from the North American release\n- PlayStation Network Trophies\n- 3D support.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ako.jpg",
+        "release_date": 1316649600,
+        "rating": 89.15321638353723,
+        "rating_count": 18,
+        "genres": "Platform,Puzzle,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-ico-and-shadow-of-the-colossus-collection",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21136,
+        "name": "Crash Commando",
+        "summary": "Crash commando is a fast-paced PlayStation 3-exclusive side-scrolling shooter. Obviously inspired by Worms and Soldat, the large levels and small characters allow for hectic action in both single and online multiplayer modes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3crh.jpg",
+        "release_date": 1229558400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/crash-commando",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21167,
+        "name": "Eat Them!",
+        "summary": "Create custom people-powered monsters and have them run amuck.\n\nTake on the role of disgraced government scientist, Dr. Wilder and create an array of giant monsters to wreak havoc on the comic-inspired, cel-shaded city streets. Eat people for power and destroy everything in your path using heavy-hitting melee weapons, mortars, powerful long-range lasers and more!\nJoin up to four players in cooperative off-line madness and stop at nothing as you totally destroy the city and your path of vengeance!\nBut beware; as your rampage progresses expect heavy resistance from police and SWAT units to the army and even the air-force!\nFeatures:\nBuild your unique creature in the Monster Lad and go on a monster mash, causing as much damage to the city as possible\nTeam up with up to four players for cooperative destruction and mayhem\nPower your custom-created beast's weapons and abilities by eating the city's inhabitants\nEnjoy bonus missions, multiplayer modes and global leaderboards to maximize your monsterous mayhem!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2xgg.jpg",
+        "release_date": 1292889600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/eat-them",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21244,
+        "name": "Battle Tanks",
+        "summary": "Battle Tanks (called “Tank Battles” outside North America) is a World War II themed multidirectional shooter Inspired by classics like Combat for the Atari 2600, and the arcade game Tank Force.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rhn.jpg",
+        "release_date": 1251331200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/battle-tanks",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21246,
+        "name": "Comet Crash",
+        "summary": "Real-time strategy is taken to a new level by blending classical tower defense gameplay with offensive counterattacks and dynamic AI.Defend your territory with a variety of weapons. Use specialized units to fight off attacks and rush your enemies with massive armies.Fight your way through action packed levels in Campaign mode or challenge your friends in Battle mode. Stunning 1080p graphics with music by Synaesthesia.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ps0.jpg",
+        "release_date": 1238630400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/comet-crash",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21287,
+        "name": "The Punisher: No Mercy",
+        "summary": "The Punisher: No Mercy is a first-person shooter video game that was released on July 2, 2009 to the PSN Store. The game was pulled from PSN as of 2011 due to licensing expiring between Marvel and Zen Studios.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ipk.jpg",
+        "release_date": 1246492800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-punisher-no-mercy",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21348,
+        "name": "The Last Guy",
+        "summary": "The Last Guy is a rescue game in which the eponymous player character must guide civilians to escape from monster-infested cities.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2itn.jpg",
+        "release_date": 1217462400,
+        "rating": 79.93495440729484,
+        "rating_count": 5,
+        "genres": null,
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-last-guy",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21397,
+        "name": "Formula One: Championship Edition",
+        "summary": "Sony's Formula One series is continued on the PS3 and this game is based on the 2006 season. The game modes feature Time Trial, Quick Race, Race Weekend, World Champion, Career and several online game modes. All official drivers, teams and circuits from the 2006 season are present. Numerous options and driving aids allow you to customise the experience to suit your skill and preferences - from arcade style, to full technical simulation.\n\nOther improvements over the previous games in the series include high-definition graphics, full surround sound and support for the SIXAXIS controller. Players can choose to steer the cars by tilting the controller. Pitstops can be planned prior to the race and a safety car has been added to slow down the race when an accident occurs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5fui.jpg",
+        "release_date": 1167264000,
+        "rating": 76.09031688190038,
+        "rating_count": 5,
+        "genres": "Racing,Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/formula-one-championship-edition",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21570,
+        "name": "Tekken Hybrid",
+        "summary": "Tekken Hybrid is a bundle collection of Tekken: Blood Vengeance 3D with an HD version of Tekken Tag Tournament and a demo version of Tekken Tag Tournament 2 called Tekken Tag Tournament 2 Prologue. It was officially announced at E3 2011. This collection was released exclusively on PlayStation 3.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ab4.jpg",
+        "release_date": 1321920000,
+        "rating": 60.34289787493442,
+        "rating_count": 6,
+        "genres": "Fighting,Sport,Hack and slash/Beat 'em up",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/tekken-hybrid",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21575,
+        "name": "Planet Minigolf",
+        "summary": "Planet Minigolf, brought to you by the creators of Zen Pinball, is an unparalleled minigolf experience, where cutting-edge visuals and state-of-the-art physics are coupled with tons of features and customization options.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3pp0.jpg",
+        "release_date": 1275350400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/planet-minigolf",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21710,
+        "name": "Short Peace: Ranko Tsukigime's Longest Day",
+        "summary": "A companion to Katsuhiro Otomo's short film anime collection Short Peace, Ranko Tsukigime's Longest Day is a fast-paced 2D side-scrolling platformer game directed by Goichi Suda (Suda51) of Grasshopper Manufacture and developed by Crispy’s Inc. Ranko Tsukigime’s Longest Day introduces a whole new storyline featuring stunning animation, thrilling gameplay, and psychedelic visuals that will draw players into Ranko Tsukigime’s story.\n\nBy day, Ranko Tsukigime is an average high school girl who lives alone, but at night she is a deadly hitman who deftly assassinates her targets. One fateful night as Ranko heads out to eliminate her next target, a demonic enemy organization creeps up and threatens the lives of Ranko and her friends. Players will put their reflexes and quick judgment to the test in the fast-paced platforming gameplay that will have them blazing through dangerous, obstacle-ridden environments to flee from an ominous enemy looming close behind.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tor.jpg",
+        "release_date": 1389830400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/short-peace-ranko-tsukigimes-longest-day",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21714,
+        "name": "PixelJunk: 4am",
+        "summary": "From the crazy, ambient, mellow world which only exists within the mind of renowned artist and musician Baiyon, PixelJunk 4am reflects a huge departure from previous PixelJunk titles by putting the power of creation directly into your fingertips. Mix tracks, experiment with audio effects, and stream live to your friends over the PlayStationNetwork by using 4am’s unique Virtual Audio Canvas to control your composition with the PlayStationMove’s full range of motion. PixelJunk 4am, Q-Games’ first Move title, gives you the power to make breathtaking music and visuals and perform live to the world. This is the PlayStation Move killer app you’ve been waiting for.\n\nKey Features\n\n-Mix and create your own music with the PlayStationMove.\n-\"Paint\" with sound in 3D space by pulling new tracks from the surrounding audio palette.\n-Broadcast your music LIVE across PSN worldwide\n-Download the Free Viewer to tune in to anybody’s performance\n-Gather fans and earn trophies with Twitter & Facebook support.\n-Create live mixes in simultaneous two player sessions.\n-Use 4am as a stand-alone visualizer for your own music",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2img.jpg",
+        "release_date": 1337040000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music,Indie",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/pixeljunk-4am",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21808,
+        "name": "Elefunk",
+        "summary": "Elefunk is a PSN puzzle game that challenges players to build appropriately designed and supported bridges to allow the elephants' crossing. Made by 8bit Games, Elefunk uses a true-to-life physics model to determine pressure points and weight distribution.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d5j.jpg",
+        "release_date": 1215648000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/elefunk",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21816,
+        "name": "High Velocity Bowling",
+        "summary": "High Velocity Bowling is a virtual bowling sports game available from the PlayStation Network, and available for download Via the PlayStation Store. The game was released December 6, 2007 for the PlayStation 3. The game was developed by SCE San Diego Studio's in-house studio, Team Ramrod, and published by Sony Computer Entertainment. The game was first announced at the SCEA's Gamers Day 2007 at their Santa Monica Studios. The European release date was originally scheduled for an April 2008 release, but this was then delayed until May because of the new and improved PlayStation Store, included in Firmware 2.3. The game was released in Europe on May 6, 2008. On September 21, 2010, an update made the game playable with the PlayStation Move controller.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99wh.jpg",
+        "release_date": 1196985600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/high-velocity-bowling",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21818,
+        "name": "Dark Mist",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60gy.jpg",
+        "release_date": 1194480000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/dark-mist",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 21881,
+        "name": "Snakeball",
+        "summary": "Snakeball & trade; is a funky, futuristic sport set in a vibrant arena where you glide across the dazzling disco floor on your hoversnake, collecting balls and scoring goals. Watch out for the other snakeballers desperate to knock you for a spin with a flick of their tails or a blast from their fiendish weapons. Chaotic action and energetic music bring together up to 8 players in entertaining online matches for a fun, unique gameplay experience.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3j96.jpg",
+        "release_date": 1198108800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/snakeball",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 22030,
+        "name": "Soulcalibur: Lost Swords",
+        "summary": "Soulcalibur: Lost Swords was a free-to-play fighting game distributed through PlayStation Network. The game is based on Soulcalibur V and uses the same weapon-based fighting system from previous games; however, several of the gameplay mechanics are altered, simplified or otherwise removed. Similar to other free-to-play titles like Tekken Revolution, microtransactions are offered, some of which remove the playtime limit of the game. The game is also periodically updated with new content, including new events, items, and characters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pgd.jpg",
+        "release_date": 1391644800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/soulcalibur-lost-swords",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 22191,
+        "name": "Wonderbook: Book of Spells",
+        "summary": "Book of Spells (or Wonderbook: Book of Spells) is an augmented reality video game developed in conjunction with J. K. Rowling as a companion to the Harry Potter series. It was introduced at the Electronic Entertainment Expo in June 2012 and is the first release for the Wonderbook. It is based on Book of Spells, a fictional book by Miranda Goshawk released about 200 years from the event date.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uiz.jpg",
+        "release_date": 1352764800,
+        "rating": 59.94198119694229,
+        "rating_count": 8,
+        "genres": "Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/wonderbook-book-of-spells",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 23092,
+        "name": "Nucleus",
+        "summary": "Kuju's cellular shooter offers something a little different than the typical dual-joystick shooter.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/xaevnmhgkhzbj8sfxz7b.jpg",
+        "release_date": 1183680000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/nucleus",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 23105,
+        "name": "Blast Factor",
+        "summary": "Blast Factor is a physics-based action game which takes players into a fierce microbiological arena to guide a nano-machine against viral swarms. Proceed from specimen to specimen, waging microscopic war against an array of deadly viruses. Tilt the SIXAXIS controller to send ripples through the arena that shove enemies into groups, and then blast ‘em into catastrophic chain explosions for big points! Immersive high adrenaline arcade action in full HD at 1080p.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ghi.jpg",
+        "release_date": 1163203200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/blast-factor",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 23357,
+        "name": "Invizimals: The Lost Kingdom",
+        "summary": "Explore the world of the Invizimals as the smash hit series comes to PlayStation 3 in a thrilling third-person adventure. You are Hiro, a young explorer who discovers a magical portal that teleports you to the Lost Kingdom -- a land under attack from a cruel, rampaging robot army. Transform into 16 of the most popular Invizimals, using their unique powers and abilities to solve puzzles and battle against your enemies.\n\nLink up with players of Invizimals: The Alliance on PlayStation Vita to swap bonus game items and stage electrifying four-player battles via Cross-Platform play",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dcy.jpg",
+        "release_date": 1395964800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/invizimals-the-lost-kingdom",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 25089,
+        "name": "Wonderbook: Walking with Dinosaurs",
+        "summary": "Walking with Dinosaurs: Wonderbook to take you closer to the largest creatures to ever walk the Earth. Experience the wonder and awe of having giant dinosaurs stampeding through your living room.\n\nTravel around the globe to authentic paleontological dig sites to excavate fossils that then come to life transporting you back millions of years. Follow individual dinosaurs as they struggle to live in hostile landscapes filled with predators, prey and natural disasters.\n\nOur collaboration with BBC Worldwide provides a unique level of authenticity. Each fact you uncover is independently verified by a panel of dinosaur experts. What you learn will change your understanding of these prehistoric beasts forever.\n\nPrepare to take the next step in Walking with Dinosaurs: Wonderbook",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30ke.jpg",
+        "release_date": 1384214400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/wonderbook-walking-with-dinosaurs",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 25090,
+        "name": "Wonderbook: Diggs Nightcrawler",
+        "summary": "Diggs Nightcrawler is the second game to make use of the Wonderbook peripheral, alongside Walking with Dinosaurs and Book of Potions.\n\nDiggs Nightcrawler is a film-noir inspired, detective story developed exclusively for Wonderbook for PlayStation 3 in partnership with the Academy Award winning Moonbot Studio. Players will partner up with Diggs Nightcrawler, a bookworm detective, in his quest to solve the mysterious crimes in Library City. Use the unique Wonderbook to manipulate the world and discover surprises around every corner and over every page.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ubd.jpg",
+        "release_date": 1369958400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/wonderbook-diggs-nightcrawler",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 25099,
+        "name": "Wonderbook: Book of Potions",
+        "summary": "Book of Potions (or Wonderbook: Book of Potions) is a 2013 augmented reality video game developed by SCE London Studio in conjunction with J. K. Rowling as a companion to the Harry Potter series and as a followup to the Wonderbook's debut title, Book of Spells. It was released in Europe on 15 November 2013 and North America on 12 November 2013, alongside Diggs Nightcrawler and Walking with Dinosaurs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wzb.jpg",
+        "release_date": 1384214400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Quiz/Trivia",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/wonderbook-book-of-potions",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 25184,
+        "name": "Saint Seiya: Sanctuary Battle",
+        "summary": "Saint Seiya: Sanctuary Battle immerses players in the most popular drama from Saint Seiya: the Sanctuary, as Seiya and his companions fight side by side to defeat the gold saints of the twelve palaces and protect Athena. As players complete quests and progress through the twelve levels, they can inflict tremendous damage on their foes with fast-paced Cosmo power-up attacks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gdw.jpg",
+        "release_date": 1322006400,
+        "rating": 67.78449888416914,
+        "rating_count": 6,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/saint-seiya-sanctuary-battle",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 26101,
+        "name": "Cash Guns Chaos",
+        "summary": "Cash Guns Chaos is a fast-paced top-down shooter featuring intense run and gun arcade-action across more than 15 blood-filled and body-part-laden levels. Battle a never-ending onslaught of relentless enemies. After being captured by an alien race you’ll need to fight your way through their idea of a twisted 70's game show to save yourself and the human race. In order to survive this televised free-fire zone you will need to kill as many enemies as you can while snatching their cash and prizes they drop in order to survive to the end!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60c6.jpg",
+        "release_date": 1163721600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/cash-guns-chaos",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 26754,
+        "name": "TV Superstars",
+        "summary": "TV Superstars is a party video game in which you get to cook, model, and boogie your way past 15 minutes of fame and into celebrity stardom!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/vso5vz4mslcafctm85fo.jpg",
+        "release_date": 1286928000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Quiz/Trivia",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/tv-superstars",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 27001,
+        "name": "Toy Home",
+        "summary": "Toy Home is a downloadable racing video game on the PlayStation Store.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ctr.jpg",
+        "release_date": 1193875200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/toy-home",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 44572,
+        "name": "Bomberman Ultra",
+        "summary": "Bomberman Ultra retains classic gameplay elements combined with online multiplayer, full character customization and high-definition graphics. Fans of the popular series will be able to compete with the best Bomberman players worldwide, as Bomberman Ultra delivers frantic 8-player multiplayer battles online in 14 exotic arenas, as well as 4-player local multiplayer. Players can customize their own Bomberman characters with more than 50 character costumes, resulting in more than 150,000 possible combinations!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1oqy.jpg",
+        "release_date": 1244678400,
+        "rating": 76.03256990990117,
+        "rating_count": 8,
+        "genres": "Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/bomberman-ultra",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 45281,
+        "name": "Spelunker HD",
+        "summary": "Go spelunking with your buddies! The legendary Spelunker arrives on PlayStation 3 with lots of new contents, including an online multiplayer gameplay for up to 6 players to enjoy co-op play or compete to reach the goal in the shortest time! Based on the classic NES title of the same name.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iyc.jpg",
+        "release_date": 1238025600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/spelunker-hd",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 45282,
+        "name": "Sodium One",
+        "summary": "Sodium was a massively multiplayer online game that was based in and exclusive to the PlayStation 3's online community-based social gaming network PlayStation Home. Sodium was a planned four-part series of games, only two of which were released by the time of Home's closure. It was developed by Outso, a developing company that developed spaces and content for Home, and it was published by Lockwood Publishing, who had published other content for Home. The first part, Sodium One, was released on December 17, 2009 to the European and North American versions of Home.[1] It was later released in the Japanese and Asian versions on June 17, 2010 and July 29, 2010 respectively. The second part, Sodium 2: Project Velocity, was released on June 16, 2011 to the European and North American versions of Home.[2]\n\nDue to the nature of Home, the game continued to grow and expand as Home did. New games, virtual items, and community events were continually added until November 2014 when new content ceased to be published for Home, and Home closed on March 31, 2015.[3]",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmy7.jpg",
+        "release_date": 1263686400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/sodium-one",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52032,
+        "name": "Akimi Village",
+        "summary": "From the people who brought A World of Keflings, Akimi is a city building game for PS3",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5zzi.jpg",
+        "release_date": 1308009600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/akimi-village",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52152,
+        "name": "Beat Sketcher",
+        "summary": "Beat Sketcher is a fun and intuitive musical drawing experience for the PlayStationMove motion controller.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p6x.jpg",
+        "release_date": 1287619200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/beat-sketcher",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52227,
+        "name": "Funky Lab Rat",
+        "summary": "RAT Got the Power!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/hbdnel09pueoces861q4.jpg",
+        "release_date": 1290556800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Puzzle,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/funky-lab-rat",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52236,
+        "name": "High Stakes on the Vegas Strip: Poker Edition",
+        "summary": "High Stakes on the Vegas Strip: Poker Edition is a poker game available for download on the PSN network.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d9e.jpg",
+        "release_date": 1189641600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Turn-based strategy (TBS),Card & Board Game",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/high-stakes-on-the-vegas-strip-poker-edition",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52530,
+        "name": "Kung-Fu Live",
+        "summary": "Kung-Fu Live is a fighting game where the player steps through the PlayStation Eye camera into the game world, using any fighting moves they can imagine - punches, kicks, head butts and handbags.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2j21.jpg",
+        "release_date": 1291680000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/kung-fu-live",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52614,
+        "name": "Novastrike",
+        "summary": "NovaStrike is a dual-joystick arcade shooter from Tiki Games. While battling both airborne and grounded enemies, players can upgrade the Scythe fighter ship to improve its weapons and capabilities through seven levels of free-roaming play.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96i9.jpg",
+        "release_date": 1212624000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/novastrike",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52823,
+        "name": "Sky Diving",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7vp7.jpg",
+        "release_date": 1199923200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/sky-diving",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52908,
+        "name": "Tales From Space: About A Blob",
+        "summary": "Tales from Space: About a Blob is a side-scrolling puzzle-platform game about a race of alien Blobs. The game has a retro-inspired monster-movie art style and local co-op gameplay.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3j9c.jpg",
+        "release_date": 1297123200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Puzzle,Strategy",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/tales-from-space-about-a-blob",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 52990,
+        "name": "Under Siege",
+        "summary": "Under Siege is a real time strategy game exclusive to the PS3 and the PSN store.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ygr4gbecisrqwkyga6om.jpg",
+        "release_date": 1306972800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Real Time Strategy (RTS),Strategy",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/under-siege",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 53013,
+        "name": "Wakeboarding HD",
+        "summary": "Grab your board and hold on tight!\n\nWakeboarding HD drops players into a high-speed, water-filled, arcade experience to maneuver through tracks, perform high-flying tricks, collect bonuses and avoid dangers from exploding mines to bloodthirsty sharks. Show your skills and wreak havoc as the bright and colorful tropical paradise resort transforms into an action-packed extreme playground.\n\nPerform assigned tasks while zooming through obstacles at top speed in order to keep your action chains going. Jump the ramps, ride the rails, crash through boats, docks and tourists and collect stars and power-ups while feeling the power of the wake!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2my0.jpg",
+        "release_date": 1268870400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/wakeboarding-hd",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 65049,
+        "name": "Daisenryaku Perfect: Senjou no Hasha",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60gr.jpg",
+        "release_date": 1277337600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "9,46,38",
+        "external_url": "https://www.igdb.com/games/daisenryaku-perfect-senjou-no-hasha",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 65467,
+        "name": "Macross: Last Frontier",
+        "summary": "This PS3 Macross game is included on a hybrid Blu-Ray along with a Macross animated film.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa57a.jpg",
+        "release_date": 1319068800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/macross-last-frontier",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 66897,
+        "name": "The Trials of Topoq",
+        "summary": "\"The Trials of Topoq\" is a puzzle video game developed by London Studio for the PlayStation 3 that utilizes the PlayStation Eye camera peripheral. It was released on the European PlayStation Store on October 25, 2007 and appeared on the North American PlayStation Store on December 20, 2007.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/r8pg2zdgoypqjrdlujic.jpg",
+        "release_date": 1193270400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/the-trials-of-topoq",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 72936,
+        "name": "Go! Sports Ski",
+        "summary": "Go! Sports Ski is a skiing simulator that harnesses the SIXAXIS wireless controller to twist, turn and pull off tricks. The easy and intuitive motion control allows you to fly down visually stunning slopes right out of the gate. Supporting various single player modes, including slalom racing, a split-screen versus mode and several online battle modes, Go Sports Ski features two distinct courses.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d6t.jpg",
+        "release_date": 1190937600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/go-sports-ski",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 79292,
+        "name": "Macross 30: Voices across the Galaxy",
+        "summary": "Game celebrating the 30th anniversary of the Macross series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa57b.jpg",
+        "release_date": 1362009600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/macross-30-voices-across-the-galaxy",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 93616,
+        "name": "Shiki-Tei",
+        "summary": "A game about creating and maintaining a traditional Japanese garden.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wtt.jpg",
+        "release_date": 1214438400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/shiki-tei",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 93953,
+        "name": "Operation Creature Feature",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k5s.jpg",
+        "release_date": 1193270400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/operation-creature-feature",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 94999,
+        "name": "PachiPara DL Hyper Sea Story In Karibu",
+        "summary": "PachiPara DL is the first PS3 release and the first downloadable title in Irem's long-running pachinko simulation series. It features faithful 3D recreations of two pachinko machines made by Sanyo Bussan: CR Hyper Umi Monogatari in Carib MTA and CR Hyper Umi Monogatari in Carib MTB. There are two modes available: Tsūjō (Normal) mode allows the player to modify a wide range of settings for each machine, while Jissen (Battle) mode challenges the player to win as many balls as possible on the default settings with a limited starting pool and time limit. Scores from Jissen mode could be uploaded to a national leaderboard, which was also used for a promotional contest shortly after the game's release. There is also a View mode where the various animations that play on the in-game display can be freely viewed. There is no story mode.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iu5.jpg",
+        "release_date": 1214956800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/pachipara-dl-hyper-sea-story-in-karibu",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 97105,
+        "name": "GTI Club+: Rally Côte d'Azur",
+        "summary": "GTI Club+: Rally Côte d'Azur is the PlayStation 3 remake of the original GTI Club released in 1996.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25jq.jpg",
+        "release_date": 1228348800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/gti-club-plus-rally-cote-dazur",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 99979,
+        "name": "Mesmerize: Distort",
+        "summary": "Mesmerize is an Interactive art game developed by London Studio in association with Playlogic Entertainment for the PlayStation 3 platform, which utilizes the PlayStation Eye camera peripheral.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3xeu.jpg",
+        "release_date": 1198108800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/mesmerize-distort",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 154692,
+        "name": "Hot Shots Golf: Out of Bounds",
+        "summary": "The fun, addicting and ever-popular Hot Shots Golf franchise, tees it up on the PLAYSTATION 3 system. High Definition) detail of course graphics accompanied with new, more accurate golf physics, brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. With vibrant new courses, zany new characters and a wealth of new online features, Hot Shots Golf: Out of Bounds strives to enter the next generation strokes ahead of the competition.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d9g.jpg",
+        "release_date": 1185408000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/hot-shots-golf-out-of-bounds",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 206084,
+        "name": "Tori-Emaki",
+        "summary": "Art, folklore and possibly history. Use hand gestures and whole body movements seen by the PlayStation Eye to direct your flock of birds from location to location within the panning scroll, left, right, up or down. Every location worthwhile of the flock's touch down has its own ambiance you need to allow to let sink in. Some detailed exploration is in order as you steer your flock. Your flock shall observe human family life, struggle, war, and other worldly happenings in the Japanese interpretation. Relaxation and wonder are key words here.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobn7c.jpg",
+        "release_date": 1193875200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/tori-emaki",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 229454,
+        "name": "Xevious Resurrection",
+        "summary": "A new game in the Xevious series, only released as part of the Namco Museum Essentials compilation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6aoi.jpg",
+        "release_date": 1262217600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/xevious-resurrection",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 268764,
+        "name": "Wangan Midnight",
+        "summary": "Basic game modes are the Story Mode that follows the manga's plot according to the main characters point of view. The Time Attack Mode is based on time trials, and the Free Run Mode allows the user to drive the Shuto Expressway selecting his starting points without racing, and can drive anywhere on the Shuto Expressway. The One Match Mode is made for head-to-head quick games against the characters. Wangan Connection is the online game mode that allows people to create, host and join online games with up to three other players. Through the game's progression, the user can unlock two extra game modes, Survival Mode and Maximum Speed Mode. Survival Mode puts the player up against characters from the series. The goal is to beat a designated amount of rivals without losing. If the player loses, the game is over. Survival Mode is divided into three classes. Rookie has 20 rivals, and runs on the C1. Runner has 50 rivals, and runs on the New Belt Line. Monster has 99 rivals, and runs on the Wangan, part of the New Belt Line, and Yokohane. Maximum Speed Mode is where the player drives a car of his choice on the Yatabe Test Course. The goal is to go as fast as you can without blowing the engine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ja7.jpg",
+        "release_date": 1183593600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/wangan-midnight--1",
+        "cached_at": 1778663181
+      },
+      {
+        "id": 336101,
+        "name": "Everybody Dance: Digital",
+        "summary": "Everybody Dance: Digital is a free-to-play version of Everybody Dance. This version of the game contains no songs, instead packs of songs have to be downloaded from the PlayStation Store. These song packs are compatible with the original Everybody Dance as well as this version.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jza.jpg",
+        "release_date": 1360627200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "9",
+        "external_url": "https://www.igdb.com/games/everybody-dance-digital",
+        "cached_at": 1778663181
+      }
+    ]
+  }
+}

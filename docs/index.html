@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tonkatsu Collections — pre-built game, movie &amp; anime libraries for Tonkatsu Box</title>
+<meta name="description" content="75+ ready-to-import collections for Tonkatsu Box: full retro game catalogues by platform, console exclusives, top-50 picks, and curated movie/TV/anime lists. Free, open source, IGDB &amp; TMDB-backed.">
+<meta name="keywords" content="tonkatsu box, game collections, retro games, console exclusives, IGDB, TMDB, xcoll, xcollx, NES exclusives, PS2 exclusives, anime collections, movie collections, game library">
+<meta name="author" content="hacan359">
+<link rel="canonical" href="https://hacan359.github.io/tonkatsu-collections/">
+
+<!-- Open Graph / social -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Tonkatsu Collections">
+<meta property="og:description" content="75+ ready-to-import game, movie & anime collections for Tonkatsu Box. Console exclusives, complete platform libraries, top-50 picks.">
+<meta property="og:url" content="https://hacan359.github.io/tonkatsu-collections/">
+<meta property="og:image" content="https://hacan359.github.io/tonkatsu-collections/assets/logo.png">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<meta property="og:site_name" content="Tonkatsu Collections">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Tonkatsu Collections">
+<meta name="twitter:description" content="Pre-built game, movie &amp; anime collections for Tonkatsu Box. Console exclusives, complete libraries, top-50 picks.">
+<meta name="twitter:image" content="https://hacan359.github.io/tonkatsu-collections/assets/logo.png">
+
+<link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+
+<!-- Structured data: DataCatalog -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DataCatalog",
+  "name": "Tonkatsu Collections",
+  "description": "Pre-built game, movie and anime collections for Tonkatsu Box — a free, open-source media collection manager for Windows and Android.",
+  "url": "https://hacan359.github.io/tonkatsu-collections/",
+  "license": "https://github.com/hacan359/tonkatsu-collections/blob/main/LICENSE",
+  "creator": {
+    "@type": "Person",
+    "name": "hacan359",
+    "url": "https://github.com/hacan359"
+  },
+  "isPartOf": {
+    "@type": "SoftwareApplication",
+    "name": "Tonkatsu Box",
+    "url": "https://github.com/hacan359/tonkatsu_box",
+    "operatingSystem": "Windows, Android",
+    "applicationCategory": "Multimedia"
+  }
+}
+</script>
+</head>
+<body>
+
+<header class="hero">
+  <div class="container">
+    <h1>
+      <img class="logo" src="assets/logo.png" alt="Tonkatsu Box logo" width="56" height="56">
+      Tonkatsu Collections
+    </h1>
+    <p class="tagline">Pre-built game, movie &amp; anime collections for
+      <a href="https://github.com/hacan359/tonkatsu_box" target="_blank" rel="noopener">Tonkatsu Box</a>.
+    </p>
+    <div class="stats" id="stats">
+      <div><span data-stat="collections">—</span><label>collections</label></div>
+      <div><span data-stat="games">—</span><label>games</label></div>
+      <div><span data-stat="exclusives">—</span><label>exclusives</label></div>
+      <div><span data-stat="platforms">—</span><label>platforms</label></div>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- Home view -->
+  <section id="home-view">
+
+    <section class="about">
+      <h2>What is this?</h2>
+      <p>
+        <strong>Tonkatsu Collections</strong> is the official, community-curated catalogue of pre-built collections
+        for <a href="https://github.com/hacan359/tonkatsu_box" target="_blank" rel="noopener">Tonkatsu Box</a> —
+        the free, open-source media collection manager for Windows and Android. Each collection is a small
+        <code>.xcoll</code> or <code>.xcollx</code> file you can import into the app in seconds.
+      </p>
+      <div class="about-grid">
+        <div>
+          <h3>🎮 Complete libraries</h3>
+          <p>Full catalogues of officially released games per platform — Atari 2600 through PSP. Sourced from
+            IGDB, refreshed regularly.</p>
+        </div>
+        <div>
+          <h3>🏆 Top 50 picks</h3>
+          <p>Highest-rated, must-play 50 games per platform — handy when you don't want the whole catalogue.</p>
+        </div>
+        <div>
+          <h3>🌟 Console exclusives</h3>
+          <p>4 700+ games that released <em>only</em> on one platform, built by cross-referencing Wikipedia
+            categories with IGDB and verified by region (NES/Famicom, SNES/Super Famicom, TG-16/PC Engine etc.).</p>
+        </div>
+        <div>
+          <h3>🎬 Movies, TV &amp; anime</h3>
+          <p>Curated film, series and animation lists powered by TMDB metadata.</p>
+        </div>
+      </div>
+      <div class="about-howto">
+        <h3>How to import</h3>
+        <ol>
+          <li>Install <a href="https://github.com/hacan359/tonkatsu_box/releases/latest" target="_blank" rel="noopener">Tonkatsu Box v0.25+</a>.</li>
+          <li>In the app, open <strong>Settings → Import → Browse Online Collections</strong>, pick one, hit Download — done.</li>
+          <li>Or download any file from the catalogue below and use <strong>Import → Import Collection</strong> manually.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="filters">
+      <div class="search">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3-3"></path></svg>
+        <input type="search" id="search" placeholder="Search collections…" autocomplete="off">
+        <button class="clear" id="clear" aria-label="Clear">×</button>
+      </div>
+      <div class="dropdowns">
+        <details class="dropdown" id="platform-dropdown">
+          <summary><span class="label">All platforms</span><span class="caret">▾</span></summary>
+          <div class="menu" data-menu="platform"></div>
+        </details>
+        <details class="dropdown" id="category-dropdown">
+          <summary><span class="label">All categories</span><span class="caret">▾</span></summary>
+          <div class="menu" data-menu="category"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="count-row">
+      <div id="result-count"></div>
+      <div class="sort">
+        Sort:
+        <select id="sort">
+          <option value="platform">Platform</option>
+          <option value="items-desc">Items (most)</option>
+          <option value="items-asc">Items (fewest)</option>
+          <option value="name">Name</option>
+        </select>
+      </div>
+    </section>
+
+    <section id="cards" class="cards"></section>
+
+    <section id="empty" class="empty" hidden>
+      No collections match your filters.
+    </section>
+  </section>
+
+  <!-- Collection detail view -->
+  <section id="detail-view" hidden>
+    <nav class="breadcrumb">
+      <a href="#" id="back-to-home">← All collections</a>
+    </nav>
+    <div class="detail-head">
+      <h1 id="detail-title"></h1>
+      <p id="detail-meta" class="muted"></p>
+      <p id="detail-desc"></p>
+      <div class="detail-actions">
+        <a id="detail-download" class="btn primary" download>⬇ Download collection</a>
+        <a id="detail-raw" class="btn secondary" target="_blank" rel="noopener">View on GitHub</a>
+      </div>
+      <div class="detail-filters">
+        <div class="search small">
+          <input type="search" id="detail-search" placeholder="Filter games by name…" autocomplete="off">
+        </div>
+        <details class="dropdown" id="genre-dropdown" hidden>
+          <summary><span class="label">All genres</span><span class="caret">▾</span></summary>
+          <div class="menu" data-menu="genre"></div>
+        </details>
+        <div id="detail-count" class="muted"></div>
+      </div>
+    </div>
+    <div id="detail-games" class="games-grid-large"></div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div class="footer-links">
+      <a href="https://github.com/hacan359/tonkatsu-collections" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://github.com/hacan359/tonkatsu-collections/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">Contribute</a>
+      <a href="https://github.com/hacan359/tonkatsu_box" target="_blank" rel="noopener">Tonkatsu Box</a>
+      <a href="https://github.com/hacan359/tonkatsu_box/releases/latest" target="_blank" rel="noopener">Download app</a>
+    </div>
+    <p>Game data from <a href="https://www.igdb.com/" target="_blank" rel="noopener">IGDB</a>.
+      Movie &amp; TV data from <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">TMDB</a>.
+      Exclusives sourced from Wikipedia.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

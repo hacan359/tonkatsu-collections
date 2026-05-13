@@ -1,0 +1,546 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Atari Jaguar Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:05+00:00",
+  "description": "Games released exclusively on Atari Jaguar, sourced from Wikipedia category \"Atari Jaguar-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 8477,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Alien_vs_Predator_%28Atari_Jaguar_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12364,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Blue_Lightning_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22460,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Iron_Soldier"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40798,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Kasumi_Ninja"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40807,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Skyhammer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40811,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Hyper_Force"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40812,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Hover_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40815,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Checkered_Flag_%281994_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40816,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Breakout_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40817,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Defender_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40818,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Zero_5_%28Atari_Jaguar_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40820,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/I-War_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40821,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/White_Men_Can%27t_Jump_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40822,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Ultra_Vortek"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40823,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Supercross_3D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40824,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Super_Burnout"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40827,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Iron_Soldier_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40828,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/AirCars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46923,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/World_Tour_Racing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46924,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Hover_Strike%3A_Unconquered_Lands"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46925,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Highlander%3A_The_Last_of_the_MacLeods"
+    },
+    {
+      "media_type": "game",
+      "external_id": 70194,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Battlemorph"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71125,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/BattleSphere"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79089,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Power_Drive_Rally"
+    },
+    {
+      "media_type": "game",
+      "external_id": 95461,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Protector_%28Atari_Jaguar_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 175892,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Val_d%27Is%C3%A8re_Skiing_and_Snowboarding"
+    },
+    {
+      "media_type": "game",
+      "external_id": 270275,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Phase_Zero"
+    },
+    {
+      "media_type": "game",
+      "external_id": 280030,
+      "platform_id": 62,
+      "comment": "https://en.wikipedia.org/wiki/Black_Out%21"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 8477,
+        "name": "Alien vs Predator",
+        "summary": "You're a Predator warrior in the 25th century--an awesome monster with an ugly face, brute strength and very cool weapons. Trained to fight with all that Predator technology has to offer--destroy or be destroyed! You've come to New Shanghai, a city on the planet Vega 4, to hunt humans, but instead, you find Aliens--powerful, double-jawed beasts bent on annihilating life. You're outnumbered, but not outsmarted--the hunt is on. Alien drones, warriors, chest-bursters and face-huggers stand in your way. Use your lasers, blades and special weapons of destruction to win honor for your deeds. Destroy the Guardian Aliens to advance to the next level, then follow your primal instinct to reach the ultimate prey... the Alien Queen!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3cs2.jpg",
+        "release_date": 782611200,
+        "rating": 67.71467661088374,
+        "rating_count": 15,
+        "genres": "Shooter",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/alien-vs-predator",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 12364,
+        "name": "Blue Lightning",
+        "summary": "Blue Lightning is a combat flight simulation video game developed by Attention to Detail and published by Atari Corporation exclusively for the Atari Jaguar CD on September 21, 1995. It is a remake of Epyx's 1989 Atari Lynx title of the same name and was, alongside Vid Grid, one of the pack-in games for the peripheral when it launched.\n\nAssuming the role of a rookie aircraft pilot from the Blue Lightning squadron, players take control of multiple military aircraft on various missions in order to stop General Drako, who betrayed the United Nations and slowly gained control of many armed forces through corruption to expand his organized crime empire on all over the world. Originally advertised as a sequel to the Atari Lynx original, Blue Lightning had a troubled development cycle and went through various changes before release.\n\nSimilarly with Cybermorph, an early game for the Jaguar created by its main developer, Blue Lightning received divisive reviews when it launched. While it received praise for its soundtrack, many reviewers felt divided in regards to the gameplay and graphics. Critics also compared the game with both the original Lynx game and After Burner, which received a conversion for the Sega 32X months prior.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3g37.jpg",
+        "release_date": 811641600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "6,62,410",
+        "external_url": "https://www.igdb.com/games/blue-lightning",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 22460,
+        "name": "Iron Soldier",
+        "summary": "The player controls a robot spanning 42 feet or 13 metres in a series of 16 missions consisting of destroying certain enemies and buildings. Some missions require the player to obtain new weapons from an enemy base or destroy other robots.\n\nThe player has a wide variety of weapons like rocket launchers, a chainsaw, gatling gun, shield, and self-controlled rockets, which can be equipped on any part of the robot.\n\nThe gaming media reported that Iron Soldier would support two-player gaming via the Jaguar's dial-up internet link;[1] however, the Jaguar internet link was never completed or released, so Iron Soldier was released as a single-player game only.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rzp.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/iron-soldier",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40798,
+        "name": "Kasumi Ninja",
+        "summary": "All hell is about to break loose!\nStop the Evil Ninja Lord Gyaku from opening the Dragon Cloud temple's portal to Hell and unleashing his demon minions upon Kasumi Island and the world. Battle it out in this bloody brawler in 1 Player Story mode or Two Player versus mode as one of the 8 all-time greatest warrior-fighters. Gain fighting skill and master special moves from bout to bout as you journey through the Underground Labyrinth to the Dragon Cloud temple where you'll face your ultimate opponent: The Evil Ninja Lord Gyaku himself!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qhb.jpg",
+        "release_date": 787968000,
+        "rating": 79.70676003660526,
+        "rating_count": 5,
+        "genres": "Fighting",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/kasumi-ninja",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40807,
+        "name": "Skyhammer",
+        "summary": "In a futuristic city, you are a mercenary pilot flying a helicopter-like craft in cyberspace. Hired by the large corporation Cytox, you are to defend its corporate holdings from those who seek to destroy all it has accomplished.\n\nThe numerous missions involve flying to several large cities and hunting down the renegades who threaten them. You have a cockpit view of the city as you hunt down your enemies and dock at the Cyber Mart for repairs. As you destroy your enemies and complete missions, you can earn credits for buying more supplies, weapons and ship upgrades at the Cyber Mart.\n\nPlay in Mission Mode or Battle Mode. To win the game, you must complete each mission successfully. The enemies become more tough as you progress through the \"levels\" of gameplay.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ysz.jpg",
+        "release_date": 958953600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/skyhammer",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40811,
+        "name": "Hyper Force",
+        "summary": "It's Just You, Your Gun, and a Corporate Army Bent On Your Destruction.\n\nTrans Con is decimating world after world in search of enough resources and wealth to launch an attack against the Terran High Command. The politicians don't want a direct confrontation that might hurt their corporate sponsors. So, Interstellar Special Forces has been called in to send a lone warrior to eliminate the Trans Con threat. Wanna guess who that warrior is?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/pywrmoylmwteaynumdvb.jpg",
+        "release_date": 968025600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/hyper-force",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40812,
+        "name": "Hover Strike",
+        "summary": "Terrakian Pirates have taken over a colonized planet under Federation control. They've set up an atmospheric cannon, making invasion impossible. Your job, as a hovercraft pilot, is to launch a pre-emptive strike on the planet's surface.\n\nHover Strike for the Jaguar is a mission-based tank game. In each mission, you will drop to the surface of the planet, destroy some targets, and then return to your ship in orbit. The hovercraft you pilot is heavily armored and includes various weapons systems to take out enemies and targets.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4sw6.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/hover-strike",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40815,
+        "name": "Checkered Flag",
+        "summary": "Get ready to burn rubber! Race for the Checkered Flag behind the wheel of a turbo-powered speedway racer in real-time, 3D-rendered action. Choose from 10 high-performance tracks and see the speedway from 6 distinct views. Alter features and attributes on your racer to improve your times or even change the weather conditions. Action is so intense and realistic you'll swear you feel the wind in your hair as your tires screech around the curves. Keep your sweaty palms on the controller!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3g31.jpg",
+        "release_date": 785289600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Simulator,Sport",
+        "platform_ids": "6,62",
+        "external_url": "https://www.igdb.com/games/checkered-flag",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40816,
+        "name": "Breakout 2000",
+        "summary": "SMASH! POW! CRUNCH! Is your hand/eye coordination up to demolishing field after field of bricks? Breakout 2000 brings back the nostalgia of early gaming days but adds 90's challenges, such as a three-dimensional field and bricks that resist breaking, as well as many powerups and hazards. You can also test your skill against a buddy. Break through your own wall and start working on his. You'll gain bonus points, and he'll go nuts! Who ever said life was fair never played Breakout 2000.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/wly5hkz53u0gob3hf98u.jpg",
+        "release_date": 852076800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/breakout-2000",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40817,
+        "name": "Defender 2000",
+        "summary": "You whomped the aliens from the Alpha Proximian Empire in classic Defender and sent them home to cry. Now they want the planets that Earth is mining for desperately needed, life-sustaining minerals. Your job is to protect the space miners as they perform their vital work. The aliens will try to capture them and use their life-energy to turn their ships into hyper-fast mutants. Rescure the captives and destroy the aliens or Earth is history!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/x8sgtzlmyojdaojvzcki.jpg",
+        "release_date": 823132800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/defender-2000",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40818,
+        "name": "Zero 5",
+        "summary": "Zero 5 is a futuristic space shooter set in a 3-D, 360 degree playfield. The year is 2044 and the battle for Earth has begun. On the far reaches of the galaxy, a massive invasion force is assembling. Scanners at DEFCON have alerted you to the alien threat. The Earth's best pilots are dispatched in their BAMBAM cruisers to engage the enemy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob2al.jpg",
+        "release_date": 875664000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/zero-5",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40820,
+        "name": "I-War",
+        "summary": "I-War is a 3D virtual reality tank game. In each of the 21 levels, you must find all the data pods and make your way to the exit. Enemy tanks, turrets, and bombers stand in your way, as well as occasional traps or locked doors controlled by hidden switches. Levels are divided into simple, enclosed rooms, linearly connected by one-way teleporters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co986p.jpg",
+        "release_date": 818985600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/i-war",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40821,
+        "name": "White Men Can't Jump",
+        "summary": "Are you ready for the most hyped up, monster jammin', bruisin' elbows, rebound snatchin', rim stuffin', skying over suckers, down your throat, money making game of street ball you never thought possible? Well, here it is, in your face, and it's time to get it on! Hit the courts with White Men Can't Jump!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co988k.jpg",
+        "release_date": 804556800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/white-men-cant-jump",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40822,
+        "name": "Ultra Vortek",
+        "summary": "Mankind must prove that it is worthy of the powers of the Ultra Vortek -- the eternal energy source for all life on Earth. Failure to meet this challenge will result in the Earth's destruction. Seven of the planet's mightiest warriors have been chosen to pit strength and cunning against the Guardian for complete control of the Ultra Vortek.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ueu.jpg",
+        "release_date": 810259200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/ultra-vortek",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40823,
+        "name": "SuperCross 3D",
+        "summary": "Supercross 3D brings the excitement of arena supercross racing to the Jaguar. Not only do you get to race ahead of your competitors, you can catch big air on the huge jumps and perform a few tricks.\nThere are three game modes: Practice, Single Race, and Tournament. In practice mode, you can race around any track for as long as you like. In single race mode, you compete in one race against the computer. Finally, in tournament mode, you compete in a series of races to accumulate points and become the Supercross champion.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68kt.jpg",
+        "release_date": 820454400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/supercross-3d",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40824,
+        "name": "Super Burnout",
+        "summary": "This game will get your adrenaline pumping and pin you to your seat with its 'G' force. As you lean into the first bend you'll feel like you're really there.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ysy.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/super-burnout",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40827,
+        "name": "Iron Soldier 2",
+        "summary": "Iron Soldier 2 is a first-person 3D giant mech game. Players must pilot their building-sized robots in a variety of missions ranging from search-and-destroy to surgical attacks to defending objectives. Starting with a limited set of weapons, players can collect more armaments throughout the game. Each weapon can be mounted on a certain part of the robot's body, but once mounted, no other weapons can be placed there. So, while there is a wide range of weapon configurations, not every weapon can be combined with others. Players can destroy buildings in levels to find crates containing new weapons and extra ammunition for current weapons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p8s.jpg",
+        "release_date": 883440000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "62,410",
+        "external_url": "https://www.igdb.com/games/iron-soldier-2",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 40828,
+        "name": "AirCars",
+        "summary": "Designed by Midnight Entertainment Group in 1995, ICD released AirCars in limited numbers. No real box was made (it came shrinkwrapped inside a box insert), but the cartridge included a label and manual, along with a picture of what the overlay might look like. This is an action/battle game in which you must destroy enemy bases while in your Air Car, and it supports up to 8 players using CatBoxes or 2 players using a JagLink. Although better graphics can be found on the Jaguar and control is a bit sluggish, linking 8 players using CatBoxes can be a unique experience. The hard part will be finding those extra CatBoxes and copies of AirCars.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5dju.jpg",
+        "release_date": 867369600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/aircars",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 46923,
+        "name": "World Tour Racing",
+        "summary": "World Tour Racing was the first racer available for the Atari Jaguar CD. Earlier cartridge games, like Super Burnout and Checkered Flag were received with mixed reviews, which created some excitement for the release of WTR. Gameplay includes customizable cars, seven different racing views, and surprisingly intelligent AI. World Tour Racing also features a damage system -- too many mid-race collisions will force drivers to the pits.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p8v.jpg",
+        "release_date": 865209600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "410",
+        "external_url": "https://www.igdb.com/games/world-tour-racing",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 46924,
+        "name": "Hover Strike: Unconquered Lands",
+        "summary": "Hover Strike is a futuristic 3D action game where you pilot a lone hovercraft in a series of missions against overwhelming enemy forces. You must use your speed, firepower, and displays to outfight and outwit the enemy. The game presents a series of missions which must be completed before you can advance. Goals include destroying a certain number or type of enemy units. The missions take place in a variety of different planetary environments.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3z29.jpg",
+        "release_date": 814406400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "410",
+        "external_url": "https://www.igdb.com/games/hover-strike-unconquered-lands",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 46925,
+        "name": "Highlander: The Last of the MacLeods",
+        "summary": "Quentin McCloud must rescue clan members during a journey across his world in this game for the Jaguar CD. Quentin is portrayed in 3D, as are his enemies, but most of his world is in 2D (much like Alone in the Dark and Resident Evil). Unfortunately, the 3D polygon construction of the characters is hideous, though the backgrounds and cut scenes are well done. The first-person control scheme has promise, but suffers from multiple problems. If Quentin is attacked from behind, by the time he pivots, he's usually dead. Highlander is a mediocre game deserving of consideration from Highlander fans but, even considering the scarcity of Jaguar CD titles, probably best left alone by others.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p8q.jpg",
+        "release_date": 815011200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "410",
+        "external_url": "https://www.igdb.com/games/highlander-the-last-of-the-macleods",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 70194,
+        "name": "Battlemorph",
+        "summary": "Vehicle-based 3D shooter that was released exclusively on the Jaguar CD peripheral, and is the sequel to the original Jaguar pack-in game Cybermorph.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p8o.jpg",
+        "release_date": 811641600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "410",
+        "external_url": "https://www.igdb.com/games/battlemorph",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 71125,
+        "name": "BattleSphere",
+        "summary": "A space-sim/shooter that was developed and released after the demise of its host console, the Atari Jaguar. Very few copies were ever made.\n\nBattleSphere's story was based upon an episode in the original Star Trek television series and it plays similarly to Star Raiders. Seven alien races vie against each other - the victor will control the galaxy. They meet in an arena in Sector 51, a spherical sector of space formerly used by the Earth government to secretly test new weapons and starships. Gameplay consists of 5 different play modes with different scenarios and goals. Choose from various starships (each with unique weapons systems) and battle the aliens, who have also chosen their best fighters and have many space ships of their own.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co76qv.jpg",
+        "release_date": 951782400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/battlesphere",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 79089,
+        "name": "Power Drive Rally",
+        "summary": "Fueled by a nitro-burning, 64-bit graphics engine, PowerDrive Rally delivers the sights, sounds and the chaotic intensity of pure Rally racing. You'll actually see the skid marks and icicles fly as you tear across the Italian countryside. Hear the gears grind and your navigator sneer as you rip through the Arizona desert. Feel the heart palpitations and adrenaline overload as you bury the needle along the dust-choked African plains.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3z2h.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/power-drive-rally",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 95461,
+        "name": "Protector",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fjk.jpg",
+        "release_date": 945648000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/protector--2",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 175892,
+        "name": "Val d'Isère Skiing and Snowboarding",
+        "summary": "Val d'Isère Skiing and Snowboarding is a skiing and snowboarding video game and a conversion of the SNES title Tommy Moe's Winter Extreme: Skiing & Snowboarding.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3z36.jpg",
+        "release_date": 786931200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/val-disere-skiing-and-snowboarding",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 270275,
+        "name": "Phase Zero",
+        "summary": "Phase Zero is an unreleased action-shooter video game that was in development by Hyper Image Productions and originally planned to be published by Atari Corporation on a scheduled September 1995 release date exclusively for the Atari Jaguar. It was the only game in development by Hyper Image. Assuming the role of a newcomer pilot from the titular squadron assigned to fight against an rival organization only known as The Collective in a foreign planet, players take control of a windowless VTV hovertank craft called Hunter in order to complete a series of missions and tasks, while battling against enemy VTV hovertanks. Hyper Image was originally working on a top-down shooter for the Super Nintendo Entertainment System, before the team later moved to the Jaguar with Phase Zero and opted to use their own interpretation of the heightmap technique to render the landscapes and visuals, in addition of also placing emphasis on LAN play for multiplayer.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co76r4.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "19,62",
+        "external_url": "https://www.igdb.com/games/phase-zero",
+        "cached_at": 1778663165
+      },
+      {
+        "id": 280030,
+        "name": "Black Out!",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i64.jpg",
+        "release_date": 1341792000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "62",
+        "external_url": "https://www.igdb.com/games/black-out--1",
+        "cached_at": 1778663165
+      }
+    ]
+  }
+}

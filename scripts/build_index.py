@@ -269,6 +269,12 @@ def build_index():
     with open("index.json", "w", encoding="utf-8") as f:
         json.dump(index, f, indent=2, ensure_ascii=False)
 
+    # Mirror for the GitHub Pages site (served from /docs).
+    docs_data = Path("docs/data")
+    docs_data.mkdir(parents=True, exist_ok=True)
+    with open(docs_data / "index.json", "w", encoding="utf-8") as f:
+        json.dump(index, f, indent=2, ensure_ascii=False)
+
     print(f"Generated index.json")
     print(f"  Collections: {len(collections)}")
     print(f"  Platforms: {len(platforms)}")

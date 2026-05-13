@@ -1,0 +1,736 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Game Gear Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:07+00:00",
+  "description": "Games released exclusively on Game Gear, sourced from Wikipedia category \"Game Gear-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1670,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Mini"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1738,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Mega_Man_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10219,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/The_G.G._Shinobi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10220,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/The_G.G._Shinobi_II%3A_The_Silent_Fury"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11648,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Crystal_Warriors"
+    },
+    {
+      "media_type": "game",
+      "external_id": 15535,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Galaga_%2791"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19485,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Ax_Battler%3A_A_Legend_of_Golden_Axe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19507,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Gaiden_%28Game_Gear%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19556,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog%3A_Triple_Trouble"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19668,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Pet_Club%3A_Neko_Daisuki%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19690,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Super_Columns"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19691,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sylvan_Tale"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19694,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Arena%3A_Maze_of_Death"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19715,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Tails_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19731,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_Labyrinth"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19938,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/X-Men%3A_Gamesmaster%27s_Legacy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45250,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Popeye_Beach_Volleyball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45262,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Popils"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45793,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Defenders_of_Oasis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45794,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Eternal_Legend"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45795,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/The_Majors%3A_Pro_Baseball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45796,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Tails%27_Skypatrol"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45798,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_Drift"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46296,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Pet_Club%3A_Inu_Daisuki%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46313,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/House_of_Tarot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46314,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Head_Buster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46315,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Godzilla%3A_Kaijuu_no_Daishingeki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46325,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Coca-Cola_Kid_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46339,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Poker_Face_Paul"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46348,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Factory_Panic"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46349,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Fred_Couples_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46350,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/The_Excellent_Dizzy_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46352,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Chicago_Syndicate_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46358,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_Drift_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79600,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sega_Game_Pack_4_in_1"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80837,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Power_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81251,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/X-Men_%281994_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 237315,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Ristar_%28Game_Gear_video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1670,
+        "name": "Panzer Dragoon Mini",
+        "summary": "One thousand years into the future, you live in constant fear of the Dark Dragon and his giant cyborg insect armies. Armed with a deadly weapon from the ancient past and the guidance of your armored blue dragon, you must save your people from endless swarms of deadly foes. Fulfill your destiny and keep the Dark Dragon from reaching the tower; or die trying.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co686l.jpg",
+        "release_date": 848620800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/panzer-dragoon-mini",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 1738,
+        "name": "Mega Man",
+        "summary": "It's MEGA MAN versus the powerful leaders and fighting forces of Monsteropolis - that strange multi-layered land of robot-like humanoids created by the wrongly-performed experiments with human beings by Dr. Wily. Mega Man - the chosen defender of the human race. For he dares to single-handedly penetrate Monsteropolis' seven separate societies to stop the rapid expansion of strange misrepresentations of humans.\n\nMega Man's goal is monumental. He must infiltrate seven separate heavily-guarded empires. By himself, he must break down and destroy the following empire leaders: Cutman, Gutsman, Iceman, Bombman, Fireman, Elecman, and Dr. Wily. The action involves Mega Man armed only with laser beam weapons, encountering strangely-configured humanoids. They're atop, in and out of fortified prison-like structures strengthened with thick walls. Hidden amid gun turrets embedded in concrete uprights, even in subterranean passages below icefields. WOW!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co88mv.jpg",
+        "release_date": 820368000,
+        "rating": 79.8248325243443,
+        "rating_count": 6,
+        "genres": "Platform",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/mega-man--2",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 10219,
+        "name": "Shinobi",
+        "summary": "Shinobi is a side-scrolling action game by Sega released for the Game Gear in 1991. It was the first Shinobi game developed specifically for a portable game platform.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ypo.jpg",
+        "release_date": 672624000,
+        "rating": 63.74100719424461,
+        "rating_count": 5,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "37,35",
+        "external_url": "https://www.igdb.com/games/shinobi--3",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 10220,
+        "name": "Shinobi II: The Silent Fury",
+        "summary": "Shinobi II: The Silent Fury is a SEGA Game Gear exclusive sequel in the Shinobi series, following up on the original Game Gear Shinobi.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30it.jpg",
+        "release_date": 724032000,
+        "rating": 72.51295714376734,
+        "rating_count": 9,
+        "genres": "Platform,Hack and slash/Beat 'em up,Arcade",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/shinobi-ii-the-silent-fury",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 11648,
+        "name": "Crystal Warriors",
+        "summary": "The continent of Tyramus has lived in peace for almost a century, thanks to the four elemental crystals of the kingdom of Arliel. However, peace is threatened by the invading armies of the Jyn Empire, led by Emperor Grym, who wants to use the four crystals to rule over Tyramus. Fortunately, Princess Iris can escape with one of the crystals and now the player has to protect her and the crystal and somehow find a way to drive back the hordes of Jyn.\n\nGameplay in Crystal Warriors is quite similar to Shining Force. The player fights in turn-based battles controlling different characters like fighters, healers, rangers and mages, all with different strengths and skills. Whenever two units engage in battle, they enter a duel mode lasting for up to two turns. In this mode the player can choose between four commands: \"battle\" (attack), \"retreat\", \"spell\" and \"monster\". While the first three commands are quite self-explanatory, the \"monster\" command is interesting. Whenever a non-human enemy is defeated, it can be tamed and be used in battles. While most monsters do not have many HP they can serve as good attackers for physically weak characters or take some hits in order to protect his master. In-between battles the player can visit towns to rest, buy weapons and spells or recruit new party members.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6gbt.jpg",
+        "release_date": 692582400,
+        "rating": 89.3502261962312,
+        "rating_count": 6,
+        "genres": "Role-playing (RPG),Strategy,Tactical",
+        "platform_ids": "37,35",
+        "external_url": "https://www.igdb.com/games/crystal-warriors",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 15535,
+        "name": "Galaga '88",
+        "summary": "The gameplay in Galaga '88 is built on the same premise as that of the original Galaga game, but is in many ways more complex and more difficult. The game is divided into a series of 29 Stages distributed through eight Worlds. The starship Galaga accelerates between Stages and Worlds and even to higher dimensions (go to the section on Dimensional Travel below to find out more).\n\nWith the exception of the third and eighth, each World culminates in a Challenging Stage. There are six such stages to engage in any full game, and each begins with the on-screen announcement \"That's Galactic Dancin'!\" and has its own YM2151-generated song to which the enemy formations dance. In any given Challenging Stage, both the design of the enemies and their dancing formations shall vary according to the player's current Dimension. As in Galaga, the objective is to destroy all forty enemies before they fly away off the screen. However, refraining completely from touching any controls for the duration of a Challenging Stage awards a \"secret bonus\" ranging in value from 10000 to 25000 points, and equal to the \"special bonus\" which would have been awarded for destroying all forty enemy aliens instead.\n\nGalaga '88 introduces a variety of new enemies and behaviors. Most of these special enemies are worth varying amounts of bonus points when destroyed. Some enemies can combine into larger enemies which take multiple hits to destroy, while others arrive in eggs, explode in a shower of fireworks, grow with multiple hits, or sport armor which makes them invincible while in formation. Certain enemies drop small formations of tiny creatures that wiggle their way down the screen, and still others can act as escorts to incoming groups of enemies and then quickly dive at the player before leaving the game. Most stages also include various obstacles which appear once the enemy formation has been assembled. These can be destroyed with either one or several shots, and the first one on each stage will leave a \"Warp Capsule\".\n\nAt the start of the game, the player can select how many Galaga starships to start with (one or two), affecting their number of remaining lives. The game ends after the final boss is defeated (or when the player's last ship is destroyed or captured) - in the latter case, the player can continue the game for an additional credit. The Game Over screen shows the player's hit-miss ratio and a visual representation of their progress. If the player reaches Stage 27, the game also shows a picture of the final boss (damaged if defeated, but silhouetted if not). If the arcade operator has set the \"continue\" option to \"on\", the player also cannot continue if he is defeated on Stages 27-29.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pol.jpg",
+        "release_date": 565315200,
+        "rating": 87.3224571990794,
+        "rating_count": 18,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "52,121,5,35,86",
+        "external_url": "https://www.igdb.com/games/galaga-88",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19485,
+        "name": "Ax Battler: A Legend of Golden Axe",
+        "summary": "Use your wits and your razor sharp sword to recapture the Golden Axe from the diabolical Death Adder. Defeat skeletons and giant bats in dark, deep chasms and caves. And summon Earth, Thunder and Fire Magic to fight gargoyles that come to life before your eyes!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47yt.jpg",
+        "release_date": 688953600,
+        "rating": 52.98296634815123,
+        "rating_count": 5,
+        "genres": "Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/ax-battler-a-legend-of-golden-axe",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19507,
+        "name": "Ninja Gaiden",
+        "summary": "Ninja Gaiden is an action video game released for the Game Gear in 1991 by Sega with license from Tecmo. It stars Ryu Hayabusa and is part of the Ninja Gaiden series, although it features a plot not connected to any of the other Ninja Gaiden games.\n\nGameplay is in many ways similar to the NES and Master System games with minor differences in mechanics. Jumping is more like moon jumping and the sword slash is quicker and has a wider range. Ryu can also scale walls and edges. There four different secondary weapons. Ryu's \"spiritual strength\" (called Force) can go up to 99.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ipp.jpg",
+        "release_date": 688953600,
+        "rating": 64.27574864424655,
+        "rating_count": 15,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/ninja-gaiden--2",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19556,
+        "name": "Sonic the Hedgehog: Triple Trouble",
+        "summary": "Sonic and Tails are back with three times the fun and three times the trouble! Dr. Robotnik is building the ultimate super-weapon with the help of Knuckles, but you can stop him by getting the Chaos Emeralds first. Rip across snow and water on Sonic's new jet skateboard or zip underwater in Tails' \"Sea Fox\". But look out - Nack the Weasel is after the Emeralds, too!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztv.jpg",
+        "release_date": 784512000,
+        "rating": 79.40379105563589,
+        "rating_count": 18,
+        "genres": "Platform,Adventure,Arcade",
+        "platform_ids": "37,35",
+        "external_url": "https://www.igdb.com/games/sonic-the-hedgehog-triple-trouble",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19668,
+        "name": "Neko Daisuki!",
+        "summary": "A pet simulator, similar to Tamagotchi, where you take care of a small kitten.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7e8v.jpg",
+        "release_date": 837734400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/neko-daisuki",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19690,
+        "name": "Super Columns",
+        "summary": "Super Columns is charged with new ways to play and win at this intensely gripping puzzle game. Magic gems can suddenly flip the screen while Bomb gems can blast up to 5 gems at once! Hook up to a friend with your Gear to Gear connection and really test your skills!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ske.jpg",
+        "release_date": 801446400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/super-columns",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19691,
+        "name": "Sylvan Tale",
+        "summary": "Sylvan Tale follows the typical action-adventure game formula: The player controls a character who must solve puzzles, fight enemies, and talk to non-player characters in order to acquire special powers and items that will allow him to unlock new areas of the game world and solve the puzzles within. While the player may revisit areas, the game progresses in an essentially linear fashion, as each area can only be accessed if Zetts(the player character) has acquired a specific item or ability from the previous area.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rif.jpg",
+        "release_date": 791164800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/sylvan-tale",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19694,
+        "name": "Arena: Maze of Death",
+        "summary": "An evil government has trapped you in a futurustic labyrinth! Fight your way through urban mazes in pursuit of hidden keys... the keys to expose the government's corruption.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yib.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/arena-maze-of-death",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19715,
+        "name": "Tails Adventure",
+        "summary": "Tails must stop the Battle Fortress bird army from taking control of Tails Island to rule over the animals.\n\nOn land, in the air, and at sea, Tails battles some pretty tough birds!\nDepending on the Japanese and international version of the game, Tails Adventure is either a prequel or continuation of the Sonic the Hedgehog games for the Sega Genesis. The game mixes traditional platforming and role-playing elements, as Tails is using different items and abilities, as well piloting his creations Remote Robot and Sea Fox, to travel across Cocoa Island to liberate it from the Battle Kukku Empire. Like many Sonic games for the Game Gear, Tails Adventure has been ported onto numerous compilation titles and other games as an unlockable game. It later received a re-release on the Nintendo 3DS in 2013.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztg.jpg",
+        "release_date": 811728000,
+        "rating": 65.44925318488013,
+        "rating_count": 14,
+        "genres": "Platform,Puzzle,Adventure",
+        "platform_ids": "37,35",
+        "external_url": "https://www.igdb.com/games/tails-adventure",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19731,
+        "name": "Sonic Labyrinth",
+        "summary": "Dr. Robotnik has created a world of 3D mazes, into which he has thrown Sonic and added a whole new dimension to his life! Now the Dude with Attitude can spin dash in every direction - collecting keys to access hidden levels and bonus rooms as he never could before. Can you help guide Sonic through the maze and past the all-new clan of evil Bosses to defeat the damnable Doctor?\n\nIt is also playable on Sonic Adventure DX: Director's Cut and in the PC, Nintendo 3DS, and on the PlayStation 2 and Xbox editions of Sonic Mega Collection Plus. The game features isometric 3D gameplay similar to Sonic 3D. Sonic and Robotnik are the only characters in this game.\n\nSonic Labyrinth was also released on the Nintendo e-Shop for the Nintendo 3DS's Virtual Console on 28 June 2013.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar1c.jpg",
+        "release_date": 816566400,
+        "rating": 56.99286221012078,
+        "rating_count": 18,
+        "genres": "Platform,Puzzle,Adventure,Arcade",
+        "platform_ids": "37,35",
+        "external_url": "https://www.igdb.com/games/sonic-labyrinth",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 19938,
+        "name": "X-Men: Gamesmaster's Legacy",
+        "summary": "X-Men: Gamesmaster's Legacy is an action game released in 1995 on the Game Gear. The game starts off with Cyclops and Storm as playable X-Men, although Wolverine, Gambit, Rogue, Bishop, Jean Grey, and Cable can be later unlocked. It is loosely based on the \"Upstarts\" and \"X-Cutioner's Song\" storylines that took place in the comics. It is the sequel to the original X-Men Game Gear game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ivv.jpg",
+        "release_date": 792892800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Arcade",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/x-men-gamesmasters-legacy",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 45250,
+        "name": "Popeye Beach Volleyball",
+        "summary": "He's Popeye the Sailor, but he's not out at sea this time. Popeye and his friends have decided to take a break and enjoy the beach, but Brutus wants the attention of Olivia, and challenges Popeye to a game of Volleyball!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yoe.jpg",
+        "release_date": 776649600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/popeye-beach-volleyball",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 45262,
+        "name": "Popils",
+        "summary": "Magical Puzzle Popils, known as Popils: The Blockbusting Challenge in Europe, is a puzzle game for the Sega Game Gear.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6aee.jpg",
+        "release_date": 696902400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/popils",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 45793,
+        "name": "Defenders of Oasis",
+        "summary": "As the Prince, you must defend the world of Oasis from the dark forces in this challenging real-time role-playing game!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6hcv.jpg",
+        "release_date": 716774400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "37,35",
+        "external_url": "https://www.igdb.com/games/defenders-of-oasis",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 45794,
+        "name": "Eternal Legend",
+        "summary": "Eternal Legend: Eien no Densetsu is a Japan-exclusive Game Gear role-playing video game. While the \"Eternal Legend\" name was used in both game packaging and advertising materials, the subtitle \"Eien no Densetsu\" was only used to advertise the game for the Japanese market.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92be.jpg",
+        "release_date": 684374400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/eternal-legend",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 45795,
+        "name": "The Majors Pro Baseball",
+        "summary": "The Majors: Pro Baseball is a sports game, developed by I.T.L and published by Sega, which was released in 1992 for the Sega Game Gear.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yn1.jpg",
+        "release_date": 723168000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/the-majors-pro-baseball",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 45796,
+        "name": "Tails' Skypatrol",
+        "summary": "While flying his plane, Tails discovers a small island and lands to investigate. While initially appearing to be uninhabited, he eventually comes upon an old woman. She declares herself to be the great Witchcart, and claims the island and everything on it as her own, threatening to transform any dissidents into crystal. She then heads off with her henchmen, and Tails, determined to stop her, chases after them.\n\nIt is one of two handheld games on the Game Gear to feature Sonic's sidekick Miles \"Tails\" Prower as the main character. The game follows the adventures of Tails as he tries to save an island from Witchcart, who claims to be able to turn dissenters into crystals with her magic.\n\nIt was originally released on 28 April 1995 as an exclusive game to the Japanese market. However, Tails' Skypatrol later saw an overseas release as it was included as an unlockable minigame in the Nintendo GameCube's Sonic Adventure DX: Director's Cut, and was re-released as one of the featured games in Sonic Gems Collection.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztf.jpg",
+        "release_date": 801619200,
+        "rating": 47.36299580900909,
+        "rating_count": 13,
+        "genres": "Platform",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/tails-skypatrol",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 45798,
+        "name": "Sonic Drift",
+        "summary": "Sonic Drift is a racing game whose gameplay style and controls are heavily based on Sega's arcade game Out Run. Here, the players race around a race course against the other three characters for a top position in the race. The game's single player mode is Chaos GP, where the player's goal is to win three different circuits (green, yellow and red). Each circuit is made of six different race courses that the player is taken through in succession.\n\nEach race course is composed of a circuit which needs to be completed thrice. The playable characters have rather simple controls, their basic actions being accelerating to move forward, breaking, and moving left or right on the tracks. In tight corners, the player can break while turning in a specific direction, allowing them to drift through the corners. If the player overuses this method though, the playable character starts spinning out of control. Should the player move outside the race tracks, the racer's acceleration will decreases noticeably on the rough terrain. The race track's sidelines also have obstacles that will stop the player altogether if the playable characters crash into them. The player can as well collect Rings along the race tracks to perform special moves unique to each character.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztb.jpg",
+        "release_date": 766627200,
+        "rating": 36.44898795695716,
+        "rating_count": 20,
+        "genres": "Racing",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/sonic-drift",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46296,
+        "name": "Pet Club: Inu Dai Suki!",
+        "summary": "Pet Club: Inu Dai Suki! is a Strategy game, developed and published by Sega, which was released in Japan in 1996.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yn4.jpg",
+        "release_date": 852508800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/pet-club-inu-dai-suki",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46313,
+        "name": "House of Tarot",
+        "summary": "House of Tarot is a tarot divination title for the Game Gear where the player gets a tarot reading in Japanese using the Rider–Waite tarot cards. The game was published by Sega for a Japan-exclusive release.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ymk.jpg",
+        "release_date": 667526400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Simulator,Card & Board Game",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/house-of-tarot",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46314,
+        "name": "Head Buster",
+        "summary": "Head Buster is a Game Gear video game that involves robots fighting in combat sequences.\n\nThe object is to earn more gold by winning matches and spending that money on better weapons like rifles, missile launchers, and flamethrowers. Robots can be traded in for money (gold) if updating them is impossible. At the center of each starting point is a base (circle). Either the base must be destroyed or all the opponent's robots must be destroyed in order to clear the battlefield. There is a certain range to each weapon; opponents cannot be attacked if they are too close or too far away from the weapon's firing range.\n\nThere are ten different maps in the game. Each level has its own password. Players must deliver newspapers for a tiny stipend in order to resume competing after a loss.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b6d.jpg",
+        "release_date": 668995200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/head-buster",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46315,
+        "name": "Godzilla: Kaijuu no Daishingeki",
+        "summary": "Godzilla: Kaijuu no Daishingeki is a turn based strategy game, with some arcade elements. A player can play as Godzilla or similar monsters (kaiju), like Anguirus, and Fire Rodan. Should players want to support humanity they can play as the G-Force, a human defense force. Humans have monster killing tools such as, tanks, artillery and planes. Some monsters are unplayable enemies and both sides will have the chance to fight against them.\n\nOn the map, the game is a typical war strategy. The player can move units on the map, and attack enemies. Battles have their own screen and animations. The fighting is quite arcade-like and simple, functioning similarly to fighting games. When all units have used their actions points a turn ends.\n\nGodzilla: Kaijuu no Daishingeki has four maps, and an extra secret level.\n\nThe title was never officially released outside of Japan, but fan translator TheMajinZenki released an unofficial English version of the game on January 2, 2019, under the name Godzilla: Monsters Attack.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b6a.jpg",
+        "release_date": 818380800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Turn-based strategy (TBS),Tactical",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/godzilla-kaijuu-no-daishingeki",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46325,
+        "name": "Sassou Shounen Eiyuuden: Coca-Cola Kid",
+        "summary": "Coca-Cola kid is a sidescroller starring the Coca-Cola Kid, the Coke mascot in Japan in the 1990's.\nCokey must hit the streets and take on Team Evil who just went and kidnapped his teacher, Ms. Sakurako. Skate through the city and be brave!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6aeg.jpg",
+        "release_date": 776044800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/sassou-shounen-eiyuuden-coca-cola-kid",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46339,
+        "name": "Poker Face Paul's Poker",
+        "summary": "Poker Face Paul's Poker is a Miscellaneous game, developed by Spidersoft and published by Adrenalin Interactive, which was released in 1994.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yob.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Turn-based strategy (TBS),Card & Board Game",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/poker-face-pauls-poker",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46348,
+        "name": "Factory Panic",
+        "summary": "Sneak into the factories owned by a vicious tycoon and get the quality products to the people who rightfully deserve them!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ym6.jpg",
+        "release_date": 665366400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/factory-panic",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46349,
+        "name": "Fred Couples Golf",
+        "summary": "Fred Couples Golf is a Sports game, developed by Sims and published by Sega, which was released in 1994.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ymf.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/fred-couples-golf",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46350,
+        "name": "The Excellent Dizzy Collection",
+        "summary": "Three complete games starring game superstar Dizzy! Enjoy the thrill of an arcade action game, a puzzle game and a complete adventure game all in one pack!\n\n1. Dizzy the Adventurer - Adventure Game\nHere's Dizzy - in an amazing magical quest packed with action, mystery, surprises and lots of new interesting characters. Escape from an underground cave and wake Daisy from the endless sleep caused by pricking her finger on a cursed spinning wheel! The spell can only be broken by a kiss from a Prince! A great sense of humour and brilliant fun! A superbly crafted cartoon adventure set in a magical kingdom!\nBrilliant graphics, music and a magical quality that will enchant players.\n\"A magical quest to wake Daisy from her endless sleep\"\n\n2. Panic Dizzy - Puzzle Game\nIt's puzzling, challenging and mega playable! Play any of the Yolfolk and challenge friends to a choice of 3 brilliant, original puzzle games. There's shape shifter, dizzy dice and picture puzzler to boggle your mind and blow your brain. Push and shoot the descending shapes in a race against time! Fantastic fun!\n\"Put your brain & reflexes in to top gear for 3 original puzzle games!\"\n\n3. Go Dizzy Go! - Action Game\nIt's Dizzy and Daisy to the rescue in this zany arcade challenge. Zaks' treacherous worlds are jam packed with all sorts of nasties. Power-Ups and Special secrets! Take up the challenge in single mode or two player mode.\nClassic maze style game with 5 worlds each containing 5 levels. Superb graphics, funky music and exciting gameplay!\n\"Dash around weird and wonderful worlds to free the yolkfolk!\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ym7.jpg",
+        "release_date": 754704000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "29,35,64",
+        "external_url": "https://www.igdb.com/games/the-excellent-dizzy-collection",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46352,
+        "name": "Chicago Syndicate",
+        "summary": "Chicago 1920: Corruption and violence have taken hold of the city. Six gangster bosses control the streets. Larcen Tyler must singlehandedly take control of Chicago, or die trying!\n\n-Presenting Larcen Tyler, from Eternal Champions, in his best role ever - from expert gangster to clean-up crusader!\n\n-Use Larcen's full range of weapons, and 60 different fighting moves to fight Chicago's toughest gangsters in six territories of the city!\n\n-Your attack plan depends on what's currently happening in each territory. Stay on top of the syndicates next moves through informants and local events to plan your attack strategically!\n\nNo game will ever be the same!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yk9.jpg",
+        "release_date": 807753600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/chicago-syndicate",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 46358,
+        "name": "Sonic Drift 2",
+        "summary": "Start your engines and prepare for the race of your life! Choose from 7 of your favorite characters including Sonic, Knuckles and Robotnik, each with his own special powers. Plug in your Gear to Gear connector and take on a friend through over 17 courses in the ultimate Chaos Grand Prix!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztt.jpg",
+        "release_date": 794016000,
+        "rating": 41.82456654307138,
+        "rating_count": 19,
+        "genres": "Racing,Sport",
+        "platform_ids": "37,35,64",
+        "external_url": "https://www.igdb.com/games/sonic-drift-2",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 79600,
+        "name": "Sega Game Pack 4 in 1",
+        "summary": "Sega Game Pack 4 in 1 is a collection of four video games released by Sega in 1992 for their Game Gear handheld console and was generally included with new consoles. The games include Flash Columns, Penalty Shootout, Tennis and Rally.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ypt.jpg",
+        "release_date": 694137600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Indie",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/sega-game-pack-4-in-1",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 80837,
+        "name": "Power Strike II",
+        "summary": "Power Strike II is a shoot 'em up for the Sega Game Gear in Compile's Aleste series and the sequel to GG Aleste.\n\nNot to be confused with Power Strike II for the Sega Master System.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co635n.jpg",
+        "release_date": 749433600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/power-strike-ii--1",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 81251,
+        "name": "X-Men",
+        "summary": "X-Men is a sidescrolling beat'em up/platform game, much like its homonymous Mega Drive/ Genesis counterpart. Several X-Men characters are playable throughout the game. The player can choose from two characters from the start, Cyclops and Wolverine, and three Levels are accessible. In the course of the game, the player can unlock five other X-Men, namely Storm, Iceman, Rogue, Nightcrawler and Psylocke.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yqn.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Arcade",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/x-men--2",
+        "cached_at": 1778663167
+      },
+      {
+        "id": 237315,
+        "name": "Ristar",
+        "summary": "8-bit port of Ristar on the Sega Game Gear with remixed levels and a few original stages.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ncr.jpg",
+        "release_date": 792892800,
+        "rating": 64.19843998090697,
+        "rating_count": 5,
+        "genres": "Platform,Adventure",
+        "platform_ids": "35",
+        "external_url": "https://www.igdb.com/games/ristar--1",
+        "cached_at": 1778663167
+      }
+    ]
+  }
+}
