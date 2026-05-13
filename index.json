@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-04-06T07:03:39.789788+00:00",
+  "generated": "2026-05-13T06:28:36.766968+00:00",
   "totalCollections": 45,
   "totalItems": 26752,
   "platforms": [
@@ -365,7 +365,7 @@
       "format": "full",
       "file": "platforms/3do/complete.xcollx",
       "created": "2026-03-03T08:52:37.493439Z",
-      "size": 2037157
+      "size": 338945
     },
     {
       "id": "atari-2600-complete",
@@ -380,7 +380,7 @@
       "format": "full",
       "file": "platforms/atari-2600/complete.xcollx",
       "created": "2026-03-03T08:53:03.340051Z",
-      "size": 5152660
+      "size": 900622
     },
     {
       "id": "atari-7800-complete",
@@ -395,7 +395,7 @@
       "format": "full",
       "file": "platforms/atari-7800/complete.xcollx",
       "created": "2026-03-03T09:23:25.960080Z",
-      "size": 598934
+      "size": 101859
     },
     {
       "id": "atari-jaguar-complete",
@@ -410,7 +410,7 @@
       "format": "full",
       "file": "platforms/atari-jaguar/complete.xcollx",
       "created": "2026-03-03T09:23:27.416546Z",
-      "size": 684214
+      "size": 115693
     },
     {
       "id": "dreamcast-complete",
@@ -425,7 +425,7 @@
       "format": "full",
       "file": "platforms/dreamcast/complete.xcollx",
       "created": "2026-03-03T08:52:46.786805Z",
-      "size": 4582183
+      "size": 757740
     },
     {
       "id": "game-gear-complete",
@@ -440,7 +440,7 @@
       "format": "full",
       "file": "platforms/game-gear/complete.xcollx",
       "created": "2026-03-03T08:52:33.563964Z",
-      "size": 2716478
+      "size": 394071
     },
     {
       "id": "gamecube-complete",
@@ -455,7 +455,7 @@
       "format": "full",
       "file": "platforms/gamecube/complete.xcollx",
       "created": "2026-03-03T09:24:15.023867Z",
-      "size": 5944493
+      "size": 982335
     },
     {
       "id": "gamecube-top",
@@ -485,7 +485,7 @@
       "format": "full",
       "file": "platforms/gb/complete.xcollx",
       "created": "2026-03-03T08:21:22.047067Z",
-      "size": 8713944
+      "size": 1261945
     },
     {
       "id": "gb-top",
@@ -515,7 +515,7 @@
       "format": "full",
       "file": "platforms/gba/complete.xcollx",
       "created": "2026-03-03T08:53:58.968025Z",
-      "size": 13081137
+      "size": 2149214
     },
     {
       "id": "gba-top",
@@ -545,7 +545,7 @@
       "format": "full",
       "file": "platforms/gbc/complete.xcollx",
       "created": "2026-03-03T08:53:25.315546Z",
-      "size": 8859907
+      "size": 1293549
     },
     {
       "id": "genesis-complete",
@@ -560,7 +560,7 @@
       "format": "full",
       "file": "platforms/genesis/complete.xcollx",
       "created": "2026-03-03T08:21:32.289826Z",
-      "size": 10042726
+      "size": 1636517
     },
     {
       "id": "genesis-top",
@@ -590,7 +590,7 @@
       "format": "full",
       "file": "platforms/master-system/complete.xcollx",
       "created": "2026-03-03T08:52:40.338835Z",
-      "size": 3294740
+      "size": 522629
     },
     {
       "id": "n64-complete",
@@ -605,7 +605,7 @@
       "format": "full",
       "file": "platforms/n64/complete.xcollx",
       "created": "2026-03-03T08:22:49.863206Z",
-      "size": 5984146
+      "size": 1084276
     },
     {
       "id": "n64-top",
@@ -635,7 +635,7 @@
       "format": "full",
       "file": "platforms/neo-geo/complete.xcollx",
       "created": "2026-03-03T09:23:35.669456Z",
-      "size": 1206413
+      "size": 189043
     },
     {
       "id": "nes-complete",
@@ -650,7 +650,7 @@
       "format": "full",
       "file": "platforms/nes/complete.xcollx",
       "created": "2026-03-03T08:19:49.416262Z",
-      "size": 9852659
+      "size": 1629177
     },
     {
       "id": "nes-top",
@@ -695,7 +695,7 @@
       "format": "full",
       "file": "platforms/ps1/complete.xcollx",
       "created": "2026-03-03T08:27:21.456088Z",
-      "size": 23091188
+      "size": 3982787
     },
     {
       "id": "ps1-top",
@@ -785,7 +785,7 @@
       "format": "full",
       "file": "platforms/psp/complete.xcollx",
       "created": "2026-03-03T09:26:02.179823Z",
-      "size": 19754698
+      "size": 3129107
     },
     {
       "id": "saturn-complete",
@@ -800,7 +800,7 @@
       "format": "full",
       "file": "platforms/saturn/complete.xcollx",
       "created": "2026-03-03T08:52:52.170551Z",
-      "size": 6645754
+      "size": 1057454
     },
     {
       "id": "sega-32x-complete",
@@ -815,7 +815,7 @@
       "format": "full",
       "file": "platforms/sega-32x/complete.xcollx",
       "created": "2026-03-03T09:23:21.607101Z",
-      "size": 357845
+      "size": 58630
     },
     {
       "id": "sega-cd-complete",
@@ -830,7 +830,7 @@
       "format": "full",
       "file": "platforms/sega-cd/complete.xcollx",
       "created": "2026-03-03T09:23:36.309675Z",
-      "size": 1591763
+      "size": 269989
     },
     {
       "id": "snes-complete",
@@ -845,7 +845,7 @@
       "format": "full",
       "file": "platforms/snes/complete.xcollx",
       "created": "2026-03-03T08:23:17.399771Z",
-      "size": 10950791
+      "size": 1921196
     },
     {
       "id": "snes-top",
@@ -890,7 +890,7 @@
       "format": "full",
       "file": "platforms/turbografx/complete.xcollx",
       "created": "2026-03-03T08:52:37.128317Z",
-      "size": 2638270
+      "size": 466791
     },
     {
       "id": "wii-top",
@@ -920,7 +920,7 @@
       "format": "full",
       "file": "platforms/xbox/complete.xcollx",
       "created": "2026-03-03T09:24:28.083638Z",
-      "size": 7881401
+      "size": 1354828
     },
     {
       "id": "xbox-top",
