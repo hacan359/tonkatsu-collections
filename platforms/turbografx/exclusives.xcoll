@@ -1,0 +1,190 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "TurboGrafx-16 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:18:50+00:00",
+  "description": "Games released exclusively on TurboGrafx-16, sourced from Wikipedia category \"TurboGrafx-16-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 37689,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/SonSon_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37716,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Download_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37717,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Coryoon%3A_Child_of_Dragon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37719,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Burning_Angels"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37720,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/B%C5%8Dken_Danshaku_Don%3A_The_Lost_Sunheart"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37731,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/World_Sports_Competition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42050,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Lady_Sword"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42058,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Knight_Rider_Special"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42059,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Stoker"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42060,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Final_Match_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42076,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Digital_Champ%3A_Battle_Boxing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42083,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Cyber_Cross"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42087,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Barunba"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42088,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Bari_Bari_Densetsu"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42102,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Order_of_the_Griffon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42105,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/King_of_Casino"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42120,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/The_Legendary_Axe_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42121,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/The_Legendary_Axe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42122,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Keith_Courage_in_Alpha_Zones"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42124,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Final_Lap_Twin"
+    },
+    {
+      "media_type": "game",
+      "external_id": 43195,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Toy_Shop_Boys"
+    },
+    {
+      "media_type": "game",
+      "external_id": 43201,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Bubblegum_Crash%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44341,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Somer_Assault"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44342,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Sinistron_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66089,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Time_Cruise"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75524,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Deep_Blue_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92879,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Tricky_Kick"
+    },
+    {
+      "media_type": "game",
+      "external_id": 131462,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Batman_%28PC_Engine_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 145266,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Darkwing_Duck_%28TurboGrafx-16_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 169519,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Zero4_Champ"
+    }
+  ]
+}

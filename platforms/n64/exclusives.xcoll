@@ -1,0 +1,748 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Nintendo 64 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:12:02+00:00",
+  "description": "Games released exclusively on Nintendo 64, sourced from Wikipedia category \"Nintendo 64-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1074,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Super_Mario_64_Shind%C5%8D_Pak_Tai%C5%8D_Version"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1130,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Castlevania_%281999_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1131,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Castlevania%3A_Legacy_of_Darkness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1292,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Penny_Racers_%281998_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1327,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Turok%3A_Rage_Wars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1539,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Wipeout_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2642,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Hey_You%2C_Pikachu%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2644,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rocket%3A_Robot_on_Wheels"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2715,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Beetle_Adventure_Racing%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2723,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Diddy_Kong_Racing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2786,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rugrats%3A_Scavenger_Hunt"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2850,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Aidyn_Chronicles%3A_The_First_Mage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3005,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Superman_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3329,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/AeroGauge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3334,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Chess_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3336,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Duck_Dodgers_Starring_Daffy_Duck"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3339,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/The_New_Tetris"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3343,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Snowboard_Kids_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3345,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Taz_Express"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3346,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Tetris_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3367,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Big_Mountain_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3368,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Buck_Bumble"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3372,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Lode_Runner_3-D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3374,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Golden_Nugget_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3375,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/GT_64%3A_Championship_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3394,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Iggy%27s_Reckin%27_Balls"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3395,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Indy_Racing_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3397,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Kobe_Bryant_in_NBA_Courtside"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3407,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Michael_Owen%27s_WLS_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3410,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Mike_Piazza%27s_StrikeZone"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3411,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Milo%27s_Astro_Lanes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3412,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Mischief_Makers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3419,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/In-Fisherman_Bass_Hunter_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3420,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Bassmasters_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3425,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Blues_Brothers_2000_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3426,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Body_Harvest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3427,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Chameleon_Twist"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3428,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Chopper_Attack"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3434,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/64_%C5%8Czum%C5%8D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3442,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Automobili_Lamborghini_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3452,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_64%3A_The_Second_Attack%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3456,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Centre_Court_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3463,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Custom_Robo_V2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3470,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Dezaemon_3D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3477,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Dual_Heroes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3494,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/F1_Pole_Position_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3496,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Fighters_Destiny"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3498,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Fox_Sports_College_Hoops_%2799"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3504,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Getter_Love%21%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3507,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Goemon_Mononoke_Sugoroku"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3508,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Goemon%27s_Great_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3509,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Hamster_Monogatari_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3510,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Heiwa_Pachinko_World_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3513,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Hybrid_Heaven"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3514,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_98"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3516,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Ronaldinho_Soccer_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3519,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/J-League_Dynamite_Soccer_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3520,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/J-League_Eleven_Beat_1997"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3530,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Jinsei_Game_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3532,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Kiratto_Kaiketsu%21_64_Tanteidan"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3533,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Knife_Edge%3A_Nose_Gunner"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3534,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Last_Legion_UX"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3536,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Madden_Football_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3540,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr."
+    },
+    {
+      "media_type": "game",
+      "external_id": 3541,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Mario_no_Photopi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3543,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Morita_Shogi_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3544,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/MRC%3A_Multi-Racing_Championship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3545,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Mystical_Ninja_Starring_Goemon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3552,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/NBA_Jam_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3555,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3558,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_98"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3564,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/NHL_Breakaway_99"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3565,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Nushi_Tsuri_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3566,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Nushi_Tsuri_64%3A_Shiokaze_Ninotte"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3568,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Ogre_Battle_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3576,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Power_League_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3580,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Quest_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3581,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rakugakids"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3582,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rally_Challenge_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3589,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Road_Rash_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3591,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Robot_Ponkottsu_64%3A_Nanatsu_no_Umi_no_Caramel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3593,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Rush_2%3A_Extreme_Racing_USA"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3594,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Saiky%C5%8D_Habu_Sh%C5%8Dgi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3600,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Shadowgate_64%3A_Trials_of_the_Four_Towers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3606,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Stunt_Racer_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3607,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Super_B-Daman%3A_Battle_Phoenix_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3608,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Super_Robot_Spirits"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3611,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/64_de_Hakken%21%21_Tamagotchi%3A_Minna_de_Tamagotchi_World"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3612,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Tetrisphere"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3615,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gear_Hyper_Bike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3616,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gear_Overdrive"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3618,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gear_Rally_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3622,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Twisted_Edge_Extreme_Snowboarding"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3624,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Pool_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3625,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Pro_Wrestling_2%3A_%C5%8Cd%C5%8D_Keish%C5%8D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3626,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Pro_Wrestling_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3627,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Waialae_Country_Club%3A_True_Golf_Classics"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3635,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/WCW_vs._nWo%3A_World_Tour"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3636,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/WCW/nWo_Revenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3642,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/World_Driver_Championship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3644,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/WWF_No_Mercy_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3647,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Xena%3A_Warrior_Princess%3A_The_Talisman_of_Fate"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3650,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Zool%3A_Maj%C5%AB_Tsukai_Densetsu"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8503,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Duke_Nukem%3A_Zero_Hour"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10609,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Chameleon_Twist_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10612,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/G.A.S.P%21%21_Fighters%27_NEXTream"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10682,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/FIFA_Soccer_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10686,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Destruction_Derby_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44039,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Bakush%C5%8D_Jinsei_64%3A_Mezase%21_Resort_%C5%8C"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44043,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/ClayFighter_63_1/3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47677,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Aero_Fighters_Assault"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47733,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Flying_Dragon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47734,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Pocket_Monsters_Stadium"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47742,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Choro_Q_64_2%3A_Hachamecha_Grand_Prix_Race"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47744,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Masters_%2798%3A_Harukanaru_Augusta"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47754,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Olympic_Hockey_%2798"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47756,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_99"
+    },
+    {
+      "media_type": "game",
+      "external_id": 47763,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Air_Boarder_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79669,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Robotron_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80368,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_64_%282001_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80390,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Famista_64"
+    },
+    {
+      "media_type": "game",
+      "external_id": 144507,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_%28Nintendo_64_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 176024,
+      "platform_id": 4,
+      "comment": "https://en.wikipedia.org/wiki/Monopoly_%281999_video_game%29"
+    }
+  ]
+}

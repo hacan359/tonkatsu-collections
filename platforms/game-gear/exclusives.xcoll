@@ -1,0 +1,238 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Game Gear Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:09:34+00:00",
+  "description": "Games released exclusively on Game Gear, sourced from Wikipedia category \"Game Gear-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1670,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Mini"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1738,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Mega_Man_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10219,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/The_G.G._Shinobi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10220,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/The_G.G._Shinobi_II%3A_The_Silent_Fury"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11648,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Crystal_Warriors"
+    },
+    {
+      "media_type": "game",
+      "external_id": 15535,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Galaga_%2791"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19485,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Ax_Battler%3A_A_Legend_of_Golden_Axe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19507,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Gaiden_%28Game_Gear%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19556,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog%3A_Triple_Trouble"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19668,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Pet_Club%3A_Neko_Daisuki%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19690,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Super_Columns"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19691,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sylvan_Tale"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19694,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Arena%3A_Maze_of_Death"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19715,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Tails_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19731,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_Labyrinth"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19938,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/X-Men%3A_Gamesmaster%27s_Legacy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45250,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Popeye_Beach_Volleyball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45262,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Popils"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45793,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Defenders_of_Oasis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45794,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Eternal_Legend"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45795,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/The_Majors%3A_Pro_Baseball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45796,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Tails%27_Skypatrol"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45798,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_Drift"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46296,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Pet_Club%3A_Inu_Daisuki%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46313,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/House_of_Tarot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46314,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Head_Buster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46315,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Godzilla%3A_Kaijuu_no_Daishingeki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46325,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Coca-Cola_Kid_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46339,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Poker_Face_Paul"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46348,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Factory_Panic"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46349,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Fred_Couples_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46350,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/The_Excellent_Dizzy_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46352,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Chicago_Syndicate_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46358,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_Drift_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79600,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Sega_Game_Pack_4_in_1"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80837,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Power_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81251,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/X-Men_%281994_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 237315,
+      "platform_id": 35,
+      "comment": "https://en.wikipedia.org/wiki/Ristar_%28Game_Gear_video_game%29"
+    }
+  ]
+}

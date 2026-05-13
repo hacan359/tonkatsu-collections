@@ -1,0 +1,406 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Sega Saturn Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:16:14+00:00",
+  "description": "Games released exclusively on Sega Saturn, sourced from Wikipedia category \"Sega Saturn-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1669,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Panzer_Dragoon_II_Zwei"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1671,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Saga"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3801,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Dungeon_Master_Nexus"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4127,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Grandia%3A_Digital_Museum"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10221,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shinobi_Legions"
+    },
+    {
+      "media_type": "game",
+      "external_id": 15021,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Albert_Odyssey%3A_Legend_of_Eldean"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18493,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Nanatsu_Kaze_no_Shima_Monogatari"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19417,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Keio_Flying_Squadron_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19666,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Burning_Rangers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19717,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Clockwork_Knight_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19720,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Wing_Arms"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19732,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/NHL_All-Star_Hockey_%28Sega_Saturn_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19738,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Hydlide"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19740,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Cyber_Speedway"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19744,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Robotica"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19755,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Sega_International_Victory_Goal"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19756,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Clockwork_Knight"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22504,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/The_Legend_of_Oasis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25804,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Mr._Bones_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28393,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Saturn_Bomberman"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28396,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shining_Force_III"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45397,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Zap%21_Snowboarding_Trix"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45413,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Blast_Wind"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45454,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Nissan_Presents%3A_Over_Drivin%27_GT-R"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45456,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shinrei_Jusatsushi_Tar%C5%8Dmaru"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45462,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Bulk_Slash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45464,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Dragon_Ball_Z%3A_Shin_But%C5%8Dden"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45477,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Virtual_Open_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45483,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Scud%3A_The_Disposable_Assassin_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45485,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/NFL_%2797"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45495,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Astal"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45504,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Monsters"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45511,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/World_Series_Baseball_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45516,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Congo_The_Movie%3A_The_Lost_City_of_Zinj"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45519,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/High_Velocity"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45526,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Ghen_War"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46050,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Super_Tempo"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46054,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Gungriffon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46057,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Deep_Fear"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46058,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Dark_Savior"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46059,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shining_Wisdom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46063,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Shining_the_Holy_Ark"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46087,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Black_Fire_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46095,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Choro_Q_Park"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46097,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Highway_2000_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46098,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Hang-On_GP"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46668,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/D-Xhird"
+    },
+    {
+      "media_type": "game",
+      "external_id": 58549,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Terra_Cresta_3D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66076,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Side_Story_III%3A_Sabakareshi_Mono"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66221,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Saturn_Bomberman_Fight"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71493,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Lunacy_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71716,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Cyber_Doll"
+    },
+    {
+      "media_type": "game",
+      "external_id": 73152,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/CrimeWave"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80164,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Thunder_Force_Gold_Pack"
+    },
+    {
+      "media_type": "game",
+      "external_id": 91943,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/SteamGear_Mash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92102,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Gotha%3A_Ismailia_Seneki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93007,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Wachenr%C3%B6der"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94005,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Linkle_Liver_Story"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94110,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/World_Series_Baseball_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 95383,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/F1_Challenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 96091,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Digital_Dance_Mix_Vol._1_Namie_Amuro"
+    },
+    {
+      "media_type": "game",
+      "external_id": 105043,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 123631,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Quo_Vadis_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 165449,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Iron_Storm_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 176116,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Greatest_Nine"
+    },
+    {
+      "media_type": "game",
+      "external_id": 176684,
+      "platform_id": 32,
+      "comment": "https://en.wikipedia.org/wiki/Virus_%281997_video_game%29"
+    }
+  ]
+}

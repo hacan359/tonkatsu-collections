@@ -1,0 +1,538 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "GameCube Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:09:52+00:00",
+  "description": "Games released exclusively on GameCube, sourced from Wikipedia category \"GameCube-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1034,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Four_Swords_Adventures"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1441,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Fire_Emblem%3A_Path_of_Radiance"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1471,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Kururin_Squash%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1627,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1700,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Wario_World"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1712,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WarioWare%2C_Inc.%3A_Mega_Party_Games%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1766,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mega_Man_Network_Transmission"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2256,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Super_Mario_Strikers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2330,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Party_4"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2331,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Party_5"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2333,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Party_6"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2334,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Party_7"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2344,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Kart%3A_Double_Dash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2643,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Channel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2686,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Star_Fox_Adventures"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2724,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_XD%3A_Gale_of_Darkness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2725,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Colosseum"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2777,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Kirby_Air_Ride"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2928,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Super_Monkey_Ball_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3243,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Star_Fox%3A_Assault"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3403,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Golf%3A_Toadstool_Tour"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3465,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Custom_Robo_Battle_Revolution"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3492,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/F-Zero_GX"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3667,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Shrek_Extra_Large"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3680,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution%3A_Mario_Mix"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3773,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Disney%27s_Magical_Mirror_Starring_Mickey_Mouse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3774,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/1080%C2%B0_Avalanche"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3784,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Amazing_Island"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3797,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Battalion_Wars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3807,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Beyblade%3A_Super_Tournament_Battle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3808,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Big_Air_Freestyle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3832,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_Generation"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3865,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Cubivore%3A_Survival_of_the_Fittest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3885,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Disney%27s_Hide_and_Sneak"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3891,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Donkey_Konga_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3897,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Dragon_Drive%3A_D-Masters_Shot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3907,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Eternal_Darkness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3910,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Evolution_Worlds"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3928,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Geist_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3931,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Giftpia"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3933,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Go%21_Go%21_Hypergrind"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3936,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Gotcha_Force"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3938,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/GT_Cube"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3947,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Home_Run_King"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3948,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Homeland_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3965,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Kid%C5%8D_Senshi_Gundam%3A_Senshitachi_no_Kiseki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3972,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Legend_of_Golfer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3981,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Lost_Kingdoms"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3982,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Lost_Kingdoms_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3986,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Superstar_Baseball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3999,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Medabots_Infinity"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4006,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Gear_Solid%3A_The_Twin_Snakes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4020,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Monsters%2C_Inc._Scream_Arena"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4023,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mutsu_to_Nohohon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4026,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Naruto%3A_Clash_of_Ninja_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4031,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/NBA_Courtside_2002"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4049,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Nintendo_Puzzle_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4050,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Odama"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4060,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/P.N.03"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4072,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Pool_Edge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4082,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Rave_Master_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4085,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Rei_Fighter_Gekitsui_Senki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4152,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Skies_of_Arcadia_Legends"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4161,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Special_Jinsei_Game"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4181,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_II%3A_Rogue_Leader"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4182,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_III%3A_Rebel_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4192,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Swingerz_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4202,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Tonka%3A_Rescue_Patrol"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4217,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Tube_Slider"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4224,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Ultimate_Muscle%3A_Legends_vs._New_Generation"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4226,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Universal_Studios_Theme_Parks_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4232,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Wave_Race%3A_Blue_Storm"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4571,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WWE_Day_of_Reckoning"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4572,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WWE_Day_of_Reckoning_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4573,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WWE_WrestleMania_X8_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4574,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WWE_WrestleMania_XIX_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4582,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Yu-Gi-Oh%21_The_Falsebound_Kingdom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10629,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Zoids%3A_Battle_Legends"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23329,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Phantasy_Star_Online_Episode_III%3A_C.A.R.D._Revolution"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24289,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Naruto%3A_Clash_of_Ninja_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50571,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Knockout_Kings_2003"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50576,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Zoids_Vs._III"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50581,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/MC_Groovz_Dance_Craze"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50586,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Zoids_Vs."
+    },
+    {
+      "media_type": "game",
+      "external_id": 78292,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Road_Trip%3A_The_Arcade_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 123116,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Duel_Masters%3A_Nett%C5%8D%21_Battle_Arena"
+    },
+    {
+      "media_type": "game",
+      "external_id": 256803,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Donkey_Konga"
+    },
+    {
+      "media_type": "game",
+      "external_id": 256807,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Donkey_Konga_2"
+    }
+  ]
+}

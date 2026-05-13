@@ -1,0 +1,148 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "PlayStation 5 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:15:20+00:00",
+  "description": "Games released exclusively on PlayStation 5, sourced from Wikipedia category \"PlayStation 5-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 132226,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Quantum_State_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 134587,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Destruction_AllStars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 134597,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Astro%27s_Playroom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 134606,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Demon%27s_Souls_%282020_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 139072,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Neptunia_ReVerse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 168667,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Marvel%27s_Wolverine"
+    },
+    {
+      "media_type": "game",
+      "external_id": 194005,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Demetrios%3A_The_Big_Cynical_Adventure_%E2%80%93_Replastered"
+    },
+    {
+      "media_type": "game",
+      "external_id": 218744,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Silent_Hill%3A_The_Short_Message"
+    },
+    {
+      "media_type": "game",
+      "external_id": 225779,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/R-Type_Final_3_Evolved"
+    },
+    {
+      "media_type": "game",
+      "external_id": 237742,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/C-Smash_VRS_New_Dimension"
+    },
+    {
+      "media_type": "game",
+      "external_id": 259871,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Daba%3A_Land_of_Water_Scar"
+    },
+    {
+      "media_type": "game",
+      "external_id": 259875,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/The_Winds_Rising"
+    },
+    {
+      "media_type": "game",
+      "external_id": 268370,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Paper_Beast_Enhanced_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 303811,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Astro_Bot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 317627,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei"
+    },
+    {
+      "media_type": "game",
+      "external_id": 325611,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Intergalactic%3A_The_Heretic_Prophet"
+    },
+    {
+      "media_type": "game",
+      "external_id": 328275,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Code_Violet"
+    },
+    {
+      "media_type": "game",
+      "external_id": 331215,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Saros_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389426,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Dead_or_Alive_New_Project"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389432,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Project_Windless"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389436,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/Rev._NOiR"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389441,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/God_of_War_Trilogy_Remake"
+    },
+    {
+      "media_type": "game",
+      "external_id": 389443,
+      "platform_id": 167,
+      "comment": "https://en.wikipedia.org/wiki/God_of_War_Sons_of_Sparta"
+    }
+  ]
+}

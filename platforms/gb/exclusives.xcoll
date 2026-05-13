@@ -1,0 +1,802 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Game Boy Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:10:20+00:00",
+  "description": "Games released exclusively on Game Boy, sourced from Wikipedia category \"Game Boy-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1091,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Donkey_Kong_Land"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1125,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Kid_Dracula_%281993_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1325,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Turok%3A_Battle_of_the_Bionosaurs"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1639,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/James_Bond_007_%281998_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1687,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Game_Boy_Wars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2829,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Bart_Simpson%27s_Escape_from_Camp_Deadly"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2831,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Bart_vs._The_Juggernauts"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2836,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Itchy_%26_Scratchy_in_Miniature_Golf_Madness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2837,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Bart_%26_the_Beanstalk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6597,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Soccer_Mania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7745,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Adventures_of_Star_Saver"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7746,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Aerostar_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7748,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/After_Burst"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7752,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Altered_Space"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7753,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Amazing_Penguin"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7754,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Amazing_Tater"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7759,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Astro_Rabby"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7760,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Atomic_Punk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7770,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Bull"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7771,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Batman%3A_The_Animated_Series_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7774,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Pingpong"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7775,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Unit_Zeoth"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7784,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Game_Boy_Adventure%3A_A_Bogus_Journey%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7790,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Blaster_Master_Jr."
+    },
+    {
+      "media_type": "game",
+      "external_id": 7793,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_GB"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7797,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Boomer%27s_Adventure_in_ASMIK_World"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7798,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Asmik-kun_World_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7799,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Boxxle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7814,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Bugs_Bunny_Crazy_Castle_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7815,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Square_Deal%3A_The_Game_of_Two_Dimensional_Poker"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7823,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Choplifter_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7826,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Cosmo_Tank"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8048,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures_2%3A_Montana%27s_Movie_Madness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8127,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mickey%27s_Dangerous_Chase"
+    },
+    {
+      "media_type": "game",
+      "external_id": 9157,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Super_R.C._Pro-Am"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12593,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Popeye_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 14208,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Addams_Family_%28handheld_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18629,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Monster_Max"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18630,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Nemesis_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18639,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_II%3A_Back_from_the_Sewers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19558,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Megalit"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22914,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gun%3A_Guts_and_Glory"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37764,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/X_%281992_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45174,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Barbie%3A_Game_Girl"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46673,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mulan_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48915,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Wave_Race"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48918,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/WCW%3A_The_Main_Event"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48920,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ultima%3A_Runes_of_Virtue"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48921,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Raging_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48922,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Wizards_%26_Warriors_X%3A_The_Fortress_of_Fear"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48929,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Gaiden_Shadow"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48940,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Solar_Striker"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48950,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Dead_Heat_Scramble"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48959,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Rescue_of_Princess_Blobette"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48961,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Boxxle_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48966,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Boy_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48967,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Boy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48969,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tetris_Blast"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48970,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Spud%27s_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48979,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Jeep_Jamboree%3A_Off_Road_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48980,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Hyper_Lode_Runner"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48990,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mickey_Mouse%3A_Magic_Wands%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48994,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Great_Greed"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48997,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Go%21_Go%21_Tank"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49000,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Fidgetts"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49004,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/F-1_Spirit_%28series%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49006,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Sumo_Fighter%3A_T%C5%8Dkaid%C5%8D_Basho"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49009,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Race_Days"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49016,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Stop_That_Roach%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49019,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Snoopy%27s_Magic_Show"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49020,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Skate_or_Die%3A_Tour_de_Thrash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49021,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Serpent_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49022,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Rolan%27s_Curse_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49023,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Rolan%27s_Curse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49028,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Punisher%3A_The_Ultimate_Payback%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49031,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Panel_Action_Bingo"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49034,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Taro"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49035,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Nail_%27n%27_Scale"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49037,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mouse_Trap_Hotel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49047,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Kingdom_Crusade"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49053,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Yogi_Bear%27s_Gold_Rush"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49054,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/WWF_Superstars_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49057,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ultra_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49058,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Turn_and_Burn%3A_The_F-14_Dogfight_Simulator"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49059,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Track_Meet"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49061,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tasmania_Story_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49063,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tail_%27Gator"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49071,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Baby_T-Rex"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49076,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Cave_Noire"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49079,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Soccer_%281991_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49150,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ayakashi_no_Shiro"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49227,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Batman%3A_The_Video_Game_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50043,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Konami_GB_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 58986,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Trax_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 60782,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/God_Medicine"
+    },
+    {
+      "media_type": "game",
+      "external_id": 63978,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Super_Chinese_Land_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 64171,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Fist_of_the_North_Star%3A_10_Big_Brawls_for_the_King_of_the_Universe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 64344,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/GB_Genjin_Land%3A_Viva%21_Chikkun_%C5%8Ckoku"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66020,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Spot%3A_The_Cool_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71941,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Undercover_Cops%3A_Hakaishin_Garumaa"
+    },
+    {
+      "media_type": "game",
+      "external_id": 72803,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Kaij%C5%AB-%C5%8D_Godzilla"
+    },
+    {
+      "media_type": "game",
+      "external_id": 73130,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Motocross_Maniacs"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75692,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit_%281991_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75887,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Godzilla_%281990_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75978,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75981,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers%3A_The_Movie_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79444,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Sports_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81546,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Real_Ghostbusters_%281993_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 83898,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_%28handheld_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 84643,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Game_Boy_Camera"
+    },
+    {
+      "media_type": "game",
+      "external_id": 91263,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Dexterity_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94204,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Nakajima_Satoru_F-1_Hero_GB_World_Championship_%2791"
+    },
+    {
+      "media_type": "game",
+      "external_id": 95500,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mysterium_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 99455,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures%3A_Babs%27_Big_Break"
+    },
+    {
+      "media_type": "game",
+      "external_id": 100296,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/WWF_Superstars_%28handheld_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 117925,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Arcade_Classic"
+    },
+    {
+      "media_type": "game",
+      "external_id": 117950,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Dragon%27s_Lair%3A_The_Legend"
+    },
+    {
+      "media_type": "game",
+      "external_id": 128440,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Skate_or_Die%3A_Bad_%27N_Rad"
+    },
+    {
+      "media_type": "game",
+      "external_id": 136613,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Painter_Momopie"
+    },
+    {
+      "media_type": "game",
+      "external_id": 136619,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battletoads_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 147343,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Star_Trek%3A_25th_Anniversary_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 157211,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Super_Hunchback"
+    },
+    {
+      "media_type": "game",
+      "external_id": 206498,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/He_Fucked_the_Girl_Out_of_Me"
+    },
+    {
+      "media_type": "game",
+      "external_id": 210800,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Shuyaku_Sentai_Irem_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 225275,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Arena_Toshinden_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 273750,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/High_Stakes_Gambling"
+    },
+    {
+      "media_type": "game",
+      "external_id": 283579,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Popeye_%281990_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 307082,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Terminator_2_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 317064,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/New_Ghostbusters_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 325876,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Alentejo%3A_Tinto%27s_Law"
+    },
+    {
+      "media_type": "game",
+      "external_id": 365635,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Bram_Stoker%27s_Dracula_%28handheld_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 365636,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Boxing_%281990_video_game%29"
+    }
+  ]
+}

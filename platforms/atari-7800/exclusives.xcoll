@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Atari 7800 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:08:30+00:00",
+  "description": "Games released exclusively on Atari 7800, sourced from Wikipedia category \"Atari 7800-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 11121,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11865,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Alien_Brigade"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12335,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Midnight_Mutants"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12336,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Planet_Smashers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28529,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Motor_Psycho"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80511,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Meltdown_%281990_video_game%29"
+    }
+  ]
+}

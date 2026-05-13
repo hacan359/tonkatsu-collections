@@ -1,0 +1,106 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Xbox One Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:19:30+00:00",
+  "description": "Games released exclusively on Xbox One, sourced from Wikipedia category \"Xbox One-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 2131,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Forza_Motorsport_5"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4757,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Crimson_Dragon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4787,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Fighter_Within"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4842,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Kinect_Sports_Rivals"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5331,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Powerstar_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6803,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Halo_5%3A_Guardians"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11147,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Rare_Replay"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19172,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Xbox_Fitness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19901,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Dance_Central_Spotlight"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19917,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Fru_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20056,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Sixty_Second_Shooter_Prime"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20312,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Shape_Up_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 51614,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Action_News_Heroes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 57820,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Ben-Hur_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 82375,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Air_Guitar_Warrior"
+    },
+    {
+      "media_type": "game",
+      "external_id": 83810,
+      "platform_id": 49,
+      "comment": "https://en.wikipedia.org/wiki/Korgan_%28video_game%29"
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Atari 2600 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:08:29+00:00",
+  "description": "Games released exclusively on Atari 2600, sourced from Wikipedia category \"Atari 2600-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 2757,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Snoopy_and_the_Red_Baron_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3252,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Alpha_Beam_with_Ernie"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3284,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Voyager_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3325,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Spider-Man_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4909,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Haunted_House_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6706,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6881,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Assault_%281983_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8253,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Adventure_%281980_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8466,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Cosmic_Ark"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8529,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Custer%27s_Revenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10203,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars%3A_Jedi_Arena"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10205,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars%3A_Return_of_the_Jedi%3A_Ewok_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11113,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Air_Raid_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11114,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Air_Raiders"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11128,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Bachelor_Party_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11129,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Bank_Heist_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11138,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Beany_Bopper"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11139,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Beat_%27Em_%26_Eat_%27Em"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11140,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Bobby_Is_Going_Home"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11154,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Communist_Mutants_from_Space"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11236,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Tooth_Protectors"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11237,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Alien%27s_Return"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11856,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Airlock_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12240,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Alien_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12894,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Off_the_Wall_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 15562,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Outlaw_%281978_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 16759,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Combat_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17019,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Demons_to_Diamonds"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17024,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Flag_Capture"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17025,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Human_Cannonball_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17240,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Radar_Lock"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17254,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Backgammon_%281979_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17258,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Basic_Math_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17259,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Hangman_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18003,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Video_Checkers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18004,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Video_Chess"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18007,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Double_Dunk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18032,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Barnstorming_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18033,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Starmaster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18034,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Laser_Blast"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18036,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18045,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Freeway_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18103,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Grand_Prix_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18105,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Fishing_Derby"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18286,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Halo_2600"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18287,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Fast_Food_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18408,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Chopper_Command"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18410,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Plaque_Attack"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18415,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Miniature_Golf_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18420,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/RealSports_Volleyball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18421,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Slot_Machine_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18422,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Slot_Racers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18424,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Ship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18427,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Stellar_Track"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18479,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Fire_Fighter_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18480,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Riddle_of_the_Sphinx_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18501,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Lost_Luggage_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18503,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Spacechase"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18529,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Sky_Jinks"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18530,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Spider_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18534,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Mines_of_Minos"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18564,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Phaser_Patrol"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18565,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Fireball_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18567,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Escape_from_the_Mindmaster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18568,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Dragonstomper"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18580,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Oink%21_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18672,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/No_Escape%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18675,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Robot_Tank"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18679,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Space_Jockey_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18695,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Frostbite_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18711,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Superman_%281979_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18763,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/King_Kong_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18771,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Towering_Inferno_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18801,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Sssnake"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18848,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_%281983_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22415,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Journey_Escape"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22556,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Worm_War_I"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22697,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/G.I._Joe%3A_Cobra_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22733,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Dolphin_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22757,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Tunnel_Runner"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22760,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Revenge_of_the_Beefsteak_Tomatoes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22763,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Frankenstein%27s_Monster_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22764,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Gopher_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22765,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Eggomania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22820,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Entombed_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22838,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Name_This_Game"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23199,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Stargunner_%281983_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23843,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Crackpots"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23854,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Fox_%281983_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24015,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Quick_Step_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24454,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Great_Escape_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24455,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Z-Tack"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24468,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Rabbit_Transit_%28game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24495,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Mangia"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25732,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Pressure_Cooker_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25833,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Private_Eye_%281984_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40575,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Pigs_in_Space_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40577,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Solaris_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40598,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Cosmic_Commuter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40603,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Wabbit_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40615,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Skeet_Shoot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40618,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Tax_Avoiders"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40627,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Codebreaker_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40628,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Chase_the_Chuck_Wagon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40633,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Big_Bird%27s_Egg_Catch"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40650,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Knight_on_the_Town"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40660,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Party_Mix_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40678,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Parachute_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40695,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Sorcerer%27s_Apprentice_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40698,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Save_Mary"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40713,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Quadrun"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40716,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Medieval_Mayhem"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40723,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/A_Game_of_Concentration"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40727,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Sword_of_Saros"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40734,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Oystron"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40771,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Space_Cavern"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40772,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Revenge_of_the_Apes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40773,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Red_Sea_Crossing_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40777,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Gigolo_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40789,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/I_Want_My_Mommy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40790,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Halloween_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 41108,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Secret_Quest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 41530,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Blackjack_%28Atari_2600_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46877,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Video_Pinball_%281981_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46880,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Wall-Defender"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46884,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Word_Zapper"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46885,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Dragster_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46901,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Dishaster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 54792,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Space_War"
+    },
+    {
+      "media_type": "game",
+      "external_id": 54796,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Submarine_Commander_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 54797,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Casino_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 55104,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Skiing_%28Atari_2600_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 57656,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Ice_Hockey_%281981_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65079,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Birthday_Mania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 70265,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Maze_Craze"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71703,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Obelix_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79301,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/X-Man_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93457,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Duck_Attack%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 100183,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Taz_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 250219,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Karate_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 266956,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Space_Invaders_%28Atari_2600_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 292096,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Krull_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 314530,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Gremlins_%28video_game%29"
+    }
+  ]
+}

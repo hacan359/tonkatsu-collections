@@ -1,0 +1,82 @@
+{
+  "version": 2,
+  "format": "light",
+  "name": "Sega 32X Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T08:16:16+00:00",
+  "description": "Games released exclusively on Sega 32X, sourced from Wikipedia category \"Sega 32X-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 19733,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Kolibri_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19762,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Knuckles%27_Chaotix"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19763,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Shadow_Squadron"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19764,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Zaxxon%27s_Motherbase_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19779,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Motocross_Championship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19780,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Head"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45876,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/R.B.I._Baseball_%2795"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45877,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Darxide"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45881,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Tempo_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45882,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man%3A_Web_of_Fire"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45883,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Cosmic_Carnage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94921,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Golf_Magazine%3A_36_Great_Holes_Starring_Fred_Couples"
+    }
+  ]
+}
