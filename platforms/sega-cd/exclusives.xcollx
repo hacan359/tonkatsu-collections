@@ -1,0 +1,698 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Sega CD Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:26+00:00",
+  "description": "Games released exclusively on Sega CD, sourced from Wikipedia category \"Sega CD-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 3198,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Shining_Force_CD"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3286,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers_%28Sega_CD_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5334,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Lunar%3A_The_Silver_Star"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5355,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/A-Rank_Thunder_Tanjouhen"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5358,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Android_Assault%3A_The_Revenge_of_Bari-Arm"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5359,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Anett_Futatabi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5360,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/A/X-101"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5369,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Captain_Tsubasa_%28Mega-CD_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5374,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Dark_Wizard"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5383,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Eternal_Champions%3A_Challenge_from_the_Dark_Side"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5388,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Formula_One_World_Championship%3A_Beyond_the_Limit"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5402,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Mansion_of_Hidden_Souls_%28Sega_CD_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5420,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Power_Factory_Featuring_C%2BC_Music_Factory"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5424,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Prize_Fighter_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5426,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Racing_Aces"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5432,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Sega_Classics_Arcade_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5453,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Soulstar"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5461,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Wild_Woody"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5462,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Wirehead_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5465,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/WWF_Rage_in_the_Cage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12912,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Keio_Flying_Squadron"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19742,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Dungeon_Explorer_%281995_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19743,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Midnight_Raiders"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45871,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Cyborg_009_%281993_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46406,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/ESPN_NBA_Hangtime_%2795"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46408,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/The_Third_World_War_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46409,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/The_Masked_Rider%3A_Kamen_Rider_ZO"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46418,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Make_My_Video"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46420,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Heart_of_the_Alien"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46422,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Bouncers_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46423,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Battlecorps"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46606,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Rapid_Deployment_Force%3A_Global_Conflict"
+    },
+    {
+      "media_type": "game",
+      "external_id": 78514,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Shadowrun_%281996_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 128888,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/Jurassic_Park_%28Sega_CD_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 234211,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/The_Terminator_%28Sega_CD_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 234835,
+      "platform_id": 78,
+      "comment": "https://en.wikipedia.org/wiki/The_Adventures_of_Batman_%26_Robin_%28video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 3198,
+        "name": "Shining Force CD",
+        "summary": "This strategy RPG is a remastered compilation of two earlier Shining force titles: Shining Force Gaiden (originally released in Japan only) and Shining Force: The Sword of Hajya, both for the Game Gear. The two stories put players in the role of Nick, a hero of royal blood who must rescue Queen Anri of Gardiana and reclaim the kingdom of Cypress from the evil empire of Iom's clutches.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co85on.jpg",
+        "release_date": 774835200,
+        "rating": 75.27736131934033,
+        "rating_count": 6,
+        "genres": "Role-playing (RPG),Strategy,Turn-based strategy (TBS)",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/shining-force-cd",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 3286,
+        "name": "Mighty Morphin Power Rangers",
+        "summary": "Mighty Morphin Power Rangers is a video game for the Sega CD console. It was produced by Sega TruVideo and released by Sega in US and Europe in 1994. The game consists mostly of footage from nine episodes of the Mighty Morphin Power Rangers TV series, which featured footage from Kyōryū Sentai Zyuranger.\n\nGameplay requires the player to press certain buttons at precise moments throughout the game as they appear on screen. If the player misses, the health meter will drop. However, there are points in the game where the player can press a button unprompted for extra points. At the end of each level, the player's progress is tallied. The points earned will be used to refill the player's health meter and can even score an extra life. Footage from episodes of the television series was used for the game. This footage was heavily cut down for disc space and level length. As a result, the five-part \"Green With Evil\" serial was turned into four small segments for the game.\n\nThe game has a total of ten levels. Levels six and seven are playable only on normal and hard modes, and levels eight, nine, and ten are playable only on hard mode.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d9q.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Platform,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/mighty-morphin-power-rangers",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5334,
+        "name": "Lunar: The Silver Star",
+        "summary": "Welcome to the world of Lunar, where reigns the magic and dragons still live. Join Alex, a young adventurer and his companions Luna, Ramus and Nall, to save the land of the Magic Emperor Ghaleon tyranny. Explore dungeons, fight terrifying monsters, and collects local information of where to go along to the explosive confrontation with Ghaleon own.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w80.jpg",
+        "release_date": 709516800,
+        "rating": 81.57291996826643,
+        "rating_count": 13,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/lunar-the-silver-star",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5355,
+        "name": "A-Rank Thunder Tanjouhen",
+        "summary": "A-Rank Thunder Tanjouhen (Aランクサンダー 誕生編?) is a adventure game released in 1993 on Mega-CD. The game was developed by Riot and released by Telenet. The game's cover art was created by Yasushi Nirasawa, in his position as a model-builder for Hobby Japan magazine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/mvvagwdjte5bheqwhhaw.jpg",
+        "release_date": 740966400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/a-rank-thunder-tanjouhen",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5358,
+        "name": "Android Assault: The Revenge of Bari-Arm",
+        "summary": "In Android Assault an alien species called the Xias have targeted human beings for extermination. They have assembled a massive fleet that has crushed any opposing ship that has been sent their way and has started to attacking colonies stationed on nearby planets with a collision course to Earth and it is up to the player to stop them.\n\nThe gameplay is a side-scrolling shooter, similar to R-Type, where the player takes control of a space fighter that can morph into a cyborg called Bari-Arm and has an arsenal of weaponry to take down enemy ships including the Thundercracker, Burning Wave and the Chase Cannon along with picking up health and power-ups left behind by destroyed enemies.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ku8.jpg",
+        "release_date": 743990400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/android-assault-the-revenge-of-bari-arm",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5359,
+        "name": "Anett Futatabi",
+        "summary": "The game plays like a side-scrolling beat 'em up, with you controlling Anett as she marches through each stage beating every enemy she encounters with her sword and magical powers until she reaches the stage boss. Anett's magical powers are triggered by spending an energy bar that is constantly refilling, depending on the amount of power available you'll cause more damage all the way up to a screen-clearing attack.\n\nIt is the third in a trilogy of games, which includes El Viento, Earnest Evans and Anett Futatabi",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62hp.jpg",
+        "release_date": 733449600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/anett-futatabi",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5360,
+        "name": "A/X-101",
+        "summary": "In the future date of 2500, mankind has reached its zenith in space travel and peace. However, after making contact with alien life for the first time, Earth is soon attacked and nearly conquered by a war-driven alien race called the Gurzons. The Earth's Defense Force discover the Gurzon's enemy resides on the distant alien planet Prism, who made contact with Earth as a warning against the oncoming Gurzon invasion. Further investigation leads to the discovery of a computer upgrade system located on Prism called the A/X-101, a weapon program that promises to liberate Earth from the Gurzon's grip. Earth Defense sends four of its best fighter pilots - Bob, Kelly, Chris and their Captain (the player) - to travel to Prism, retrieve the A/X-101 and use it against all of the Gurzon's planetary bases.\n\nThe game is an on-rails shooter, with gameplay seen from a first-person cockpit perspective. The player's ship moves automatically through pre-rendered space and planetary environments and only the targeting crosshair can be moved freely. Laser Cannons and Fusion Warheads are available to hit the numerous enemies. Lasers have unlimited ammunition but need a few moments time to recharge. The warheads function as smart bombs and clear the screen of enemies, but are available only in limited supply. They are restocked when reaching a certain score. The ship's energy shield functions as a life bar.\n\nBetween the shooting levels, there are transitional cutscenes, pre-rendered in the same way as the actual gameplay.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8i5a.jpg",
+        "release_date": 764553600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/a-x-101",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5369,
+        "name": "Captain Tsubasa",
+        "summary": "Captain Tsubasa Vol. II: Super Striker is the second game in the titular franchise, a role-playing take on the sport of soccer.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ges.jpg",
+        "release_date": 780883200,
+        "rating": 89.91986235545774,
+        "rating_count": 6,
+        "genres": "Role-playing (RPG),Sport,Strategy",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/captain-tsubasa",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5374,
+        "name": "Dark Wizard",
+        "summary": "These are epic times for the people of Cheshire. The kingdom of Quentin is the last stronghold in all of Cheshire against the forces of darkness. But Quentin's king has been killed in battle. Cheshire desperately needs a successor to come forward and lead the warriors of light against the forces of darkness and, eventually, against the Dark Wizard himself. If you fail, darkness will rule Cheshire - forever!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wfs.jpg",
+        "release_date": 753062400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Strategy,Tactical",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/dark-wizard",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5383,
+        "name": "Eternal Champions: Challenge from the Dark Side",
+        "summary": "From various time periods of past, present and future, nine fighters killed in an unjust manner find themselves given a second chance for life. An alien being, known only as the Eternal Champion, brings back the fighters into a competition for one reason: to find one among them worthy of being resurrected, giving them a chance to avert their death and tip the balance between good and evil.\n\nThe fighters range from different eras of Earth's History: Larcen, the cat burglar. Jetta, the circus acrobat. Blade, the futuristic bounty hunter. Midknight, the vampiric bio-chemist. Rax, the cyborg. Shadow, the corporate assassin. Slash, the neanderthal. Trident, a Atlantean warrior. And Xavier, a warlock and alchemist.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4l1x.jpg",
+        "release_date": 791942400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/eternal-champions-challenge-from-the-dark-side",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5388,
+        "name": "Formula One World Championship: Beyond the Limit",
+        "summary": "Beyond the Limit is a racing sim based on Formula One circa 1993. It features real-life cars, tracks, and drivers from the world of F1.\n\nThe graphics in Beyond the Limit are created from scaled and rotated sprites that create a 3D effect. It also features a lot of full-screen video clips taken from Fuji TV's coverage of actual races.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2etj.jpg",
+        "release_date": 767059200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/formula-one-world-championship-beyond-the-limit",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5402,
+        "name": "Mansion of Hidden Souls",
+        "summary": "Mansion of Hidden Souls is an adventure game created entirely with full-motion video. It takes place in a pre-rendered mansion that the player explores from a first-person perspective. As they wander from room to room, the action unfolds via video sequences.\n\nThe player takes on the role of Jonathan, a boy whose sister has wandered into the spooky mansion. When she entered the mansion, she disappeared! What's more, the mansion is full of talking butterflies. The player must search the whole mansion to unlock its secrets and find Jonathan's sister.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dir.jpg",
+        "release_date": 755481600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/mansion-of-hidden-souls",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5420,
+        "name": "Power Factory Featuring C+C Music Factory",
+        "summary": "The first of Digital Pictures' \"Make My Video\" line has you \"editing\" three of C + C Music Factory's most famous songs - \"Gonna Make You Sweat,\" \"Things That Make You Go Hmm...\" and \"Here We Go Let's Rock & Roll.\"\n\nThe plot puts you inside the music factory of the game's name, where two linemen sweat and toil under the oppressive thumb of a wheelchair-bound corporate executive. Video discs literally roll down an assembly line while C + C record their sounds behind three closed doors. You are asked to help out in editing these videos, appease the corporate masters, and lift the burden from everyone.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5djx.jpg",
+        "release_date": 725760000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/power-factory-featuring-c-c-music-factory",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5424,
+        "name": "Prize Fighter",
+        "summary": "Prize Fighter is a FMV boxing game which puts the player in the body of a boxer known as \"The Kid\" and must face off against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and, the ultimate challenge, Nuke \"The Duke\" Johnson, over the course of two CDs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/iyxwvozz3b4g4k4zda3y.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/prize-fighter",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5426,
+        "name": "Racing Aces",
+        "summary": "Racing Aces puts you behind the stick of World War 1, World War 2, and modern day fighting aircraft. Each competition is a dogfight as much as a race, and you will have to gun down your enemies to win. The tracks are littered with power up balloons to give you extra weapons and speed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/sicy3wnp4jrvwn7aj7cf.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Racing,Simulator",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/racing-aces",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5432,
+        "name": "Sega Classics Arcade Collection 4-in-1",
+        "summary": "Sega CD",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7e82.jpg",
+        "release_date": 719107200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Puzzle,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/sega-classics-arcade-collection-4-in-1",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5453,
+        "name": "Soulstar",
+        "summary": "Soulstar for the Sega CD/Mega CD is a 3D shoot-'em up that combines several different types of gameplay into one game. Some levels in this game are on a fixed path, similar to Space Harrier or Star Fox. Other levels allow your space craft to hover freely around a 3D environment, and in other levels your craft transforms into a walker robot for close-up attacks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p8t.jpg",
+        "release_date": 778377600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/soulstar",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5461,
+        "name": "Wild Woody",
+        "summary": "An adventurer named Dusty returns home with an enchanted Totem Pole. Due to an assortment of rare events, the spirits of the Totem have been freed and they have created a bizarre parallel universe that can devour the world. Lowman, the \"head\" of the Totem, needs some \"muscle\" as he calls it, to bring them back. He finds a pencil on the desk and makes it come to life. The pencil tells Lowman to call him Woody, WILLLLLLLLD Woody. Lowman explains what has happened with his Totem brothers and now Woody goes into the parallel universe, dimension by dimension, and rounds up Lowman's Totem brothers.\n\nIn this game, you destroy your enemies by jumping on top of them and Woody can also wipe them out with his eraser. You can erase certain walls to get through them and you can also erase boxes that most of the time teleport if you press down. Other boxes contain items. You also can sketch things and they will come to life, but you can only do this twice because Woody shrinks very quickly from doing this. There are also power-ups that make you grow again.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ger.jpg",
+        "release_date": 812505600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/wild-woody",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5462,
+        "name": "Wirehead",
+        "summary": "Wirehead has the player controlling Ned Hubbard, a man with a wireless controller implanted in his brain, via the joypad.\n\nThe bad guys are chasing after Ned for his \"mind implant\", and of course, the only way to get it is to open his head. Reminiscent of Dragon's Lair, a path opens up, and the player has to choose the right direction, otherwise Ned will be killed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82tz.jpg",
+        "release_date": 809913600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/wirehead",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 5465,
+        "name": "WWF Rage in the Cage",
+        "summary": "Brace yourself! A supercharged lineup of Superstars collide in the ultimate World Wrestling Federation slugfest! From punishing powerslams to cranium-crunching piledrivers... it doesn't get any better than this!\n\nDo you have what it takes to escape this ring of steel? It's time to unleash the Rage in the Cage!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa56q.jpg",
+        "release_date": 756432000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/wwf-rage-in-the-cage",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 12912,
+        "name": "Keio Flying Squadron",
+        "summary": "Keio Flying Squadron (慶応遊撃隊 Keiōyūgekitai?) is a scrolling shooter video game developed and published by Victor Entertainment in 1994 for the Sega/Mega CD in Japan, Europe, and North America. It is the first game of the Keio Flying Squadron series with a simple shoot-'em-up style of play.\nGameplay\nThe game consists of the protagonist Rami riding on top of Spot, who can shoot fireballs at enemies. When Spot is not firing, two smaller dragons (Companion fighters) appear one after another to assist Rami and Spot. The lesser dragons shoot smaller fireballs and can be sacrificed to do larger damage, only to reappear when Spot ceases to shoot.\nRelease\nIn Europe, a demo of the first level of this game was provided by Sega Pro magazine. The game seemed to end after the first level, but in fact the whole game was accessible on the disc by using a level-select cheat to skip to the second level, and then continuing through the game.\nReception\nRetro Gamer included among top ten Mega CD games, calling it \"a perfectly acceptable substitute\" OF Konami's Parodius that features \"similar style of horizontally scrolling wackiness and puts the Mega-CD hardware to good use to produce some excellent cut-scenes and a brilliant CD-quality soundtrack.\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3s89.jpg",
+        "release_date": 744595200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/keio-flying-squadron",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 19742,
+        "name": "Dungeon Explorer",
+        "summary": "Dungeon Explorer is an action RPG developed by Westone and Hudson Soft and released for the Sega Mega-CD in 1995.\n\nDespite sharing a name, the Mega-CD Dungeon Explorer is not a port of an earlier Dungeon Explorer, released for the PC Engine in 1989. While related, the Mega-CD game is designed to play more like Atari Games's Gauntlet, and is exclusive to Sega's system.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8l0m.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/dungeon-explorer",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 19743,
+        "name": "Midnight Raiders",
+        "summary": "A FMV rail shooter placing you in the helmet of rookie chopper gunner \"Joker.\" Terrorists have kidnapped a German biochemist and taken him to a Middle Eastern oil refinery, where he is forced to work on a lethal toxin. Joker and crew must fly to the refinery, shooting down enemy tanks and helicopters, then Joker must rappel down to the refinery and rescue the chemist on foot.\n\nThe helicopter sections follow a pattern similar to Tomcat Alley, showing brief clips of the cast in the cockpit, followed by a \"nose camera\" shot of an enemy approaching. During this shot, you have the ability to move a set of crosshairs over the enemy and press the \"fire\" button. If you're on target, you are rewarded with military archival footage of helicopters shooting rockets, and close up footage of models exploding.\n\nThe on-foot sections follow an identical pattern, though with hand-held cameras placing you in the \"eyes\" of Joker, and black-clad guards taking the place of helicopters. Otherwise, the idea of having a few seconds to react and aim crosshairs is the same. The plot is expanded through occasional cutscenes in both the helicopter and foot sections.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4bz.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "482,78",
+        "external_url": "https://www.igdb.com/games/midnight-raiders",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 45871,
+        "name": "Cyborg 009",
+        "summary": "Cyborg 009 is a Sega Mega-CD action game released exclusively in Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/yvrsrejezatcintevzky.jpg",
+        "release_date": 743990400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/cyborg-009",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 46406,
+        "name": "ESPN NBA HangTime '95",
+        "summary": "NBA HAngtime '95 takes it to the hoop with the ultimate in 2-on-2 half-court action. Choose from 81 of the hottest players in the NBA from all 27 teams. Special button combos let you unleash awesome player moves - two handed power dunks by Hakeem Olajuwon, reverse dunks by Chris Webber, spin moves by Scottie Pippen and more! Then for something completely different, play ESPN 2-on-2 World Tour mode with streetball players from around the world. NBA Hangtime '95, Everything Else is Just Practice.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8j3q.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/espn-nba-hangtime-95",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 46408,
+        "name": "Third World War",
+        "summary": "Third World War is a \"hypothetical/what if\" wargame with a twist. Set sometime in the late 20th century, when conflicts all over the world have erupted, and world peace is but a thing of the past.\n\nAs the leader of one of 16 nations, your ultimate goal is none other than world domination. To accomplish this you have a multitude of options ranging from raw military might, diplomacy, foreign or domestic investment policy, aiding terrorists or revolutionaries, to media manipulation. In other words, it's just like the real world.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4ni.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/third-world-war",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 46409,
+        "name": "The Masked Rider: Kamen Rider ZO",
+        "summary": "The Masked Rider is a Japanese super hero, a man who has become genetically altered to be a man/grasshopper who rides a motorcycle.\n\nThis FMV game adapts scenes from the movie Masked Rider ZO, and creates a Dragon's Lair style experience. The game centers around 10 battles of the film's 3 main characters.\n\nThe player watches the video and hits the correct direction or button at the right time to achieve success. The visual cues of the movie suggest the correct buttons. For example, when the Masked Rider punches, the player should press the Punch button. If he dodges left on screen, the player should press the left direction pad. Correct timing hits the enemy harder, lowering their health bar. Failure reduces the players health.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ri2.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/the-masked-rider-kamen-rider-zo",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 46418,
+        "name": "INXS: Make My Video",
+        "summary": "Make My Video: INXS is a video game based on real-time editing of music video footage. The setup is that a pair of female friends is hanging around a bar and monopolizing the pool table. The game explores the duo's interpersonal interactions with other patrons at the bar: There's the Fly, an aloof cool guy; Ted and Gomez, braindead surfer dudes trying to pick up the ladies, and who are thinly-veiled parodies of Bill & Ted; Poindexter, the nerd who is also trying to work up the courage to talk to the women; and Flo and Tiger, a pair of leather-clad tough chicks whose interest is beating the main subjects of the game so that they can control the bar music and play their Megadeth videotape. Each person or pair has own their ideas about what an ideal INXS video should or should not contain. The specifications normally come in the form of a set of pictures they either do or don't want to see, and perhaps some effects. The game features three INXS videos from which to choose: \"Heaven Sent\", \"Not Enough Time\", and \"Baby Don’t Cry\".",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8hh8.jpg",
+        "release_date": 721785600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/inxs-make-my-video",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 46420,
+        "name": "Heart of the Alien: Out of this World Parts I and II",
+        "summary": "Heart of the Alien is a sequel to Another World and continues the story directly from where the original ended. The game switches the player's role from Another World; this time the player takes control of Buddy, the main character's alien ally from the previous game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ga9.jpg",
+        "release_date": 773020800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/heart-of-the-alien-out-of-this-world-parts-i-and-ii",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 46422,
+        "name": "Bouncers",
+        "summary": "Arcade basketball game where YOU are the ball. You can't jump high enough on your own to go through the hoop, so you must bounce off other players. Supports up to four simultaneous players. \n \nThere are eight characters to choose from, powerups (and powerdowns) that affect your speed and jumping ability. \n \nGames can turn into fighting matches of sorts, as players can kick each other to get their opponent in the air. With practice, you can learn to shoot three pointers and slam dunk yourself into the basket.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/dc80x2uwhkdvmtgjvgnq.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/bouncers",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 46423,
+        "name": "BattleCorps",
+        "summary": "Battlecorps is a giant-mech game that takes place on a mining planet known as Mandlebrot's World. The colony supercomputer has been infected with a virus, and now the planet's giant machines are turning against the people who created them. You must pilot your bipedal attack machine through 12 missions to reboot the computer.\n\nThe graphics in this game use scaled and rotated sprites to achieve a 3D environment. The effect is similar to other Core Design games for the Sega CD.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gk6.jpg",
+        "release_date": 775699200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/battlecorps",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 46606,
+        "name": "Rapid Deployment Force: Global Conflict",
+        "summary": "RDF (Rapid Deployment Force) is a first-person 3D tank shooter with the player going up against a plethora of enemies including other tanks, missile launchers, helicopters among many others. The player can use either their 120mm cannon or their laser-guided missiles in a variety of locations that including the Eastern European countryside to the Alaskan Tundra. The story is told through FMV clips",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3goo.jpg",
+        "release_date": 760060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/rapid-deployment-force-global-conflict",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 78514,
+        "name": "Shadowrun",
+        "summary": "In addition to the Genesis and SNES versions of Shadowrun, a Sega CD version was released only in Japan. This version more of an interactive fiction than an action RPG, like its counterparts.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9bzz.jpg",
+        "release_date": 825033600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure,Visual Novel",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/shadowrun--3",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 128888,
+        "name": "Jurassic Park",
+        "summary": "Jurassic Park for the Sega Mega-CD is a point-and-click adventure game based on the Jurassic Park film. It relies heavily on full motion video.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zdx.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Point-and-click,Shooter",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/jurassic-park--5",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 234211,
+        "name": "The Terminator",
+        "summary": "Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.\n\nThe game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62n5.jpg",
+        "release_date": 731548800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/the-terminator--5",
+        "cached_at": 1778663186
+      },
+      {
+        "id": 234835,
+        "name": "The Adventures of Batman & Robin",
+        "summary": "Robin & Commissioner Gordon have mysteriously disappeared, and Batman suspects kidnapping. Have our two comrades succumb to the deadly beauty of Poison Ivy? Does the Riddler know the answer? Or will The Joker have the last laugh?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6379.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Racing",
+        "platform_ids": "78",
+        "external_url": "https://www.igdb.com/games/the-adventures-of-batman-and-robin--2",
+        "cached_at": 1778663186
+      }
+    ]
+  }
+}

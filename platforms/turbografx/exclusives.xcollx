@@ -1,0 +1,584 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "TurboGrafx-16 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:29+00:00",
+  "description": "Games released exclusively on TurboGrafx-16, sourced from Wikipedia category \"TurboGrafx-16-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 37689,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/SonSon_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37716,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Download_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37717,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Coryoon%3A_Child_of_Dragon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37719,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Burning_Angels"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37720,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/B%C5%8Dken_Danshaku_Don%3A_The_Lost_Sunheart"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37731,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/World_Sports_Competition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42050,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Lady_Sword"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42058,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Knight_Rider_Special"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42059,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Stoker"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42060,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Final_Match_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42076,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Digital_Champ%3A_Battle_Boxing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42083,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Cyber_Cross"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42087,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Barunba"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42088,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Bari_Bari_Densetsu"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42102,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Order_of_the_Griffon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42105,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/King_of_Casino"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42120,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/The_Legendary_Axe_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42121,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/The_Legendary_Axe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42122,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Keith_Courage_in_Alpha_Zones"
+    },
+    {
+      "media_type": "game",
+      "external_id": 42124,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Final_Lap_Twin"
+    },
+    {
+      "media_type": "game",
+      "external_id": 43195,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Toy_Shop_Boys"
+    },
+    {
+      "media_type": "game",
+      "external_id": 43201,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Bubblegum_Crash%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44341,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Somer_Assault"
+    },
+    {
+      "media_type": "game",
+      "external_id": 44342,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Sinistron_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66089,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Time_Cruise"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75524,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Deep_Blue_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92879,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Tricky_Kick"
+    },
+    {
+      "media_type": "game",
+      "external_id": 131462,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Batman_%28PC_Engine_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 145266,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Darkwing_Duck_%28TurboGrafx-16_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 169519,
+      "platform_id": 86,
+      "comment": "https://en.wikipedia.org/wiki/Zero4_Champ"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 37689,
+        "name": "Son Son II",
+        "summary": "This platformer sequel to Son Son was only released on the PC Engine in Japan.\n\nSon Son 2 is the direct sequel to Son Son and features an interpretation of the Son Goku character from ancient Chinese novel Journey to the West. Unlike the first game, which played like a ground-based scrolling shoot-'em-up with several floors the character could switch between, Son Son II plays much more like a traditional platformer, specifically Wonder Boy and even more overtly Capcom's earlier arcade game Black Tiger. Son Son attacks with his extendable staff (based on Sun Wukong's Ruyi Jingu Bang weapon) and can defeat enemies to earn coins, which can be spent on upgrades and health refills. The player also needs to find a key on each stage before they can reach the boss.\n\nThe goal of the game is to rescue the other members of his party: Xuanzang (Tripitaka), Pigsy and Sandy. They are kidnapped during the opening cutscene by the final boss, who is depicted as a mysterious silhouette.\n\nSon Son II is also one of the earliest Capcom games to use Zenny, their trademark fictional currency.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co51vp.jpg",
+        "release_date": 604540800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/son-son-ii",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 37716,
+        "name": "Down Load",
+        "summary": "Horizontal shoot 'em up for the PC Engine. The player, as cyber-diver Syd, must fly his hoverbike through the future city of Kabukicho to rescue his partner Deva from the corrupt police.\n\nDownload is a horizontal shoot 'em up set in a dystopian cyberpunk future in which the main character, Syd, is haunted by memories of his friend Ohala falling to a cybernetic menace. Meanwhile, he receives a call from his contact/partner Deva and must rush to her rescue when she is abducted by the Kabukicho police force. The game's story is depicted in a series of animated vignettes before each stage, similar to Ninja Gaiden. Beginning with the mean streets of Kabukicho, Syd will eventually jack into the internet and fights in a similar manner through cyberspace.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co636f.jpg",
+        "release_date": 646012800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/down-load",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 37717,
+        "name": "Coryoon",
+        "summary": "A horizontal shoot 'em up that casts you as a baby dragon out to free a princess from the clutches of an evil....well, you get the idea. Gameplay is traditional, with power-up weapons that include multi-way shot and 'miniature' mode and a sort of reverse R-Type beam where you don't shoot to power it up. Also contains 2 minute and 5 minute time attack modes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dib.jpg",
+        "release_date": 691372800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/coryoon",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 37719,
+        "name": "Burning Angels",
+        "summary": "Evil forces have kidnapped the leader of the Burning Project! It's up to the Burning Angels to rescue her! And so starts another vertically scrolling shooter on the PC Engine. There are no surprises in the gameplay here - choose one of two ships, shoot down enemies and collect power upgrades and energy pods. Levels range from the city to the desert and the obligatory sci-fi enemy base. At the end of each level, defeat the large boss craft to move on.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xcx.jpg",
+        "release_date": 660528000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/burning-angels",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 37720,
+        "name": "Bouken Danshaku Don: The Lost Sunheart",
+        "summary": "A horizontal shoot 'em up with a surreal edge. A group of evil eyes have stolen parts of the Sunheart, and the player needs to recover them.\n\nBouken Danshaku Don: The Lost Sunheart (\"Adventures of Don Baron: The Lost Sunheart\", roughly) is a horizontal shoot 'em up exclusive to the PC Engine. The game's plot concerns the titular Sunheart device, which is broken into several pieces and spirited away by a group of malicious eyeball enemies. The hero, in a series of vehicles, takes down each of the boss creatures that are protecting a piece of the stolen Sunheart.\n\nThe game is distinct among shoot 'em ups for allowing players to keep their power-ups after dying. This does not mitigate the game's difficulty, as it has some very strict checkpointing and many enemies with difficult-to-avoid homing shots. The game's surreal sense of humor comes through with its bizarre bosses, in some way invoking the flamboyant Cho Aniki series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xcu.jpg",
+        "release_date": 694483200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/bouken-danshaku-don-the-lost-sunheart",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 37731,
+        "name": "World Sports Competition",
+        "summary": "Top Athletes Battle for Glory!\n\nYou create an athlete who runs, jumps, and throws! Aim for the world record...and never give up!\n\nWith 18 events to choose from...\nWith 6 categories, and a total of 18 exciting events, you'll have a wide choice to train for. Then go on to challenge Olympic Mode in your chose event. you too can be a world record holder!\n\nExcitement x 5!\nExciting alone, unbelievable with friends! Up to five players can compete at once, for some serious adrenalin action!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xqb.jpg",
+        "release_date": 728524800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "9,5,86,41,46,38",
+        "external_url": "https://www.igdb.com/games/world-sports-competition",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42050,
+        "name": "Lady Sword: Ryakudatsusareta 10-nin no Otome",
+        "summary": "An unlicensed eroge dungeon-crawler RPG developed by Games Express for the PC Engine in 1992.\n\nLady Sword is an RPG of the Wizardry/Eye of the Beholder/Etrian Odyssey mold. An unnamed swordsman delves deep into a cursed labyrinth in order to rescue a group of abducted women from their monstrous captors. Throughout the early stages, the player character randomly bumps into other NPCs who dole out advice and tips. Upon successfully clearing each floor, the player is presented with a nude image of the rescued women; this is the extent of the eroge element.\n\nThe game was developed by Games Express, a sobriquet for Hacker International: a company which primarily developed and published unlicensed games for the PCE and Famicom.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xio.jpg",
+        "release_date": 710985600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/lady-sword-ryakudatsusareta-10-nin-no-otome",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42058,
+        "name": "Knight Rider Special",
+        "summary": "A combat racing game featuring KITT and Michael Knight from the TV show Knight Rider. It was released exclusively in Japan for the PC Engine.\n\nKnight Rider Special is a driving game with vehicular combat that was released for the PC Engine in 1989. It is based on the 1980s TV show Knight Rider, about the secret agent Michael Knight and the Knight Industries Two Thousand (KITT) technologically-enhanced vehicle with its own sophisticated AI. The game employs the memorable music from the TV show and also features the Japanese voice actor for KITT, who lends his voice to a few soundbites.\n\nThe goal of the game is to race to the end of each stage, avoiding other vehicles on the road and employing KITT's turbo boosters to make time, and then taking out the criminal Michael was sent to chase down with KITT's weaponry.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xiq.jpg",
+        "release_date": 630288000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Adventure",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/knight-rider-special",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42059,
+        "name": "Metal Stoker",
+        "summary": "A cyberpunk multi-directional shoot 'em up for the PC Engine.\n\nMetal Stoker is a top-down, multi-directional shoot 'em up for the PC Engine, developed and published by Face (possibly through their subsidiary brand Sankindo). The game features the subtitle \"Neo Hardboiled Shooting\".\n\nThe goal of the game is to explore each stage, fight a boss and move onto the next. Some stages are comprised of several linear enclosed areas that require that the player clear the room of enemies before they can proceed, while others are more open and let the player scroll in multiple directions while seeking out their foes. The story is sparse, and concerns the player's testing out of a new Custom CS-05 tank through a series of simulations.\n\nThe game was released exclusively for the PC Engine. It has yet to be rereleased in any capacity.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xie.jpg",
+        "release_date": 679276800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/metal-stoker",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42060,
+        "name": "Final Match Tennis",
+        "summary": "Final Match Tennis is by far the deepest tennis game in terms of gameplay on the PC Engine. In fact, its play controls are among the most sophisticated in a PC Engine game and in general, in a tennis game (what still counts to this very day). Don't get fooled by its simple graphics. There is everything in this game that tennis is about. Smashes, stop balls, volleys, back and forehand spins or lobs. At the top of it all, you can play it in every thinkable player combination (training, tournament, 1-4 players). By the way: in addition, its one of the best multiplayer games ever.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xev.jpg",
+        "release_date": 667785600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/final-match-tennis",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42076,
+        "name": "Digital Champ",
+        "summary": "Take to the ring and fight against strangely familiar looking opponents in this first-person boxing game. Block and dodge with the D-Pad while using the buttons to punch with either left or right fists. Hold the button down and you get a more powerful hit, but it requires more timing and accuracy to be effective.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co57ef.jpg",
+        "release_date": 626918400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "5,86,41",
+        "external_url": "https://www.igdb.com/games/digital-champ",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42083,
+        "name": "Cyber Cross",
+        "summary": "Rolling Thunder-esque platform beat 'em up which gives you the ability to transform into a brightly coloured Power Suit as you fight crime on the streets.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xdv.jpg",
+        "release_date": 614563200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/cyber-cross",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42087,
+        "name": "Barunba",
+        "summary": "The Engine is hardly lacking in shooters, so to be successful, you have to stand out from the crowd. Barunba tries to add a hint of originality in its own subtle way. You control what is basically a floating globe (complete with little man inside) that has a weapons ring around it - this ring can be rotated right around the ship giving a fully controllable direction of fire, something obviously useful for those pesky critters approaching from behind. From the start, you are equipped with several different types of weapon, each of which can be temporarily boosted by collecting items that are dropped by exploding enemies. The levels are auto-scroll, moving around in all directions and contain mid-level as well as end-of-level bosses. Your ship has an energy bar, located at the bottom left of the screen, and once it is depleted it's 'Game Over'.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6f0z.jpg",
+        "release_date": 643766400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/barunba",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42088,
+        "name": "Bari Bari Densetsu",
+        "summary": "Based on a manga, Bari Bari Densetsu is something of a rare breed on the Engine - a motorcycle racing game. You can pretty much guess how it works - there's a World GP mode where you have to compete in a variety of races in order and a Travel mode that let's you pick a track of your choice. Also to consider is the gubbins that make up your bike, such as tyres, engine, brakes etc as these have an effect depending on the type of course and the weather conditions. Races are started with a qualifying lap that lets you get the feel of the track, followed by the race proper. You are then placed and can hopefully move on to the next country.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xcd.jpg",
+        "release_date": 628300800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/bari-bari-densetsu",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42102,
+        "name": "Dungeons & Dragons: Order of the Griffon",
+        "summary": "The Vampire has escaped and has arisen again just as the Ancient Ones predicted. The Vampire controls bands of monsters who do his destructive bidding. Using the evil Iron Ring, he bends the will of the common people in an attempt to take over the world. Even the great Radlebb Keep has been conquered by the Dark Once and been bent to his evil will.\nNow, with your character in the Order of the Griffon, we have a chance to defeat the evil Vampire! World peace can be restored!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xum.jpg",
+        "release_date": 696902400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/dungeons-and-dragons-order-of-the-griffon",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42105,
+        "name": "King of Casino",
+        "summary": "The chips are down as you and your buddies travel to Vegas in this high stakes adventure. Match wits (and luck!) against the house or up to four of your friends in a game with all the glitz and glamor of a real casino. Play Poker, Blackjack, slot machines, Keno or Roulette. Choose one of 15 different casinos. You're the odds-on favorite in this high-rolling gambling simulation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xhq.jpg",
+        "release_date": 633830400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/king-of-casino",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42120,
+        "name": "Legendary Axe II",
+        "summary": "The Axe is back ... with twice the force and twice the fury of 1988's classic TurboGrafx-16 videogame. This time it's brother against brother, locked in deadly combat. Your older brother has summoned forces of unspeakable evil to take control of the kingdom. Treachery rules! Your only hope is the legendary royal sword. But will its power be enough to overcome the Cliffs of Chaos? The Skull Dungeon? And the treacherous Crypts of Slime? Only your courage, your fighting skill, and the Legendary Axe can answer that challenge!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6iem.jpg",
+        "release_date": 652665600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/legendary-axe-ii",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42121,
+        "name": "The Legendary Axe",
+        "summary": "You are Gogan, a muscular powerhouse with enough guts to enter the Pits of Madness. Your mission: rescue the beautiful red-haired Flare. You are strong, but you also have Sting, a sacred axe to help you battle strange creatures and the savage cult of Jagu, fighting through mountain, jungle and cave environments to reach the lovely maiden.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co88fb.jpg",
+        "release_date": 590976000,
+        "rating": 69.95060817271933,
+        "rating_count": 5,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/the-legendary-axe",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42122,
+        "name": "Keith Courage in Alpha Zones",
+        "summary": "Now the Battle is in Your Hands.\n\nYou are Keith Courage. Struck by a giant meteor, the world has been invaded by strange creatures from another planet. Burrowing deep within the Earth's surface, the Planet of B.A.D. (Beastly Alien Dudes) seeks to take over the world. As a member of N.I.C.E. (Nations of International Citizens for Earth), your mission is to defeat B.A.D. and bring peace back to the world.\n\nArmed only with a sword, you must first defeat the outpost guards. Then, enter the Underworld. Here you activate the awesome Nova Suit. A secret force left to you by your fallen father, you are half man, half mechanical monster. Nearly invincible, your sword cracks with the power of lightning, as you wreak havoc on the fearsome Dudes. Your goal is to reach the Robo Zone (the seventh Alpha Zone), headquarters of B.A.D. Succeed here and you will have won the game, recapturing the Earth and restoring humanity's place in the universe. You have help along the way. Four friends offer you advice, swords, bombs, and extra lives. Collect the stolen riches left behind by the invaders and buy your way out of trouble with money.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6msv.jpg",
+        "release_date": 588902400,
+        "rating": 49.09868880094511,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/keith-courage-in-alpha-zones",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 42124,
+        "name": "Final Lap Twin",
+        "summary": "Final Lap Twin is a hybrid racing/role-playing game released for the PC Engine in 1989 and the TurboGrafx-16 in 1990, as a spin-off to the 1987 arcade game Final Lap. The protagonist is on a quest to live up to the reputation of his racing-champion dad. He travels over the map, meeting small-time racers, and must race his car to earn money that he spends on upgrading his car, eventually facing the local racing champion. After beating the rest of the local racing champions in the various cities, the protagonist must go through a maze to find the final upgrades of the different parts of his car, and then face the world racing champion.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xew.jpg",
+        "release_date": 602294400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/final-lap-twin",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 43195,
+        "name": "Toy Shop Boys",
+        "summary": "Overhead shoot 'em up featuring all manner of toys as enemies.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xpq.jpg",
+        "release_date": 661132800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/toy-shop-boys",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 43201,
+        "name": "Bubblegum Crash",
+        "summary": "Bubblegum Crash is a PC Engine graphic adventure game based on the anime OVA series of the same name.\n\nThe anime/game is set in the near future of 2032, which has seen Tokyo split into two by a massive earthquake. Corporations rule the country, production-line humanoid robots named \"boomers\" are being used by villains to commit crimes, and the beleaguered police are too under-budgeted and incompetent to handle it all. The all-female mercenary team the Knight Sabers, who use powerful exosuits called \"Hard Suits\", are the city's best defense.\n\nThe game operates similarly to other adventure games of the era. The player is given a selection of commands that they can use to interact with the world, including talking to NPCs, picking up and using objects in their inventory and moving to other areas. At any time the player can look and listen for extra context clues. The commands are in English, but the game's story and dialogue text is entirely Japanese. The game will occasionally switch protagonists, starting with Nene Romanova and moving to Priss, Linna and Sylia at various points.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xcw.jpg",
+        "release_date": 691977600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Point-and-click,Adventure,Visual Novel",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/bubblegum-crash",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 44341,
+        "name": "Somer Assault",
+        "summary": "Here begins the story from a time and a world not our own ... A sorceress used her evil powers to fulfill her conquest to rule the world. \"Go my dead slaves to trample and rule the world which will belong to us!\" You are the only one who can crush her wretched plans! Each stage is controlled by a boss who portrays a sign of the zodiac. Going through a maze, you have to find and destroy the boss before your time runs out. Save the world!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xp1.jpg",
+        "release_date": 696902400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/somer-assault",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 44342,
+        "name": "Sinistron",
+        "summary": "Scramble Mode Zeta; A message to Cybernaut Squadron Calisto -- Priority Alpha-San 03... An intersystem intruder has been detected in quadrant FTU-770. Dronecraft sent to get a visual discovered an extremely large monolith, biomorphic in nature. All attempts at contact ended in destruction of drones. Your mission: locate, intercept and enter the Sinistron. Use any means to destroy it!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xp2.jpg",
+        "release_date": 665366400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/sinistron",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 66089,
+        "name": "Time Cruise",
+        "summary": "A sci-fi themed pinball game on the TurboGrafx-16. The pinball can activate time machines which sends it to bonus tables in different time zones.\n\nTime Cruise is a pinball game from FACE with a sci-fi theme and multiple tables. Unlike most pinball games with extended play zones, these tables are to the left and right of the core table, and the pinball can switch between them by passing through connecting tunnels. In addition, the player can power up time machines by hitting several levers with the pinball. Entering a time machine takes the pinball to a number of different time zones, each providing a possible score boost or extra ball.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xpk.jpg",
+        "release_date": 689558400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Pinball",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/time-cruise",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 75524,
+        "name": "Deep Blue",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xe6.jpg",
+        "release_date": 607305600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/deep-blue--1",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 92879,
+        "name": "Tricky Kick",
+        "summary": "Flex your thumbs and tease your brain! TRICKY KICK takes brain teasing puzzle gaming into the next dimension. Six different Heroes, trapped in a mixed-up, matched-up world of obstacles, baffle their way through hostile hazards. Weave your way through 120 levels of mind-bending possibilities where wild animals, robots, spooks, and trolls try to keep you from your goal. Designed for puzzlers of all ages, TRICKY KICK will quickly become a game you'll find hard to quit.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5avn.jpg",
+        "release_date": 694137600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/tricky-kick",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 131462,
+        "name": "Batman",
+        "summary": "Batman is an Action game, developed and published by SunSoft, which was released in Japan in 1990.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3zcg.jpg",
+        "release_date": 655689600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/batman",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 145266,
+        "name": "Disney's Darkwing Duck",
+        "summary": "Darkwing Duck is a video game for the TurboGrafx-16 console. It was designed by Interactive Designs and Radiance Software. It was published by Turbo Technologies Inc. in 1992.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xe4.jpg",
+        "release_date": 725760000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/disneys-darkwing-duck--2",
+        "cached_at": 1778663189
+      },
+      {
+        "id": 169519,
+        "name": "Zero4 Champ",
+        "summary": "The first game in a Japanese drag racing series that contains RPG elements.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xq2.jpg",
+        "release_date": 668390400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "86",
+        "external_url": "https://www.igdb.com/games/zero4-champ",
+        "cached_at": 1778663189
+      }
+    ]
+  }
+}

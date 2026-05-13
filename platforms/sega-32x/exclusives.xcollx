@@ -1,0 +1,242 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Sega 32X Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:05:46+00:00",
+  "description": "Games released exclusively on Sega 32X, sourced from Wikipedia category \"Sega 32X-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 19733,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Kolibri_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19762,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Knuckles%27_Chaotix"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19763,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Shadow_Squadron"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19764,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Zaxxon%27s_Motherbase_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19779,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Motocross_Championship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19780,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Head"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45876,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/R.B.I._Baseball_%2795"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45877,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Darxide"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45881,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Tempo_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45882,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man%3A_Web_of_Fire"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45883,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Cosmic_Carnage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94921,
+      "platform_id": 30,
+      "comment": "https://en.wikipedia.org/wiki/Golf_Magazine%3A_36_Great_Holes_Starring_Fred_Couples"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 19733,
+        "name": "Kolibri",
+        "summary": "Kolibri is a side scrolling shooter, featuring a hummingbird hero acrosss 19 levels in a variety of natural settings, with multiple objectives as solving puzzles, clearing all enemies, or free romaing exploring in any directions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4sry.jpg",
+        "release_date": 812505600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/kolibri",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 19762,
+        "name": "Knuckles' Chaotix",
+        "summary": "A mysterious island rose from the sea shortly after the events of Sonic & Knuckles. Dr. Robotnik discovered the island, and found a mysterious ring inscribed with descriptions of the Chaos Rings, ancient Rings infused with Chaos Emerald energy. In order to find these Rings, Robotnik built his base, the Newtrogic High Zone, on the island. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee also arrived at the island, and ended up being captured by Robotnik and Metal Sonic, and placed in Robotnik's Combi Catcher machine. Knuckles, curious about the strange island, goes there as well, and manages to rescue Espio. The two then go on to stop Robotnik from getting the Chaos Rings.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2yio.jpg",
+        "release_date": 798336000,
+        "rating": 66.36943031073108,
+        "rating_count": 25,
+        "genres": "Platform",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/knuckles-chaotix",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 19763,
+        "name": "Shadow Squadron",
+        "summary": "Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships. There are 2 different types of ships to fly, and 6 different missions. In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing.\n\nThere are two ways to play the game. First, one can directly control the ship and maneuver it around the 3D polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ijb.jpg",
+        "release_date": 798854400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/shadow-squadron",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 19764,
+        "name": "Zaxxon's Motherbase 2000",
+        "summary": "This 32X-exclusive sci-fi shooter is similar gameplay-wise to Sega's arcade game Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment. The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.\n\nAlthough the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element. Your basic spacecraft has very little firepower, and can only sustain one hit. To make matters worse, there are very few power-ups. In order to survive, you have to jump on top of enemies and take control of their weapons systems. This system allows for a large variety of player-controllable ships.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zsi.jpg",
+        "release_date": 801964800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Racing",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/zaxxons-motherbase-2000",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 19779,
+        "name": "Motocross Championship",
+        "summary": "Motocross Championship is the only dirtbike racing game for the 32X. The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4jr.jpg",
+        "release_date": 788832000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/motocross-championship",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 19780,
+        "name": "Metal Head",
+        "summary": "Bullets fly and circuits try in heavy-duty cyborg techno-slaughter. You control Metal Head, the ultimate cyborg warrior, patrolling the charred urban destruction of the great war. And a murderous mecha-force is gunning for you!\n\nINCREDIBLE 3-D textured polygon graphics engulf Metal Head in searing firefights as cyber troops, hover craft and ground attack vehicles annihilate the planet!\n\nYou are the ultimate tech-destroyer - with chain guns, missiles, radar tracking and Heads-up Display!\n\nHead-banging heavy-metal music amps you up for pure warfare!\n\n24 megs of cyber-combat rock through war torn urban streets, bombed out farmland, scorched forests and bullet-riddled 'burbs!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i1m.jpg",
+        "release_date": 793584000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/metal-head",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 45876,
+        "name": "RBI Baseball '95",
+        "summary": "This version is an updated follow-up to the R.B.I. series. Many of the same features from other baseball games are present and has three different game modes to choose from: exhibition, playoff, and home run derby, but what makes this version different from the others is a lack of MLB license, though it does feature a MLBPA license with top players of the time such as Roger Clemens, Otis Nixon, Bobby Larkin among many others.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4054.jpg",
+        "release_date": 791596800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/rbi-baseball-95",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 45877,
+        "name": "DarXide",
+        "summary": "One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.\n\nPlayers control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xu7.jpg",
+        "release_date": 820454400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/darxide",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 45881,
+        "name": "Tempo",
+        "summary": "King Dirge is trying to steal the rhythm out of Planet Rhythmia! It is up to Tempo, the hyper groovin' grasshopper with special \"Sound Energy\" to save the world of music from the evil clutches of King Dirge.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co50km.jpg",
+        "release_date": 796003200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/tempo",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 45882,
+        "name": "The Amazing Spider-Man: Web of Fire",
+        "summary": "A massive electrical plasma grid has shrouded New York City in a blanket of hysteria and destruction. Skyscrapers are crumbling. Civilians are frying. It's only a matter of time before The Big Apple becomes the Baked Apple.\n\nWho will prevail, The Net or The Web?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4t7l.jpg",
+        "release_date": 822528000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/the-amazing-spider-man-web-of-fire",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 45883,
+        "name": "Cosmic Carnage",
+        "summary": "What kind of un-be-leev-ably ugly monster is this? Chunks of armor fly off as you pound its body. This beefed-up, maxed-out monstrosity has jetted across the cosmos to beat your brains out! But is it the alien? Or is it YOU?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7u3y.jpg",
+        "release_date": 785376000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/cosmic-carnage",
+        "cached_at": 1778663146
+      },
+      {
+        "id": 94921,
+        "name": "Golf Magazine Presents 36 Great Holes Starring Fred Couples",
+        "summary": "Golf Magazine: 36 Great Holes Starring Fred Couples, called Golf Magazine Presents 36 Great Holes Starring Fred Couples on the boxart and in Sega of Japan's archive, is a golf game developed by Flashpoint Productions and published by Sega exclusively for the Sega 32X.\n\nThe player controls one of 24 professional golfers playing in 27 famous US golf courses. As the name suggests, there are 36 holes. Fred Couples is playable in the game and does commentary.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ono.jpg",
+        "release_date": 788918400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "30",
+        "external_url": "https://www.igdb.com/games/golf-magazine-presents-36-great-holes-starring-fred-couples",
+        "cached_at": 1778663146
+      }
+    ]
+  }
+}

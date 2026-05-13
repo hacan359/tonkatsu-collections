@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Atari 7800 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:04+00:00",
+  "description": "Games released exclusively on Atari 7800, sourced from Wikipedia category \"Atari 7800-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 11121,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11865,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Alien_Brigade"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12335,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Midnight_Mutants"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12336,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Planet_Smashers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28529,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Motor_Psycho"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80511,
+      "platform_id": 60,
+      "comment": "https://en.wikipedia.org/wiki/Meltdown_%281990_video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 11121,
+        "name": "Ninja Golf",
+        "summary": "Ninja Golf is an Atari 7800 video game which combines scrolling beat 'em up with golf simulation gameplay. Released in 1990, it later gained some renown for its outlandish subject matter and unique blend of gameplay styles.\nThe player starts each hole by aiming his ball and shooting it toward the green. He then runs toward the ball, in traditional sidescroller fashion, fighting various enemies encountered along the way. These enemies include other ninjas, gophers, birds, giant mutant frogs, sharks and more.\nThe enemies faced depends on the environment the ninja golfer is currently in. Sharks are encountered in water hazards and snakes in the sand traps. Ninjas are encountered in all the environments, including underwater.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3203.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport,Hack and slash/Beat 'em up",
+        "platform_ids": "60",
+        "external_url": "https://www.igdb.com/games/ninja-golf",
+        "cached_at": 1778663164
+      },
+      {
+        "id": 11865,
+        "name": "Alien Brigade",
+        "summary": "Alien Brigade is a side scrolling shooter similar to Operation Wolf. Aliens have arrived on earth and have brainwashed both soldiers and civilians in order to take over the world. Your job is to stop them! On each of the five levels you will have a different objective to complete, including saving civilians and destroying alien installations. Throughout the levels there will be numerous aliens and brainwashed people you will need to shoot, as well as attacking tanks, helicopters, and more. After shooting enemies a bonus may sometimes be left behind; if you shoot this, you can earn additional ammo, more powerful weapons, or increased health. If you don't shoot fast enough and are hit by enemy fire your health will slowly decrease; the game ends when all of your health is gone.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pez.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "60",
+        "external_url": "https://www.igdb.com/games/alien-brigade",
+        "cached_at": 1778663164
+      },
+      {
+        "id": 12335,
+        "name": "Midnight Mutants",
+        "summary": "Can you save Grampa from Plasmic Prison\n\n7800 Arcade adventure like you've never seen before. This game has it all places like rivers, deep dark forests, creepy caverns, labs, creatures like Vampires, Mutant zombies and menacing bats. Your adventure includes exploring large areas and finding awesome weapons. A press of a button brings instant on-screen hints and tips.\n\nIt all adds up to awesome action with mega Graphics. Grampa’s back, it’s up to you to wipe out the Monsters and clean up.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/lgswkvoucsivorqiznia.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure,Arcade",
+        "platform_ids": "60",
+        "external_url": "https://www.igdb.com/games/midnight-mutants",
+        "cached_at": 1778663164
+      },
+      {
+        "id": 12336,
+        "name": "Planet Smashers",
+        "summary": "Planet Smashers finally delivered an original 2D Shooter to the Pro System late in its life. Your spaceship, which oddly looks like an airplane, has the grave task of defending Earth from an alien armada. Planet Smashers has some nice features like level warp codes, laser upgrades, cloaking devices, and interesting bosses. You even have the burden of defending Earth's shield from asteroids and alien ships. The back of the box boasts, \"awesome sound effects\", but the main laser noise is mind-numbingly irritating. After you defeat the game, you are treated to a text ending commanding you to play Alien Brigade, which makes little sense since you just defeated the alien mothership.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co35dq.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "60",
+        "external_url": "https://www.igdb.com/games/planet-smashers",
+        "cached_at": 1778663164
+      },
+      {
+        "id": 28529,
+        "name": "Motor Psycho",
+        "summary": "You finished it at last! And now you are going crazy waiting to test your sleek, hot, fast customized bike. It absorbs your every waking moment, you dream about it every night. It has become an obsession. And you know just the place to try it out.\n\nThe annual MotorPsycho Competition (for deranged, psychopathic, and other unusual biker types) is this weekend! Its obstacle-laden course is legendary among motorcycle maniacs. Of course, nobody in their right mind would attempt this course. The die-hard spectators remind you that fan is short for fanatic. They've staked out their favorite spots to view the races, and they are waiting for the roar of revving engines, the squeal of tires, the crunch of metal...\n\nIt's you against the clock and your bike is built for speed. All you need to do is point it in the right direction and go for it!\n\nFour different tracks will separate the veterans from the rookies. (Or the schizophrenics from the psychotics.) Weekend amateurs will eat your dust, but you've got some pretty insane competition from your fellow, uh, pros. Some of these guys look hungry for the sweet taste of victory, but some of them look hungry for the taste of raw meat!\n\nSo rev 'er up and let 'er rip! The winner's circle (or the guy with the clean white coat) awaits.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31zx.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "60",
+        "external_url": "https://www.igdb.com/games/motor-psycho",
+        "cached_at": 1778663164
+      },
+      {
+        "id": 80511,
+        "name": "Meltdown",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5yo6.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "60",
+        "external_url": "https://www.igdb.com/games/meltdown--1",
+        "cached_at": 1778663164
+      }
+    ]
+  }
+}

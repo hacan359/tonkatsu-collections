@@ -1,0 +1,1686 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "GameCube Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:08+00:00",
+  "description": "Games released exclusively on GameCube, sourced from Wikipedia category \"GameCube-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1034,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Four_Swords_Adventures"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1441,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Fire_Emblem%3A_Path_of_Radiance"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1471,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Kururin_Squash%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1627,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1700,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Wario_World"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1712,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WarioWare%2C_Inc.%3A_Mega_Party_Games%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1766,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mega_Man_Network_Transmission"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2256,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Super_Mario_Strikers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2330,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Party_4"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2331,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Party_5"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2333,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Party_6"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2334,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Party_7"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2344,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Kart%3A_Double_Dash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2643,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Channel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2686,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Star_Fox_Adventures"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2724,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_XD%3A_Gale_of_Darkness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2725,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Colosseum"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2777,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Kirby_Air_Ride"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2928,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Super_Monkey_Ball_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3243,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Star_Fox%3A_Assault"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3403,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Golf%3A_Toadstool_Tour"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3465,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Custom_Robo_Battle_Revolution"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3492,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/F-Zero_GX"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3667,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Shrek_Extra_Large"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3680,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution%3A_Mario_Mix"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3773,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Disney%27s_Magical_Mirror_Starring_Mickey_Mouse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3774,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/1080%C2%B0_Avalanche"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3784,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Amazing_Island"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3797,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Battalion_Wars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3807,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Beyblade%3A_Super_Tournament_Battle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3808,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Big_Air_Freestyle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3832,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_Generation"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3865,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Cubivore%3A_Survival_of_the_Fittest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3885,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Disney%27s_Hide_and_Sneak"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3891,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Donkey_Konga_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3897,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Dragon_Drive%3A_D-Masters_Shot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3907,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Eternal_Darkness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3910,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Evolution_Worlds"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3928,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Geist_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3931,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Giftpia"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3933,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Go%21_Go%21_Hypergrind"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3936,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Gotcha_Force"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3938,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/GT_Cube"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3947,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Home_Run_King"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3948,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Homeland_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3965,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Kid%C5%8D_Senshi_Gundam%3A_Senshitachi_no_Kiseki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3972,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Legend_of_Golfer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3981,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Lost_Kingdoms"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3982,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Lost_Kingdoms_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3986,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mario_Superstar_Baseball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3999,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Medabots_Infinity"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4006,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Gear_Solid%3A_The_Twin_Snakes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4020,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Monsters%2C_Inc._Scream_Arena"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4023,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Mutsu_to_Nohohon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4026,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Naruto%3A_Clash_of_Ninja_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4031,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/NBA_Courtside_2002"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4049,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Nintendo_Puzzle_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4050,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Odama"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4060,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/P.N.03"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4072,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Pool_Edge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4082,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Rave_Master_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4085,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Rei_Fighter_Gekitsui_Senki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4152,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Skies_of_Arcadia_Legends"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4161,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Special_Jinsei_Game"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4181,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_II%3A_Rogue_Leader"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4182,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_III%3A_Rebel_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4192,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Swingerz_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4202,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Tonka%3A_Rescue_Patrol"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4217,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Tube_Slider"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4224,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Ultimate_Muscle%3A_Legends_vs._New_Generation"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4226,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Universal_Studios_Theme_Parks_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4232,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Wave_Race%3A_Blue_Storm"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4571,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WWE_Day_of_Reckoning"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4572,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WWE_Day_of_Reckoning_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4573,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WWE_WrestleMania_X8_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4574,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/WWE_WrestleMania_XIX_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4582,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Yu-Gi-Oh%21_The_Falsebound_Kingdom"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10629,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Zoids%3A_Battle_Legends"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23329,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Phantasy_Star_Online_Episode_III%3A_C.A.R.D._Revolution"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24289,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Naruto%3A_Clash_of_Ninja_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50571,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Knockout_Kings_2003"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50576,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Zoids_Vs._III"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50581,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/MC_Groovz_Dance_Craze"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50586,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Zoids_Vs."
+    },
+    {
+      "media_type": "game",
+      "external_id": 78292,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Road_Trip%3A_The_Arcade_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 123116,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Duel_Masters%3A_Nett%C5%8D%21_Battle_Arena"
+    },
+    {
+      "media_type": "game",
+      "external_id": 256803,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Donkey_Konga"
+    },
+    {
+      "media_type": "game",
+      "external_id": 256807,
+      "platform_id": 21,
+      "comment": "https://en.wikipedia.org/wiki/Donkey_Konga_2"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1034,
+        "name": "The Legend of Zelda: Four Swords Adventures",
+        "summary": "The Legend of Zelda: Four Swords Adventures is the only console Zelda title to date to incorporate multiplayer elements into its main campaign. Because of its single-player elements, Four Swords Adventures is also the first game in the series to allow a single player to control more than one Link at once, and it utilizes various methods to allow the player to make use of the four Links, such as formations. Also it is the only title to break locations and temples up into succinct, separate stages and levels which can be replayed even after beating them once. The game itself, though an innovation in Zelda gameplay, is heavily inspired by the music, graphics, and locations of A Link to the Past.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9xf.jpg",
+        "release_date": 1086566400,
+        "rating": 70.57708240381208,
+        "rating_count": 75,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/the-legend-of-zelda-four-swords-adventures",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 1441,
+        "name": "Fire Emblem: Path of Radiance",
+        "summary": "Fire Emblem: Path of Radiance is a tactical role-playing video game developed by Intelligent Systems and Nintendo SPD, and published by Nintendo for the GameCube home console in 2005. It is the ninth main installment in the Fire Emblem series,[c] and the third to be released in the west. As with previous installments, gameplay revolves around positioning characters on a battlefield to defeat an opposing force. If characters are defeated in battle, they are removed from the rest of the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ofh.jpg",
+        "release_date": 1113955200,
+        "rating": 84.15465152528142,
+        "rating_count": 118,
+        "genres": "Role-playing (RPG),Strategy,Turn-based strategy (TBS),Tactical",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/fire-emblem-path-of-radiance",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 1471,
+        "name": "Kururin Squash!",
+        "summary": "Kururin Squash! is an action-puzzle video game developed by Eighting and published by Nintendo. It was released only in Japan on October 14, 2004. The game is the successor to Kururin Paradise and is the only title of the Kururin series with 3D computer graphics.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4snp.jpg",
+        "release_date": 1097712000,
+        "rating": 85.29606320915063,
+        "rating_count": 5,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/kururin-squash",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 1627,
+        "name": "Super Smash Bros. Melee",
+        "summary": "Super Smash Bros. Melee is the second installment in the Super Smash Bros. series and the follow-up to the Nintendo 64 title. It includes all playable characters from the first game, and also adds characters from franchises such as Fire Emblem, of which no games had been released outside Japan at the time. Super Smash Bros. Melee builds on the first game by adding new gameplay features and playable characters: it's major focus is the multiplayer mode, while still offering a number of single-player modes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21yv.jpg",
+        "release_date": 1006300800,
+        "rating": 88.74625897506796,
+        "rating_count": 1070,
+        "genres": "Fighting,Platform",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/super-smash-bros-melee",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 1700,
+        "name": "Wario World",
+        "summary": "While Wario enjoys the riches from his many adventures, a mysterious black jewel in his trove transforms gems into monsters. Now, Wario must scramble to recover his riches in an alternate world filled with quirky puzzles, swarming enemies, and lots of loot. As Wario, you'll punch, kick, jump, grab monsters and objects, and inhale surrounding coins like a vacuum cleaner. You must cling to 3D balls to fight bosses, find hidden areas through trap doors, and bash your surroundings to uncover secrets.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21c4.jpg",
+        "release_date": 1056067200,
+        "rating": 70.75368751384936,
+        "rating_count": 43,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/wario-world",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 1712,
+        "name": "WarioWare, Inc.: Mega Party Games!",
+        "summary": "Following the almost universally acclaimed short-attention-span action of the Game Boy Advance's WarioWare, Inc.: Mega Microgame$! comes this party-game adaptation for GameCube. Many of the mini-games featured in the handheld original have been converted for four-player competition on the console. Gamers strive to be the quickest teeth-brushers, the most precise nose pickers, the best free-throwers, the most accurate apple shooters, the most skillful paper-airplane pilots, and the victors in countless other quick contests that take no more than a few seconds to complete.\n\nAs in the GBA original, a wide variety of activities combine with a simple, unifying theme, for an experience designed to appeal instantly to anyone who played video games in the days before 3D graphics and complicated storylines. Half the fun is in not knowing which five-second challenge will pop up next, or what the player will be required to do in it. Even when players aren't in control of the active character, some of the mini-games allow them to participate in a more passive fashion, adding to the group-oriented strategy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b10.jpg",
+        "release_date": 1066348800,
+        "rating": 80.23726591223271,
+        "rating_count": 27,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/warioware-inc-dot-mega-party-games",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 1766,
+        "name": "Mega Man Network Transmission",
+        "summary": "Mega Man Network Transmission, known in Japan as Rockman EXE Transmission (ロックマン エグゼ トランスミッション), is a video game developed by Arika and published by Capcom and ShoPro Entertainment for the Nintendo GameCube console. The game was first released in Japan on 6 March 2003, and in North America and PAL regions the following June. Network Transmission is part of the Mega Man Battle Network series, which originated on the Game Boy Advance (GBA) handheld.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co203m.jpg",
+        "release_date": 1046908800,
+        "rating": 61.35003692279648,
+        "rating_count": 12,
+        "genres": "Platform,Role-playing (RPG)",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mega-man-network-transmission",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2256,
+        "name": "Super Mario Strikers",
+        "summary": "Super Mario Strikers is the first game in the Mario Strikers series, it features a version of soccer without referees and rules and has power-ups and special strikes which count as two goals. In comparison to actual soccer, the game features a smaller version of the soccer field and each team has only five members instead of the usual eleven-a-side rule. The match time can be manually set from 2 to 15 minutes but is defined as 5 minutes by default. If time runs out when scores are level, a Sudden Death follows the regular game time where next goal wins.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xd3.jpg",
+        "release_date": 1132272000,
+        "rating": 76.56231238986662,
+        "rating_count": 94,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/super-mario-strikers",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2330,
+        "name": "Mario Party 4",
+        "summary": "Toad, Koopa, and other party-planning pranksters have hidden birthday presents for their closest friends inside the Party Cube. To win the presents, Mario, Yoshi, Peach, and other Mushroom Kingdom favorites will have to plunge into a circus of minigame trickery. As always, keep an eye out for Bowser and his trouble-making goons. Even Whomp and Thwomp have rockin' surprises for you in their Extra Room. Packed with surprises, wild multiplayer action, and zany challenges, Mario Party 4 is your ticket to a good time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jxh.jpg",
+        "release_date": 1035158400,
+        "rating": 73.86991592734364,
+        "rating_count": 105,
+        "genres": "Card & Board Game",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mario-party-4",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2331,
+        "name": "Mario Party 5",
+        "summary": "Help Mario and his friends restore peace to Dream World while racing around all-new game boards and finding new surprises.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jxf.jpg",
+        "release_date": 1068422400,
+        "rating": 70.19290167115255,
+        "rating_count": 80,
+        "genres": "Card & Board Game",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mario-party-5",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2333,
+        "name": "Mario Party 6",
+        "summary": "Mario Party 6 offers a new batch of games that require both your fingers and your voice. In this installment in the Mario Party series, you can use the included microphone controller to talk your way to victory. More than 80 minigames are included. You can play as Mario, Bowser, or other characters from the Mushroom Kingdom. New characters appear on the board depending on what time of day it is. The game supports up to four players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co214o.jpg",
+        "release_date": 1100736000,
+        "rating": 61.08016097228261,
+        "rating_count": 62,
+        "genres": "Puzzle,Card & Board Game",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mario-party-6",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2334,
+        "name": "Mario Party 7",
+        "summary": "You can play more than 80 new minigames in the most recent Mario-themed party game, Mario Party 7. Mario and pals needed some time off, but they forgot to invite Bowser on their cruise. You can battle against an angry Bowser or up to seven of your friends on a single GameCube system. Mario Party 7 includes a few new characters and brings back microphone support from Mario Party 6.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21z3.jpg",
+        "release_date": 1121040000,
+        "rating": 70.89104400877355,
+        "rating_count": 67,
+        "genres": "Puzzle,Card & Board Game",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mario-party-7",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2344,
+        "name": "Mario Kart: Double Dash!!",
+        "summary": "The Mushroom Kingdom just got a whole lot more hectic as Mario and friends double up for furious kart racing. This time around, each kart holds two racers that can switch places at any time, so choose from a huge cast of favorites and pair them up any way you see fit. The character in front handles the driving duties, while the character in the rear doles out damage with six normal items and eight special items that only specific characters can use. Get ready for some intense multiplayer mayhem with your favorite characters, including Mario, Luigi, Donkey Kong, Peach, Bowser, and Koopa.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ndu.jpg",
+        "release_date": 1068163200,
+        "rating": 83.00355881851667,
+        "rating_count": 379,
+        "genres": "Racing,Arcade",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mario-kart-double-dash",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2643,
+        "name": "Pokémon Channel",
+        "summary": "Pokémon Channel is a 2003 video game in the Pokémon series for the GameCube, developed by Ambrella and published by Nintendo and The Pokémon Company. The player's goal is to help Professor Oak refine and promote his TV network through watching broadcasts with a Pikachu. The game contains elements of the adventure, digital pet, and simulation genres. The player can explore full 3D environments, have Pikachu converse with other Pokémon, and collect various items.\n\nThe game was developed rather quickly as a sequel to the Nintendo 64 title Hey You, Pikachu! and to promote the Nintendo e-Reader accessory, and uses a novel 3D texturing effect. It was first showcased at Electronic Entertainment Expo (E3) 2003 and later through a month-long series of promotional events in Sapporo, Hokkaido, Japan. It was released on July 18, 2003, in Japan, December 1 in North America, and April 2, 2004, in Europe. In Japan, the game sold 66,373 copies in its first year. It received mixed reviews, which generally criticized its low level of interactivity and repetitive sound effects, though its collecting aspects and visuals were somewhat better received.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pok.jpg",
+        "release_date": 1058486400,
+        "rating": 50.24923463691505,
+        "rating_count": 28,
+        "genres": "Puzzle,Simulator,Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/pokemon-channel",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2686,
+        "name": "Star Fox Adventures",
+        "summary": "Star Fox Adventures takes place in a vast 3-D world full of strange scenery, brain-teasing puzzles and intense action. Learn the secrets of a mystical staff to fend off enemies and cast a variety of spells. Plus the intuitive, enemy-locking target system allows you to battle foes without skipping a beat. And you'll need to build clever strategies to defeat the huge boss enemies.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pek.jpg",
+        "release_date": 1032652800,
+        "rating": 70.47048665445467,
+        "rating_count": 111,
+        "genres": "Puzzle,Role-playing (RPG),Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/star-fox-adventures",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2724,
+        "name": "Pokémon XD: Gale of Darkness",
+        "summary": "Pokemon XD is a sequel to the role-playing game Pokémon Colosseum. You'll play as Michael, a Pokémon trainer who is trying to thwart the evil Cipher. Cipher plans to control the world by using the powerful, but unpredictable, shadow Pokémon. Now you must fight back by collecting your own shadow Pokémon and beating Cipher's goons in battle. Pokémon XD also lets you import Pokémon from Game Boy Advance Pokémon games and participate in head-to-head battles with other players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zk4.jpg",
+        "release_date": 1123113600,
+        "rating": 71.8600840123382,
+        "rating_count": 94,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/pokemon-xd-gale-of-darkness",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2725,
+        "name": "Pokémon Colosseum",
+        "summary": "Pokemon fans can now battle their favorite Pokemon on the grand stage. Starring a brand new leading character, Pokemon, Colosseum offers a story mode that pits you against tough trainers who routinely catch damaged Pokemon. In Battle mode, you can use the Game Boy Advance cable to send your team from your Pokemon Ruby or Pokemon Sapphire Game Pak to your Gamecube, then witness the true potential of your team. Rescue Pokemon and watch them come to life in spectacular Colosseum battles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tpe.jpg",
+        "release_date": 1069372800,
+        "rating": 71.85027930261444,
+        "rating_count": 129,
+        "genres": "Role-playing (RPG),Strategy,Turn-based strategy (TBS),Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/pokemon-colosseum",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2777,
+        "name": "Kirby Air Ride",
+        "summary": "Kirby Air Ride is a 2003 racing game video game developed by HAL Laboratory and published by Nintendo for the Nintendo GameCube video game console. The game has the players and computer-controlled racers ride on Air Ride Machines. The game supports up to four players, and was the first GameCube title to support LAN play using broadband adapters and up to four GameCube systems. Players take control of Kirby or any of his multicolored counterparts to compete in races or other minigames. The game consists of three different game modes: Air Ride, Top Ride, and City Trial.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nwh.jpg",
+        "release_date": 1057881600,
+        "rating": 78.53133750918582,
+        "rating_count": 78,
+        "genres": "Racing,Arcade",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/kirby-air-ride",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 2928,
+        "name": "Super Monkey Ball 2",
+        "summary": "The objective of Super Monkey Ball 2 is to guide a monkey trapped inside a plastic ball through a maze to the goal. There are three variations, story mode, challenge mode, and practice mode. In story mode you have an unlimited number of tries to complete a stage, and after clearing 10 stages a movie clip is shown followed by a new world of 10 stages. In challenge mode, you have a limited number of monkeys and a time limit to complete numerous levels of increasing difficulty. In practice mode, you can play any stage already completed in the other two modes.\n\nIn addition to the main game options, numerous party games are also included. These are monkey race, monkey fight, monkey target, monkey billiards, monkey bowling, monkey golf, monkey boat, monkey shot, monkey dogfight, monkey soccer, monkey baseball, and monkey tennis. The party games can be played by one to four players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwer.jpg",
+        "release_date": 1030233600,
+        "rating": 74.36001624989802,
+        "rating_count": 45,
+        "genres": "Platform,Arcade",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/super-monkey-ball-2",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3243,
+        "name": "Star Fox: Assault",
+        "summary": "Step into the guise of furry flyboy Fox McCloud as he returns to take on his deadliest enemy; wingmen Slippy Toad, Peppy Hare and Falco Lombardi are covering your back, as you take on hordes of intergalactic hostiles on land and in air.\n\nHop into Arwings for aerial skirmishes and Landmaster Tanks for ground-based confrontations, or simply run around on foot dispensing laser justice; the searing single player adventure is a total blast, while the glorious four-way split-screen mode is sure to keep you and your friends coming back for more. With sniper rifles and rocket launchers, this is one Fox you don't want to mess with!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pem.jpg",
+        "release_date": 1108339200,
+        "rating": 68.02039682696895,
+        "rating_count": 66,
+        "genres": "Shooter",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/star-fox-assault",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3403,
+        "name": "Mario Golf: Toadstool Tour",
+        "summary": "Hit the links in the Mushroom Kingdom!\n\nMario, Peach, Yoshi, Donkey Kong and others have tee times reserved in the Mushroom Kingdom! Challenge them to tournaments, or take them on in character matches to collect rings or nab coins! Play on resort-style courses or look out for Chain Chomps, Warp Pipes and Thwomps on the Mushroom Kingdom courses!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ec2.jpg",
+        "release_date": 1059350400,
+        "rating": 70.93642211416287,
+        "rating_count": 41,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mario-golf-toadstool-tour",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3465,
+        "name": "Custom Robo",
+        "summary": "You've been challenged to a fight, and the robots are waiting. Do you pick a Ray 01 body and equip it with a Wyvern gun and Burrow bomb P, or do you opt for a Javelin with Satellite pod and Feather legs? Custom Robo lets you and up to three friends customize robots with nearly 200 unique parts, then turns you loose in a virtual battlefield to prove who's the top robot commander.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawq2.jpg",
+        "release_date": 1078358400,
+        "rating": 70.0194229777217,
+        "rating_count": 13,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/custom-robo--1",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3492,
+        "name": "F-Zero GX",
+        "summary": "F-Zero GX is the fourth installment in the F-Zero series and the successor to F-Zero X. The game continues the series' difficult, high-speed racing style, retaining the basic gameplay and control system from the Nintendo 64 title. A heavy emphasis is placed on track memorization and reflexes, which aids in completing the title. GX introduces a \"Story Mode\" element, where the player walks in the footsteps of Captain Falcon through nine chapters, completing various missions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co525x.jpg",
+        "release_date": 1059091200,
+        "rating": 80.40489654808806,
+        "rating_count": 84,
+        "genres": "Racing",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/f-zero-gx",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3667,
+        "name": "Shrek",
+        "summary": "Taking place after the 3D animated movie of the same name, the game allows the player to control Shrek, a huge green ogre, as he must rescue Princess Fiona from the evil wizard Merlin while finding his way through worlds full of crazy twists on familiar fairy tale characters. In this third-person action platformer, Shrek bashes and burps his way past various challenges, fighting creatures and collecting items to complete Good Deeds and unlock new levels.\n\nEach world features six missions to complete save for Merlin's castle and two of the missions in every regular level involve either collecting hidden Easter Eggs or grabbing the evil fairies who run away as you approach. Other missions in a stage can involve tasks like defeating a boss or transporting characters to their destinations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v8g.jpg",
+        "release_date": 1005782400,
+        "rating": 50.09537553664155,
+        "rating_count": 4,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "11,21",
+        "external_url": "https://www.igdb.com/games/shrek",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3680,
+        "name": "Dance Dance Revolution Mario Mix",
+        "summary": "Boogie down with Mario in his own dance party. Players shake their things to more than 25 dance-flavored songs, from classic Nintendo themes to familiar favorites. With five difficulty levels, dancers of all abilities will be able to get into the groove. The special \"Workout\" feature tracks the calories burned while playing. Someone has stolen the Music Keys and released the music they held. Without the Music Keys, the unstable power of the music is wreaking havoc on the land. Mario must recover them before the chaos destroys the entire Mushroom Kingdom! The path to the keys is simple: Left, Right, Up, Down, Right, Down ...Characters include Mario, Luigi, Toad, Waluigi, Wario, Bowser. Players clear levels by performing the correct steps. Once they clear all the levels in a particular world, they'll collect a Music Key. Collect all the Music Keys to win. Players control Dance Dance Revolution: Mario Mix by stepping on different arrows on the Action Pad (included with game). Players can finally experience the thrill of stomping Goombas and other enemies firsthand. As players clear songs, they will unlock more songs, minigames and difficulty levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co214p.jpg",
+        "release_date": 1121299200,
+        "rating": 74.57351947637218,
+        "rating_count": 11,
+        "genres": "Music,Arcade",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/dance-dance-revolution-mario-mix",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3773,
+        "name": "Disney's Magical Mirror Starring Mickey Mouse",
+        "summary": "One night, a mischievous ghost traps a sleepwalking Mickey Mouse in a magical mirror. Returning to his bed won't be easy, though, because Mickey must first recover the broken mirror pieces that have been strewn about the house by the prankish poltergeist. Just as in a Mickey cartoon, you will have to outwit enemies and pull gags. You will also be able to uncover special souvenirs, such as Pluto's collar or Minnie's bow, which are all displayed in Mickey's room at the end of the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dz2.jpg",
+        "release_date": 1028851200,
+        "rating": 60.95526762164931,
+        "rating_count": 11,
+        "genres": "Point-and-click,Platform,Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/disney-s-magical-mirror-starring-mickey-mouse",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3774,
+        "name": "1080° Avalanche",
+        "summary": "1080° Avalanche is a sequel to 1080° Snowboarding for the Nintendo 64. The game has an emphasis on racing, rather than doing tricks, in contrast to other popular snowboarding games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2eux.jpg",
+        "release_date": 1069977600,
+        "rating": 67.24042118393207,
+        "rating_count": 13,
+        "genres": "Racing,Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/1080-avalanche",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3784,
+        "name": "Amazing Island",
+        "summary": "The 'black evil' has taken over the island, and the Maboo Tribe have called upon you to bring order and outcast the evil that has taken control. To do so, you must create your own creature and train it up, entering it into various competitions against the 'black evil' and working towards the main goal. As the competitions are completed, you will unlock new features to improve your own creature in speed, strength and general looks.\n\nThe main reason to do so are the mini games which the monsters can participate in. While those rely on your active gamepad skills (mostly pressing a button as fast as possible with minor variations), the changes of success are dictated by the monster's statistics. So for example a dragon would be beneficial for a flying mini game. Those statistics can be further enhanced with items bought at shops.\n\nPlay single and multiplayer battles on the GameCube, or upload your creatures to the Game Boy Advance, taking them on the road to challenge your friends and unlocking unique items and features for the creatures you design.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6t3n.jpg",
+        "release_date": 1074124800,
+        "rating": 55.0,
+        "rating_count": 3,
+        "genres": "Simulator",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/amazing-island",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3797,
+        "name": "Battalion Wars",
+        "summary": "A global conflict has reached a stalemate in the console version of the Game Boy Advance series Advance Wars. The evil Kaiser Vlad, seeking to take advantage of the standoff, has assembled an army of shock troops, forcing The Western Frontier and the Tundran Territories to ally and fight back. Battalion Wars is a real-time strategy game that lets you control teams of soldiers and vehicles and lead them through more than 20 missions, using a variety of weapons and tactics.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p3y.jpg",
+        "release_date": 1127088000,
+        "rating": 72.82358423226954,
+        "rating_count": 18,
+        "genres": "Real Time Strategy (RTS),Simulator,Strategy",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/battalion-wars",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3807,
+        "name": "Beyblade V-Force: Super Tournament Battle",
+        "summary": "Beyblade V-Force: Super Tournament Battle is a Beyblade 2002 role-playing video game. The game was released originally on December 19, 2002 in Japan and was later released in the west in 2003. It is based on the Beyblade V-Force season.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52sv.jpg",
+        "release_date": 1040256000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/beyblade-v-force-super-tournament-battle",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3808,
+        "name": "Big Air Freestyle",
+        "summary": "Floss and fly your bike through 20 different supercross or motocross tracks with 10 riders on the track fighting for first. Big Air means sick tricks in six freestyle arenas. Nine other bikes will catch your vapors as you fly by. Multiplayer mode for head-to-head action.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6tt0.jpg",
+        "release_date": 1032825600,
+        "rating": 40.0,
+        "rating_count": 1,
+        "genres": "Racing,Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/big-air-freestyle",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3832,
+        "name": "Bomberman Generation",
+        "summary": "Bomberman returns with a new cel-shaded 3D look. The same storyline applies, however. Bomberman has been given the task of taking back a powerful element of magic, and protecting it from the hands of evil. To do so, he must use his bombing abilites to blast his way through mazes filled with crazy enemies and hidden secrets. There are 5 worlds in all, each with 16 levels to complete. And after completing cetain objectives and picking up items, Bomberman will learn new techniques and abilities to improve his range with his bombs or use new weapons.\n\nAlso included is a 4 player classic bomberman multi-player modes. Unlike the adventure mode, all of the multi-player modes are set in the original 2D, top down style perspective. The last man standing wins in most rounds, with the added twist of other enemies on screen and timed battles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w96.jpg",
+        "release_date": 1023235200,
+        "rating": 69.90005871529394,
+        "rating_count": 10,
+        "genres": "Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/bomberman-generation",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3865,
+        "name": "Cubivore: Survival of the Fittest",
+        "summary": "Eat or be eaten! Assume the role of an animal in it's early stages of evolutionary development. As your animal instincts take over, you will boldly traverse hostile environments, savagely stalking your prey to assert your place in the animal chain of power. Will you have what it takes to become the new king of beasts?\n\nThe game started development on the Nintendo 64, but went unreleased, being later ported to the Nintendo GameCube. A prototype of the Nintendo 64 version has been found.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xtb.jpg",
+        "release_date": 1014249600,
+        "rating": 79.0,
+        "rating_count": 3,
+        "genres": "Simulator,Strategy,Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/cubivore-survival-of-the-fittest",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3885,
+        "name": "Disney's Hide and Sneak",
+        "summary": "Either Mickey or Minnie will get kidnapped by a strange flying alien mushroom - depending on who the players chooses to control. Now the other character has to undertake a rescue mission. Gameplay includes climbing, solving puzzles, jumping, evading and hiding from enemies. Enemies can be taken out when sneaking close enough to enemies. As you make progress you traverse three game areas. These are a warehouse, museum and ruins.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ryo.jpg",
+        "release_date": 1070496000,
+        "rating": 36.0,
+        "rating_count": 1,
+        "genres": "Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/disney-s-hide-and-sneak",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3891,
+        "name": "Donkey Konga 3: Tabehoudai! Haru Mogitate 50 Kyoku",
+        "summary": "Donkey Konga 3: Tabe-houdai! Haru Mogitate 50 Kyoku is a music video game in the Donkey Kong series developed by Namco and published by Nintendo. Before the second installment was released in North America, Nintendo and Namco had already started plans for the third game in the series, which, unlike the first two Donkey Konga games, was eventually released only in Japan in early 2005.\n\nDonkey Konga 3 features a total of 57 track (includes the all new track), over 20 track more than the first two games. 35 of these tunes are the usual classical, pop, and game selections, but an extra 21 tunes from Nintendo Famicom games are included. It also features features all new minigames.\n\nThe title of \"Donkey Konga 3 JP\" was given in Super Smash Bros. Brawl.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f7u.jpg",
+        "release_date": 1111017600,
+        "rating": 72.0,
+        "rating_count": 3,
+        "genres": "Music",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3897,
+        "name": "Dragon Drive: D-Masters Shot",
+        "summary": "Dragon Drive: D-Masters Shot is a third-person shooter video game released in 2003 by Treasure Co. Ltd. The game is based on the Dragon Drive series and was only released in Japan.\n\nGameplay[edit]\nDragon Drive was an aerial combat game, set primarily in large, outdoor arenas where players had to face several waves of enemies. With multi-directional dash and lock on abilities, the game has sometimes drawn comparisons to the Zone of the Enders series.\n\nThe game also has a handful of rail shooter levels, drawing frequent comparisons to Sega's Panzer Dragoon series, but these comprise only a very small portion of the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ir8.jpg",
+        "release_date": 1048982400,
+        "rating": 23.0,
+        "rating_count": 1,
+        "genres": "Shooter",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/dragon-drive-d-masters-shot",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3907,
+        "name": "Eternal Darkness: Sanity's Requiem",
+        "summary": "Eternal Darkness: Sanity's Requiem is a psychological horror action adventure, released in 2002 by Nintendo for the Gamecube. It tells the stories of twelve characters that span across the world and two millennia who have to deal with ancient forces of evil which have been trying to manifest themselves in our world. Chapters take place in Ancient Rome, Persia, the Middle East, and modern-day Rhode Island. Throughout the game, the protagonists will have access to several weapons appropriate for their era, from bastard sword & gladius to flintlock pistol and shotgun.\n\nThe game features an involved Magic system, which allows different spells to be created through the combination of runes. These spells can attack enemies, dispel illusions, and heal both the body and items.\n\nEternal Darkness: Sanity's Requiem also has a unique feature called Sanity. If an enemy sees a character, their Sanity meter drops. When Sanity gets low, hallucinations begin to plague the character. Walls bleed, voices whisper from nowhere, the camera gets disoriented. Sanity can be restored by dealing a finishing move on a dying enemy, or with spells or some items.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sa8.jpg",
+        "release_date": 1024790400,
+        "rating": 82.27251844860967,
+        "rating_count": 93,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/eternal-darkness-sanity-s-requiem",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3910,
+        "name": "Evolution Worlds",
+        "summary": "Quest For Glory\n\nCombining anime-style storytelling with hours of random dungeon-crawling, Evolution Worlds offers a unique twist on traditional RPG gameplay. Join young hero Mag Launcher and companions on a quest for fame and fortune.\n\nAs son of a world-famous explorer, Mag has quite a reputation to live up to. With the help from his best friend Linear and his faithful butler Gre, Mag decides to go out on his own quest and make a name for himself in the world.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ac.jpg",
+        "release_date": 1027641600,
+        "rating": 66.0,
+        "rating_count": 3,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/evolution-worlds",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3928,
+        "name": "Geist",
+        "summary": "Take Possession! When a mission goes horribly wrong, you are captured and subjected to a ghastly experiment that rips your spirit from your physical body. Now you are trapped, forced to roam the halls of the shadowy Volks Corporation as a spectral phantom. As you explore, employ you hair-raising power of possession to control humans, animals and objects to infiltrate the compound, solve puzzles, and strike at your enemies. Only by unearthing the dark secrets of the Volks Corporation will you unravel the mystery of your condition and find a way to recover your human form.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tun.jpg",
+        "release_date": 1124064000,
+        "rating": 79.77533113052615,
+        "rating_count": 11,
+        "genres": "Shooter,Simulator,Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/geist",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3931,
+        "name": "Giftpia",
+        "summary": "Having slept too long and missed his coming of age ceremony, Pockle gets thrown in jail and told that he must repay the 5 million Mane that the ceremony cost. This is so that another can be held, which is required in order for Pockle to reach adulthood.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2yml.jpg",
+        "release_date": 1051228800,
+        "rating": 45.0,
+        "rating_count": 2,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/giftpia",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3933,
+        "name": "Go! Go! Hypergrind",
+        "summary": "Go! Go! Hypergrind is a skateboarding video game for the Nintendo GameCube that was developed by Poponchi and published by Atlus Co. Animation studio Spümcø of Ren & Stimpy fame contributed character designs and animations to the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66x2.jpg",
+        "release_date": 1069113600,
+        "rating": 36.0,
+        "rating_count": 1,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/go-go-hypergrind",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3936,
+        "name": "Gotcha Force",
+        "summary": "Gotcha Force is a fighting / third-person shooter video game developed on HAL Laboratory Sysdolphin engine and published by Capcom for the GameCube in 2003. The game consists primarily of collecting gacha toys and battling with them.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw0m.jpg",
+        "release_date": 1069891200,
+        "rating": 79.9090544168495,
+        "rating_count": 8,
+        "genres": "Fighting,Shooter,Simulator",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/gotcha-force",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3938,
+        "name": "GT Cube",
+        "summary": "GT Cube is a Racing game, published by MTO, which was released in Japan in 2003.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6uds.jpg",
+        "release_date": 1056067200,
+        "rating": 36.0,
+        "rating_count": 1,
+        "genres": "Racing",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/gt-cube",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3947,
+        "name": "Home Run King",
+        "summary": "Home Run King is a baseball game exclusively for the GameCube",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6tur.jpg",
+        "release_date": 1016409600,
+        "rating": 31.0,
+        "rating_count": 2,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/home-run-king",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3948,
+        "name": "Homeland",
+        "summary": "Homeland is a Japanese-exclusive game for the Nintendo GameCube. Its main claim to fame is that it is the only non-Phantasy Star Online title in the system's library to officially support online multiplayer, although the implementation of it is different compared to most other games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1s02.jpg",
+        "release_date": 1114732800,
+        "rating": 23.0,
+        "rating_count": 2,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/homeland",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3965,
+        "name": "Kidou Senshi Gundam: Senshi-tachi no Kiseki",
+        "summary": "Mobile Suit Gundam: The Ace Pilot is an Action game, developed and published by Bandai, which was released in Japan in 2004.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7l55.jpg",
+        "release_date": 1079568000,
+        "rating": 38.0,
+        "rating_count": 1,
+        "genres": "Shooter",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/kidou-senshi-gundam-senshi-tachi-no-kiseki",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3972,
+        "name": "Legend of Golfer",
+        "summary": "A Nintendo published arcade golf game released only in Japan for the Nintendo GameCube",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ecc.jpg",
+        "release_date": 1087430400,
+        "rating": 25.0,
+        "rating_count": 1,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/legend-of-golfer",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3981,
+        "name": "Lost Kingdoms",
+        "summary": "A dark mysterious force has taken over the five Kingdoms of Argwyll, and only one person can solve the mystery and save the world--you, as Princess Katia. Now you must travel through the kingdom and explore over two dozen unique 3D worlds filled with graveyards, forests, mountains, and fortresses. Interact with characters, uncover secret areas, and unravel the mystery of the evil forces. During your adventures, you can summon over 100 guardian creatures to help battle hordes of monsters. Make it a solo mission or go head-to-head with friends in two-player Versus mode.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30si.jpg",
+        "release_date": 1019692800,
+        "rating": 79.97908642933744,
+        "rating_count": 12,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/lost-kingdoms",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3982,
+        "name": "Lost Kingdoms II",
+        "summary": "Lost Kingdoms II is a card-themed RPG for the Gamecube. Set 200 years after Queen Katia saved her kingdom from the God of Destruction, Tara Grimface must now save the land from a new threat.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30sj.jpg",
+        "release_date": 1053475200,
+        "rating": 66.40986734293367,
+        "rating_count": 9,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/lost-kingdoms-ii",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3986,
+        "name": "Mario Superstar Baseball",
+        "summary": "The superstars of the Mushroom Kingdom have gathered on the diamond to power up America's game! Pick a captain, fill your team with your favorite characters from the Mario universe, then hit the field. Each captain has a special Star Skill for pitching and batting, so whether you're hurling fireballs as Mario or blasting curving banana-ball dingers as DK, you've never played ball like this!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tml.jpg",
+        "release_date": 1121904000,
+        "rating": 62.7623478587435,
+        "rating_count": 36,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mario-superstar-baseball",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 3999,
+        "name": "Medabots Infinity",
+        "summary": "Medabots Infinity is a role-playing video game published in 2003 by Natsume, and developed by Victor Interactive. The game is based on the Medabots series.\n\nHooking up to the Metabee and Rokusho Game Boy Advance games allows for secret unlockable medabots: Arcbeetle (Metabee) and Mega-Emperor (Rokusho).\n\nSeveral characters from the anime make appearances",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6txk.jpg",
+        "release_date": 1069977600,
+        "rating": 50.0,
+        "rating_count": 3,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/medabots-infinity",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4006,
+        "name": "Metal Gear Solid: The Twin Snakes",
+        "summary": "The Twin Snakes features graphical improvements over the original, new cutscenes written and directed by Ryuhei Kitamura, and gameplay functions originally introduced in Metal Gear Solid 2: Sons of Liberty. The game also includes a revised translation with re-recorded voice acting using all of the original English voice cast. Hideo Kojima and Shigeru Miyamoto oversaw development of the game. It was also intended to allow the player to play Metal Gear Solid as it was meant to be played",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v8c.jpg",
+        "release_date": 1078790400,
+        "rating": 83.28351419344818,
+        "rating_count": 94,
+        "genres": "Shooter,Tactical,Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/metal-gear-solid-the-twin-snakes",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4020,
+        "name": "Monsters, Inc. Scream Arena",
+        "summary": "It´s a dodgeball game set in the Monsters, Inc. universe. with simplistic controls aiming at a young audience. Besides a singleplayer mode, there is also a multiplayer mode for up to 4 players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v6d.jpg",
+        "release_date": 1031961600,
+        "rating": 47.0,
+        "rating_count": 3,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/monsters-inc-scream-arena",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4023,
+        "name": "Mutsu Tonohohon",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7l5g.jpg",
+        "release_date": 1027036800,
+        "rating": 23.0,
+        "rating_count": 1,
+        "genres": "Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mutsu-tonohohon",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4026,
+        "name": "Naruto: Clash of Ninja",
+        "summary": "Naruto Clash of Ninja is the first of the Naruto Clash of ninja games.It includes 8 playable characters (and 2 unlockables) from the Naruto anime.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ua2.jpg",
+        "release_date": 1050019200,
+        "rating": 64.81665184233903,
+        "rating_count": 19,
+        "genres": "Fighting",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/naruto-clash-of-ninja",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4031,
+        "name": "NBA Courtside 2002",
+        "summary": "Developed exclusively for Nintendo GameCube by Nintendo and Left Field, NBA Courtside 2002 taps into the power of Nintendo GameCube to deliver authentic NBA action that makes those other games look like they're stuck in the era of the two-handed jump shot. Up to four players can hit the hardwood simultaneously and talk trash to their hearts' content as they bust sweet cross-overs, first-step jukes and monster dunks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gni.jpg",
+        "release_date": 1010880000,
+        "rating": 70.0,
+        "rating_count": 4,
+        "genres": "Simulator,Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/nba-courtside-2002",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4049,
+        "name": "Nintendo Puzzle Collection",
+        "summary": "Nintendo Puzzle Collection is a compilation of three Nintendo-published puzzle games that were originally released on earlier Nintendo consoles. All the games support both single-player gameplay and competitive local multiplayer for up to four players simultaneously. In addition, Nintendo Puzzle Collection supports GameCube-Game Boy Advance connectivity, allowing the player to use a Game Boy Advance as a game controller. Downgraded versions of each game can also be downloaded and played independently on the Game Boy Advance. Each game is stored in the Game Boy Advance memory and will remain until the handheld is shut down\n\nGames in the bundle:\n-Dr. Mario (despite the name, it is a version of Dr. Mario 64)\n-Panel de Pon (a completed version of the cancelled Panel de Pon 64)\n-Yoshi's Cookie (a remake of the original NES Yoshi's Cookie)\n\nGames obtainable through the connection to the Game Boy Advance via Link Cable:\n-Dr. Mario (original NES version)\n-Panel de Pon (yet another different version of Panel de Pon, exclusive to this -compilation)\n-Yoshi's Cookie (original NES version)",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22a0.jpg",
+        "release_date": 1044576000,
+        "rating": 80.0,
+        "rating_count": 1,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/nintendo-puzzle-collection",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4050,
+        "name": "Odama",
+        "summary": "Odama (大玉 Ōdama, lit. \"Great Ball\") is a video game for the GameCube developed by Vivarium and published by Nintendo in 2006. The game was produced and designed by Seaman creator, Yutaka Saito.\n\nOdama blends tactical wargaming with pinball gameplay. The game takes place in a feudal Japan setting. The main character is a young general named Yamanouchi Kagetora, who is intent on avenging his father's death by reviving the most ingenious weapon ever to hit the medieval battlefield: the Odama. The Odama is a gigantic ball powerful enough to destroy whatever it strikes, friend or foe. Using giant flippers, players aim the Odama to bowl over enemies, shatter their defenses and wreak havoc on the battlefield. With the Nintendo GameCube Microphone, players direct their soldiers out of the Odama's way and into the fray by charging the enemy, defending positions and seizing the enemy gates.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pe0.jpg",
+        "release_date": 1143763200,
+        "rating": 69.0,
+        "rating_count": 2,
+        "genres": "Real Time Strategy (RTS),Strategy,Pinball",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/odama",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4060,
+        "name": "P.N.03",
+        "summary": "A colonial settlement on a distant planet goes out-of-control after a Computer Arms Management System goes haywire. Enter Vanessa Schneider, a freelance mercenary and robot killer with a grudge to settle in this exhilarating action game. But will Vanessa's dark past collide with her ultimate mission?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pe4.jpg",
+        "release_date": 1048723200,
+        "rating": 69.70106942460417,
+        "rating_count": 9,
+        "genres": "Shooter",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/p-dot-n-03",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4072,
+        "name": "Pool Edge",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ued.jpg",
+        "release_date": 1035504000,
+        "rating": 25.0,
+        "rating_count": 1,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/pool-edge",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4082,
+        "name": "Rave Master",
+        "summary": "Rave Master the video game is a fighting game based on the manga and anime. The game allows you to create your own original story scenarios when playing in Story Edit Mode. You can also battle with your friends when playing in the 4-player vs. Mode. The game features multiple attack combos, weapons and unique attacks for each character, and special visual and audio effects that come directly from the animated series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bwn.jpg",
+        "release_date": 1016582400,
+        "rating": 33.0,
+        "rating_count": 1,
+        "genres": "Fighting",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/rave-master",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4085,
+        "name": "Rei Fighter Gekitsui Senki",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7l5s.jpg",
+        "release_date": 1046908800,
+        "rating": 23.0,
+        "rating_count": 1,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/rei-fighter-gekitsui-senki",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4152,
+        "name": "Skies of Arcadia Legends",
+        "summary": "Battle to Save Arcadia!\n\nYou are Vyse, a young pirate on a quest to save Arcadia. Wage battle against an evil Empire as you make a name for yourself on land and in the sky. Will you become a Legend?\n\n-New \"Wanted\" Battles, new characters, weapons, and more!\n-An improved battle engine featuring spectacular special attacks\n-Experience the Director's Cut with hours of new gameplay!\n-Employ devastating weapons and magic\n-Explore a full 3D world to recruit up to 22 crew members",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ola.jpg",
+        "release_date": 1040860800,
+        "rating": 88.65037096491022,
+        "rating_count": 25,
+        "genres": "Puzzle,Role-playing (RPG),Adventure",
+        "platform_ids": "21,8",
+        "external_url": "https://www.igdb.com/games/skies-of-arcadia-legends",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4161,
+        "name": "Special Jinsei Game",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6uf4.jpg",
+        "release_date": 1051747200,
+        "rating": 25.0,
+        "rating_count": 1,
+        "genres": "Strategy,Card & Board Game",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/special-jinsei-game",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4181,
+        "name": "Star Wars: Rogue Squadron II - Rogue Leader",
+        "summary": "In Star Wars Rogue Squadron II: Rogue Leader you get the chance to jump into the cockpit of an X-wing and join Luke Skywalker and the Star Wars galaxy's most daring pilots as they return to face off against the Empire.\n\nAs in the original hit game for N64, you'll relive favorite Star Wars battles including the perilous Death Star trench run, a daring space attack on a Star Destroyer and the legendary battle on the ice planet Hoth. Rogue Leader features stunning, movie like visuals and immerses players in an intense action-arcade experience.\n\nAerial conflict takes place in a variety of craft such as the legendary X-wing, A-wing, and B-wing. For the first time, the game also features on-foot ground combat in missions directly based on or inspired by the original movie trilogy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v76.jpg",
+        "release_date": 1005264000,
+        "rating": 85.43204171879032,
+        "rating_count": 59,
+        "genres": "Shooter",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/star-wars-rogue-squadron-ii-rogue-leader",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4182,
+        "name": "Star Wars: Rogue Squadron III - Rebel Strike",
+        "summary": "X-wings, B-wings, speeder bikes, AT-STs, tauntauns--you'll have to master them all to save Luke, Wedge, Han, Chewie, and Leia from Darth Vader and his Imperial forces. All new multiplayer modes include the entire Rogue Leader game in co-op, plus endurance, capture-the-base, and dogfight modes.\n\nCinematic realism takes you to new heights as you climb out of your cockpit to battle the Empire on foot in this thrilling third chapter of the Rogue Squadron series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w3t.jpg",
+        "release_date": 1066176000,
+        "rating": 73.99810257060409,
+        "rating_count": 24,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/star-wars-rogue-squadron-iii-rebel-strike",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4192,
+        "name": "Swingerz Golf",
+        "summary": "Tee up on 6 courses featuring diverse terrains and seasonal weather condition. Compete with 14 offbeat golfers, each with distinct personalities and golfing abilities. Experience realistic golfing physics with Ace Golf's intuitive analog swing system. Master multiple modes of play for 1-4 golfers including Tournament, Stroke, Match and Short Course. Win tournaments and beat rivals to upgrade your golf gear. Enjoy golfing action with addictive mini games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ufa.jpg",
+        "release_date": 1035331200,
+        "rating": 45.0,
+        "rating_count": 2,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/swingerz-golf",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4202,
+        "name": "Tonka: Rescue Patrol",
+        "summary": "Be the hero of the town as you patrol its streets and lend a hand in Tonka rescue and construction vehicles. In customizable cars, trucks, and helicopters, you'll explore five different environments that expand as you play. You can customize your vehicles to suit your style of play and perform jumps and other stunts on the free-roaming landscape. Tonka Rescue Patrol features realistic rescue missions with Tonka Joe as your guide.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bvq.jpg",
+        "release_date": 1069113600,
+        "rating": 43.0,
+        "rating_count": 1,
+        "genres": "Racing,Simulator,Tactical",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/tonka-rescue-patrol",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4217,
+        "name": "Tube Slider",
+        "summary": "Race around fast and futuristic race tracks in some of the most high tech cars ever created. Each hover craft has the ability to get to very high speeds at a simple touch of a button, while side boosters allow you to take sharp turns at full tilt and turbo (if you really want to go even faster) gives you an added boost for a short amount of time.\n\nThe 10 tracks on offer can be completed either in Grand Prix, Time Trial or Free Ride modes. Grand Prix has you competing one race after the other for the grand prize. The higher you finish, the better the chance to progress and win the title.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6uff.jpg",
+        "release_date": 1050537600,
+        "rating": 43.0,
+        "rating_count": 1,
+        "genres": "Racing",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/tube-slider",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4224,
+        "name": "Ultimate Muscle: Legends vs. New Generation",
+        "summary": "Many years ago, King Muscle and the legendary Muscle League saved the people of Earth by battling against an evil horde of villains who were attempting to conquer the planet. After 28 years, the evil villains have returned, but this time the \"Legends\" can't fight them alone. They need help from a whole new group of younger super-heroes - the New Generation.\n\nNow, the wise and experienced trainer of both generations, Meat, has decided to pit the two generations against each other to decide once and for all which generation is the strongest of all time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ufd.jpg",
+        "release_date": 1037923200,
+        "rating": 62.0,
+        "rating_count": 1,
+        "genres": "Fighting,Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/ultimate-muscle-legends-vs-new-generation",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4226,
+        "name": "Universal Studios Theme Parks Adventure",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dzk.jpg",
+        "release_date": 1007683200,
+        "rating": 32.9833932213266,
+        "rating_count": 6,
+        "genres": "Simulator",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/universal-studios-theme-parks-adventure",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4232,
+        "name": "Wave Race: Blue Storm",
+        "summary": "Racing atop a bed of dynamically changing waves, gamers must navigate their way through eight different environments under random weather conditions, including the powerful and visually impressive Storm setting.\n\nPlay through, tutorial stunt, time trial challenges, and Championship mode, which offers shortcut-laden Normal, Hard, and Expert circuits, sending you and seven other racers around eight different course environments loaded with buoys.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pet.jpg",
+        "release_date": 1000425600,
+        "rating": 73.47729122473187,
+        "rating_count": 20,
+        "genres": "Racing,Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/wave-race-blue-storm",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4571,
+        "name": "WWE Day of Reckoning",
+        "summary": "Hit the ropes against WWE's top superstars in WWE Day of Reckoning, which features an all-new story mode filled with deception and betrayal. As your own created wrestler, you can rise up the ranks from the \"minor leagues\" of sports entertainment all the way to prime-time WWE programming. You can choose your favorite WWE Divas and go head-to-head in a Bra & Panties match. Each wrestling star, including Legends, can target specific body parts to wear down opponents.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pex.jpg",
+        "release_date": 1093824000,
+        "rating": 78.68085757236625,
+        "rating_count": 13,
+        "genres": "Fighting,Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/wwe-day-of-reckoning",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4572,
+        "name": "WWE Day of Reckoning 2",
+        "summary": "See the emotion on each WWE Superstar's face like never before and experience all-new \"beyond broadcast\" camera angles",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pey.jpg",
+        "release_date": 1125273600,
+        "rating": 72.07111965401249,
+        "rating_count": 6,
+        "genres": "Fighting,Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/wwe-day-of-reckoning-2",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4573,
+        "name": "WWE WrestleMania X8",
+        "summary": "Legendary battles and intense drama are packed into one event--WrestleMania, where the baddest men on the planet meet to become champions of wrestling. An updated 2002 roster features superstars and newcomers Rob Van Dam, Booker T, The Hurricane, and nWo members Scott Hall, Kevin Nash, and Hulk Hogan. Master each superstar's unique wrestling style and turn the tide of the match through a combination of counters, reversals, and brutal finishing moves. Now you can start from the beginning and take your rookie wrestler up through the ranks in quest for the Heavyweight Championship Belt.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ufk.jpg",
+        "release_date": 1023580800,
+        "rating": 60.5102361885579,
+        "rating_count": 8,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/wwe-wrestlemania-x8",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4574,
+        "name": "WWE WrestleMania XIX",
+        "summary": "The Main Event!\n\nAll the biggest names in the WWE, including The Rock, Steve Austin, Goldberg, Hulk Hogan and Vince McMahon vie for the WrestleMania XIX title in a story of revenge.\n\nIn the world of professional wrestling, main events don't get any bigger than Wrestlemania. With the GCN release of THQ's Wrestlemania XIX, WWE fans can take a crack at the coveted title belt. Wrestlemania XIX features a Rikishi-sized mass of improvements over last year's title, including an all-new story mode and improved gameplay.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ufj.jpg",
+        "release_date": 1062979200,
+        "rating": 70.31787775012585,
+        "rating_count": 8,
+        "genres": "Fighting,Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/wwe-wrestlemania-xix",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 4582,
+        "name": "Yu-Gi-Oh! The Falsebound Kingdom",
+        "summary": "Yugi and his friends are trapped in a virtual reality world gone crazy. As Yugi or Kaiba, you must form a team of three monsters to occupy towns across two different scenarios and take part in strategic team battles. Delegate commands to your team to conquer each mission. During battle, your team can perform devastating group attacks and combos. Over 175 monsters from the Yu-Gi-Oh! animated TV series appear in the game--and all of them will fight to the finish for control of each map.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co75a6.jpg",
+        "release_date": 1039046400,
+        "rating": 49.98013537142999,
+        "rating_count": 5,
+        "genres": "Real Time Strategy (RTS),Role-playing (RPG),Strategy,Turn-based strategy (TBS)",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/yu-gi-oh-the-falsebound-kingdom",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 10629,
+        "name": "Zoids: Battle Legends",
+        "summary": "Take on the role of your favorite Zoids character from the hit anime. Join the battle for planet Zi and unleash devastating firepower to destroy enemy forces!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ufq.jpg",
+        "release_date": 1094256000,
+        "rating": 56.0,
+        "rating_count": 3,
+        "genres": "Fighting",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/zoids-battle-legends",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 23329,
+        "name": "Phantasy Star Online Episode III: C.A.R.D. Revolution",
+        "summary": "A turn-based online RPG for the Nintendo GameCube. Set in the Phantasy Star Online universe, join the Hero or Dark side using cards featuring weapons or creatures from Phantasy Star Online Episodes I and II.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hdj.jpg",
+        "release_date": 1069891200,
+        "rating": 78.41232743946522,
+        "rating_count": 5,
+        "genres": "Strategy,Turn-based strategy (TBS),Tactical,Card & Board Game",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/phantasy-star-online-episode-iii-card-revolution",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 24289,
+        "name": "Naruto: Clash of Ninja 2",
+        "summary": "Naruto: Clash of Ninja 2 offers several different game modes such as Arcade mode, VS mode, and Story mode. You can unlock new features such as new characters, stages, and modes by accomplishing certain tasks in the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ubb.jpg",
+        "release_date": 1070496000,
+        "rating": 63.91115541659362,
+        "rating_count": 14,
+        "genres": "Fighting",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/naruto-clash-of-ninja-2",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 50571,
+        "name": "Knockout Kings 2003",
+        "summary": "Knockout Kings is a series of boxing video games that were produced by EA Sports for the PlayStation, Nintendo 64, PlayStation 2, Xbox, Game Boy Color and GameCube yearly between 1998 and 2003.\n\nBefore releasing the first Knockout Kings, Electronic Arts released its first 3D boxing game, Foes of Ali, for the 3DO in 1995. While there are a few similarities between the two games, Foes of Ali was developed by a different team, Gray Matter and as such, is not regarded as a true prequel.\n\nThe Knockout Kings game series gives the user a chance to compete against numerous real fighters, such as Muhammad Ali, Eric Esch, Marvin Hagler, Sugar Ray Leonard, Oscar De La Hoya, Larry Holmes, Jake LaMotta, Roberto Durán, Alexis Argüello, and Ray Mancini. The duration of a round can be adjusted to either 90 seconds or 3 minutes. In the game's \"slugfest\" mode, fighters can knock each other out at any given moment of the fight, or suffer 6 or 7 knockdowns and still last for the whole fight. There are several differences between Knockout Kings, Knockout Kings 2000, and Knockout Kings 2001 in particular, the most notable being the graphics.\n\nIn Knockout Kings, the boxer sprites, although distinctive, are not facially representative of their real-life counterparts. Championship bouts can last only up to 10 rounds and not for 12 as in real life or 15 as in the past. In between rounds, all that is seen is a ring-card girl. In Career Mode, a fighter is made to retire right after winning the title and defending it for only the first time. A created boxer can fight in Career Mode and Slugfest Mode, but not in Exhibition mode. Although there is a training mode within Career Mode, it is extremely basic. However, 2 aspects that Knockout Kings has which the sequels lack is that the referee does a mandatory eight-count when a fighter is knocked down whereas in the sequels the referee stops the count immediately after a fighter gets up from a knockdown, and, in Career Mode, the result of a fight is afterwards seen on the screen as front-page newspaper headlines.\n\nIn Knockout Kings 2000 for the PS1, the boxer sprites are for the first time facially representative of their real-life counterparts. Championship bouts can last up to 15 rounds. Sound and Music volume can also be adjusted in Option Mode. In between rounds, you may see either a ring-card girl, a replay of a part of the previous round, or your boxer sitting at his corner together with the statistics so far of the bout. Injury to the face of boxers can also be recognized, as well as his mouth-piece flying out if he is hit by a hard punch. A created boxer in Career Mode can now fight in all Modes. The training mode within Career Mode is more specific. You can now control your boxer while he is training and, in the PS1 version, you can also choose the location of your gym. Each boxer in the PS1 version can also be seen entering into the ring just before the bout takes place. There is also a new Mode where the player can see the statistics and biography of all the real-life boxers in the game, and another Mode in which the player can re-live famous classic bouts. The user-interface and intro-theme of the PS1 version is different to the N64 version and there are also more boxers, while the graphics on each version are similar.\n\nKnockout Kings 2001 contains the same improvements as Knockout Kings 2000 and adds more. Whereas fighters in KO Kings and KO Kings 2000 are either \"boxer\" or \"slugger\" style fighters, the styles of fighters in KO Kings 2001 are either \"boxer\", \"slugger\", \"freestyle\", or \"crab\", and these differences of style are very noticeable during bouts. Commentary in KO Kings 2001 is also far more vocal than its predecessors. During Career Mode, your trainer will occasionally talk and give you advice in between rounds as you progress through the bout. A fighter in Career Mode is made to retire after winning the title and defending it for several times. KO Kings 2001 is also the first game of the series to introduce CPU vs CPU bouts and \"fantasy match-ups\" between famous boxers of different eras, and the first to introduce women's boxing, which is accessible in Exhibition Mode. The PS1 and PS2 versions of Knockout Kings 2001 are virtually identical.\n\nKnockout Kings 2002 changes many concepts of its predecessors, e.g. you have to progress through a number of bouts in order to unlock new fighters.\n\nAfter Knockout Kings 2003, the name of the series was replaced by Fight Night (EA video game series).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5yoh.jpg",
+        "release_date": 1036800000,
+        "rating": 51.0,
+        "rating_count": 3,
+        "genres": "Sport",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/knockout-kings-2003",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 50576,
+        "name": "Zoids VS III",
+        "summary": "Released in September 2004, Zoids Vs. III looks and plays similarly to its predecessors, offering fast-paced robot action in wide-open battlefields. New to the series is the ability to perform sliding turns in battle and take to the sky outright and battle opponents in the air. Another upgrade is the ability to engage in four-player split-screen battles (as opposed to the predecessors' two-player versus modes), in configurations from 1 vs 3, 2 on 2 matches, and battle royale free-for-alls, with human players or CPU bots. Modes include Story Mode, Battle Mode, VS Mode, Zoids Fist Mode, and a Zoids Museum Mode. Futhermore, even more Zoids and pilots (including many from Fuzors, and Saga) were added, many of which must be unlocked.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9edc.jpg",
+        "release_date": 1096502400,
+        "rating": 22.0,
+        "rating_count": 0,
+        "genres": "Shooter",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/zoids-vs-iii",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 50581,
+        "name": "MC Groovz Dance Craze",
+        "summary": "Produced by the long-time peripheral maker Mad Catz, MC Groovz Dance Craze puts players on the dance floor for songs from popular artists. Enjoy dancing to many of your favorite tunes by Jessica Simpson, Jewel, Kevin Lyttle, DJ Jazzy Jeff & the Fresh Prince, KC and the Sunshine Band... just to name a few. Groove out in single player modes or bring friends out for multiplayer modes including: Just Dance, Dance Together, Dance Face Off and Dance Work Out. You can practice to become a better dancer, show off your talent, compete against a friend, and even get dance-tastic exercise. Plus, you can still boogie down using the Nintendo GameCube Controller. The game is available with a bundled dance pad, or available separately.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ns3.jpg",
+        "release_date": 1103673600,
+        "rating": 30.0,
+        "rating_count": 0,
+        "genres": "Music",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/mc-groovz-dance-craze",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 50586,
+        "name": "Zoids VS",
+        "summary": "The first incarnation of the Zoid Vs series, released in Japan in 2002. The game was noted for its ragdoll-like movement when Zoids were hit back or killed. In this game, the Battle Mode is limited to only one set, meaning that no matter what character the player chooses, the battles are all the same. That said, the Battle Mode features characters and Zoids from Chaotic Century, New Century, and the Zoids VS story lines.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9eda.jpg",
+        "release_date": 1033862400,
+        "rating": 22.0,
+        "rating_count": 0,
+        "genres": "Fighting",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/zoids-vs",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 78292,
+        "name": "Road Trip: Arcade Edition",
+        "summary": "Road Trip: Arcade Edition is the GameCube edition in the Road Trip series of racing games. This game allows you to race tiny little toy cars around various oversized environments. Most of the cars resemble super-deformed versions of popular automobiles, but the actual model names are not used. There are dozens of tiny cars to collect.\n\nSome of the tracks in this game appear to be scaled to the size of your racer, others take place in oversized real-world environments, like a house or a garden.\n\nThe usual racing game modes are present, single race, championship, and multi-player. Winning races allows you to purchase upgrades and other vehicles. You can also link this game with Road Trip: Shifting Gears.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ueg.jpg",
+        "release_date": 1040256000,
+        "rating": 23.0,
+        "rating_count": 0,
+        "genres": "Racing",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/road-trip-arcade-edition",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 123116,
+        "name": "Duel Masters: Netto! Battle Arena",
+        "summary": "Duel Masters: Nettou! Battle Arena is the first game of the Duel Masters Console Games series.\n\nThe game follows the same story plot as Season 1 of the Duel Masters anime. The number of cards in your hand, deck and graveyard are always visible. The game displays cinematics for creatures and spells as well as various CG effects during Gameplay. The gameplay speed can be increased, resulting in fast-paced games.\nCards with a Super Rare rarity are given a slight foil effect. Your hand isn't always visible and must be viewed from the bar on the top portion of the screen.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ebx.jpg",
+        "release_date": 1071705600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/duel-masters-netto-battle-arena",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 256803,
+        "name": "Donkey Konga",
+        "summary": "The North American port of Donkey Konga, which has a track listing different from the original Japanese version.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rdk.jpg",
+        "release_date": 1096243200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/donkey-konga--1",
+        "cached_at": 1778663168
+      },
+      {
+        "id": 256807,
+        "name": "Donkey Konga 2",
+        "summary": "The European port of Donkey Konga 2, which has a track listing different from the Japanese and North American versions.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rdu.jpg",
+        "release_date": 1117756800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "21",
+        "external_url": "https://www.igdb.com/games/donkey-konga-2--2",
+        "cached_at": 1778663168
+      }
+    ]
+  }
+}

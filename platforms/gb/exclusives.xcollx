@@ -1,0 +1,2522 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Game Boy Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:10+00:00",
+  "description": "Games released exclusively on Game Boy, sourced from Wikipedia category \"Game Boy-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1091,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Donkey_Kong_Land"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1125,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Kid_Dracula_%281993_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1325,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Turok%3A_Battle_of_the_Bionosaurs"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1639,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/James_Bond_007_%281998_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1687,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Game_Boy_Wars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2829,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Bart_Simpson%27s_Escape_from_Camp_Deadly"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2831,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Bart_vs._The_Juggernauts"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2836,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Itchy_%26_Scratchy_in_Miniature_Golf_Madness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2837,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Bart_%26_the_Beanstalk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6597,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Soccer_Mania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7745,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Adventures_of_Star_Saver"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7746,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Aerostar_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7748,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/After_Burst"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7752,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Altered_Space"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7753,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Amazing_Penguin"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7754,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Amazing_Tater"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7759,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Astro_Rabby"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7760,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Atomic_Punk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7770,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Bull"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7771,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Batman%3A_The_Animated_Series_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7774,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Pingpong"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7775,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Unit_Zeoth"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7784,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Game_Boy_Adventure%3A_A_Bogus_Journey%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7790,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Blaster_Master_Jr."
+    },
+    {
+      "media_type": "game",
+      "external_id": 7793,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_GB"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7797,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Boomer%27s_Adventure_in_ASMIK_World"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7798,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Asmik-kun_World_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7799,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Boxxle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7814,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Bugs_Bunny_Crazy_Castle_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7815,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Square_Deal%3A_The_Game_of_Two_Dimensional_Poker"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7823,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Choplifter_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 7826,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Cosmo_Tank"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8048,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures_2%3A_Montana%27s_Movie_Madness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8127,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mickey%27s_Dangerous_Chase"
+    },
+    {
+      "media_type": "game",
+      "external_id": 9157,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Super_R.C._Pro-Am"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12593,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Popeye_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 14208,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Addams_Family_%28handheld_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18629,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Monster_Max"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18630,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Nemesis_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18639,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_II%3A_Back_from_the_Sewers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19558,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Megalit"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22914,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gun%3A_Guts_and_Glory"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37764,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/X_%281992_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45174,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Barbie%3A_Game_Girl"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46673,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mulan_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48915,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Wave_Race"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48918,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/WCW%3A_The_Main_Event"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48920,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ultima%3A_Runes_of_Virtue"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48921,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Raging_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48922,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Wizards_%26_Warriors_X%3A_The_Fortress_of_Fear"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48929,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Gaiden_Shadow"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48940,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Solar_Striker"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48950,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Dead_Heat_Scramble"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48959,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Rescue_of_Princess_Blobette"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48961,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Boxxle_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48966,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Boy_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48967,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Boy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48969,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tetris_Blast"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48970,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Spud%27s_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48979,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Jeep_Jamboree%3A_Off_Road_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48980,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Hyper_Lode_Runner"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48990,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mickey_Mouse%3A_Magic_Wands%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48994,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Great_Greed"
+    },
+    {
+      "media_type": "game",
+      "external_id": 48997,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Go%21_Go%21_Tank"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49000,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Fidgetts"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49004,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/F-1_Spirit_%28series%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49006,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Sumo_Fighter%3A_T%C5%8Dkaid%C5%8D_Basho"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49009,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Race_Days"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49016,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Stop_That_Roach%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49019,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Snoopy%27s_Magic_Show"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49020,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Skate_or_Die%3A_Tour_de_Thrash"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49021,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Serpent_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49022,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Rolan%27s_Curse_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49023,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Rolan%27s_Curse"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49028,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Punisher%3A_The_Ultimate_Payback%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49031,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Panel_Action_Bingo"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49034,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Taro"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49035,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Nail_%27n%27_Scale"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49037,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mouse_Trap_Hotel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49047,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Kingdom_Crusade"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49053,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Yogi_Bear%27s_Gold_Rush"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49054,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/WWF_Superstars_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49057,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ultra_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49058,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Turn_and_Burn%3A_The_F-14_Dogfight_Simulator"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49059,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Track_Meet"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49061,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tasmania_Story_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49063,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tail_%27Gator"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49071,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Baby_T-Rex"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49076,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Cave_Noire"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49079,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Soccer_%281991_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49150,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Ayakashi_no_Shiro"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49227,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Batman%3A_The_Video_Game_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50043,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Konami_GB_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 58986,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Trax_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 60782,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/God_Medicine"
+    },
+    {
+      "media_type": "game",
+      "external_id": 63978,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Super_Chinese_Land_3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 64171,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Fist_of_the_North_Star%3A_10_Big_Brawls_for_the_King_of_the_Universe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 64344,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/GB_Genjin_Land%3A_Viva%21_Chikkun_%C5%8Ckoku"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66020,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Spot%3A_The_Cool_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71941,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Undercover_Cops%3A_Hakaishin_Garumaa"
+    },
+    {
+      "media_type": "game",
+      "external_id": 72803,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Kaij%C5%AB-%C5%8D_Godzilla"
+    },
+    {
+      "media_type": "game",
+      "external_id": 73130,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Motocross_Maniacs"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75692,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit_%281991_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75887,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Godzilla_%281990_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75978,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75981,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers%3A_The_Movie_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79444,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Sports_Collection"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81546,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Real_Ghostbusters_%281993_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 83898,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_%28handheld_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 84643,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Game_Boy_Camera"
+    },
+    {
+      "media_type": "game",
+      "external_id": 91263,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Dexterity_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94204,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Nakajima_Satoru_F-1_Hero_GB_World_Championship_%2791"
+    },
+    {
+      "media_type": "game",
+      "external_id": 95500,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Mysterium_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 99455,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures%3A_Babs%27_Big_Break"
+    },
+    {
+      "media_type": "game",
+      "external_id": 100296,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/WWF_Superstars_%28handheld_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 117925,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Arcade_Classic"
+    },
+    {
+      "media_type": "game",
+      "external_id": 117950,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Dragon%27s_Lair%3A_The_Legend"
+    },
+    {
+      "media_type": "game",
+      "external_id": 128440,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Skate_or_Die%3A_Bad_%27N_Rad"
+    },
+    {
+      "media_type": "game",
+      "external_id": 136613,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Painter_Momopie"
+    },
+    {
+      "media_type": "game",
+      "external_id": 136619,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battletoads_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 147343,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Star_Trek%3A_25th_Anniversary_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 157211,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Super_Hunchback"
+    },
+    {
+      "media_type": "game",
+      "external_id": 206498,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/He_Fucked_the_Girl_Out_of_Me"
+    },
+    {
+      "media_type": "game",
+      "external_id": 210800,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Shuyaku_Sentai_Irem_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 225275,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Battle_Arena_Toshinden_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 273750,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/High_Stakes_Gambling"
+    },
+    {
+      "media_type": "game",
+      "external_id": 283579,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Popeye_%281990_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 307082,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Terminator_2_%28Game_Boy_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 317064,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/New_Ghostbusters_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 325876,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Alentejo%3A_Tinto%27s_Law"
+    },
+    {
+      "media_type": "game",
+      "external_id": 365635,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Bram_Stoker%27s_Dracula_%28handheld_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 365636,
+      "platform_id": 33,
+      "comment": "https://en.wikipedia.org/wiki/Boxing_%281990_video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1091,
+        "name": "Donkey Kong Land",
+        "summary": "Donkey Kong Land is a Jump & Run classic, developed by Rareware and released by Nintendo for the Game Boy in June 1995.\n\nCranky Kong, jealous of all the success Donkey Kong and Diddy Kong have had from Donkey Kong Country on the SNES, challenges the Kongs to beat another adventure on an 8-bit system (Game Boy). As King K. Rool agrees with Cranky and steals the bananas again, Donkey & Diddy Kong set out to go through another adventure!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2x2x.jpg",
+        "release_date": 804124800,
+        "rating": 69.89450201236235,
+        "rating_count": 29,
+        "genres": "Platform,Adventure",
+        "platform_ids": "37,33",
+        "external_url": "https://www.igdb.com/games/donkey-kong-land",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 1125,
+        "name": "Kid Dracula",
+        "summary": "His pearly fangs drive the girls wild, while his dead-of-the-party sense of humor makes them scream. He's Kid Dracula, star of the mythical Transylvania 92010, and the coolest living corpse ever to stake his claim on the Game Boy. If you thought Mario had a way with magic, you should see junior jugular's spellbinding powers, including the mesmerizing bat transformation. Poof! Nobody wings it better than Kid Drac.\n\nThis game is both a remake and a sequel to the original Kid Dracula, on the Nintendo Entertainment System.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6vv9.jpg",
+        "release_date": 726019200,
+        "rating": 73.7803744886981,
+        "rating_count": 16,
+        "genres": "Platform,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/kid-dracula",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 1325,
+        "name": "Turok: Battle of the Bionosaurs",
+        "summary": "Turok: Battle of the Bionosaurs is an action platformer Game Boy adaptation of Turok: Dinosaur Hunter, developed by Bit Managers and published by Acclaim.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dpm.jpg",
+        "release_date": 880934400,
+        "rating": 59.98545261823826,
+        "rating_count": 5,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/turok-battle-of-the-bionosaurs",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 1639,
+        "name": "James Bond 007",
+        "summary": "An arms smuggling ring threatens to create a new world order.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dvj.jpg",
+        "release_date": 886032000,
+        "rating": 69.82342249422473,
+        "rating_count": 9,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/james-bond-007--2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 1687,
+        "name": "Game Boy Wars",
+        "summary": "A turn-based tactics game for Game Boy; it is the second game in the Nintendo Wars franchise.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kxz.jpg",
+        "release_date": 674784000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Turn-based strategy (TBS),Tactical",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/game-boy-wars",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 2829,
+        "name": "Bart Simpson's Escape from Camp Deadly",
+        "summary": "School's out and Bart's ready for some summer fun in the sun! Until he got the news - Homer and Marge were sending him and Lisa off to summer camp. Not just any camp, but the infamous Camp Deadly! How bad could it be? Well, with Ironfist Burns as head counselor and Nelson and his band of bullies as bunkmates, it's not exactly paradise. Bart and Lisa are determined to get out - but first they've got to survive outrageous food fights, killer bees and a life-threatening game of capture the flag. Help Bart and Lisa escape, at least in time for school!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4avf.jpg",
+        "release_date": 688953600,
+        "rating": 59.83484742239789,
+        "rating_count": 6,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/bart-simpson-s-escape-from-camp-deadly",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 2831,
+        "name": "The Simpsons: Bart vs. The Juggernauts",
+        "summary": "The Simpsons: Bart vs. The Juggernauts is both a Simpsons game and a parody of the \"American Gladiators\" style TV shows that were popular in the early 90's. Gameplay is basically series of mini-games that vaguely mimic other sports such as skateboarding, wrestling, and basketball.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co496h.jpg",
+        "release_date": 715305600,
+        "rating": 59.0,
+        "rating_count": 3,
+        "genres": "Platform,Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-simpsons-bart-vs-the-juggernauts",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 2836,
+        "name": "The Simpsons: Itchy & Scratchy in Miniature Golf Madness",
+        "summary": "Itchy & Scratchy in Miniature Golf Madness is a miniature golf game released on the Game Boy in 1994, featuring the cat and mouse pair Itchy & Scratchy from the television series The Simpsons. Developed by Beam Software, it was the first game to feature these characters. In the game, the player controls Scratchy as he plays through a miniature golf course of nine holes while at the same time avoiding Itchy's attacks. It received generally mixed to positive reviews from critics.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4arq.jpg",
+        "release_date": 783648000,
+        "rating": 50.0,
+        "rating_count": 3,
+        "genres": "Sport,Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-simpsons-itchy-scratchy-in-miniature-golf-madness",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 2837,
+        "name": "The Simpsons: Bart & the Beanstalk",
+        "summary": "Once upon a time... Bart Simpson had a cow, man. He traded it for some magic beans which grew into a giant beanstalk. If he can scale the stalk, overcome giant bugs, mash monstrous mice, and grab the Giant's loot, he'll become a zillionaire faster than you could say \"I DIDN'T DO IT!\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4av8.jpg",
+        "release_date": 760060800,
+        "rating": 60.0,
+        "rating_count": 3,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-simpsons-bart-the-beanstalk",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 6597,
+        "name": "Soccer Mania",
+        "summary": "Soccer Mania is a Sports game, developed by Kitty Group and published by Epic Sony Record, which was released in 1992.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i98.jpg",
+        "release_date": 641174400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/soccer-mania",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7745,
+        "name": "The Adventures of Star Saver",
+        "summary": "A police officer named Tony and his sister are forced to go inside an unidentified flying object by a group of aliens who are planning to invade the galaxy. They are later exiled to a distant planet after refusing to engage in espionage for their side.\n\nTony finds himself stranded on a strange planet where nothing is familiar (and without his sister). However, a mech that has a vast knowledge of telepathic skills saves him and empowers Tony with the ability to take on the aliens' army. This machine becomes an important ally in the battle to save Tony's sister and stop the extraterrestrial invasion before it's too late. The game forces players to fight strange aliens across the galaxy. Players collect power-ups while in the mech but loses it after a single hit. The game includes some surreal enemies like a typical dog and some music notes.\n\nIn the Japanese game, you play as the girl trying to save your brother. In the international version, you play as the boy instead, trying to save your sister.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hh6.jpg",
+        "release_date": 674438400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-adventures-of-star-saver",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7746,
+        "name": "Aerostar",
+        "summary": "After the end of the Sixth World War, the Earth has been rendered inhospitable and uninhabitable by humanity. The Intergalactic Council ruled that Earth could once again be used by humans and sent people there to restore civilization there. Meanwhile, mutants have prospered in the long-lost wastelands of Earth and were unwilling to allow the humans to have it again. The Intergalactic Council has sent in a lone fighter called Aerostar to defend the Earth from a second act of total destruction.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hh7.jpg",
+        "release_date": 678067200,
+        "rating": 64.0,
+        "rating_count": 2,
+        "genres": "Shooter",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/aerostar",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7748,
+        "name": "After Burst",
+        "summary": "Players must control a combat robot as they make their way towards their ultimate goal: destroying the enemy orb. Each level only has one screen to blast hostile robots, solve challenging platforms, and manipulate a series of short puzzles.\n\n30 stages await players as they look forward to a boss battle on every tenth stage. A weapon is available; its gunfire can be altered by changing the angle of the gun. Even the distance of the shot can be changed by holding down the button for extended periods of time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gtc.jpg",
+        "release_date": 656899200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/after-burst",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7752,
+        "name": "Altered Space",
+        "summary": "The player is an astronaut trapped on an alien spaceship who has to try to find his way out while avoiding aliens and continually replenishing his oxygen supply. This was the first isometric view game on the Game Boy",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gtm.jpg",
+        "release_date": 683683200,
+        "rating": 47.0,
+        "rating_count": 1,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/altered-space",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7753,
+        "name": "Amazing Penguin",
+        "summary": "The hunt is on in this exciting action-maze game! Join Pendrich, the Prince of the Penguins as he battles the enchanted armies of Borbon The Great.\n\nAttack with mighty kicks that blast the enemies across the screen. Clear the panels of each land to progress to the next level. It takes timing and strategy to win back the land from Borbon's invaders!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h5t.jpg",
+        "release_date": 650073600,
+        "rating": 63.0,
+        "rating_count": 2,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/amazing-penguin",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7754,
+        "name": "Amazing Tater",
+        "summary": "This puzzle-game is the successor to Kwirk. The player has to guide a small potato to the exit of each level, which is made difficult by a number of obstacles. Crates have to be pushed out of the way or into holes to make them traversable. Difficulty is increased by the fact that there are crates and holes of several different shapes and sizes and many levels contain different types of spinning doors.\n\nThe game features four different modes of play: Beginners Mode in which the basics are explained and the player receives hints on how to solve each level; Practice Mode that lets the player choose the size of the levels which are then randomly picked; Puzzle Mode in which the player has to complete 40 levels and receives a score depending on the time it took him to complete a level; and finally Action Mode, which is basically a story mode containing two stories. The game also features a password system and four different difficulty levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gtv.jpg",
+        "release_date": 681091200,
+        "rating": 43.0,
+        "rating_count": 1,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/amazing-tater",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7759,
+        "name": "Astro Rabby",
+        "summary": "Astro Rabby is an action video game developed by Cyclone System and published by Information Global Service (IGS) for the original Game Boy exclusively in Japan on October 12, 1990. It is the first Game Boy title to be published by that company.\n\nThe game puts you in control a of Rabby, a robotic bunny, who's goal is to recover stolen parts for his creator, Doc, that were taken by the Dortoise Troops. Doc's dream is to utilize the parts to allow Rabby to fly freely. The game is a top-down, vertically scrolling action game that can be considered a precursor to the Jumping Flash series. The player must jump along platforms in search of a heart, which will allow the player to upgrade Rabby and proceed on to the next level. A level will loop indefinitely until the heart is found.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pm0.jpg",
+        "release_date": 655689600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/astro-rabby",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7760,
+        "name": "Atomic Punk",
+        "summary": "There are four modes of gameplay in Atomic Punk, including two single player modes and two multiplayer game modes.\n\nSolo:\n\n\"Game A\" (known as \"Bomber Boy\" in the Japanese version) is similar to other games in the series, with a few differences. Power-ups, known as panels, which are usually gained in each level and carried over from one to the next, can also be bought from a store by using GP, which is collected depending on how much time it takes to complete a level and how many blocks are destroyed. At the beginning of each round, the player decides which panels to use to complete the round. Another difference is that the linear gameplay of the original, with the player advancing levels after completing each one, was changed to implement a world map with nine locations.\n\nThe second game mode, \"Game B\" (known as \"Bomber Man\" in the Japanese version) is the same as that in the original Bomberman game, but the stage area is squared rather than rectangular and the screen is always centered on Bomberman rather than scrolling when he touches the border.\n\nVs.:\n\nPanel Mode, in which players begin with only one bomb to place at a time and a bomb blast length of one unit, and Bomb Up and Fire Up panels appear.\n\nPowerful Mode, in which players have four bombs to place at a time and a bomb blast length of four units, and no panels appear.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6l2d.jpg",
+        "release_date": 652060800,
+        "rating": 68.80328693269912,
+        "rating_count": 6,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/atomic-punk",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7770,
+        "name": "Battle Bull",
+        "summary": "The player controls a driver of an excavation vehicle as he competes in a 48-level tournament of drilling things.\n\nPlayers have to kill rival drivers only by pushing huge stones at them. Most of the other stones are a permanent part of the underground cavern; while others can be used to eliminate the opponents. Money is earned after each level for the purpose of upgrading the player's vehicle. Players can improve their engines, purchase extra lives, shovels that can dig better, and weapons to improve the odds on the playing field. A kill ratio is required to be met in order to reach the next stage. Otherwise, the player remains in the current level.\n\nAfter finishing all 48 levels, the game proclaims that the \"battle is over\" and that the player becomes \"the new champion.\" The final scene in the game is where the player looks over the sunset with his girlfriend along with the closing credits.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gyr.jpg",
+        "release_date": 659923200,
+        "rating": 63.0,
+        "rating_count": 1,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/battle-bull",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7771,
+        "name": "Batman: The Animated Series",
+        "summary": "FROM TV SCREEN TO GAME BOY SCREEN COMES HEROIC CRIME FIGHTING ADVENTURE.\n\nEveryone's tuning in to Batman - The Animated Series. Now, for the first time, this hit TV series becomes an intense video game adventure. The Dark Knight and his partner Robin fight Gotham City's most infamous fiends in five original episodes of sizzling crime fighting action. Batman's strategic use of the grappling hook is crucial for surviving the onslaught of evil enemies. And Robin relies on his hang-from-the-ceiling skills to escape certain doom. Both of our heroes possess fists of amazing strength and must try to find weapon power-ups scattered throughout the mayhem.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dn0.jpg",
+        "release_date": 752112000,
+        "rating": 61.37896051214572,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/batman-the-animated-series",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7774,
+        "name": "Battle Pingpong",
+        "summary": "Battle Ping-Pong is a Game Boy game revolving around ping-pong (or table\ntennis as it is generically called). One person on either side of a small table\nwith a net return a ball back and forth in a rally until the ball is either dead\nin play or bounces off the table.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/edim8ibmvnif4gmjmqhj.jpg",
+        "release_date": 652060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/battle-pingpong",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7775,
+        "name": "Battle Unit Zeoth",
+        "summary": "Battle Unit Zeoth takes place in the future where mankind is invaded by a race of alien robots known as the Grein. The Earth’s forces were triumphant in battle and the Grein forces fled the Solar System. However, as they retreated, the Grein left behind a secret underground base filled with self-replicating Grein machines.\n\nForty-two years after the Earth’s victory, the Grein base opened and a new attack force decimated the city of New Age. To retaliate, Earth’s military has stored a mecha that specializes in alien combat known as the Zeoth. It is the Zeoth’s assignment to stop the attack force, go into the Grein secret base and destroy the mechanical occupants before a new invasion force arrives.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gyy.jpg",
+        "release_date": 661737600,
+        "rating": 63.0,
+        "rating_count": 4,
+        "genres": "Shooter",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/battle-unit-zeoth",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7784,
+        "name": "Bill & Ted's Excellent Game Boy Adventure: A Bogus Journey!",
+        "summary": "Bill & Ted navigate through time in this platformer",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6aro.jpg",
+        "release_date": 681004800,
+        "rating": 75.0,
+        "rating_count": 3,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/bill-and-teds-excellent-game-boy-adventure-a-bogus-journey",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7790,
+        "name": "Blaster Master Boy",
+        "summary": "Blaster Master Jr., known as Blaster Master Boy in North America and Bomber King: Scenario 2 (ボンバーキング シナリオ2?) in Japan, is an action video game developed by Aicom and published by Sunsoft. The game was released in 1991 for Game Boy. The game is a sequel to Robowarrior, a spin-off title in the Bomberman series by Hudson Soft. However, the game was marketed in western territories as a game in the Blaster Master series by Sunsoft.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5fuf.jpg",
+        "release_date": 682905600,
+        "rating": 71.0,
+        "rating_count": 3,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/blaster-master-boy",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7793,
+        "name": "Bomberman GB",
+        "summary": "Bomberman is searching the depths of the earth in hopes of finding the Legendary Treasure. In the Story Mode, guide him through 48 levels of puzzle-solving action, collecting power-up items and defeating monsters along the way. The Battle Mode is the old favorite, where one to four players battle it out on six different maps.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4obp.jpg",
+        "release_date": 776476800,
+        "rating": 74.0,
+        "rating_count": 3,
+        "genres": "Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/bomberman-gb",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7797,
+        "name": "Boomer's Adventure in Asmik World",
+        "summary": "This video game stars Boomer (Asmik-kun in the Japanese version), a pink dinosaur, coursing through maze-like levels. Boomer traps enemies by digging holes and letting the enemy fall in them. Boomer can also dig out items and keys needed to complete the levels. Passwords are revealed before and after every boss level. On the top floor is the ultimate boss. Defeat him in order to beat the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co302w.jpg",
+        "release_date": 630720000,
+        "rating": 68.0,
+        "rating_count": 4,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/boomers-adventure-in-asmik-world",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7798,
+        "name": "Asmik-kun World 2",
+        "summary": "Asmik-kun World 2 (アスミッくん ワールド 2 Asumikkun Wārudo 2) is a Game Boy video game by Asmik, copyrighted in 1991.Unlike its predecessor, Boomer's Adventure in ASMIK World (Teke! Teke! Asmik-kun World), this game was never released outside Japan. Like its predecessor, the game is an excellent example of the trap-em-up genre, which also includes games like Heiankyo Alien and Space Panic.\n\nIn the game, Asmik-kun has to build a \"road\" from the entrance to the exit in each level. An enemy has come to kidnap the children on a certain world and the \"roads\" are intended for the children to be rescued and escorted safely back home.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gyn.jpg",
+        "release_date": 675043200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/asmik-kun-world-2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7799,
+        "name": "Boxxle",
+        "summary": "The player must maneuver boxes in a warehouse in order to make enough money to woo his desired girlfriend.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gzv.jpg",
+        "release_date": 620611200,
+        "rating": 59.95769885927344,
+        "rating_count": 6,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/boxxle",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7814,
+        "name": "The Bugs Bunny Crazy Castle 2",
+        "summary": "Bugs Bunny must save his girlfriend Honey Bunny from Witch Hazel's enemy-filled castle. There are 28 levels with keys to collect. In each level is a locked door leading to the next level; to open it, the player must collect eight keys placed throughout the level. Various Looney Tunes characters are encountered, including Yosemite Sam, Daffy Duck, Wile E. Coyote, Sylvester, Foghorn Leghorn, Tasmanian Devil, Beaky Buzzard, Spike, Merlin the Magic Mouse, and Tweety.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i4b.jpg",
+        "release_date": 672624000,
+        "rating": 69.67924444697412,
+        "rating_count": 5,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-bugs-bunny-crazy-castle-2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7815,
+        "name": "Square Deal: The Game of Two Dimensional Poker",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ia6.jpg",
+        "release_date": 659923200,
+        "rating": 47.0,
+        "rating_count": 2,
+        "genres": "Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/square-deal-the-game-of-two-dimensional-poker",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7823,
+        "name": "Choplifter II: Rescue Survive",
+        "summary": "The gameplay revolves around piloting a rescue helicopter into hostile territory and rescuing hostages. Enemies like birds, fighter jets, and even ammunition fired from various weapons can harm the player's helicopter. Saving more hostages than the scenario requires will allow players to collect extra points. However, losing a lot of hostage will lead to a loss of continues; regardles of how many lives the player has during that time. This is to simulate a mission failure and/or becoming a SNAFU.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9h0v.jpg",
+        "release_date": 677462400,
+        "rating": 70.0,
+        "rating_count": 2,
+        "genres": "Shooter,Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/choplifter-ii-rescue-survive",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 7826,
+        "name": "Cosmo Tank",
+        "summary": "The player controls an armoured fighting vehicle from either a first-person perspective or a third-person perspective; depending on the level design. All games begin on a planet's surface with an overhead view. When the player enters a tunnel, the view switches to first-person. After destroying the Life Core inside a tunnel, the player travels to a new planet through a vertically scrolling stage.\n\nCosmo Tank has three modes. In quest mode, the object of the game is to destroy Alien Life Cores on five planets to free them from Master Insect. Players can earn experience levels in the quest mode by defeating enemies. The maximum amount of experience points that a player can earn is 999; which allows players to reach the level cap of 6. In training mode, the player practices in a closed area and is given a ranking. In vs. mode, the Game Link Cable is used to allow two players to race to defeat the alien leader.\n\nAfter either beating the game or acquiring a game over, the player is given a rank that shows how far he made it in the game along with his target score. The lowest rank in the game is a skull and crossbones (signifying a casualty on the battlefield).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8321.jpg",
+        "release_date": 644803200,
+        "rating": 60.0,
+        "rating_count": 1,
+        "genres": "Shooter",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/cosmo-tank",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 8048,
+        "name": "Tiny Toon Adventures 2: Montana's Movie Madness",
+        "summary": "Here comes Montana Max the meanest movie maker to ever tarnish the silver screen. He's directed four new flicks that make Buster Bunny look like a villain! To defend his character Buster Bunny must leap into Max's movies and use attack moves like fast dash and freeze kick to change the endings before his career is finished.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dph.jpg",
+        "release_date": 752112000,
+        "rating": 70.0274932335016,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/tiny-toon-adventures-2-montanas-movie-madness",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 8127,
+        "name": "Mickey's Dangerous Chase",
+        "summary": "Mickey Goes After a Missing Present and the Culprit Who Swiped It!\n\nWho's got Minnie's missing present? Big Bad Pete is the culprit! He swiped Minnie's present and spoiled the surprise. Now Mickey's after him, and the chase leads through some very dangerous places. Mickey meets barking bulldogs, slippery weasels, hairy tarantulas, and even worse critters. Tricks, traps, and collapsing escape routes make Mickey scurry. He scampers through his Hometown, into the Woods and up the Mountain. He chases Pete through a Factory and up to the Rooftops for a final showdown. Can you help Mickey stop Pete and get the missing present back? Better hurry!\n\n-Mickey throws boxes at the bad guys while grabbing Stars and Prizes.\n\n-A speedboat, jalopy, and bouquet of balloons add high fun to Mickey's chase.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52p6.jpg",
+        "release_date": 678326400,
+        "rating": 50.0,
+        "rating_count": 2,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/mickeys-dangerous-chase",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 9157,
+        "name": "Super R.C. Pro-Am",
+        "summary": "Super R.C. Pro-Am is a racing video game that is similar to its predecessor, R.C. Pro-Am, for the NES. In the game, players race remote control cars on a series of tracks. It can be played solo, with two-players via the Game Link Cable, or with three or four players via the Four Player Adapter. The game features 24 different tracks of increasing difficulty, and the object is to finish in the top three in order to qualify to race in the next track. Players who do not finish in the top three may use a continue and retry the track; players get three continues, and the game ends when the player fails to finish in the top three and has no continues remaining.\nEach track is different and range from standard ovals to tracks with many twists and turns. The game includes many obstacles, such as oil slicks that send players spinning, puddles of water that cause players to slide out of control, sand traps and \"slow cones\" that slow players down, large cones that bring players to a complete halt, and walls of tires that players bounce off. If a player hits an oil slick and then hits a wall while spinning, the player's car is temporarily destroyed, which loses time. The tracks also has items that help players along the way: \"zippers\" (a series of chevrons on the track) give players a speed boost, roll cages allow players to hit walls without being destroyed and allow them to crash opponents by forcing them into walls, and missiles and bombs temporarily destroy opponents' cars. Also on the track are spare parts which help improve performance—tires improve traction, batteries increase acceleration, and engines improve speed.\nPlayers have the opportunity to upgrade their vehicles by collecting letters, which are distributed throughout the tracks. By spelling \"Nintendo\" with the letters, players upgrade to a better vehicle; players can upgrade from the \"Racer\" to the \"Speed demon\" and then to the Spiker, each of which performs progressively better than the previous vehicle. If players spell \"Nintendo\" while racing with the Spiker, then they win the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wgf.jpg",
+        "release_date": 694137600,
+        "rating": 82.0,
+        "rating_count": 4,
+        "genres": "Racing",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/super-rc-pro-am",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 12593,
+        "name": "Popeye 2",
+        "summary": "Popeye 2 is a 1991 2D platform game, developed by Copya System and published by Sigma Enterprises for the Game Boy handheld. It is a sequel to Popeye, released exclusively in Japan in 1990.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co727c.jpg",
+        "release_date": 690768000,
+        "rating": 68.0,
+        "rating_count": 1,
+        "genres": "Platform,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/popeye-2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 14208,
+        "name": "The Addams Family",
+        "summary": "The Addams Family for Game Boy is a side-scrolling platformer based on the movie of the same name. The player takes the role of Gomez who searches for his missing family members. To find them he has to explore six different parts of the mansion, e.g. the forest or the graveyard, which are basic platform levels: the player moves from left to right while jumping a lot and avoiding enemies. In contrast to the other versions of the game he has weapons to his disposal, e.g. a throwing knife. Other differences are a unique level design and another health system: Gomez has five hearts which practically act like a life meter because every hit only takes away a part of a heart.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2y6u.jpg",
+        "release_date": 725760000,
+        "rating": 63.87288393518447,
+        "rating_count": 6,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-addams-family--2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 18629,
+        "name": "Monster Max",
+        "summary": "Monster Max is an isometric adventure video game developed by Rare and published by Titus Software for the Game Boy handheld game console. It was released in December 1994 in Europe and January 1995 in the United States. Monster Max was designed by Jon Ritman and Bernie Drummond and is very similar in both graphics and gameplay to Ritman and Drummond's 1987 title Head over Heels. The game sold poorly but received very positive reviews from critics.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lhd.jpg",
+        "release_date": 787536000,
+        "rating": 76.0,
+        "rating_count": 2,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/monster-max",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 18630,
+        "name": "Nemesis",
+        "summary": "Nemesis is an Action game, developed by Konami and published by Ultra, which was released in Japan in 1990.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i5t.jpg",
+        "release_date": 635731200,
+        "rating": 68.44606723916374,
+        "rating_count": 14,
+        "genres": "Shooter",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/nemesis",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 18639,
+        "name": "Teenage Mutant Ninja Turtles II: Back from the Sewers",
+        "summary": "Teenage Mutant Ninja Turtles II: Back from the Sewers, released as Teenage Mutant Hero Turtles II: Back from the Sewers in Europe, and simply Teenage Mutant Ninja Turtles 2 in Japan, is a 1991 Game Boy game by Konami. It is the sequel to Teenage Mutant Ninja Turtles: Fall of the Foot Clan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5gu7.jpg",
+        "release_date": 690163200,
+        "rating": 69.93822878696749,
+        "rating_count": 15,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-ii-back-from-the-sewers",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 19558,
+        "name": "Megalit",
+        "summary": "When a wicked witch decides to rule the world with the power of her magic jewels, her terrifying plot leads her to kidnap elves, princesses, and even fairies. You're the brave warrior who's decided to save all the captured innocents, but the witch gets wind of your plan and turns you to stone. Now, your efforts turn to breaking the spell, which is going to require cracking the ancient puzzle of Megalit. If the princesses and magical beings stand any chance of making it out of the witch's clutches, you'd better solve the code quickly.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hkp.jpg",
+        "release_date": 681696000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/megalit",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 22914,
+        "name": "Top Gun: Guts and Glory",
+        "summary": "Top Gun: Guts and Glory is a modern jet flight simulation that was released in 1993 for the original Nintendo Game Boy in Europe and North America.\n\nThis video game is loosely based on the Top Gun film featuring Tom Cruise. Basically controlling a cutting edge U.S. Aviation based armed forces stream through ten levels, players must take out adversary jet fighters while withstanding enemy ships.\n\nAirplanes that can be picked include the F-14 Tomcat, the F-117A Nighthawk covertness contender, the F-16 Fighting Falcon, and the Soviet-made MiG-29 Fulcrum. Players can either commit themselves to a long career mode, take part in a snappy air battle meeting, or go on a bombarding run. Passwords help store the player's advancement in career mode.\n\nBecause of different constraints found on the first Game Boy framework, the player can just observe and battle against two enemy airplanes at once.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7elk.jpg",
+        "release_date": 725846400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/top-gun-guts-and-glory",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 37764,
+        "name": "X",
+        "summary": "A first-person 3D shooter for the Game Boy.\n\nThe Western localization, Lunar Chase, was found eventually found in the Nintendo Gigaleak, but was never released officially.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co988r.jpg",
+        "release_date": 707097600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/x",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 45174,
+        "name": "Barbie: Game Girl",
+        "summary": "Unlike most Barbie games, this game is a standard platform game rather than a simulation of the life of a female fashion model. Barbie must find an outfit for her date with Ken. The environment features a shopping mall level, an underwater level, and other worlds to explore. The game is also centered around collecting gems and pearls to fend off opponents.\n\nEnemies in the game include the usual sharks found in underwater levels in addition to jellyfish. Moving cubes of sugar must also be defeated in the game. The bonus rounds of the game are essentially a Concentration-type game where matching identical cards lead to extra points for the player.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pi8.jpg",
+        "release_date": 717897600,
+        "rating": 57.99575077252999,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/barbie-game-girl",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 46673,
+        "name": "Disney's Mulan",
+        "summary": "As Fa Mulan you will follow the storyline of the Disney animated movie starting from army training. You will progress through other scenes, like avoiding detection, saving Shang, sneaking past the Mongol army, getting through the palace and stopping Shan Yu.\n\nThis is a scrolling game with some puzzle elements. You can throw things at enemies to stun them but this is not a shooter. Mostly, you are trying to make your way past an enemy to achieve your goal.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dtf.jpg",
+        "release_date": 907200000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/disneys-mulan",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48915,
+        "name": "Wave Race",
+        "summary": "Jump aboard your Personal Water Craft and hit the waves! Pick one of three versatile PWC's - the nimble 550cc, the speedy 650cc, or the high-powered 800cc National Class racer. Splash your way through 8 tracks in the racing circuit, or compete in 8 different breakneck slalom courses. Watch the spray fly as you leave your opponents swamped in your wake! Save your quickest lap and course times. Race to top your fastest speed, or challenge up to three of your friends with the Four Player Adapter and pour on the power!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kqi.jpg",
+        "release_date": 709948800,
+        "rating": 67.0,
+        "rating_count": 3,
+        "genres": "Racing,Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/wave-race",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48918,
+        "name": "WCW: The Main Event",
+        "summary": "WCW: The Main Event is a professional wrestling video game. Choose your fighters among top-ranked superstars. Each wrestler has his unique special move along with punch, clothesline, bodyslam, suplex, dropkick, and cross body block. Use your unique abilities to fight in one of two match types to maybe even throw one's opponent out of the ring!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9iei.jpg",
+        "release_date": 763084800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/wcw-the-main-event",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48920,
+        "name": "Ultima: Runes of Virtue",
+        "summary": "Ultima: Runes of Virtue is a Role-Playing game, developed by Origin and published by Pony Canyon, which was released in 1992.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co505r.jpg",
+        "release_date": 692668800,
+        "rating": 60.0,
+        "rating_count": 2,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/ultima-runes-of-virtue",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48921,
+        "name": "Raging Fighter",
+        "summary": "If you think you're tough enough to rumble with the best fighters in the world, take your best shot in RAGING FIGHTER. Choose from seven different brawlers Vandal, Aska, Ruoh, Shades, Miyabi, Tao, and Bulk as you take it to the competition and show em who's boss. There are four different tournament styles to play in, making for intensely high replay value and variety. Each of the seven fighters brandishes a few special moves that are all their own, making for original fights every time out. Of course, there are the requisite punches and kicks, but mastering your own fighter's combos will lead you to easier victory. Play against the computer, or hook up with a friend via a link cable and scrap it out for bragging rights.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i1k.jpg",
+        "release_date": 733104000,
+        "rating": 67.0,
+        "rating_count": 1,
+        "genres": "Fighting",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/raging-fighter",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48922,
+        "name": "Wizards & Warriors X: Fortress of Fear",
+        "summary": "The incredible saga of Wizards and Warriors continues. As Kuros you'll enter the dreaded Fortress of Fear in your pursuit of the Evil Wizard, Malkil. Hundreds of enemy encounters await you. Deadly bats and other flying beasts attack from above. Scorching fireballs and arrows speed toward you. And skin crawling spiders and undead skeletons appear from the darkness. Defeat them all! Only those with the blackest of hearts dwell among the 18 levels of challenging game play. But the rewards are great, riches beyond belief, keys to long lost treasure and magic spells and potions. And what better reward could you seek than a final encounter with the Evil Wizard Malkil himself? Beware, Kuros. Others have journeyed into the Fortress of Fear, but none have returned alive.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49ec.jpg",
+        "release_date": 635299200,
+        "rating": 50.0,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/wizards-and-warriors-x-fortress-of-fear",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48929,
+        "name": "Ninja Gaiden Shadow",
+        "summary": "When a madman threatens to take over the entire world, our beloved hero Ryu must travel the globe to get to New York. Once he gets there, there are hazards and enemies hiding in each and every nook and cranny. If you think the \"Big Apple\" is dangerous in real life, you'll be amazed at the depths of evil employed by the big-city villains in this escapade. You'll have to hack, slash, and kick your way through the streets and all the way to one of the most dangerous bosses in videogame history. Another installment in the ongoing Ninja Gaiden series, Ninja Gaiden Shadow boasts intense graphics, a great storyline, and smooth gameplay. The world could really use a hero, and if you've got the skills and know-how, you could be it.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co404u.jpg",
+        "release_date": 694915200,
+        "rating": 60.10265221532965,
+        "rating_count": 13,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/ninja-gaiden-shadow",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48940,
+        "name": "Solar Striker",
+        "summary": "You are locked in ferocious combat on an interstellar battlefield. Dodging and taking aim, alien rocketships stream past, circle, and attack. There are too many to count! Fire, fire, fire! The enemies' first wave is repelled. A moment's rest, and the attack begins again. Gather extra life and firepower from floating energy cells. Prepare to duel batwing fighters and insect spaceships, avoid churning energy fields, alien cruisers and more!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i99.jpg",
+        "release_date": 633312000,
+        "rating": 49.98724615217757,
+        "rating_count": 9,
+        "genres": "Shooter",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/solar-striker",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48950,
+        "name": "Dead Heat Scramble",
+        "summary": "Players must choose between a dune buggy, a sand rail vehicle, and the incredible off-road truck. All races are strictly against the clock while the driver navigates through blockades on the road and other drivers that want to defeat the player. All of the ten courses must be unlocked in a linear fashion; all the races take place in a tube. Few power-ups exist in them game; including a chance to increase the player's nitro boost.\n\nThere are ten stages in the entire game. No penalties are given for bumping into the other drivers; unlike real life. Each course is in the shape of a half-pipe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9h2n.jpg",
+        "release_date": 665280000,
+        "rating": 55.0,
+        "rating_count": 1,
+        "genres": "Racing",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/dead-heat-scramble",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48959,
+        "name": "David Crane's The Rescue of Princess Blobette",
+        "summary": "Starring: A Boy and His Blob\n\nThe Rescue of Princess Blobette tells the story of a young, male protagonist and his blob companion as they attempt to rescue the latter's girlfriend, the titular Princess Blobette. The damsel in distress has been imprisoned by the Antagonistic Alchemist within the highest tower of the Royal Castle on the planet Blobolinia. Like its predecessor, A Boy and His Blob: Trouble on Blobolonia, The Rescue of Princess Blobette is a puzzle-platformer in which the player directly controls the boy as he is followed around by the blob, who is controlled by the computer AI. The pair must navigate the various passages and floors of the castle to locate and free Blobette. The boy can only run back and forth, cannot jump or swim, and will die if he falls a long distance or comes in contact with dangerous objects such as flame throwers and sewer serpents. However, the blob can be made to turn into useful tools when he is fed jelly beans of various flavors. Each flavor causes a different transformation. For example, feeding the blob a tangerine jelly bean will change him into a trampoline, which the boy can then use to reach high platforms. The player may also locate extra jelly bean sacks and numerous, optional treasures. Finding five peppermints will increase the player's extra lives by one.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4snn.jpg",
+        "release_date": 658108800,
+        "rating": 42.0,
+        "rating_count": 1,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/david-cranes-the-rescue-of-princess-blobette",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48961,
+        "name": "Boxxle II",
+        "summary": "Boxxle 2 is a puzzle game in which you have to push crates from point A to point B without getting them stuck.\n\nThe player must maneuver boxes in a warehouse in order to make enough money to woo his desired girlfriend.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gzu.jpg",
+        "release_date": 646012800,
+        "rating": 64.0,
+        "rating_count": 1,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/boxxle-ii",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48966,
+        "name": "Ninja Boy 2",
+        "summary": "Ninja Boy 2 is an Action game, developed and published by Culture Brain, which was released in Japan in 1991.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wor.jpg",
+        "release_date": 691372800,
+        "rating": 53.0,
+        "rating_count": 1,
+        "genres": "Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/ninja-boy-2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48967,
+        "name": "Ninja Boy",
+        "summary": "Ninja Boy is an Action game, developed and published by Culture Brain, which was released in Japan in 1990",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hru.jpg",
+        "release_date": 640569600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/ninja-boy",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48969,
+        "name": "Tetris Blast",
+        "summary": "Have a BLAST! The favorite puzzle sensation EXPLODES back on the Game Boy scene! Test your dexterity at the highest level yet! With rapid moves align blocks containing explosive bombs and clear away the screen. KA-BLAAM!! In FIGHT MODE build a mega bomb and take out menacing enemies that threaten your progress, BOOM! You've never experienced Tetris like this before! It's DYNAM",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dp1.jpg",
+        "release_date": 795398400,
+        "rating": 82.0,
+        "rating_count": 2,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/tetris-blast",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48970,
+        "name": "Spud's Adventure",
+        "summary": "Spud's Adventure is an Action game, developed and published by Atlus, which was released in 1991.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ia4.jpg",
+        "release_date": 664761600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/spuds-adventure",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48979,
+        "name": "Jeep Jamboree: Off Road Adventure",
+        "summary": "There are several options in the game including: difficulty level, whether to race in MPH or KM/H, steering ability, whether or not to have a track map, chevrons, and position flashing. The object is to race laps around a muddy race track while trying to get first place. There are twenty tracks to race in; each with a timer that forces the player to race fast. There is an option to either do a single race or a multi-race tournament against a computer opponent or through a human playing while using the Game Boy link cable and another copy of the video game. Items in the background like electric lines and rocks help provide a road-like feeling to the races.\n\nIn a single-player race, the player will race to the finish line against a field of approximately nineteen other drivers.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hhh.jpg",
+        "release_date": 712627200,
+        "rating": 40.0,
+        "rating_count": 1,
+        "genres": "Racing",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/jeep-jamboree-off-road-adventure",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48980,
+        "name": "Hyper Lode Runner",
+        "summary": "Your objective is to gather gold that is scattered on the brick platforms, which are connected by ladders. You are chased by robots (cyborgs) that end your character's life if they catch him, though you can stand on their heads. Your main weapon is the ability to dig both to the left and right of your character. The holes you dig are only temporary and fill themselves in. A robot that falls into one of your holes will be destroyed if the hole fills in before it can escape. Your character can also suffer this same fate, ending his life. Destroyed robots are replaced with new ones that appear from the top of the screen. The robots can also carry gold which they drop if they fall into a hole. The robot's movements are dependent on yours, and a significant facet of the game play is figuring out how to use the robot's movements to your advantage in clearing a stage. Besides bricks and ladders, levels also consist of blocks (which can't be dug into), rope (to traverse platform chasms) and crumbling bricks (which you fall through). Once all gold has been retrieved a missing segment of ladder will appear allowing your character to escape to the next level. Some levels contain keys and doors which provide an alternate way to leave a level.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hgi.jpg",
+        "release_date": 622339200,
+        "rating": 61.0,
+        "rating_count": 2,
+        "genres": "Platform,Puzzle,Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/hyper-lode-runner",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48990,
+        "name": "Mickey Mouse: Magic Wands!",
+        "summary": "A great adventure with Magic Wands!\nHurry and rescue your friends from the wicked witch's castle!\n\nMickey Mouse and his friends have become lost while playing near the edge of the forest. Mickey's friends have been trapped in Yashja the wicked witch's castle. Hurry and rescue your friends, Mickey! Take the Magic Wands and begin your great adventure.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b5p.jpg",
+        "release_date": 756518400,
+        "rating": 70.0,
+        "rating_count": 2,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/mickey-mouse-magic-wands",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48994,
+        "name": "Great Greed",
+        "summary": "This RPG breaks from the normal formula in a few respects. The battle system does not use any menus, switching all commands to simple button pushes. A being attack, B for dodge, Start will run and the D-Pad is shortcuts to certain spells. The combat is also live, in the sense that if you take too long to complete your turn, your opponent will attack again.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jzw.jpg",
+        "release_date": 736214400,
+        "rating": 56.0,
+        "rating_count": 3,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/great-greed",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 48997,
+        "name": "Go! Go! Tank",
+        "summary": "A peaceful nation has been invaded by an enemy army. It's up to you to conquer the army and save your nation!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hg0.jpg",
+        "release_date": 675734400,
+        "rating": 46.0,
+        "rating_count": 1,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/go-go-tank",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49000,
+        "name": "The Fidgetts",
+        "summary": "The Fidgetts is a puzzle side-scrolling platform game in a similar vein as 'The Lost Vikings'.\nThe player can switch between two Fidgetts (cartoon-like animals) to get past obstacles. One of the Fidgetts can jump higher to reach objects or locations otherwise unreachable. They can also lift and drop items to help them climb over obstacles.\n\nWithin each level the player must get both Fidgetts to the exit before a time runs out. There are pit traps and enemies that can cause the Fidgetts to loose lives or receive damage.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6olf.jpg",
+        "release_date": 757296000,
+        "rating": 50.0,
+        "rating_count": 2,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-fidgetts",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49004,
+        "name": "World Circuit Series",
+        "summary": "World Circuit Series is a Racing game, developed and published by Konami, which was released in Japan in 1991.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i5q.jpg",
+        "release_date": 667699200,
+        "rating": 50.0,
+        "rating_count": 1,
+        "genres": "Racing",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/world-circuit-series",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49006,
+        "name": "Sumo Fighter",
+        "summary": "Appetite For Adventure\nShape up your Nintendo GAME BOY with foot-stomping action. Eat your way to super strength and pound everything in your path. Pick on everyone lighter than you as you make your way through 15 enemy-filled stages. Find the secret temples and take on the bonus stage challenges of thumb wrestling, arm wrestling or tradtional sumo fighting. Remember, don't forget to eat your rice!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ich.jpg",
+        "release_date": 733622400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/sumo-fighter",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49009,
+        "name": "Race Days",
+        "summary": "Race Days is a Miscellaneous game, developed by Gremlin Interactive and published by GameTek, which was released in 1994.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i1d.jpg",
+        "release_date": 783648000,
+        "rating": 43.0,
+        "rating_count": 1,
+        "genres": "Puzzle,Racing",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/race-days",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49016,
+        "name": "Stop That Roach!",
+        "summary": "Stop That Roach! is an Action game, developed and published by Koei, which was released in 1994.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qt8.jpg",
+        "release_date": 775699200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/stop-that-roach",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49019,
+        "name": "Snoopy's Magic Show",
+        "summary": "As legendary magician Snoopy the Great, you must rescue your assistant Woodstock when his attempt to perform the dangerous Magic Ball Trick goes out of control. Magic Balls are on the attack and even Woodstock has been multiplied by the runaway spell. Maneuver around ever changing barriers and escape through enchanted exits. Summon all your powers to collect Woodstocks through more than 100 levels of escalating jeopardy in… Snoopy’s Magic Show.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h62.jpg",
+        "release_date": 641260800,
+        "rating": 60.0,
+        "rating_count": 1,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/snoopys-magic-show",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49020,
+        "name": "Skate or Die: Tour de Thrash",
+        "summary": "Skate Or Die: Tour de Thrash is a Sports game, developed by Realtime Associates and published by EA Sports, which was released in 1991.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i91.jpg",
+        "release_date": 678326400,
+        "rating": 40.0,
+        "rating_count": 1,
+        "genres": "Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/skate-or-die-tour-de-thrash",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49021,
+        "name": "Serpent",
+        "summary": "Serpent is a Game Boy snake game exclusive for the North American and Japanese markets.\n\nIn the future, there is a sport called Serpent. Two fighters in serpentine robotic machines try to box each other in to win the fight. The serpents are detailed in the fact that they aren't just a line, giving a greater sense of realism to the game. Each snake has a fixed amount of lives; with losing a life being a representation of \"losing the war.\" The \"game over\" message is a simple message saying \"the bitter taste of defeat\" with an animated picture of a snake crying and accompanied by a melancholic music in a waltz rhythm.\n\nThere are two modes with four difficulty levels; level 1 is considered to be the easiest (normal speed and enemy performance) while level 4 is the hardest (fast speed and enemies are likely to cheat death). The first mode allows players to simply compete against an opponent while the second mode brings in a series of small snakes that emerge when players take too long conquering a level. Missiles can be launched when the player collects them on the field. White numbers help the player develop a longer body while black numbers make the body shorter.\n\nMissiles can either make the enemy faster (black missiles) or slower (white missiles). Winning 7 of the 13 possible matches automatically makes the player into the \"champion of serpents.\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i8j.jpg",
+        "release_date": 639360000,
+        "rating": 35.0,
+        "rating_count": 3,
+        "genres": "Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/serpent",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49022,
+        "name": "Rolan's Curse 2",
+        "summary": "King Barius is back for revenge! From the flaming depths of evil, he returns, bringing forth legions of monsters more vicious than anything the world has ever known!\n\nGather your wits and grab your sword! Team up with a band of worthy companions to search for treasure and magic. Then prepare yourself for a savage battle against the dreaded monarch of evil!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i1u.jpg",
+        "release_date": 698630400,
+        "rating": 73.0,
+        "rating_count": 2,
+        "genres": "Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/rolans-curse-2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49023,
+        "name": "Rolan's Curse",
+        "summary": "After centuries in captivity, King Barius, Lord of the Demons, has escaped. In his fury he has cursed the peaceful land of Rolan. Hordes of dark creatures roam free in the countryside. A desperate cry goes out... are there any warriors brave enough to free the people from the curse?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i1v.jpg",
+        "release_date": 656899200,
+        "rating": 56.0,
+        "rating_count": 2,
+        "genres": "Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/rolans-curse",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49028,
+        "name": "The Punisher: The Ultimate Payback!",
+        "summary": "The Punisher: The Ultimate Payback is an Action game, developed by Beam Software and published by Acclaim, which was released in 1991.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dsx.jpg",
+        "release_date": 681004800,
+        "rating": 63.0,
+        "rating_count": 3,
+        "genres": "Shooter",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-punisher-the-ultimate-payback",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49031,
+        "name": "Panel Action Bingo",
+        "summary": "The Classic Game Moves Into the Electronic Age.\n\nLooking for a new challenge for the Game Boy? BINGO! You've found it! Panel Action Bingo pits you against the computer or a friend (with the Game Boy Game Link) in an exciting race for time. You're the Bird, and your opponent is the Cat. You must claim one of the 25 panels in the correct order. The object: grab five panels in a row - vertically, horizontally, or diagonally - to get BINGO... before the Cat does!\n\nChoose from one of the many game play variations: there's the Number game, the Alphabet game, and the Option function, which lets you control different aspects of the game to make it more challenging. They include:\n-Second 3: Your position shifts when you stay in one spot for more than 3 seconds.\n-Ice Stage: The play field becomes slippery, and its's tough to stop where you want!\n-Hide: Some of the squares on the panel are blank until you land there (but the Cat still knows what they are!)\n-Break: ALL the squares are blank; choose this for a test of memory as well as speed!\n- 60 levels, 240 round in all, including 60 bonus rounds\n- Password feature\n- Pause function lets you resume the game where you left off\n- Beware the Black Hole and Star squares that challenge your every move\n- Hook up the Game Link for 2-player action\n\nPick up Panel Bingo today ... don't let that nasty Cat win!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i08.jpg",
+        "release_date": 752112000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/panel-action-bingo",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49034,
+        "name": "Ninja Taro",
+        "summary": "High Adventure in the Far East\nIt's the era of feudal war in Japan. One Shogun struggles to unite the provinces, but he needs help.\nHis villainous arch-rival is rumored to be dead, but a merciless legion of anarcy continues to plague the countryside. If he is dead, then who could be leading th evil forces which prevent Japan from attaining peace and order?\n\nThis chaos must be stopped!\nFrom the ranks of the Phantom sect to the Shogun's aid comes Ninja Taro. With the cunning of a thief, the skill of a master, and a legendary sword, he must venture forth to tame the minions of evil, and unravel the riddle that will unite the empire!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hrv.jpg",
+        "release_date": 719280000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/ninja-taro",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49035,
+        "name": "Nail 'n Scale",
+        "summary": "Nail 'n Scale is an Action game, developed and published by I'Max, which was released in 1992.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hqi.jpg",
+        "release_date": 704678400,
+        "rating": 40.0,
+        "rating_count": 1,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/nail-n-scale",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49037,
+        "name": "Mouse Trap Hotel",
+        "summary": "Mouse Trap Hotel is an Action game, developed by Imagineering Inc and published by Electro Brain, which was released in 1992.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qqo.jpg",
+        "release_date": 720576000,
+        "rating": 43.0,
+        "rating_count": 2,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/mouse-trap-hotel",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49047,
+        "name": "Kingdom Crusade",
+        "summary": "This video game takes places during a hypothetical apocalyptic battle between a dark, evil army and a light, good army. Even the king and queen of each respective kingdom is expected to contribute to combat duty; which was expected of kings in the Middle Ages but not of most queens.\n\nEven though this game is medieval in nature, it does not depict any culture of Medieval Europe against each other. Players can take either side and both kingdom's units are of equal strength to each other. The units in the game correspond to Western high fantasy (i.e., paladins instead of samurai). All fighting is done in an arcade manner (real-time with button mashing) rather than a typical manner of a strategy or role-playing game (either turn-based or real-time without button mashing).\n\nEach player must either destroy all of the opponent's units or capture all the castles in order to win the game and to defeat his or her opponent. Winning results in a celebration screen while losing is the equivalent to a game over.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hjj.jpg",
+        "release_date": 720576000,
+        "rating": 60.0,
+        "rating_count": 1,
+        "genres": "Strategy",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/kingdom-crusade",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49053,
+        "name": "Yogi Bear's Gold Rush",
+        "summary": "Yogi Bear's Goldrush is an Action game, developed by Entertainment Int and published by GameTek, which was released in 1994.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9if5.jpg",
+        "release_date": 783648000,
+        "rating": 50.0,
+        "rating_count": 1,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/yogi-bears-gold-rush",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49054,
+        "name": "WWF Superstars 2",
+        "summary": "Crunching clotheslines, devastating dropkicks, backbreaking body slams steps through the ropes for all-new WWF action. Match your skills against 6 of the toughest WWF Superstars- in the air, in the ring or inside the steel cage! Use Game Link to lack up with a friend for the ultimate WWF wrestling challenge.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co988t.jpg",
+        "release_date": 716947200,
+        "rating": 69.0,
+        "rating_count": 2,
+        "genres": "Fighting,Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/wwf-superstars-2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49057,
+        "name": "Ultra Golf",
+        "summary": "Ultra Golf is a Sports game, developed and published by Konami, which was released in 1992.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ie1.jpg",
+        "release_date": 702086400,
+        "rating": 43.0,
+        "rating_count": 1,
+        "genres": "Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/ultra-golf",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49058,
+        "name": "Turn and Burn: The F-14 Dogfight Simulator",
+        "summary": "Turn and Burn: The F-14 Dogfight Simulator is a Simulation game, developed by Imagineering Inc and published by Absolute Entertainment, which was released in 1992.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9idv.jpg",
+        "release_date": 707356800,
+        "rating": 55.0,
+        "rating_count": 1,
+        "genres": "Simulator",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/turn-and-burn-the-f-14-dogfight-simulator",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49059,
+        "name": "Track Meet",
+        "summary": "Track Meet is a Sports game, developed and published by Interplay, which was released in 1991.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9idn.jpg",
+        "release_date": 665366400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/track-meet",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49061,
+        "name": "Tasmania Story",
+        "summary": "Tasmania Story is an Action game, published by Pony Canyon, which was released in 1991.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9id8.jpg",
+        "release_date": 673056000,
+        "rating": 43.0,
+        "rating_count": 4,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/tasmania-story",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49063,
+        "name": "Tail 'Gator",
+        "summary": "Tail 'Gator is an Action game, developed and published by Natsume, which was released in 1991.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5jg3.jpg",
+        "release_date": 678326400,
+        "rating": 72.0,
+        "rating_count": 3,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/tail-gator",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49071,
+        "name": "Baby T-Rex",
+        "summary": "It's REX To The Rescue! You were once just a typical Tyrannosaurus-10 tons of terror with lots of teeth and really bad breath. Now, thanks to Captain NewEye' Brain Grain formula, you're the intelligent giant reptile called Rex - and you're hopping mad! Evil Professor ScrewEyes has \"dino-napped\" your prehistoric pals, Woog, Dweeb and Elsa, and is holding them prisoner in his castle. Only you have the brains and brawn to set them free!\n\nFollow a mystical map that will take you from the outskirts of the Jurassic Jungle through the Cretaceous Caves to well within the castle walls. Then it's on to the Dungeon and, if you avoid extinction, up into the Tower. 16 levels of \"brain-draining\" obstacles, traps and other dangers await you-not to mention power-boosting inventions, carefully hidden bonuses and secret worlds of adventure.\n\nSo step on it big guy-or your friends could end up as colossal fossils!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30kd.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/baby-t-rex",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49076,
+        "name": "Cave Noire",
+        "summary": "Cave Noire is a roguelike video game revolving around four quests: killing monsters, freeing fairies, or collecting gold/orbs with ten difficulties each. Starting a quest creates a randomly generated dungeon where the player has one chance to reach the goal – death means a new dungeon has to be created. The difficulty determines how big the target number is, the stats the player starts with, and what monsters are encountered.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ibz.jpg",
+        "release_date": 672019200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/cave-noire",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49079,
+        "name": "Football International",
+        "summary": "Football International is a top-down soccer game with eight national teams to choose from. The player can either participate in an exhibition match or in a knockout championship. Other options which can be set is the time a half-time lasts and if the own team uses a more defensive or offensive lineup. The game itself consists of the usual dribbling, passing and shooting. Normally the camera closely follows the ball carrier, but when a wide shot is performed it zooms out and shows the whole playfield.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hen.jpg",
+        "release_date": 676252800,
+        "rating": 33.0,
+        "rating_count": 1,
+        "genres": "Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/football-international",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49150,
+        "name": "Ayakashi no Shiro",
+        "summary": "Ayakashi no Shiro is a Role-Playing game, published by Seta Corporation, which was released in Japan in 1990.\n\nAyakashi no Shiro is a turn-based dungeon crawl. Players move the protagonist through first-person dungeons where randomly occurring battles happen. When combat begins, the player is given several options through a menu system to fight the enemies.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gyl.jpg",
+        "release_date": 646272000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/ayakashi-no-shiro",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 49227,
+        "name": "Batman: The Video Game",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3zch.jpg",
+        "release_date": 639964800,
+        "rating": 54.60710600272697,
+        "rating_count": 5,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/batman-the-video-game--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 50043,
+        "name": "Konami GB Collection Vol. 4",
+        "summary": "The Konami GB Collection is a series of video game compilations for the Game Boy Color. The compilations were originally released from 1997 to 1998 in Japan for Game Boy, and were later released in Europe in 2000 for Game Boy Color.\n\nIncluded in Volume 4:\n- Gradius II: The Return of the Hero (Gradius: The Interstellar Assault)\n- Castlevania II: Belmont's Revenge\n- Yie Ar Kung-Fu\n- Antarctic Adventure\n\nThis was released as Volume 3 in Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i5j.jpg",
+        "release_date": 887846400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform",
+        "platform_ids": "22,33",
+        "external_url": "https://www.igdb.com/games/konami-gb-collection-vol-4",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 58986,
+        "name": "Trax",
+        "summary": "Tank shooting game in which the goal is to defeat different enemies and bosses with various different weapons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4erg.jpg",
+        "release_date": 694137600,
+        "rating": 71.0,
+        "rating_count": 3,
+        "genres": "Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/trax",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 60782,
+        "name": "God Medicine: Fantasy Sekai no Tanjou",
+        "summary": "God Medicine: Fantasy Sekai no Tanjou is a fantasy RPG for Game Boy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k01.jpg",
+        "release_date": 743126400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/god-medicine-fantasy-sekai-no-tanjou",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 63978,
+        "name": "Super Chinese Land 3",
+        "summary": "Last installment of the Super Chinese Land series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9icn.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/super-chinese-land-3",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 64171,
+        "name": "Fist of the North Star: 10 Big Brawls for the King of the Universe",
+        "summary": "Fist of the North Star: 10 Big Brawls for the King of the Universe is a one-on-one fighting game for the Game Boy developed by Shouei System and originally released by Toei Animation in Japan on December 22, 1989. An American version was released by Electro Brain on April 1990, making it one of the few Hokuto no Ken video games released overseas. Other than a different title screen (which features a new artwork depicting Kenshiro and Raoh similar to the cover art of the first Famicom game), the two versions are otherwise identical.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7e7p.jpg",
+        "release_date": 630288000,
+        "rating": 43.0,
+        "rating_count": 4,
+        "genres": "Fighting",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/fist-of-the-north-star-10-big-brawls-for-the-king-of-the-universe",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 64344,
+        "name": "GB Genjin Land: Viva! Chikkun Oukoku",
+        "summary": "Japanese-only release.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hfk.jpg",
+        "release_date": 766972800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/gb-genjin-land-viva-chikkun-oukoku",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 66020,
+        "name": "Spot: The Cool Adventure",
+        "summary": "Another game based on the adventures of 7-UP's mascot, Spot. Known in Europe as McDonaldland.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ia3.jpg",
+        "release_date": 725846400,
+        "rating": 66.0,
+        "rating_count": 1,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/spot-the-cool-adventure",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 71941,
+        "name": "Undercover Cops Gaiden: Hakaishin Garumaa",
+        "summary": "Undercover Cops: Hakaishin Garumaa), sometimes referred to with or without subtitle as Undercover Cops Gaiden, is a 1993 turn-based traditional game developed and published by Irem exclusively in Japan for the Nintendo Game Boy on December 10, 1993. It is a spin-off of Irem's 1992 beat 'em up arcade game simply titled Undercover Cops. It is also the second-to-last game Irem released for the Game Boy, with Daiku no Gen-san - Robot Teikoku no Yabō being the last.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ie5.jpg",
+        "release_date": 755481600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/undercover-cops-gaiden-hakaishin-garumaa",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 72803,
+        "name": "Kaiju-ou Godzilla",
+        "summary": "An action game in which Godzilla must continue moving right, crushing opposing military forces until reaching bosses consisting of various monsters from the Godzilla universe. It was a Japan-only, Game Boy release.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6an2.jpg",
+        "release_date": 756086400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/kaiju-ou-godzilla",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 73130,
+        "name": "Motocross Maniacs",
+        "summary": "Motocross Maniacs is a side-scrolling motorcycle racing game developed by Konami.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4qsx.jpg",
+        "release_date": 622252800,
+        "rating": 60.03359329318841,
+        "rating_count": 8,
+        "genres": "Platform,Racing,Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/motocross-maniacs",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 75692,
+        "name": "Who Framed Roger Rabbit",
+        "summary": "Roger is summoned by Marvin to his factory to take his deed and get his will from Jessica Rabbit to save Toontown from the greedy Judge Doom. Immediately after, Marvin is sniped through his office window and killed. As Roger meets Jessica she is kidnapped by both Doom's weasel henchmen. Roger gets help from Eddie Valiant. Through his investigation Roger faces Stupid, Greasy, Psycho, and Smarty weasels and finally makes it to Doom's mansion. He makes it past the complex and confront Doom, defeating him and destroying his Dip Machine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53b1.jpg",
+        "release_date": 693619200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/who-framed-roger-rabbit--2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 75887,
+        "name": "Godzilla",
+        "summary": "Godzilla is a Game Boy video game developed by Compile. Although it was released in 1990 (1991 in Europe), all of the monsters are from the Showa generation. The game is a port of an edition from the MSX console. Also the international version is slightly different from the Japanese version (different in-game character designs and behavior of the enemy characters).\n\nVarious monsters that Godzilla had previously defeated, have kidnapped his son, Minilla, and hidden him somewhere inside the Labyrinth of Matrix. It is up to Godzilla to fight the monsters' attacks and solve their many puzzles, all while navigating a much larger maze.\n\nMonsters-\nGodzilla: The first playable character. He must punch boulders through 64 levels, in order to find his son.\nMinilla: Godzilla's son, who was captured and placed in the heart of the Labyrinth of Matrix. He is only seen in the end, and does not appear in any of the levels.\nBaragon: A slow moving enemy.\nMechagodzilla: One of Godzilla's main rivals, with a speed that is slightly slower than Godzilla's.\nHedorah: A normally invincible monster, that can only be defeated by a boulder, a spike pit, or a lightning bolt. He is also the slowest in movement.\nAnguirus: A mutant ankylosaurus that is usually an ally of Godzilla. Normally is a regular paced enemy, but once he is leveled with Godzilla, he will charge at a high speed, making him the fastest in the game.\nRodan: A mutant pterosaur that, just like Anguirus, is usually Godzilla's ally, but now an enemy who flies after him, making it harder to avoid damage.\nGhidorah: A mutant space dragon. After about two minutes, Ghidorah will appear. Having both invincibility and flight, it is very hard to make it past him. He can't be killed by anything. Ghidorah also flies in short bursts.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dnk.jpg",
+        "release_date": 654739200,
+        "rating": 49.97418567313193,
+        "rating_count": 5,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/godzilla--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 75978,
+        "name": "Mighty Morphin Power Rangers",
+        "summary": "The Game Boy version of Mighty Morphin Power Rangers is a side-scrolling action game with five levels, each consisting of two segments.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co63o5.jpg",
+        "release_date": 775699200,
+        "rating": 63.0,
+        "rating_count": 2,
+        "genres": "Fighting,Platform,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/mighty-morphin-power-rangers--2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 75981,
+        "name": "Mighty Morphin Power Rangers: The Movie",
+        "summary": "The Game Boy version of Mighty Morphin Power Rangers: The Movie is a single-player side-scrolling action game similar to the SNES version. The player can choose to play as any of the six rangers, who will start off each stage as a Ninja Ranger. The Red, Blue, and White Rangers are the stronger characters, while Black, Pink, and Yellow are more agile. By defeating enemies throughout each stage, mainly Putty Patrols, and accumulating enough Thunderbolt items to fill up the power gauge, the player can transform their character into a Power Ranger. Filling up the power gauge again while in Power Ranger mode will allow the player to perform a super attack. The game consists of six stages. The first five stages can be played in any order, while the sixth one can only be played after completing the other five.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co63o2.jpg",
+        "release_date": 807235200,
+        "rating": 64.0,
+        "rating_count": 1,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/mighty-morphin-power-rangers-the-movie--2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 79444,
+        "name": "Sports Collection",
+        "summary": "Sports Collection compiles five previously released Game Boy sports games onto one cartridge.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/orynfyj9u8cqk4fwzivy.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/sports-collection",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 81546,
+        "name": "The Real Ghostbusters",
+        "summary": "The Real Ghostbusters, known as Garfield Labyrinth in Europe and Mickey Mouse IV: Mahou no Labyrinth in Japan, is a puzzle/platform game. The story is very simple: Venkman (or Garfield and Odie or Mickey and Mini Mouse, depending on the version you play) walk over a bridge one day, a tile breaks loose and Venkman/Garfield/Mickey falls down a deep pit, which ends up in a bizarre labyrinth, which Venkman/Garfield/Mickey must escape. There's no other goal apart from that, the player just needs to find the exit in each level. Apart from getting there, the exit must also be unlocked. For the latter, the player must collect all gems in the level.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dpb.jpg",
+        "release_date": 749433600,
+        "rating": 68.0,
+        "rating_count": 3,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-real-ghostbusters--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 83898,
+        "name": "The Amazing Spider-Man",
+        "summary": "The Amazing Spider-Man is a side-scrolling action game. Spider-Man can use his web making abilities to either hang from the ceiling or shoot webs out like bullets, but most of his attacks are punches or kicks. Also included are two vertical-scrolling building climbing segments in which Spider-Man has to avoid enemies and falling objects which try to knock him down. His spider sense rings a few moments earlier so you have enough time to react.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dp3.jpg",
+        "release_date": 662601600,
+        "rating": 59.81279991762298,
+        "rating_count": 8,
+        "genres": "Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/the-amazing-spider-man--3",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 84643,
+        "name": "Game Boy Camera",
+        "summary": "The Game Boy Camera is a Nintendo accessory for the handheld Game Boy game console. As a toy for user-generated content, it can be used to shoot grayscale photographs, edit them or create original drawings, and transfer images between GBC units or to the 64DD art game suite Mario Artist. Its images can be printed to thermal paper with the Game Boy Printer. The GBC's cartridge contains minigames based on Nintendo's early games such as the arcade video game Space Fever and the Game & Watch handheld game Ball, and a chiptune music sequencer.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26bj.jpg",
+        "release_date": 888019200,
+        "rating": 70.06270431323648,
+        "rating_count": 9,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/game-boy-camera",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 91263,
+        "name": "Dexterity",
+        "summary": "Dexterity, known as Funny Field in Japan, is a puzzle game by SNK that was released for the Game Boy in 1990. It is a game that consists of a square floor covered in seven rows and eight columns of tiles. The goal of the game is to flip all of the light tiles into dark tiles",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eaz.jpg",
+        "release_date": 662601600,
+        "rating": 53.0,
+        "rating_count": 1,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/dexterity",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 94204,
+        "name": "Nakajima Satoru F-1 Hero GB: World Championship '91",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hqt.jpg",
+        "release_date": 693792000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/nakajima-satoru-f-1-hero-gb-world-championship-91",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 95500,
+        "name": "Mysterium",
+        "summary": "You have come to the famous alchemist Hermetrix and been accepted as his apprentice. He has sent you to be tested in the Mysterium, a three-dimensional maze of hallways. You must combine metals and minerals in pools of mercury, water, fire and acid to create any item you need.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hqg.jpg",
+        "release_date": 670464000,
+        "rating": 47.0,
+        "rating_count": 2,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/mysterium--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 99455,
+        "name": "Tiny Toon Adventures: Babs' Big Break",
+        "summary": "Tiny Toon Adventures is based on an animated series of the same name. The Tiny Toons are kid versions of Warner Bros. famous cartoon characters.\n\nBabs is an aspiring actress. She sets off one day to perfect her craft and make her way to the theater. Buster Bunny, and his friends Plucky and Hampton, notice that Babs is leaving and decide to follow her to the theater. Thus, the game starts, as you control Buster, Plucky, or Hampton as they follow Babs through 4 side-scrolling levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96e3.jpg",
+        "release_date": 725760000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/tiny-toon-adventures-babs-big-break--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 100296,
+        "name": "WWF Superstars",
+        "summary": "WWF Superstars is a licensed wrestling game. Players can choose between five WWF superstars: Ultimate Warrior, Hulk Hogan, Macho King Randy Savage, Mr. Perfect and the Million Dollar Man to take on opponents in the ring.\n\nThere are many moves that can be executed by all the wrestlers: body slam, suplex, clothes line, and others. In addition, there are signature moves unique to each superstar. Two players can compete against each other via the Game Boy Gamelink.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53e3.jpg",
+        "release_date": 694137600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/wwf-superstars--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 117925,
+        "name": "Arcade Classic No. 1: Asteroids / Missile Command",
+        "summary": "Arcade Classics: Asteroids + Missile Command is a compilation of the two classic arcade games. This bundle also featured enhanced Super Game Boy support.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7j6v.jpg",
+        "release_date": 804556800,
+        "rating": 59.0,
+        "rating_count": 2,
+        "genres": "Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/arcade-classic-no-1-asteroids-slash-missile-command",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 117950,
+        "name": "Dragon's Lair: The Legend",
+        "summary": "The Game Boy version for Dragon's Lair is actually a port of Roller Coaster, with its protagonist replaced by Dirk the Daring. Dirk must collect all \"lifestones\" scattered all around the game world (by walking or jumping) to finally save Princess Daphne. The game world is divided in several screens which can be freely navigated and are a little wider than Game Boy's screen. As Dirk moves the screen will scroll and when its limit is reached, it will flick to a new one. To help him move around, Dirk can jump over bumper cars, flying magic hats and other kinds of moving platforms.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sj1.jpg",
+        "release_date": 662688000,
+        "rating": 55.0,
+        "rating_count": 4,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/dragons-lair-the-legend",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 128440,
+        "name": "Skate or Die: Bad 'N Rad",
+        "summary": "Skate Or Die: Bad'N Rad is a Jump'N Run that consists of 7 levels, three of which are viewed from a top-down perspective. The side-scrolling levels play similar to other Jump'N Runs, as you have to avoid obstacles and kill enemies by jumping on them. However, since you are on a skateboard, speed plays an important role, meaning that you cannot immediately stop and sometimes need to drive at full speed to manage wider jumps. The top-down levels play more similar to other Skate Or Die games as gradients influence your driving while you are trying to avoid obstacles, enemies and deadly spikes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96dk.jpg",
+        "release_date": 652147200,
+        "rating": 50.06388295089763,
+        "rating_count": 7,
+        "genres": "Platform,Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/skate-or-die-bad-n-rad--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 136613,
+        "name": "Painter Momopie",
+        "summary": "Painter Momopie has a duty to paint the floors as she avoids all kinds of monsters trying to stop her.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7edn.jpg",
+        "release_date": 660528000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/painter-momopie",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 136619,
+        "name": "Battletoads",
+        "summary": "Battletoads for the Game Boy (not to be confused with Battletoads in Ragnarok's World, which is a port of the NES game) is the second game in the Battletoads series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5agp.jpg",
+        "release_date": 688953600,
+        "rating": 69.45628816829307,
+        "rating_count": 7,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/battletoads--3",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 147343,
+        "name": "Star Trek: 25th Anniversary",
+        "summary": "Star Trek: 25th Anniversary is a 1992 Game Boy video game developed by Visual Concepts and published by Ultra, based upon the Star Trek universe. The game chronicles a mission of James T. Kirk and his crew of the USS Enterprise. Despite having the same name, the Game Boy version is not a port of the NES game or computer versions, and is in fact a completely different game. It was succeeded by Star Trek: The Next Generation for Game Boy, developed and published by Absolute Entertainment the following year.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yno.jpg",
+        "release_date": 696902400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/star-trek-25th-anniversary--2",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 157211,
+        "name": "Super Hunchback",
+        "summary": "Quasimodo straps on his trusty hump one last time to rescue his paramour, the perpetually-imperiled Esmeralda, this time captured by a new villain, the horrible Halfenpounder.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co42no.jpg",
+        "release_date": 704678400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "6,33",
+        "external_url": "https://www.igdb.com/games/super-hunchback--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 206498,
+        "name": "He Fucked the Girl Out of Me",
+        "summary": "He Fucked The Girl Out Of Me is a semi-autobiographical narrative visual novel about trauma and sex work made for the GameBoy. The author explains how sex work impacted her life and changed her perception of the world. The game takes approximately 40 minutes to play from start to finish.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6t04.jpg",
+        "release_date": 1653091200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Indie,Visual Novel",
+        "platform_ids": "22,82,6,33",
+        "external_url": "https://www.igdb.com/games/he-fucked-the-girl-out-of-me",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 210800,
+        "name": "Shuyaku Sentai Irem Fighter",
+        "summary": "Shuyaku Sentai Irem Fighter is a 1993 strategy video game developed and published by Irem exclusively in Japan for the Nintendo Game Boy on July 30, 1993. It features characters from four of Irem's franchises: R-Type, Mr. Heli, Ninja Spirit, and Hammerin' Harry.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i90.jpg",
+        "release_date": 743990400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/shuyaku-sentai-irem-fighter",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 225275,
+        "name": "Battle Arena Toshinden",
+        "summary": "Battle Arena Toshinden was ported to the Game Boy by Takara in 1996, titled Nettou Toshinden in Japan. The game is based mostly on the original PlayStation version, but it includes a slightly altered story mode and an early appearance of the character Uranus and the Battle Arena Toshinden 2 version of Gaia (without his armor).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5r7c.jpg",
+        "release_date": 827452800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/battle-arena-toshinden--3",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 273750,
+        "name": "High Stakes Gambling",
+        "summary": "High Stakes Gambling is a Game Boy casino video game that takes place during the Great Depression in the 1930s.\n\nAn FBI agent named Pete Rosetti, who is going undercover as an intrepid gambler, must turn the Mafia from filthy rich to dirt poor in a series of gambling games in order to arrest them.\n\nIn each of the game's five missions, the player competes against a different Mafia member of increasing difficulty in four rounds of casino games. The three preliminary rounds are blackjack, slot machines, and video poker; with the final confrontation being five-card draw poker. The player is provided with ten thousand dollars in his bank account at the start of each round. Each preliminary round awards the winner with a bonus of ten thousand dollars and five draw poker points to be used in the final round; the loser receives no money and two points.\n\nThe game's practice mode also includes craps, though it never appears in the game's missions.\n\nFor a price, players can buy a variety of special cheating tools in the hopes of making a profit off the gangsters, who often use cheating methods of their own.[3][4] When running low on cash, the gangsters increase the frequency of their cheating in an attempt to regain their cash from the player.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hga.jpg",
+        "release_date": 709948800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/high-stakes-gambling",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 283579,
+        "name": "Popeye",
+        "summary": "Popeye is a Japan-exclusive Game Boy video game based on the comic strip of the same name licensed from King Features Syndicate.\n\nA cancelled US version was found in the 2020 Nintendo data leak, intended to be published by INTV Corporation.\n\nThe scenario is a maze and the player controls Popeye who has a time limit to collect some hearts, find Olive Oyl and save Swee'Pea which only appears somewhere to be saved after the hearts were collected and Olive found.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8g3u.jpg",
+        "release_date": 640569600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/popeye--11",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 307082,
+        "name": "Terminator 2: Judgment Day",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9idc.jpg",
+        "release_date": 694137600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/terminator-2-judgment-day--1",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 317064,
+        "name": "Ghostbusters II",
+        "summary": "Port of \"New Ghostbusters II\" for the Game Boy delevoped by HAL Laboratories.\n\nGhostbusters II is a top-view action game based off of New Ghostbusters II (the second Ghostbusters II license on NES) but with enough differences to be unique. Players begin by choosing two of the four ghostbusters, who all play the exact same. The first one selected is controlled by the player directly and carries a proton pack, the second ghostbuster is follows the first and carries the ghost trap. The objective of each level is to capture a predefined number of ghosts before the timer expires. The player moves up, down, left and right. One button will fire the proton gun directly in front of the first ghostbuster, stunning any ghosts. The second button will toss the trap directly in front of the second ghostbuster, trapping any stunned ghosts. While exploring the levels, any of the 2 remaining ghostbusters (as well as the ghostbusters' accountant Louis) not currently being used will occasionally show up. Touching them will provide power-ups (and often swap with a selected Ghostbuster) including vacuum guns, instant traps and invulnerability.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yzv.jpg",
+        "release_date": 656035200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/ghostbusters-ii--5",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 325876,
+        "name": "Alentejo: Tinto's Law",
+        "summary": "A Gundown Satiric Western, set in the 19th Century Iberian Penisula!\n\nTrains, outlaws, kegs, contraband. Welcome to 19th-century Alentejo, a land where the scorching sun and mysteries are ever-present. Meet Gildo and help him assemble his gang to stand against Baron Tinto's tyrannical rule. Travel across various locations, explore caves and mines, cross the border into Spain, and challenge Tinto and his oppressive lawmaking.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gth.jpg",
+        "release_date": 1732924800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Role-playing (RPG),Adventure,Indie",
+        "platform_ids": "22,82,24,33",
+        "external_url": "https://www.igdb.com/games/alentejo-tintos-law",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 365635,
+        "name": "Bram Stoker's Dracula",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaeya.jpg",
+        "release_date": 757296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/bram-stokers-dracula--4",
+        "cached_at": 1778663170
+      },
+      {
+        "id": 365636,
+        "name": "Riddick Bowe Boxing",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaeye.jpg",
+        "release_date": 757382400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "33",
+        "external_url": "https://www.igdb.com/games/riddick-bowe-boxing--1",
+        "cached_at": 1778663170
+      }
+    ]
+  }
+}

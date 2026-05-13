@@ -1,0 +1,2275 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Dreamcast Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:06+00:00",
+  "description": "Games released exclusively on Dreamcast, sourced from Wikipedia category \"Dreamcast-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 1806,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Crazy_Taxi_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3319,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Metropolis_Street_Racer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3701,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/4_Wheel_Thunder"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3709,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/AeroWings"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4352,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Max_Steel%3A_Covert_Missions"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4354,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Giant_Killers_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4359,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Tokyo_Xtreme_Racer_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5553,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/El_Dorado_Gate"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6708,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Street_Fighter_III%3A_Double_Impact"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6712,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Animastar"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6713,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Armada_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6715,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Blue_Stinger"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6716,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_Online"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6720,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Carrier_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6721,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Flag_to_Flag"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6725,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Coaster_Works"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6728,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Cool_Cool_Toon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8832,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/NBA_2K_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8839,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/NHL_2K_%282000_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8840,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/NHL_2K2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8842,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/NFL_2K_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8843,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/NFL_2K1"
+    },
+    {
+      "media_type": "game",
+      "external_id": 9189,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Draconus%3A_Cult_of_the_Wyrm"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10125,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Toy_Racer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10908,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Frame_Gride"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10961,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Ooga_Booga"
+    },
+    {
+      "media_type": "game",
+      "external_id": 14708,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Pen_Pen_TriIcelon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 20710,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Tokyo_Xtreme_Racer_%281999_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21969,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Sonic_Shuffle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22007,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Daytona_USA_2001"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22050,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Floigan_Bros."
+    },
+    {
+      "media_type": "game",
+      "external_id": 26132,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Rippin%27_Riders_Snowboarding"
+    },
+    {
+      "media_type": "game",
+      "external_id": 26450,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Illbleed"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28151,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Segagaga"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28152,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Napple_Tale%3A_Arsia_in_Daydream"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28836,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/NBA_2K1"
+    },
+    {
+      "media_type": "game",
+      "external_id": 28840,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Sword_of_the_Berserk%3A_Guts%27_Rage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 36736,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/D2_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 36741,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Hello_Kitty_no_Lovely_Fruit_Park"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45155,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Mortal_Kombat_Gold"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45788,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Seventh_Cross%3A_Evolution"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45790,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Sega_Worldwide_Soccer_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45799,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/L.O.L.%3A_Lack_of_Love"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45801,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Shin_Nihon_Pro_Wrestling_Toukon_Retsuden_4"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45802,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/90_Minutes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45803,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/UEFA_Dream_Soccer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45804,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Super_Runabout%3A_San_Francisco_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45805,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Planet_Ring_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45809,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Macross_M3"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45822,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Charge_%27n_Blast"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45824,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Godzilla_Generations%3A_Maximum_Impact"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45832,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/The_Ring%3A_Terror%27s_Realm"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45835,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Red_Dog%3A_Superior_Firepower"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45836,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Reel_Fishing%3A_Wild"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45837,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Sega_Bass_Fishing_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45840,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Soul_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45842,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Surf_Rocket_Racers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45845,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/TNN_Motorsports_Hardcore_Heat"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45846,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Time_Stalkers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45849,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/World_Series_Baseball_2K1"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45851,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Industrial_Spy%3A_Operation_Espionage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45853,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Iron_Aces"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45859,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Gundam_Side_Story_0079%3A_Rise_from_the_Ashes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45862,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Elemental_Gimmick_Gear"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45863,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Super_Magnetic_Neo"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46364,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Fire_Pro_Wrestling_D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46365,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Exhibition_of_Speed"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46368,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Rainbow_Cotton"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46375,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Love_Hina%3A_Totsuzen_no_Engeji_Happening"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46379,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Tee_Off"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46380,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/NCAA_College_Football_2K2%3A_Road_to_the_Rose_Bowl"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46554,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Sega_Worldwide_Soccer_2000_Euro_Edition"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46555,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Propeller_Arena"
+    },
+    {
+      "media_type": "game",
+      "external_id": 56453,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Yu_Suzuki_Game_Works_Vol._1"
+    },
+    {
+      "media_type": "game",
+      "external_id": 58167,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Zusar_Vasar"
+    },
+    {
+      "media_type": "game",
+      "external_id": 58170,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Tricolore_Crise"
+    },
+    {
+      "media_type": "game",
+      "external_id": 58778,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Tokusatsu_Bouken_Katsugeki_Super_Hero_Retsuden"
+    },
+    {
+      "media_type": "game",
+      "external_id": 60497,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Death_Crimson_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 62110,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Treasure_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 62127,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Ogami_Ichiro_Funtouki%3A_Sakura_Taisen_Kayou_Show_%22Benitokage%22_Yori"
+    },
+    {
+      "media_type": "game",
+      "external_id": 62243,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/July_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 63475,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Nettou_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 64705,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/The_Lost_Golem"
+    },
+    {
+      "media_type": "game",
+      "external_id": 64753,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Happy_Lesson%3A_First_Lesson"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66134,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Boku%2C_Doraemon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66251,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Cardcaptor_Sakura%3A_Tomoyo_no_Video_Daisakusen"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66277,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Mercurius_Pretty%3A_End_of_the_Century"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66288,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Blue_Submarine_No._6%3A_Time_and_Tide"
+    },
+    {
+      "media_type": "game",
+      "external_id": 68409,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/DUX_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 69316,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Vermilion_Desert"
+    },
+    {
+      "media_type": "game",
+      "external_id": 69656,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Record_of_Lodoss_War%3A_Advent_of_Cardice"
+    },
+    {
+      "media_type": "game",
+      "external_id": 70207,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Tetris_4D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71191,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Harusame_Youbi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71670,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Sorcerian%3A_Shichisei_Mahou_no_Shito"
+    },
+    {
+      "media_type": "game",
+      "external_id": 72582,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Love_Hina%3A_Smile_Again"
+    },
+    {
+      "media_type": "game",
+      "external_id": 77505,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/World_Neverland_2_Plus%3A_Pluto_Kyouwakoku_Monogatari"
+    },
+    {
+      "media_type": "game",
+      "external_id": 77528,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Oukahouzin%3A_Ouka_Sakishi_Toki"
+    },
+    {
+      "media_type": "game",
+      "external_id": 77570,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Doguu_Senki%3A_Haou"
+    },
+    {
+      "media_type": "game",
+      "external_id": 77572,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Rune_Jade"
+    },
+    {
+      "media_type": "game",
+      "external_id": 78643,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Happy_Lesson_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79738,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Taisen_Net_Gimmick%3A_Capcom_%26_Psikyo_All_Stars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81567,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Hanagumi_Taisen_Columns_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 84320,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/POD_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 86084,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Undercover_AD2025_Kei"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92138,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Idol_Janshi_o_Tsukucchaou"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92865,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/DeSpiria"
+    },
+    {
+      "media_type": "game",
+      "external_id": 97335,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Chou-Hatsumei_Boy_Kanipan%3A_Bousou_Robot_no_Nazo%21%3F"
+    },
+    {
+      "media_type": "game",
+      "external_id": 97874,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Pro_Mahjong_Kiwame_D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 107166,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Gundam_Battle_Online"
+    },
+    {
+      "media_type": "game",
+      "external_id": 108772,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Nanatsu_no_Hikan%3A_Senritsu_no_Bish%C5%8D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 119205,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Run%3DDim_as_Black_Soul"
+    },
+    {
+      "media_type": "game",
+      "external_id": 125366,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico%3A_The_Mission"
+    },
+    {
+      "media_type": "game",
+      "external_id": 131569,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Jinsei_Game_for_Dreamcast"
+    },
+    {
+      "media_type": "game",
+      "external_id": 136558,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Magic%3A_The_Gathering_%282001_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 138656,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Typing_of_the_Date"
+    },
+    {
+      "media_type": "game",
+      "external_id": 200796,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Doki_Doki_Idol_Star_Seeker_Remix"
+    },
+    {
+      "media_type": "game",
+      "external_id": 267405,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Angel_Present"
+    },
+    {
+      "media_type": "game",
+      "external_id": 267503,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Hello_Kitty_no_Garden_Panic"
+    },
+    {
+      "media_type": "game",
+      "external_id": 267504,
+      "platform_id": 23,
+      "comment": "https://en.wikipedia.org/wiki/Hello_Kitty_no_Magical_Block"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 1806,
+        "name": "Crazy Taxi 2",
+        "summary": "Much like the original, the core gameplay in Crazy Taxi 2 centers around picking people up at destinations which are highlighted with colored rings, and dropping them off at stated destinations.\n\nCrazy Taxi 2 added multiple pickups, which enabled the player to carry multiple passengers, (previously it was restricted to one passenger per journey). The game also saw the introduction of the \"Crazy Hop\" feature, which allows the player to jump over certain surfaces to save time, as they taxi passengers around the locations. By performing moves such as the \"Crazy Hop\" and the \"Crazy Dash\", the driver accumulates tips from their passengers, which increases the total score.\n\nThis sequel includes a modified soundtrack with rock bands The Offspring and Methods of Mayhem. The game also has some online modes in the form of a scoreboard, and replay-sharing.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaszp.jpg",
+        "release_date": 991008000,
+        "rating": 71.73294978238269,
+        "rating_count": 34,
+        "genres": "Racing",
+        "platform_ids": "38,23",
+        "external_url": "https://www.igdb.com/games/crazy-taxi-2",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 3319,
+        "name": "Metropolis Street Racer",
+        "summary": "Gameplay in MSR is centred around the single-player mode, with tracks and cars in the multiplayer mode being unlocked at the same time as in the single-player game. The premise is that, as a street racer, the player must impress other drivers with quick but stylish driving in a series of challenges. These challenges are in sets of ten (called Chapters - there are 25 in total), with completion of all challenges opening the next chapter (assuming the player has enough Kudos, see below) and unlocking a new car. Each challenge is on a different track, and unlocking a challenge unlocks that track in the time-attack and multiplayer modes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9aei.jpg",
+        "release_date": 973209600,
+        "rating": 89.90719112336461,
+        "rating_count": 9,
+        "genres": "Racing,Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/metropolis-street-racer",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 3701,
+        "name": "4 Wheel Thunder",
+        "summary": "4 Wheel Thunder is a racing game developed by Kalisto Entertainment and published by Midway Games. While the game had been in development for some time prior as a separate title, it was eventually decided to rebrand the game into Midway's Thunder series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40d6.jpg",
+        "release_date": 957398400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/4-wheel-thunder",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 3709,
+        "name": "AeroWings",
+        "summary": "AeroWings is a simulation that allows the player to fly as a member of a jet aerobatics team. The game contains a variety of jet-powered aircraft that the player can fly in several game modes. • Blue Impulse Mission: Learn 20 aerobatic maneuvers and become a member of the elite Blue Impulse team. Learn loops, rolls, and more while flying both solo and in formation.\n• Sky Mission Attack: Fly through a series of targets suspended in mid-air before time runs out.\n• Free Flight: Fly around and freely explore the landscape.\n• Multi Play: Up to 4 players can perform in formation simultaneously.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xwq.jpg",
+        "release_date": 920505600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/aerowings",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 4352,
+        "name": "Max Steel: Covert Missions",
+        "summary": "Mattel Interactive continues their Dreamcast assault with Max Steel, an action/adventure title based on the hit-rendered TV program of the same name. You control Max, a superhero with the ability to turn invisible and punch through walls, as he valiantly halts the plans of the diabolical John Dread. Gameplay is similar to Fighting Force 2, as you lead Max through expansive levels pummeling your foes with bare fists. The game also features voice-overs by the cast of the television show, adding dramatic flair to the proceedings.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40p3.jpg",
+        "release_date": 970876800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/max-steel-covert-missions",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 4354,
+        "name": "Giant Killers",
+        "summary": "Giant Killers is a text-based European football management game, and as such the focus of the game is on the statistics and not on the action. \n \nBased on the 1999 UK season, the game allows the player to take control of any team in the UK's Premier league, Divisions One, Two or Three, or the Conference league. The game has three levels of difficulty. In the easy level the player's club has a wealthy benefactor who makes £25m available, in the medium setting £25m is still available, but two other clubs in the league also receive the same cash injection. In the hard mode there is no extra cash available.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/sj8ggdtxv6tno618l4sz.jpg",
+        "release_date": 986169600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/giant-killers",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 4359,
+        "name": "Tokyo Xtreme Racer 2",
+        "summary": "The thrilling followup to the original, Tokyo Xtreme Racer 2 improves in all fronts. With more road to drive on, rivals to fight, and cars to master, this entry offers everything and more.\n\nIn the game, you race around the streets of Tokyo at night in an almost seamless experience, from cruising around, to joining a race, to cruising again. Flash your headlights when tailing a rival to incite a race, and after a short cinematic, you're both off. To win a race, you need to take down your opponent's power meter, while keeping yours intact. It decreases when hitting objects, and, more importantly, in last place.\n\nThe game is less focused on the realism of a racer, but still takes into account a good amount of customization, from upgrades to tuning. Since you'll be driving the car almost constantly, its best to have your own personal vehicle. The roads you drive on start out limited, but expand as you dive deeper and deeper into the game. Don't expect to go without memorizing the tracks; in order to beat the best, you need to make Tokyo your home.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co44y2.jpg",
+        "release_date": 961632000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/tokyo-xtreme-racer-2",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 5553,
+        "name": "Eldorado Gate Volume 1",
+        "summary": "Part of Capcom's experiment of serializing an RPG over a year with one part every other month. Each disc was roughly 6-8 hours of play time and\ncost about $30.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5tsw.jpg",
+        "release_date": 971136000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/eldorado-gate-volume-1",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6708,
+        "name": "Street Fighter III: New Generation",
+        "summary": "Street Fighter III: New Generation is a fighting game in Capcom's Street Fighter series, originally released as coin-operated arcade game in 1997. Street Fighter III was produced for the CD-ROM-based CP System III hardware, which allowed for more elaborate 2D graphics than the CPS II-based Street Fighter Alpha games (the previous incarnation of the Street Fighter series), while revamping many of the play mechanics. The game, which was designed as a direct sequel to Street Fighter II, initially discarded every previous character except for Ryu and Ken (hence the \"New Generation\" subtitle), introducing an all-new roster led by Alex.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w4q.jpg",
+        "release_date": 857088000,
+        "rating": 73.38829032615153,
+        "rating_count": 35,
+        "genres": "Fighting,Arcade",
+        "platform_ids": "52,23",
+        "external_url": "https://www.igdb.com/games/street-fighter-iii-new-generation",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6712,
+        "name": "Animastar",
+        "summary": "Animastar is a Japanese-only monster raising and racing sim for the Sega Dreamcast. Players raise and evolve creatures to compete with others from around the world on the racetrack.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tqj.jpg",
+        "release_date": 961027200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/animastar",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6713,
+        "name": "Armada",
+        "summary": "Battle an ever growing alien threat while upgrading your ship and traveling to different planets to take on trade missions and tactical assaults. An early top down, free moving Dreamcast shooter.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40ee.jpg",
+        "release_date": 941328000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Role-playing (RPG)",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/armada",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6715,
+        "name": "Blue Stinger",
+        "summary": "Awakening shipwrecked just after a meteor collides with a remote biotech research island, you begin to discover an uncontrollable madness unleashed in the meteor's wake. As one secret uncovers another, you piece together a horrifying revelation that could lead to the end of life on Earth.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauxf.jpg",
+        "release_date": 922320000,
+        "rating": 59.43820224719101,
+        "rating_count": 6,
+        "genres": "Strategy,Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/blue-stinger",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6716,
+        "name": "Bomberman Online",
+        "summary": "Just when you thought Bomberman had planted his last explosive, the prolific video game hero returns for a modern update on his classic series. With addictive battles, frantic new modes, and brand new stages, Bomberman Online offers explosive action for all. Fans of the older multiplayer versions of the franchise will rejoice at the inclusion of four online modes Battle Royal, Hyper Bomber, Panel Attack, and Submarine Attack each designed to accommodate up to 10 players. The game's lone single-player mode boasts five awesome levels, and the graphics are rendered in 3D this time around.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30fo.jpg",
+        "release_date": 1004400000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/bomberman-online",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6720,
+        "name": "Carrier",
+        "summary": "In the 21st Century terrorism reigns supreme. You are part of an elite unit chosen to isolate and destroy ARK before it reaches land. You never know what's lurking in the murky water or around the next corner. Meanwhile, ARK is gaining power after attacking itself to the nuclear core of the Heimdal. Sheer wit and brute force are all that can save you.\n\nTo control Earth, the Southern Cross bombs the Heimdal, setting free ARK -- a prehistoric organism. ARK implants itself in humans making them hideous, monstrous drones that carry ARK seeds and infect others determined to eliminate ALL of humanity. ARK breeds, mutates, and insanely lusts for the end of human life. Even if it looks human it may be an ARK drone.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40ek.jpg",
+        "release_date": 949276800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/carrier",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6721,
+        "name": "Flag to Flag",
+        "summary": "Flag to Flag is licensed by the Championship Auto Racing Teams (CART) racing league. The game contains 19 real racing courses, 27 drivers, and 18 racing teams.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fgk.jpg",
+        "release_date": 922320000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/flag-to-flag",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6725,
+        "name": "Coaster Works",
+        "summary": "Move over tycoons, the baddest coaster in the land is coming straight for the SEGA Dreamcast. Coaster Works serves up much more than your typical roller coaster game. Build your own death defying tracks, or trade them on-line with friends. No matter how you play, hold on, because Coaster Works will be the most intense ride of your life.\nRide your own tracks\n\nNo other roller coaster simulation lets you actually ride the tracks you have created. Coaster Works lets you climb into the hot seat for all the razor-sharp turns, daredevil drops, and stomach-churning loops you can dish out. You can playback the action from multiple viewpoints as well, giving your coaster a whole new life.\n\nThe Killer G's are back!\n\nAdvancing to the next level isn't as simple as building a cool track. Your creations are tested under conditions like top speed, safety level, and of course, how many G's they can pull! Not enough force? How about slipping in some serious drops followed by a killer corkscrew. Watch out for your safety level though, because too much force and you'll derail your coaster!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xx8.jpg",
+        "release_date": 944697600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/coaster-works",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 6728,
+        "name": "Cool Cool Toon",
+        "summary": "Cool Cool Toon (クルクルトゥーン?) is a rhythm-based music video game exclusive to the Dreamcast. It was developed and published by SNK and released in Japan only on August 10, 2000.The letters A, B, X and Y appear at the edge or in the middle of a large circle on screen. The player must use the analogue stick to move a marker to the letter and press the corresponding button on the controller at the right time. If the player misses too many letters, they will fail.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6aw9.jpg",
+        "release_date": 965865600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Music",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/cool-cool-toon",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 8832,
+        "name": "NBA 2K",
+        "summary": "NBA 2K (also known as NBA2K or Sega Sports: NBA 2000) is the first installment of the NBA 2K series. It was published by Sega Sports and developed by Visual Concepts. The cover features Allen Iverson of the Philadelphia 76ers",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xx3.jpg",
+        "release_date": 942192000,
+        "rating": 70.00867980994832,
+        "rating_count": 5,
+        "genres": "Simulator,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/nba-2k",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 8839,
+        "name": "NHL 2K",
+        "summary": "NHL 2K is a series of hockey games by Visual Concepts for the Dreamcast, PlayStation 2, Nintendo GameCube, Xbox, iPhone, Xbox 360, PlayStation 3, and the Wii. Initially discontinued after the release of NHL 2K11 in 2010, the brand was revived on mobile devices in 2014. The games are officially licensed from the National Hockey League and NHL Players Association. While its games were released on consoles, its main competition was EA Sports' NHL video games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xxu.jpg",
+        "release_date": 950054400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/nhl-2k",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 8840,
+        "name": "NHL 2K2",
+        "summary": "NHL 2K is a series of hockey games by 2K Sports for the Dreamcast, PlayStation 2, Nintendo GameCube, Xbox, iPhone, Xbox 360, PlayStation 3, and the Wii. Initially discontinued after the release of NHL 2K11 in 2010, the brand was revived on mobile devices in 2014. The games are officially licensed from the National Hockey League and NHL Players Association. While its games were released on consoles, its main competition was EA Sports' NHL video games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co417s.jpg",
+        "release_date": 1013644800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/nhl-2k2",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 8842,
+        "name": "NFL 2K",
+        "summary": "NFL 2K is an American football video game series developed by Visual Concepts and published by Sega.[1] The series was originally exclusive to Sega's Dreamcast video game console due to the absence of EA Sports's Madden NFL series on the system. As the foremost \"2K\" title, it marked the beginning of a running athletics series that eventually led to the spinning off of 2K's sports publishing business under the name of 2K Sports. Upon the Dreamcast's discontinuation, the series continued to be published for other sixth generation game systems and became the chief competitor of the Madden series.\n\nAfter the competitively priced NFL 2K5 significantly reduced sales of that year's Madden release, EA signed an exclusivity deal with the NFL that made Madden NFL the only series allowed to use NFL team and player names. After losing the NFL license, Visual Concepts made a brief return to developing football games with the release of All-Pro Football 2K8, which featured former NFL players on fictional teams.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xwy.jpg",
+        "release_date": 936835200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/nfl-2k",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 8843,
+        "name": "NFL 2K1",
+        "summary": "NFL 2K1 is the follow-up sequel to the popular NFL 2K for the Dreamcast. NFL 2K1 provides several upgrades to the series, including individual team playbooks, an improved passing model, an improved running game, and online play.\n\nThis game features all 31 NFL teams, season and franchise modes, a practice mode, a play editor, over 2000 motion-captured animations, and the ability to download updated information from the Internet.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40uf.jpg",
+        "release_date": 968284800,
+        "rating": 67.18128962534558,
+        "rating_count": 5,
+        "genres": "Simulator,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/nfl-2k1",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 9189,
+        "name": "Draconus: Cult of the Wyrm",
+        "summary": "Draconus: Cult of the Wyrm is a sword and sorcery action game. Adventurers play as a male knight, Cynric or as the female sorceress Ayowen. The heroes battle their way through a dark fantasy world where they must ultimately defeat the dragon lord. A story driven game where players use a combination of cunning swordplay and magic spells deal with enemies that stand in their way. The story unfolds over 12 huge levels and is played in 3rd person perspective in real-time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40f1.jpg",
+        "release_date": 961632000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Hack and slash/Beat 'em up",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/draconus-cult-of-the-wyrm",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 10125,
+        "name": "Toy Commander",
+        "summary": "In each mission, the player controls one or more toy vehicles to accomplish certain objectives. The objectives in each mission vary widely. In some missions, the player must drive an army truck and shoot things, in some it is necessary to fly helicopters to pick up and drop off objects, and in some the player races against computer-controlled vehicles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co450b.jpg",
+        "release_date": 938649600,
+        "rating": 60.71668030374107,
+        "rating_count": 8,
+        "genres": "Shooter,Racing,Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/toy-commander",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 10908,
+        "name": "Frame Gride",
+        "summary": "From Software's attempt to create a fantasy-themed take on Armored Core. The first game of it's type to feature online multiplayer for a console, years before Armored Core would include it.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vby.jpg",
+        "release_date": 931996800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Shooter,Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/frame-gride",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 10961,
+        "name": "Ooga Booga",
+        "summary": "Ooga Booga takes place on a set of mystical islands in the tropics. Named after the Volcano Goddess, the Ooga Booga Island rises from the sea once every full moon and during this time, four tribes compete in a series of games. You take control of the witch doctor of your tribe where competing in various strategic games will power up your Island magic (called Mojo) thus appeasing Ooga Booga and sparing your tribe from her volcano wrath. Online matches have several modes of play including Capture the Flag, King of the Hill, Tiki Wars, Domination, and Deathmatch.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3kct.jpg",
+        "release_date": 1000339200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Platform",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/ooga-booga",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 14708,
+        "name": "Pen Pen TriIcelon",
+        "summary": "A launch game for the Dreamcast, in which you raced penguins to the finish line, through various events.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co42p5.jpg",
+        "release_date": 912124800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport,Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/pen-pen-triicelon",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 20710,
+        "name": "Tokyo Xtreme Racer",
+        "summary": "Tokyo Xtreme Racer is a racing video game released in 1999 as one of the console's launch titles, the game was one of the first mission-based racing games. The gameplay involves the player challenging other drivers on the Shuto Expressway in order to gain money to modify and enhance his or her car. The game features a wide variety of Japanese cars and tuning parts to purchase as the player progresses through rivals.\nWhen released in Japan, Shutokō Battle was one of the best selling Dreamcast titles at this time. The game is based on illegal highway racing in Tokyo's Wangan highway with custom tuned cars. A such phenomenon is growing popular in Japan since the 1990s with dedicated manga (Shutokō Battle's biggest inspiration being Wangan Midnight), anime series and video games (C1 Circuit, Wangan Trial, Naniwa Wangan Battle).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5a1y.jpg",
+        "release_date": 930182400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/tokyo-xtreme-racer",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 21969,
+        "name": "Sonic Shuffle",
+        "summary": "Sonic Shuffle is a party game developed by Sonic Team and Hudson Soft and published by Sega for the Dreamcast video game console. The game is based on the prospect of advancing characters around a board game while playing mini-games in between turns, much in the same vein as Nintendo's Mario Party.\n\nSonic Shuffle is the first Sonic the Hedgehog game in the party genre. The game's story centers on Sonic and his friends as they attempt to restore a dream world by gathering the shards of a powerful object dubbed the Master Precioustone. Sonic Shuffle received mixed reviews upon its release.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztr.jpg",
+        "release_date": 976752000,
+        "rating": 88.0295882456357,
+        "rating_count": 9,
+        "genres": "Puzzle,Strategy,Quiz/Trivia,Card & Board Game",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/sonic-shuffle",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 22007,
+        "name": "Daytona USA",
+        "summary": "Daytona USA is a remake of the arcade classic Daytona USA with upgraded graphics and expanded features. The game contains the original three arcade tracks, the two extra tracks from the Championship Circuit Edition, and three new tracks exclusive to this version, all of which can be reversed and/or mirrored for additional layouts. In addition to the usual time attack and single-track races, there is also a Championship mode that strings together multiple courses, as well as online play that was briefly available after the game's launch.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5v40.jpg",
+        "release_date": 977356800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Arcade",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/daytona-usa--3",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 22050,
+        "name": "Floigan Bros.",
+        "summary": "Large and lovable Moigle has a Secret Project that will keep the greedy Baron Malodorous and his gang of Mercenary Cats from taking over the Floigan Junkyard. Unfortunately, Moigle has lost the parts he needs to complete his project so he must enlist the help of his quick-witted older brother, Hoigle. Together, the Floigan Brothers play games and solve puzzles, all while defending their family turf!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40hu.jpg",
+        "release_date": 996451200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/floigan-bros",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 26132,
+        "name": "Rippin' Riders Snowboarding",
+        "summary": "Rippin' Riders Snowboarding (also known as Cool Boarders Burrrn in Japan and Snow Surfers in Europe) is a snowboard game developed by UEP Systems, the creators of the Cool Boarders series. It was released in 1999 for the Dreamcast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xwv.jpg",
+        "release_date": 935625600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/rippin-riders-snowboarding",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 26450,
+        "name": "Illbleed",
+        "summary": "Illbleed is a tongue-in-cheek survival horror game and a send-up to horror Clichés. Despite being financially unsuccessful, this game received a worldwide cult following for its notable combination of nonlinear gameplay elements (e.g. trap detection) and bizarre B-movie style comedy horror theme, dialogue and voice acting.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vxs.jpg",
+        "release_date": 985824000,
+        "rating": 77.75826171602306,
+        "rating_count": 9,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/illbleed",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 28151,
+        "name": "Segagaga",
+        "summary": "One of Sega's final titles for the Dreamcast, Segagaga is a genre-defying experience where Sega pokes fun at themselves which was given a release outside of Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yxb.jpg",
+        "release_date": 985824000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/segagaga",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 28152,
+        "name": "Napple Tale: Arsia in Daydream",
+        "summary": "While enjoying the once-per-year Summer Festival, the heroine Poach Arsia is accidentally brought to Napple World due to a mistake made by Straynap, a novice Spirit Guide who leads souls into the afterlife. Napple World, known as the land of daydreams, lies between the Real World and the Deep Dream, where souls go to rest. The concept of time in Napple World is unlike the real world: the seasons of spring, summer, autumn and winter exist separately from each other as distinct locations. When Poach arrives in Napple World, six fairy-like beings called Petals leave her body and escape into the seasons, and she must retrieve them in order to go home again. To make up for his mistake, Straynap becomes Poach's guide and instructs her throughout the game, explaining the often contradictory nature of Napple World to her.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k8m.jpg",
+        "release_date": 971913600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/napple-tale-arsia-in-daydream",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 28836,
+        "name": "NBA 2K1",
+        "summary": "NBA 2K1 (also known as Sega Sports: NBA 2K1 or NBA2K1) is a basketball video game. It is the second installment in the NBA 2K series of video games. It was developed by Visual Concepts and published by Sega (as Sega Sports). It was the first NBA 2K game to feature online multiplayer and the first game to feature street courses instead of playing a game inside the arena in the first game, famous street courts such as The Cage, Rucker Park, Franklin Park, and Goat Park. It was released on November 1, 2000 in North America with the Dreamcast. Rapper Redman (rapper) appears in the video game",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3kcu.jpg",
+        "release_date": 972950400,
+        "rating": 73.93118346342831,
+        "rating_count": 5,
+        "genres": "Simulator,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/nba-2k1",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 28840,
+        "name": "Sword of the Berserk: Guts' Rage",
+        "summary": "An outcast warrior enters a land plagued by an evil curse. Guts is unlike ordinary men for he carries the Dragon Slayer, a mighty blade of retribution whose fury knows no equal. His enemies will know true fear once they encounter his Berserk rage!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7a3x.jpg",
+        "release_date": 945302400,
+        "rating": 76.44615275179285,
+        "rating_count": 16,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/sword-of-the-berserk-guts-rage",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 36736,
+        "name": "D2",
+        "summary": "A survival horror video game developed by WARP for the Dreamcast. It was published by WARP in Japan in 1999 and then by Sega in North America in 2000. D2 was written and directed by Kenji Eno, and serves as the third and final entry in the D series after D and Enemy Zero. Like the previous two games, D2 stars the digital actress Laura and serves as an independent story unrelated to either game.\n\nD2 is also WARP's final game before changing their name to \"Superwarp\" and transitioning from video game development to online network services in August, 2001.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84eb.jpg",
+        "release_date": 945907200,
+        "rating": 73.17485472794506,
+        "rating_count": 5,
+        "genres": "Point-and-click,Shooter,Role-playing (RPG),Adventure",
+        "platform_ids": "478,23",
+        "external_url": "https://www.igdb.com/games/d2",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 36741,
+        "name": "Hello Kitty Lovely Fruit Park",
+        "summary": "Hello Kitty puzzle.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xoc.jpg",
+        "release_date": 943488000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/hello-kitty-lovely-fruit-park",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45155,
+        "name": "Mortal Kombat Gold",
+        "summary": "The first and only Mortal Kombat title to make onto the Dreamcast console, Mortal Kombat Gold offered players a carbon-copy of the arcade edition of Mortal Kombat 4, along with additional features and characters never before included in the arcade game.\n\nUsing the exact same engine found in Mortal Kombat 4, the game performs flawlessly on the Dreamcast platform, while also running at a higher resolution than its arcade counterpart.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ny.jpg",
+        "release_date": 939427200,
+        "rating": 59.81229740335961,
+        "rating_count": 10,
+        "genres": "Fighting",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/mortal-kombat-gold",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45788,
+        "name": "Seventh Cross Evolution",
+        "summary": "A life simulation which shows how organisms evolve. Take control of one of life's earliest lifeforms and, depending on what environment and habitat you prefer to use, watch as your organism starts to evolve and adapt to its surroundings.\n\nYou control your organism from a third person perspective and you can choose what it feeds on and how it kills its prey and, depending on the method you choose, your organism will evolve to make killing and eating that kind of prey easier.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co43aj.jpg",
+        "release_date": 950572800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/seventh-cross-evolution",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45790,
+        "name": "Sega Worldwide Soccer 2000",
+        "summary": "Sega and Silicon Dreams are on the ball to bring Sega WorldWide Soccer 2000 to Dreamcast. The beautiful game is brought to life in this fast action packed soccer simulation. Put on your old school kit and challenge all your friends - (up to four people can play). Sega WorldWide Soccer 2000 - miss out on this and you will be as sick as a parrot. Pick it up on a transfer and you will be over the moon.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xx2.jpg",
+        "release_date": 941414400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/sega-worldwide-soccer-2000",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45799,
+        "name": "L.O.L.: Lack of Love",
+        "summary": "L.O.L: Lack Of Love, is an evolutionary adventure game developed by Love-de-Lic and published by ASCII Entertainment for the Sega Dreamcast. The game was released exclusively in Japan on November 2, 2000.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tqs.jpg",
+        "release_date": 973123200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/l-dot-o-l-dot-lack-of-love",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45801,
+        "name": "Shin Nippon Pro Wrestling: Toukon Retsuden 4",
+        "summary": "Toukon Retsuden 4 was developed by Yukes, and is mainly focused on providing a realistic representation of professional wrestling. Toukon Retsuden's presentation is similar to real life broadcasts, including crowd noise and extravagant introductions. The gameplay found in Toukon Retsuden is vastly different from traditional American/Japanese wrestling games",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nuw.jpg",
+        "release_date": 938822400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/shin-nippon-pro-wrestling-toukon-retsuden-4",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45802,
+        "name": "90 Minutes: Sega Championship Football",
+        "summary": "Gameplay follows the norms of the genre - A to pass, B to throw a high lob, X to shoot, Y to change players, with the triggers to perform modifiers (though passes and lob shots) and sprint, although these can all be changed in the options. The player can also assign special tactics to each direction on the d-pad to adapt quickly according to the flow of the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40dj.jpg",
+        "release_date": 1009756800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/90-minutes-sega-championship-football",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45803,
+        "name": "UEFA Dream Soccer",
+        "summary": "UEFA Dream Soccer is essentially an update of Sega Worldwide Soccer 2000 (same developer and game engine). The license pertains only to the clubs; player names are fictional. In this version there are also women teams, which look different but play the same. In-game commentary is provided by Alan Green, Barry Venison and Helen Chamberlain.\n\nAnimation includes 200,000 frames. Internet play was offered by Dreamarena. There is an Arcade mode including game styles such as Time Attack and a Survival knock-out tournament. Traditional mode gives you league competitions and the full World Cup.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4523.jpg",
+        "release_date": 976233600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/uefa-dream-soccer",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45804,
+        "name": "Super Runabout: San Francisco Edition",
+        "summary": "Drive around San Francisco doing odd jobs and stopping a criminal syndicate from taking over. Includes everything from an Indy car to limousine.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7sxx.jpg",
+        "release_date": 972345600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/super-runabout-san-francisco-edition",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45805,
+        "name": "Planet Ring",
+        "summary": "Planet Ring is and 'Online Theme Park', containing many exciting elements which you can only experience through Dreamcast. Initially there were 4 mini attractions (games) on this Planet, each is simple but addictive - Dream Dorobo, Ball bubble, SOAR and Splash.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co42p7.jpg",
+        "release_date": 978220800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Arcade",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/planet-ring",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45809,
+        "name": "Macross M3",
+        "summary": "Macross M3 is a Sega Dreamcast simulation game based on the Macross anime series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nw1.jpg",
+        "release_date": 982800000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/macross-m3",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45822,
+        "name": "Charge 'n Blast",
+        "summary": "Charge 'N Blast is a shooting game where you play as one of three marines who have to rid the earth of alien scum. The gameplay is similar to Cabal, you move left and right dodging enemies while charging up you weapons to blast them away.\n\nThere are three different marines you can choose from, each with their own set of weapons. As usual there is the balanced character (Johnny Rock), a weaker but faster one (Pamela Hewitt) and a slower but stronger one (Nicholas Woods).\n\nYou can choose to play in one player mode, time attack or two player mode. The missions are broken up into small areas where you have to kill all enemies before moving on to the next area. Each mission ends with a boss character such as a giant insect or a Godzilla-like monster.\n\nUse the X, Y or B buttons to choose a weapon, press A to charge and shoot and aim with analog stick. There are different types of weapons that can be used on the different types of enemies. For example the single missiles for far away targets and torpedoes for underwater enemies.\n\nYou can fire your weapon continuously, but this doesn't do as much damage compared to a fully charged shot. Charging each shot means you have to aim a little more carefully, but you'll especially need this in the later levels. You can dodge enemies with the L and R buttons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40ev.jpg",
+        "release_date": 983404800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/charge-n-blast",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45824,
+        "name": "Godzilla Generations",
+        "summary": "In Godzilla Generations you play as either Godzilla or Mechagodzilla and have to rage havoc in the city and fend of the army before time runs out.\n\nYou can unlock other monsters such as First Generation Godzilla, USA Godzilla and Minira by playing through the game. There are five cities that you can lay to ashes, all located in Japan. Each city has two stages to play through.\n\nEach monster has a range of moves which range from swiping his tail, using his claws or shooting rays from his eyes or hands. Each monster can also heal himself.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6amy.jpg",
+        "release_date": 912124800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/godzilla-generations",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45832,
+        "name": "The Ring: Terror's Realm",
+        "summary": "Patterned after genre-defining games such as Resident Evil and Silent Hill, The Ring: Terror's Realm presents a survival-horror experience with all the standard features one would expect. Players assume the role of Meg Rainman, the girlfriend of fellow CDC employee Robert, who, along with three other colleagues, met a mysterious and untimely death while playing a new video game. Determined to uncover the truth, Meg discovers the program on Robert's computer and is promptly sucked into a virtual world. Here, she becomes infected with a virus and has only the next seven days to live.\n\nThe Ring: Terror's Realm presents players with a handful of different perspectives including third-person, first-person, and a dynamic viewpoint similar purpose to that in the Resident Evil series, which provides constantly changing camera angles. The core gameplay has players traveling between the real and virtual worlds while acquiring items, solving puzzles, and killing larvae, lizards, gorillas, and other monsters. Initially armed with little more than a basic handgun, Meg will eventually amass weapons such as a shotgun, an assault rifle, a rocket launcher, and more.\n\nWhen in the virtual world, players can make use of a flashlight to help Meg find her way through the darkened corridors. Other useful items she include healing serum and various context-sensitive objects that will aid her progress through the adventure. Often, Meg will be required to seek out a specific character in order to advance. Cut scenes highlight important encounters throughout the quest. Players can record their progress using devices scattered around the game world and can manage their inventory by placing unwanted items in boxes, which also are found in various locations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co439w.jpg",
+        "release_date": 951523200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/the-ring-terrors-realm",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45835,
+        "name": "Red Dog: Superior Firepower",
+        "summary": "Red Dog: Superior Firepower is a video game released in 2000 for the Sega Dreamcast, it was developed by Argonaut Games PLC.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zdk.jpg",
+        "release_date": 975628800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/red-dog-superior-firepower",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45836,
+        "name": "Reel Fishing: Wild",
+        "summary": "Reel Fishing is a series of fishing video games by Natsume. The first game, Reel Fishing, was released for the PlayStation in 1996. Originally a localization of Pack-In-Video's (now Marvelous) Fish Eyes series from Japan, Natsume has since diverged from that series to create their own games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4383.jpg",
+        "release_date": 980985600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/reel-fishing-wild",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45837,
+        "name": "Sega Bass Fishing 2",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3kcx.jpg",
+        "release_date": 998352000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport,Arcade",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/sega-bass-fishing-2",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45840,
+        "name": "Soul Fighter",
+        "summary": "Pick the warrior, thief, or wizard, and fight through five huge levels, each with its own boss. Your main weapons are your fists, but you can pull out weapons for quick kills. You only get so many shots with your weapon before it breaks, though.\n\nGameplay is basic 3D brawling. You will be attacked by one or more enemies, and will need to defend yourself, and attack back. The game features arcade and adventure modes. In the arcade mode, the levels are timed, and you only get 5 lives but you are revived where you died. In adventure mode, you get unlimited retries of each level, but must complete each level on a single life.\n\nNote that your objective in each level is to kill every enemy; since the levels have multiple paths, you will need to backtrack often.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co43am.jpg",
+        "release_date": 944006400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Hack and slash/Beat 'em up",
+        "platform_ids": "21,23",
+        "external_url": "https://www.igdb.com/games/soul-fighter",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45842,
+        "name": "Surf Rocket Racers",
+        "summary": "Surf Rocket Racers is a jet-ski racing game for the Dreamcast. As in most aquatic racers, success here depends on your ability to smoothly handle unpredictable waves and aggressive competition at the same time.\n\nThere are several game modes to choose from. First up is the Championship. In this mode, you compete in a series of circuit races and accumulate points based on your finishing position. The racer with the most points at the end of the season wins. The other modes include a trick competition, a hazard and obstacle course, and a head-to-head 2-player mode.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co44rl.jpg",
+        "release_date": 985737600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/surf-rocket-racers",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45845,
+        "name": "TNN Motorsports Hardcore Heat",
+        "summary": "TNN Motorsports Hardcore Heat is an off-road racing video game for the Dreamcast, developed by CRI and published in the USA by ASC Games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40ei.jpg",
+        "release_date": 939427200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/tnn-motorsports-hardcore-heat",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45846,
+        "name": "Time Stalkers",
+        "summary": "Welcome to a mysterious world, a world made up of strange lands, hazardous labyrinths and many mysteries. Who created this world? And why? A wandering adventurer by the name of Sword has been summoned to find the answers.\n\nFrom RPG legends 'Climax' comes Time Stalkers, a refreshingly unconventional RPG. Featuring randomly generated dungeons, sub quests and a host of VM mini games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co44xt.jpg",
+        "release_date": 939945600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/time-stalkers",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45849,
+        "name": "World Series Baseball 2K1",
+        "summary": "World Series Baseball 2K1 is a sports video game developed by Wow Entertainment and published by Sega for the Dreamcast. It was the first game in the modern series to be featured on the Dreamcast, and was the spiritual successor to World Series Baseball for the Sega Genesis.[citation needed] It was released in July 2000 to coincide with the 2000 Major League Baseball All-Star Game in Atlanta.[citation needed]\n\nWorld Series Baseball 2K1 featured a cutting-edge graphical presentation adapted from the NAOMI game Super Major League, and its visuals were well ahead of any other baseball game at the time. Unfortunately, a lack of features, shoddy audio presentation, and major gameplay flaws meant that WSB2K1 was not well received by critics despite its fantastic graphics. The game is notorious for its sometimes-unresponsive controls, as well as the fact that manual fielding—a staple of baseball games for a half-decade prior to WSB2K1's release—isn't even an option available to players.[citation needed]\n\nAfter the debacle that was World Series Baseball 2K1, Sega decided to bring Visual Concepts (the developer behind the Dreamcast's far more successful NBA 2K and NFL 2K series) in for the next version of the game. The result was World Series Baseball 2K2, a game that was considered a major improvement over WSB2K1.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co45rq.jpg",
+        "release_date": 966470400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/world-series-baseball-2k1",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45851,
+        "name": "Industrial Spy: Operation Espionage",
+        "summary": "Blending the stealth, RTS, and RPG genres, Industrial Spy has the player leading a team of superspies (Espion Agents, part of the Blitzstrahl corporation) infiltrating various locales like museums, a military installation, and even a German-style castle full of traps. Each of the agents has his own specialties, like computer hacking, rollerblading, handguns, etc.\n\nGameplay is like a regular real-time strategy game, with the player acting in the role of commander without taking a direct hand in anything. Give the agents orders and try to keep an eye on all of them as they carry them out. Each agent's skills can be upgraded after missions. Keep them out of sight of guards, spring traps on them, or engage them in hand-to-hand or ranged combat.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xwz.jpg",
+        "release_date": 938044800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/industrial-spy-operation-espionage",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45853,
+        "name": "Iron Aces",
+        "summary": "Iron Aces is fictional World War 2 flight simulator. What that \"fictional\" means is that great liberties have been taken with the historical accuracy of the world and events. The most obvious point is that although most planes come from real World War 2 aircraft, the theatre of operations is a bit unique; The four major sides to the conflict (American, British, German, Japanese) are all fighting one another over a group of islands somewhere in the Pacific. Thus each of these nations is represented in close proximity and in direct conflict to one another.\n\nThe gameplay takes place over a series of single-player flight missions in which your American pilot will fight against the Axis forces and ally with the British. The majority of the missions take place in the air against other aerial targets.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40o5.jpg",
+        "release_date": 962236800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/iron-aces",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45859,
+        "name": "Gundam Side Story 0079: Rise From the Ashes",
+        "summary": "Step into the giant, mechanized suit of the Gundam. There, across battlefields of a war-beaten Earth, you'll command your forces against units of the Zeon army. You'll need to master every move in your suit--and weapon in your arsenal--to outflank the Zeon and complete each mission. And although you've got armored vehicles and ant-sized infantry on your side, the battle will be lost or won by your ability to jump, hover, and fly into battle while zooming in your weapons on the enemy.\nA cross between first-person shooter and strategy game, Gundam Side Story 0079: Rise From the Ashes comes from a series that originated on the Sega Saturn. This title features such enhancements as detailed 3-D mobile suits, cinematic interstitial scenes, a dramatic soundtrack, and actual sound effects from the anime TV series, Gundam Wing.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gxd.jpg",
+        "release_date": 959472000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/gundam-side-story-0079-rise-from-the-ashes",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45862,
+        "name": "Elemental Gimmick Gear",
+        "summary": "Elemental Gimmick Gear is a sci-fi fantasy action-adventure game. It primarily uses hand-drawn art, switching to 3D graphics during boss battles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nvx.jpg",
+        "release_date": 927763200,
+        "rating": 60.31687254311461,
+        "rating_count": 6,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/elemental-gimmick-gear",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 45863,
+        "name": "Super Magnetic Neo",
+        "summary": "In Super Magnetic Neo, a gang lead by evil, foul-mouthed baby Pinki has taken over Pao Pao Park. The professor must stop her, so her sends Super Magnetic Neo, a little boy robot with a powerful electromagnet on his head.\n\nYou must use all these skills to make it through all four sections of Pao Pao Park and defeat Pinki.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2v4d.jpg",
+        "release_date": 949536000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/super-magnetic-neo",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 46364,
+        "name": "Fire Pro Wrestling D",
+        "summary": "The legend lives on in 2001 with a new member in the Fire Pro family. Arguably the most respected wrestling franchise in Japan, Fire Pro revives itself after Human's (the original publisher) demise. The new features include the availability of objects to use as weapons inside and outside of the ring, an online network option, and support for up to eight players simultaneously over the net.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8iot.jpg",
+        "release_date": 986083200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Simulator,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/fire-pro-wrestling-d",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 46365,
+        "name": "Exhibition of Speed",
+        "summary": "Looking for high-speed authentic arcade action? Strap yourself firmly in for this electrifying new racing game. Extensive game features include over twenty world-class racing vehicles including hidden cars, fifteen challenging tracks with varying weather conditions in five different universes, spectacular car jumps with additional boosters on the track, stunning visual SFX on the landscapes and multiplayer gaming for up to four players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40gx.jpg",
+        "release_date": 992822400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Arcade",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/exhibition-of-speed",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 46368,
+        "name": "Rainbow Cotton",
+        "summary": "Rainbow Cotton is an Action game, developed and published by Success, which was released in Japan in 2000.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co526h.jpg",
+        "release_date": 948326400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/rainbow-cotton",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 46375,
+        "name": "Love Hina: Totsuzen no Engeji Happening",
+        "summary": "There is a new girl in the Hinata Sou. Her name is Fujisawa Mizuho and she is a Tokyo University Student. She is asked by Keitarou-kun's grandmother to become a tutor for Keitarou-kun. If Keitarou-kun fail to pass the coming Entrance Exam for Tokyo University, Mizuho-chan says that she will take the responsibility for it and marry Keitarou-kun.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vrv.jpg",
+        "release_date": 970099200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/love-hina-totsuzen-no-engeji-happening",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 46379,
+        "name": "Tee Off",
+        "summary": "One of the few golf games for the DC, with a cartoony style. Contains arcade mode, tournaments, five different courses and 15 characters (11 unlockable). Lots of different equipment (balls and clubs mostly) and even a futuristic cyber mini golf game are thrown in.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xxl.jpg",
+        "release_date": 949276800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/tee-off",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 46380,
+        "name": "NCAA College Football 2K2",
+        "summary": "NCAA College Football 2K2: Road to the Rose Bowl is an American football video game developed by Visual Concepts in association with 2K Sports. It was released in 2001 for only the Sega Dreamcast. The cover athlete is former Purdue standout quarterback Drew Brees.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40rc.jpg",
+        "release_date": 1001721600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/ncaa-college-football-2k2",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 46554,
+        "name": "Sega Worldwide Soccer 2000: Euro Edition",
+        "summary": "Sega Worldwide Soccer is a series of soccer games by Sega for initially for the Sega Saturn but later was moved to the Dreamcast. They were released between 1995 and the year 2000.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co43ai.jpg",
+        "release_date": 962323200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/sega-worldwide-soccer-2000-euro-edition",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 46555,
+        "name": "Propeller Arena: Aviation Battle Championship",
+        "summary": "Propeller Arena: Aviation Battle Championship is a video game for the Dreamcast console. It was originally titled Propeller Head Online, and was to be released on 9/19/2001. The game was trademarked on 8/14/2001. It was developed and completed by the development team Sega AM2, but the game was never officially released. The release was cancelled just days after the September 11 attacks,citing both similarities in game packaging and design to the events of that day as well as the Dreamcast's declining market share resulting in projected low sales numbers.\n\nThe game was on display at E3 on May 19, 2001. After it was postponed, they were working to change the game cover art to remove sensitive images.\n\nHopes of a port to another console never materialized. However, a disk image of the game was eventually leaked, and became a popular download on many peer-to-peer networks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ild.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "164,23",
+        "external_url": "https://www.igdb.com/games/propeller-arena-aviation-battle-championship",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 56453,
+        "name": "Yu Suzuki Game Works Vol. 1",
+        "summary": "A collection of five classic arcade games designed by Yu Suzuki released for the Sega Dreamcast in 2001.\n\nIt includes:\nAfter Burner II (1987)\nHang-On (1985)\nOutRun (1986)\nPower Drift (1988)\nSpace Harrier (1985)\nThere was never a volume 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/jor5hjidx2ccnhom7t1r.jpg",
+        "release_date": 1008806400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/yu-suzuki-game-works-vol-1",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 58167,
+        "name": "Zusar Vasar",
+        "summary": "A Japan exclusive Dreamcast racing game",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/u5c51yosyzqkrgbfvgye.jpg",
+        "release_date": 964656000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/zusar-vasar",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 58170,
+        "name": "Tricolore Crise",
+        "summary": "Tricolore Crise (which is read as the English word \"crisis\") is a Japan-only Dreamcast RPG developed by HuneX, a prolific developer of visual novels as well as the Blue Breaker series.\n\nBoasting an ATB-influenced battle system and a slew of mostly optional story events loosely set to a calendar, this open-ended fantasy tale in the vein of the early Atelier games tasks the player with guiding a newly formed team of three young women through the examination process that will test whether they are worthy to become masters of one of many magical towers that protect human civilisation from the threat of the Iblis, a savage, menacing, and mysterious race of magical monsters.\n\nThe player may only control one of the three protagonists at any given time, but may switch freely between them, with certain events only being accessible to certain characters. The three may also each be accompanied in their quest by up to two Mitsukai, or \"Angels\". These guardian spirits can be freely altered and developed by the player, giving the game elements of a monster raising sim.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5d1s.jpg",
+        "release_date": 973728000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/tricolore-crise",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 58778,
+        "name": "Tokusatsu Bouken Katsugeki Super Hero Retsuden",
+        "summary": "An action adventure game featuring characters from various sentai franchises.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qxqh1cuolmpxbuaftcwj.jpg",
+        "release_date": 964656000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/tokusatsu-bouken-katsugeki-super-hero-retsuden",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 60497,
+        "name": "Death Crimson 2: Meranito no Saidan",
+        "summary": "Sequel to Death Crimson, light gun game released to the SEGA Dreamcast. Japanese Exclusive.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coatds.jpg",
+        "release_date": 943488000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/death-crimson-2-meranito-no-saidan",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 62110,
+        "name": "Treasure Strike",
+        "summary": "A four player action puzzle game with deep character customization",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5s3v.jpg",
+        "release_date": 950745600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/treasure-strike",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 62127,
+        "name": "Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori",
+        "summary": "An adventure game about Ogami preparing a real world Sakura Taisen stage play.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48kg.jpg",
+        "release_date": 951350400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 62243,
+        "name": "July",
+        "summary": "An adventure game that follows two Japanese kids as they try to solve a mysterious bombing attack.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4cj8.jpg",
+        "release_date": 915062400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure,Visual Novel",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/july",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 63475,
+        "name": "Netto Golf",
+        "summary": "A golf simulation game by Sega for the Dreamcast with online capabilities.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co829b.jpg",
+        "release_date": 971913600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/netto-golf",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 64705,
+        "name": "Golem no Maigo",
+        "summary": "A Dreamcast puzzler developed mostly by one Japanese student, Golem no Maigo (also known by its English translation \"The Lost Golem\") tasks you with guiding the king to the end of every stage by pushing walls around while also ensuring there are enough walls that remain intact to progress.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3kd1.jpg",
+        "release_date": 951350400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/golem-no-maigo",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 64753,
+        "name": "Happy Lesson: First Lesson",
+        "summary": "Fan disc released with \"Happy Slot\" (slot machine), \"Happy Gallery\" (art gallery) and \"Happy Net\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nw8.jpg",
+        "release_date": 970099200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/happy-lesson-first-lesson",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 66134,
+        "name": "Boku, Doraemon",
+        "summary": "Boku, Doraemon is a Doraemon adventure game for Dreamcast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/hv6kjtiyo3vwdgyl4lsb.jpg",
+        "release_date": 980380800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/boku-doraemon",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 66251,
+        "name": "Cardcaptor Sakura: Tomoyo no Video Daisakusen",
+        "summary": "Step into Tomoyo's shoes and film Sakura in this anime adaption for Dreamcast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5tmz.jpg",
+        "release_date": 977961600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/cardcaptor-sakura-tomoyo-no-video-daisakusen",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 66277,
+        "name": "Mercurius Pretty: End of the Century",
+        "summary": "A remake of the PC-98 life simulation \"Mercurius Pretty\" for the Sega Dreamcast. The main subject is to raise a fairy!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobnqz.jpg",
+        "release_date": 978220800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/mercurius-pretty-end-of-the-century",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 66288,
+        "name": "Blue Submarine No. 6: Time and Tide",
+        "summary": "Blue Submarine No. 6: Time And Tide is an underwater-exploration game developed by Sega and released for the Dreamcast in 2000. The game follows the exploits of a deep-sea salvage crew as they recover treasure. The game includes FMV animation by Gonzo, a renowned Anime studio responsible for the original OVA.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6il0.jpg",
+        "release_date": 976147200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/blue-submarine-no-6-time-and-tide",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 68409,
+        "name": "Dux",
+        "summary": "DUX is a homebrew horizontal scrolling shoot-'em-up for Dreamcast, inspired by classic shoot-'em-ups such as Gradius and R-Type. The original release was self-published by HUCAST.Net in 2009, while an updated version titled DUX 1.5 was released in 2013.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ovn.jpg",
+        "release_date": 1247788800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/dux",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 69316,
+        "name": "Vermilion Desert",
+        "summary": "Vermilion Desert is a military strategy title, published by Riverhillsoft, which was released in Japan in 1999 for Sega Dreamcast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ryb.jpg",
+        "release_date": 944092800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Real Time Strategy (RTS)",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/vermilion-desert",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 69656,
+        "name": "Record of Lodoss War",
+        "summary": "Record of the Lodoss War is a hack and slash action dungeon crawler RPG, in a similar vein to Diablo. It is very loosely attached to the Japanese fantasy novels and anime series of the same name.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fm0.jpg",
+        "release_date": 962236800,
+        "rating": 40.24867861853082,
+        "rating_count": 10,
+        "genres": "Role-playing (RPG),Hack and slash/Beat 'em up",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/record-of-lodoss-war--1",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 70207,
+        "name": "Tetris 4D",
+        "summary": "A Tetris game for the Dreamcast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3a73.jpg",
+        "release_date": 915062400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/tetris-4d",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 71191,
+        "name": "Harusame Youbi",
+        "summary": "Anime Dating RPG released in Japan",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/c7obtu3jewycvfzh3itg.jpg",
+        "release_date": 985219200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/harusame-youbi",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 71670,
+        "name": "Sorcerian: Shichisei Mahou no Shito",
+        "summary": "Another remake of the classic RPG Sorcerian this time exclusive to the SEGA Dreamcast. Once again you must take control of a party of 4 player-created adventurers and lead them through 10 scenarios from the original game and 5 new ones specially designed for this version in a side-scrolling fashion, each featuring a unique stand-alone quest for you to complete.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xxx.jpg",
+        "release_date": 956793600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Role-playing (RPG)",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/sorcerian-shichisei-mahou-no-shito",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 72582,
+        "name": "Love Hina: Smile Again",
+        "summary": "Love Hina: Smile Again is an adventure game based on the Love Hina franchise for the Sega Dreamcast. The gameplay is very dialogue heavy, but it has a few mini-games and the storyline can be changed based on a luck system. You take control over Keitaro and talk with the girls in Hinata House.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qspkhq00wiqlipsi3ouq.jpg",
+        "release_date": 985824000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/love-hina-smile-again",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 77505,
+        "name": "World Neverland 2: Pluto Kyouwakoku Monogatari",
+        "summary": "World Neverland 2: Pluto Kyouwakoku Monogatari is the second installment in the World Neverland series.\n\nImmerse yourself in the life of an ordinary citizen in the fantasy Waktic Republic of Pluto. Unlike traditional epic quests or world-spanning adventures, this game focuses on the simplicity of everyday life. Choose a profession, work, get married, raise kids, and eventually retire. At the beginning of the game, players have the freedom to explore the local area by navigating town with the D-pad and adjusting the screen size using the analog stick. Engage in activities like sword attacks with the \"X\" button and interact with fellow citizens using the \"O\" button. The passage of time occurs naturally, transitioning from day to night as you wander around town.\n\nStanding idly in the middle of town allows you to observe other citizens going about their daily routines. Occasionally, someone may approach your character, initiating a conversation or challenging you to a duel in a basic ring. The player's role is crucial in reflecting the voice of the people to establish a peaceful country. Success in this endeavor can lead to membership in the council or even becoming the chairman. Along the way, players can take on various jobs, learn martial arts to become stronger, and maintain a social life with the diverse inhabitants of Pluto.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xxm.jpg",
+        "release_date": 946598400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "7,23",
+        "external_url": "https://www.igdb.com/games/world-neverland-2-pluto-kyouwakoku-monogatari",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 77528,
+        "name": "Oukahouzin: Ouka Sakishi Toki",
+        "summary": "simulation Role-playing game for the Sega Dreamcast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xxb.jpg",
+        "release_date": 945302400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/oukahouzin-ouka-sakishi-toki",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 77570,
+        "name": "Doguu Senki: Haou",
+        "summary": "Turn-based strategy game for the Sega Dreamcast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/oooecycb9kj54gad3i55.jpg",
+        "release_date": 965865600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Strategy",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/doguu-senki-haou",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 77572,
+        "name": "Rune Jade",
+        "summary": "Role-playing game that supported the Dreamcast Keyboard.\n\nUp to five people can participate simultaneously in this online RPG. The game can be played offline as well, as any party characters not controlled by players will be controlled by the computer. The adventure begins in the floating island country called Sonia, where demons are about to break free of the seal that keeps them under control.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8kyy.jpg",
+        "release_date": 967075200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/rune-jade",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 78643,
+        "name": "Happy Lesson",
+        "summary": "Game based on the popular anime Happy lesson.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nw7.jpg",
+        "release_date": 988243200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/happy-lesson",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 79738,
+        "name": "Taisen Net Gimmick: Capcom & Psikyo All Stars",
+        "summary": "Psikyo and Capcom's top dogs clash in an epic battle of... mahjong!?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co960j.jpg",
+        "release_date": 993686400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/taisen-net-gimmick-capcom-and-psikyo-all-stars",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 81567,
+        "name": "Hanagumi Taisen Columns 2",
+        "summary": "The members of the Sakura Wars Hanagumi meet together and confront again with the falling object puzzle. Compete with Sakura fans all over the country while staying at home for online matches! Using the communication function of Dreamcast, you can play online. You can test your skills with \"Hana Kora\" fans nationwide at home. Of course, you can also enjoy Sakura-related information on the Internet. A variety of game modes with a story and a single play! A variety of game modes are available, including the Red Boy vs Red Lizard Mode, where members of the Hanagumi clash over the protagonist, the 2P battle mode in which players compete with each other, and the 1P mode in which columns are played intently. Of course, there is also a story mode where you can get a glimpse of the daily lives of the Hanagumi members.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5bxd.jpg",
+        "release_date": 947116800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/hanagumi-taisen-columns-2",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 84320,
+        "name": "POD SpeedZone",
+        "summary": "POD SpeedZone is the sequel to the original POD for the PC. It is a simple, futuristic racer, where you are able to attack your opponents. You are a miner on the colony of Damethra, and an alien virus has taken over the cars on the colony, creating mutant cars. It was one of the first games playable on SegaNet, and one of the only games to support the Dreamcast Broadband Adaptor. This game features eight different vehicles to use on five 3D tracks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4of8.jpg",
+        "release_date": 976060800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Arcade",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/pod-speedzone",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 86084,
+        "name": "Undercover AD2025 Kei",
+        "summary": "Action/adventure game for the Sega Dreamcast released in 2000 exclusivevly in Japan.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xxq.jpg",
+        "release_date": 948326400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/undercover-ad2025-kei",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 92138,
+        "name": "Idol Janshi wo Tsukucchaou",
+        "summary": "Idol Janshi wo Tsukucchaou is a table game for the Sega Dreamcast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6f2a.jpg",
+        "release_date": 938044800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/idol-janshi-wo-tsukucchaou",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 92865,
+        "name": "deSpiria",
+        "summary": "deSpiria is an RPG adventure that takes place in the futuristic Japan of 2070. Twenty-two years after the World War III, an organization known as Church has taken power. You play as Allure Valentine, a girl who was recruited by the Church as an undercover agent. On one of her missions, Allure boards a train that crashes shortly thereafter. Her first task will be to find a way out of the underground tunnel and to discover who or what was behind that crash.\n\nThe game is a RPG with elements of pure adventure. The entire game is viewed from first-person perspective. You fight enemies in turn-based battles, but instead of usual party you have several \"minds\", a kind of summoned monsters who will fight together with Allure. They will heal or attack the enemy using special \"mind attacks\" of various elements - love, curse, etc. In adventure mode, you explore the environments by pressing the A button, which will highlight objects you can interact with. The movements are shown as short CG sequences, similar to many Western-style adventures.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97je.jpg",
+        "release_date": 968716800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/despiria",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 97335,
+        "name": "Chou Hatsumei Boy Kani Pan: Bousou Roboto no Nazo!?",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kxe.jpg",
+        "release_date": 931392000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 97874,
+        "name": "Pro Mahjong Kiwame D",
+        "summary": null,
+        "cover_url": null,
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": null,
+        "external_url": "https://www.igdb.com/games/pro-mahjong-kiwame-d",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 107166,
+        "name": "Gundam Battle Online",
+        "summary": "Gundam Battle Online is an simulation game based on the Gundam series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9dcv.jpg",
+        "release_date": 993686400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/gundam-battle-online",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 108772,
+        "name": "Nanatsu no Hikan: Senritsu no Bishou",
+        "summary": "The player can control one of two characters: Kei and Reina. The game can be played in either first person, third person, or fixed camera angle views. Kei's levels are more action based, while Reina's are more adventure-based.\n\nThere is also a unique multiplayer cooperative mode where one player controls Kei and the other Reina. This mode is different from the single-player mode, as it is much shorter and objectives, monsters, and events are all altered.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2t1r.jpg",
+        "release_date": 948326400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/nanatsu-no-hikan-senritsu-no-bishou",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 119205,
+        "name": "Run=Dim as Black Soul",
+        "summary": "A Turn-Based Strategy RPG based on the anime series Run=Dim, set in a dystopian future where 1/10th of Japan has sunk due to global warming and an evil military organization named \"JESAS\" has set it's sight on controlling the future of Japan with mechas. Being the second game in the series (the first being \"The Mech Smith Run=Dim\" for the PlayStation 2) developed by Idea Factory.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ud1.jpg",
+        "release_date": 999734400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Turn-based strategy (TBS)",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/run-equals-dim-as-black-soul",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 125366,
+        "name": "Martian Successor Nadesico: Nadesico the Mission",
+        "summary": "Martian Successor Nadesico: Nadesico the Mission is the second Martian Successor Nadesico game to be released. It is set after and continues the events of the Prince of Darkness animated movie.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4it3.jpg",
+        "release_date": 935625600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Strategy",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/martian-successor-nadesico-nadesico-the-mission",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 131569,
+        "name": "Jinsei Game for Dreamcast",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48lx.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/jinsei-game-for-dreamcast",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 136558,
+        "name": "Magic: The Gathering",
+        "summary": "Magic: The Gathering is a Dreamcast game published and released by Sega in June 2001, though in Japan only. It takes place in the town of Magic Heart, the surrounding areas of Murg, Camat Island, Lydar Forest, Yeluk, Tornell, and The Balance Tower. It includes cards from 6th edition, Alliances, and Tempest. The game included 10 cards unique to it, generally utilizing random mechanics that would be difficult to implement in real-life card play.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2erv.jpg",
+        "release_date": 1009756800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Card & Board Game",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/magic-the-gathering--1",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 138656,
+        "name": "Typing of the Date",
+        "summary": "Is a Sega Dreamcast game. It is built to use the Dreamcast Keyboard.\n\nThe game is a dating simulation but in order to progress the player has to type in certain words within specific time frames. Not only the concept but also the name of the game are referencing The Typing of the Dead.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3rlv.jpg",
+        "release_date": 1001548800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/typing-of-the-date",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 200796,
+        "name": "Doki-doki Idol Star Seeker Remix",
+        "summary": "Minesweeper-like Puzzle game with cute anime girls created by G.rev.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4qow.jpg",
+        "release_date": 1012435200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "52,23",
+        "external_url": "https://www.igdb.com/games/doki-doki-idol-star-seeker-remix",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 267405,
+        "name": "Angel Present",
+        "summary": "Angel Present takes place in a 2.5D environment with adventure elements in 2 different worlds, with 3d battles. The game mixes these more action-based elements, with static screens and text and CG movies. The story centers around the main protagonist stumbling across a fairy and soon discovering they have magical powers.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co73p2.jpg",
+        "release_date": 987033600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/angel-present",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 267503,
+        "name": "Hello Kitty no Garden Panic",
+        "summary": "Hello Kitty no Garden Panic is a Japan exclusive puzzle game based on Hello Kitty. The game was only sold inHello Kitty branded Dreamcast bundles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co73uj.jpg",
+        "release_date": 943488000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/hello-kitty-no-garden-panic",
+        "cached_at": 1778663166
+      },
+      {
+        "id": 267504,
+        "name": "Hello Kitty Magical Block",
+        "summary": "Hello Kitty Magical Block is a Japanese exclusive puzzle game based on the Hello Kitty series.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co73uk.jpg",
+        "release_date": 954374400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "23",
+        "external_url": "https://www.igdb.com/games/hello-kitty-magical-block",
+        "cached_at": 1778663166
+      }
+    ]
+  }
+}

@@ -1,0 +1,2731 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Atari 2600 Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:03+00:00",
+  "description": "Games released exclusively on Atari 2600, sourced from Wikipedia category \"Atari 2600-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 2757,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Snoopy_and_the_Red_Baron_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3252,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Alpha_Beam_with_Ernie"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3284,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Voyager_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3325,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Spider-Man_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4909,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Haunted_House_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6706,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 6881,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Assault_%281983_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8253,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Adventure_%281980_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8466,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Cosmic_Ark"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8529,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Custer%27s_Revenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10203,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars%3A_Jedi_Arena"
+    },
+    {
+      "media_type": "game",
+      "external_id": 10205,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars%3A_Return_of_the_Jedi%3A_Ewok_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11113,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Air_Raid_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11114,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Air_Raiders"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11128,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Bachelor_Party_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11129,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Bank_Heist_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11138,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Beany_Bopper"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11139,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Beat_%27Em_%26_Eat_%27Em"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11140,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Bobby_Is_Going_Home"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11154,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Communist_Mutants_from_Space"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11236,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Tooth_Protectors"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11237,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Alien%27s_Return"
+    },
+    {
+      "media_type": "game",
+      "external_id": 11856,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Airlock_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12240,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Alien_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 12894,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Off_the_Wall_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 15562,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Outlaw_%281978_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 16759,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Combat_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17019,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Demons_to_Diamonds"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17024,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Flag_Capture"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17025,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Human_Cannonball_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17240,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Radar_Lock"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17254,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Backgammon_%281979_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17258,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Basic_Math_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 17259,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Hangman_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18003,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Video_Checkers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18004,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Video_Chess"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18007,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Double_Dunk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18032,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Barnstorming_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18033,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Starmaster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18034,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Laser_Blast"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18036,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18045,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Freeway_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18103,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Grand_Prix_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18105,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Fishing_Derby"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18286,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Halo_2600"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18287,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Fast_Food_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18408,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Chopper_Command"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18410,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Plaque_Attack"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18415,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Miniature_Golf_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18420,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/RealSports_Volleyball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18421,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Slot_Machine_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18422,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Slot_Racers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18424,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Ship"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18427,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Stellar_Track"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18479,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Fire_Fighter_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18480,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Riddle_of_the_Sphinx_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18501,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Lost_Luggage_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18503,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Spacechase"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18529,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Sky_Jinks"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18530,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Spider_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18534,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Mines_of_Minos"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18564,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Phaser_Patrol"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18565,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Fireball_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18567,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Escape_from_the_Mindmaster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18568,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Dragonstomper"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18580,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Oink%21_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18672,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/No_Escape%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18675,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Robot_Tank"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18679,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Space_Jockey_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18695,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Frostbite_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18711,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Superman_%281979_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18763,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/King_Kong_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18771,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Towering_Inferno_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18801,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Sssnake"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18848,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_%281983_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22415,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Journey_Escape"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22556,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Worm_War_I"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22697,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/G.I._Joe%3A_Cobra_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22733,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Dolphin_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22757,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Tunnel_Runner"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22760,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Revenge_of_the_Beefsteak_Tomatoes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22763,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Frankenstein%27s_Monster_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22764,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Gopher_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22765,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Eggomania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22820,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Entombed_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22838,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Name_This_Game"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23199,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Stargunner_%281983_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23843,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Crackpots"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23854,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Star_Fox_%281983_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24015,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Quick_Step_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24454,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Great_Escape_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24455,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Z-Tack"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24468,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Rabbit_Transit_%28game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24495,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Mangia"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25732,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Pressure_Cooker_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25833,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Private_Eye_%281984_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40575,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Pigs_in_Space_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40577,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Solaris_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40598,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Cosmic_Commuter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40603,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Wabbit_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40615,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Skeet_Shoot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40618,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Tax_Avoiders"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40627,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Codebreaker_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40628,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Chase_the_Chuck_Wagon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40633,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Big_Bird%27s_Egg_Catch"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40650,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Knight_on_the_Town"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40660,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Party_Mix_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40678,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Parachute_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40695,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Sorcerer%27s_Apprentice_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40698,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Save_Mary"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40713,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Quadrun"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40716,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Medieval_Mayhem"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40723,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/A_Game_of_Concentration"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40727,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Sword_of_Saros"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40734,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Oystron"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40771,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Space_Cavern"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40772,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Revenge_of_the_Apes"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40773,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Red_Sea_Crossing_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40777,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Gigolo_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40789,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/I_Want_My_Mommy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 40790,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Halloween_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 41108,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Secret_Quest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 41530,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Blackjack_%28Atari_2600_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46877,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Video_Pinball_%281981_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46880,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Wall-Defender"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46884,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Word_Zapper"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46885,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Dragster_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46901,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Dishaster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 54792,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Space_War"
+    },
+    {
+      "media_type": "game",
+      "external_id": 54796,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Submarine_Commander_%28Atari_2600%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 54797,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Casino_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 55104,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Skiing_%28Atari_2600_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 57656,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Ice_Hockey_%281981_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65079,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Birthday_Mania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 70265,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Maze_Craze"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71703,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Obelix_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79301,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/X-Man_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93457,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Duck_Attack%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 100183,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Taz_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 250219,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Karate_%281982_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 266956,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Space_Invaders_%28Atari_2600_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 292096,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Krull_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 314530,
+      "platform_id": 59,
+      "comment": "https://en.wikipedia.org/wiki/Gremlins_%28video_game%29"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 2757,
+        "name": "Snoopy and the Red Baron",
+        "summary": "The dastardly Red Baron has stolen important food supplies from the allies during the war. Hamburgers, ice cream cones, popcorn and other tasty treats have been taken by this evil aviator and sharpshooter. Your task is to help Snoopy shoot down the Red Baron and recover the stolen supplies.\n\nYou begin your mission with four doghouses. It takes eight direct hits to bring down the Red Baron, and for the Red baron to bring down Snoopy's doghouse. If the Red Baron downs a doghouse, all accumulated treats will be lost. Press the controller button to fire Snoopy's machine gun.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7x7d.jpg",
+        "release_date": 441676800,
+        "rating": 48.0,
+        "rating_count": 5,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/snoopy-and-the-red-baron",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 3252,
+        "name": "Alpha Beam With Ernie",
+        "summary": "The object of Alpha Beam is to help Sesame Street's Ernie pilot a small shuttle, collect fuel tanks (marked by a letter of the alphabet), and return them to his space ship so that he can return to Earth.\n\nThe game was marketed as a family-friendly game that could teach children pre-reading skills such as identifying and matching letters. Alpha Beam was compatible with the Atari Kid's Controller, which was sold separately, although the regular keyboard controller is also compatible",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ojbeq5xgccvzhrfff7nz.jpg",
+        "release_date": 439084800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/alpha-beam-with-ernie",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 3284,
+        "name": "Star Voyager",
+        "summary": "Pilot Star Voyager through treacherous space. As you look out from the Command Bridge, stars rush past. Penetrate the seven star portals and save the Capital Starport. Destroy enemy ships with photon torpedoes or lasers, or evade them to maintain your precious energy supply.\n\nKeep track of energy levels on the instrument panel. Use your radar screen to locate opponents and approaching star portals. Only passing through a star portal restores your energy reserves. But be warned! Crashing into a star portal will destroy you!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/s01ylx39flekbuwzrcs3.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/star-voyager",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 3325,
+        "name": "Spider-Man",
+        "summary": "Spider-Man released in 1982 by Parker Brothers was the first video game to feature SpiderMan and also the first video game based on a Marvel Comics character.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co791o.jpg",
+        "release_date": 378691200,
+        "rating": 40.09497486505985,
+        "rating_count": 18,
+        "genres": "Platform",
+        "platform_ids": "59,133",
+        "external_url": "https://www.igdb.com/games/spider-man",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 4909,
+        "name": "Haunted House",
+        "summary": "Haunted House is an Atari 2600 video game written by James Andreasen and published by Atari, Inc. in February 1982. The player, represented by a pair of eyes, must navigate the haunted mansion of the late Zachary Graves to recover the three pieces of an urn. The game has been identified as one of the earliest examples of the survival horror genre.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co91q2.jpg",
+        "release_date": 381369600,
+        "rating": 69.47110321149809,
+        "rating_count": 14,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/haunted-house",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 6706,
+        "name": "E.T. the Extra-Terrestrial",
+        "summary": "E.T. the Extra-Terrestrial (also referred to simply as E.T.) is a 1982 adventure video game developed and published by Atari, Inc. for the Atari 2600 video game console. It is based on the film of the same name, and was designed by Howard Scott Warshaw. The objective of the game is to guide the eponymous character through various screens to collect three pieces of an interplanetary telephone that will allow him to contact his home planet. It is widely regarded as the worst game ever made and one of the major contributing factors to the near death of the video game industry in 1983.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94rk.jpg",
+        "release_date": 407548800,
+        "rating": 48.10090533775946,
+        "rating_count": 42,
+        "genres": "Strategy,Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/e-t-the-extra-terrestrial",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 6881,
+        "name": "Assault",
+        "summary": "A mothership drops aliens, up to three on screen at a time. There are ten per level. You must shoot them but avoid the items they fire at you. You fire by pushing up on the joystick. Pushing left or right makes you go left or right. If you hold down the button, pushing left or right makes you fire left or right. Later enemies will drop fireballs that chase you along the ground or split in two smaller enemies when shot. If you fire non-stop, you will build up heat as indicated by the green bar at the bottom right. If you overheat or are hit by an enemy, you loser a life. The game is over when you lose all lives or reach a score of 999,999. You get a new man (4 max) every 10,000 points.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n46.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/assault",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 8253,
+        "name": "Adventure",
+        "summary": "Adventure is a video game for the Atari 2600 video game console, released in 1980. In the game, the player controls a square avatar whose quest is to hunt an open world environment for a magical chalice, returning it to the golden castle. The game world is populated by roaming enemies: dragons, which can eat the avatar; and a bat, which randomly steals and hides items around the game world.\n\nAdventure was designed and programmed by Atari employee Warren Robinett, and published by Atari, Inc. At the time, Atari programmers were generally given full control on the creative direction and development cycle for their games, and this required them to plan for their next game as they neared completion of their current one to stay productive.\n\nRobinett submitted the source code for Adventure to Atari management in June 1979 and soon left Atari. Atari released the game in early 1980.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69tb.jpg",
+        "release_date": 347068800,
+        "rating": 76.44882391804732,
+        "rating_count": 41,
+        "genres": "Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/adventure",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 8466,
+        "name": "Cosmic Ark",
+        "summary": "The sun of Alpha Ro is fading fast! Soon it will flicker out. The Cosmic Ark races to save creatures from doomed planets in that solar system. Meteor showers bombard the Ark, threatening its Atlantean crew - and planetary defense systems make this mission of mercy doubly treacherous! Time and energy slip away- work fast or these defenceless little beasties will disappear for all time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9j0w.jpg",
+        "release_date": 410140800,
+        "rating": 65.73903608655668,
+        "rating_count": 6,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/cosmic-ark",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 8529,
+        "name": "Custer's Revenge",
+        "summary": "You are General Custer. Your dander's up, your pistol's wavin‘. You've set your sights on a ravishing maiden named Revenge: but she's not about to take it lying down, by George! Help is on the way. If you're to get to Revenge you'll have to rise to the challenge, dodge a tribe of flying arrows and protect your flanks against some downright mean and prickly cactus. But if you can stand pat and last post the stings and arrows - you can stand last.\n\nRemember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ and right back for more. The higher the score. the more challenging the game action gets.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ax0ftquzccrc1kb11xjo.jpg",
+        "release_date": 401587200,
+        "rating": 20.84574218188036,
+        "rating_count": 6,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/custers-revenge",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 10203,
+        "name": "Star Wars: Jedi Arena",
+        "summary": "In Jedi Arena, you have to face an opponent in the arena to see who is the true Jedi master. Wandering throughout the arena is a seeker which is capable of firing laser bolts. To be victorious you need to destroy your opponents shield by having the seeker fire laser bolts at it. You are armed only with a light saber which is used to control the direction of the laser bolts you fire, as well as block incoming fire from your opponent.\n\nThe first player to break through the other players shield wins a point, and the first player to 3 points wins the match! Several game options are included which control the speed of the seeker, or even make the seeker invisible.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co74j8.jpg",
+        "release_date": 412905600,
+        "rating": 59.89336502554637,
+        "rating_count": 7,
+        "genres": "Fighting",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/star-wars-jedi-arena",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 10205,
+        "name": "Star Wars: Return of the Jedi - Ewok Adventure",
+        "summary": "Star Wars: Return of the Jedi - Ewok Adventure, also known as Revenge of the Jedi: Game I is a cancelled 1983 shoot 'em up video game based on the Star Wars: Return of the Jedi film. The game was developed by Atari Games and to be published by Parker Brothers on the Atari 2600, Atari 7800, ColecoVision, and Intellivision video game consoles.\n\nAlthough it was completed, the game was never released for sale, as the marketing department of Parker Brothers considered the controls too difficult to master. A prototype cartridge surfaced in the early 2000s.\n\nIn Ewok Adventure, the player takes the role of an Ewok in the hang glider corps with the mission to destroy a shield generator of the Imperial army. The player can control a hang glider with the joystick and has to evade enemies. Depending on the game mode, the player can either make the hang glider climb and decent by pulling back and forth the joystick, or he can reverse the vertical directions. Hitting the ground results in a game over. Furthermore, the player can pick up rocks to drop on enemies when flying over them.\n\nOnly one physical copy of Ewok Adventure is currently known to exist. Larry Gelberg, designer of the game, gave the only known prototype of the game to his son in the early 2000s, who later sold the game for $1,680.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1piv.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "68,60,59,67",
+        "external_url": "https://www.igdb.com/games/star-wars-return-of-the-jedi-ewok-adventure",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11113,
+        "name": "Air Raid",
+        "summary": "Air Raid is considered to be the rarest game released for the Atari 2600.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xu5.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/air-raid",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11114,
+        "name": "Air Raiders",
+        "summary": "Air Raiders is an action game released for the Atari 2600 by Mattel in 1982. It received mixed reviews from critics.\nThe player has the view of an airstrip as seen from the cockpit of a jet fighter. In order to start the launch, it is required that the player presses the fire button. When the player pulls back on the joystick, the jet fighter becomes airborne. A feature of the game includes a horizontal tilt that happens when the jet fighter turns to the left or the right for realistic simulation. The goal is to fire at enemy aircraft. The player also has to worry about not making a quick dive after an enemy craft that would lead to a crash landing. There is also a bar that is located on the width of the screen that allows the player to keep track of the horizontal position. It is important to stay out of heavy gunfire zones because it can lead to a nosedive crash. It is possible to pull out of a nosedive, but it would be a better idea for the player to avoid flak.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/zblfpsgcf7wrc6aatgpi.jpg",
+        "release_date": 410140800,
+        "rating": 61.92855359246533,
+        "rating_count": 6,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/air-raiders",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11128,
+        "name": "Bachelor Party",
+        "summary": "The game is a simplified version of Breakout where the \"ball\" is made to look like a nude man and the \"bricks\" are made to look like nude women and the man bounces back and forth horizontally rather than vertically. On the left, he is repelled by a woman with whom he collides and subsequently eliminates from play, or by the opposing wall. On the right, a paddle (said to be a container of aphrodisiac \"Spanish Fly\" in the manual) returns the depleted bachelor to the room full of women. The paddle is controlled by the player using a paddle controller.\nThe premise is that of an unnamed bachelor having his final fling with a room full of inexplicably nude women. The equally unclothed bachelor is propelled repeatedly into the room of women by a container of \"Spanish Fly\" used as the player's paddle. When entering the fray, the bachelor's exaggerated and pixelated penis is seen to be erect. When he returns from having collided with (and presumably had sexual intercourse with) a woman or after hitting the opposing wall, his penis sags. It returns to erect when the bachelor is successfully set moving again toward the left.\nA second version of the game, titled Bachelorette Party, also exists. It has no difference in gameplay, but has the game sprites reversed: The player now uses his or her paddle to bounce a naked woman toward naked men.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9853.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/bachelor-party",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11129,
+        "name": "Bank Heist",
+        "summary": "Bank Heist is a maze video game published by 20th Century Fox for the Atari 2600.\nEach level in Bank Heist is a maze-like city (similar to Pac-Man). The objective of the game is to rob as many banks as possible while avoiding the police. The player controls a car called the Getaway Car. The car has a limited amount of fuel, which can be refilled by changing cities. Robbing a bank will cause a cop car to appear, as well as another bank. Up to three cars can be present in a city at a time. Cars can be destroyed by dropping dynamite out the tail pipe of the Getaway Car (however, dynamite can also destroy the Getaway Car). The player starts out with four spare cars (lives). Lives are lost by running out of fuel, being hit by dynamite, or hitting a cop car. If the player can rob nine banks in one city, an extra car is earned.\nThe left and right difficulty switches alter how hard the game is. When the left difficulty switch is set to A, the cop cars are smarter in catching the Getaway Car; when it's set to B, enemy cars move in a more set pattern. When the right difficulty switch is set to A, the banks appear in random spots; when the switch is set to B, the banks appear in preset locations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7vyf.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Racing",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/bank-heist",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11138,
+        "name": "Beany Bopper",
+        "summary": "Your job is to capture Beanies, Bouncing Orange Eyes, and a crazy variety of Falling Objects. Beanies are devious and deadly and must be shot with the Bopper's stun gun before they can be captured.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/uv3lzgoif6aoqwsbv3pi.jpg",
+        "release_date": 399686400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/beany-bopper",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11139,
+        "name": "Beat 'Em & Eat 'Em",
+        "summary": "Beat 'Em and Eat 'Em is a pornographic video game for the Atari 2600 by Mystique in 1982. Distribution was handled by American Multiple Industries until distribution changed to Game Source. Players control two nude women; the goal is to catch sperm falling from a masturbating man on a rooftop without missing. Its gameplay has been compared to the Atari game Kaboom!. There is also gender-reversed version of the game titled Philly Flasher that features identical gameplay. Beat 'Em & Eat 'Em has received negative reception since its release and is an oft-cited example of pornographic Atari 2600 games.\nPlayers control two nude women on the street who must catch semen in their mouths that comes from a masturbating man on a rooftop without missing. This can be accomplished merely by touching the women's bodies on the sperm before it hits the ground. A more difficult setting requires players catch the sperm before it goes past the women's shoulders. If any sperm hits the ground, the first turn is over. Players are allowed to miss four times before the game is over. They can gain a turn every 69 points scored (up to two extra turns). Players move both women using the controller's paddle and the game allows each player to control one woman. The game plays similarly to the Atari game Kaboom!.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6887.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/beat-em-and-eat-em",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11140,
+        "name": "Bobby is Going Home",
+        "summary": "Bobby is Going Home is a 2D action platformer video game cartridge released for the Atari 2600 console in 1983.\nThe player controls a boy named Bobby who has to pass through seven screens, jump over animals like butterflies, ducks and other hazards. The game play resembles Pitfall!, a game released by Activision. At the end of the game all the player has to do is get Bobby into the house, and there the next level will show. Hitting reset and select change the style of flowers that show at the bottom of the screen.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ltciicvndbyxfm58lzho.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/bobby-is-going-home",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11154,
+        "name": "Communist Mutants from Space",
+        "summary": "Communist Mutants from Space was a video game created in 1982 by Starpath (formerly known as Arcadia) for the Atari 2600 home video game console and the Starpath Supercharger cassette accessory.\nCommunist Mutants from Space is a typical 1980s-era Space Invaders-inspired space shoot-em-up. The player starts off with three reserve cannons. The object is to destroy the mutants aliens and, most importantly, the Mother Creature. The mutants hatch from moving eggs at the top of the screen. Because the Mother Creature replenishes eggs when they hatch or are destroyed, it must be defeated before the player can advance to the next wave. If a mutant or a bomb thrown by a mutant comes into contact with the cannon, the cannon will be destroyed and a reserve must be called up. A new cannon is awarded on every other wave.\nThe menu allows a variety of gameplay changes; for example, the player may toggle the shield option on or off. If activated, \"shield\" mode allowed a player to press down on the joystick to become invincible for a short period (only one shield was allotted per level). Another feature was the \"time warp,\" which allowed the player to press up on the joystick to temporarily slow down the passage of time for his opponents (i.e., they move slower than usual). Additionally, the type of shot fired could be changed by activating the \"penetrating fire\" option (which enhanced the beam fired so that it could withstand hitting two mutants rather than a single one) and/or the \"guided fire\" option (which caused the beam to be moved with the joystick rather than firing in a straight line).\nThe menu also allowed for multiple players (up to four) to be entered into the game. Players one and three shared the first joystick while players two and four shared the second.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6im5.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/communist-mutants-from-space",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11236,
+        "name": "Tooth Protectors",
+        "summary": "In this game the player must prevent objects dropping from the top of the screen from reaching the bottom by positioning their character directly under the falling objects. The player's character is a small smiling face carrying a strand of dental floss above its head. They must prevent the snack squares from reaching the row of white teeth along the bottom of the screen; repeated hits by the snacks cause the teeth to blink and disappear from tooth decay.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/yey8raso14qs9opv2t00.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/tooth-protectors",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11237,
+        "name": "Alien's Return",
+        "summary": "Alien's Return is a 1983 video game created for the Atari 2600 that is loosely based on the 1982 film E.T. the Extra-Terrestrial. It was created in Europe. Copies of the game are very rare, and most European copies still have the typo of the title, which reads, E.T. Go Come. The EU cover shows E.T. standing near a parade of anthropomorphic jelly sandwiches, balloons, trees, and chicken nuggets. None of these creatures ever appear in the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co693i.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/aliens-return--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 11856,
+        "name": "Airlock",
+        "summary": "The player is trapped in a crashed nuclear submarine which has begun taking on water. They need to escape by making their way up the levels of the submarine one at a time. Each floor has two hatch keys that need to be collected in order to unlock the elevator to the next level. There is a time limit, though; if you take too long the floor will flood and you'll be unable to escape. Due to the crash, the torpedoes on board the submarine are now loose and wander across the floor as the boat shakes. The player will need to jump over any torpedoes that cross their path, or they will be stunned momentarily and lose precious time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/lk5syj1drjvzbkidueuq.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/airlock",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 12240,
+        "name": "Alien",
+        "summary": "Fox Video Games made the first leap into licensing the Alien property for video games with what was essentially a Pac-Man clone skinned with elements from the 1979 film. Players controlled a human collecting Alien eggs (dots) and small planet and spaceship symbols (fruits) in a maze abroad the USCSS Nostromo while avoiding Alien drones (ghosts).\n\nDrones could be killed by shooting them with a flamethrower or collecting symbols that would stun them (flashing dots).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yj2.jpg",
+        "release_date": 404956800,
+        "rating": 73.63678344544502,
+        "rating_count": 13,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/alien",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 12894,
+        "name": "Off the Wall",
+        "summary": "One or two players bust through blocks in various formations using a paddle and ball, trying to reach an exit located in the center of the blocks in order to advance to the next wave. There are glowing blocks which give you \"Power Ups\" Xextra ball, Ccatch ball, I invinciball, S slow ball, B bigger paddle, F firepower which allows you to shoot blocks with a gun located in the center of your paddle. You get points for busting blocks, but get more bonus points for blocks left when you reach the exit.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/wy8symtmxnub2qdf7gtx.jpg",
+        "release_date": 631065600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/off-the-wall",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 15562,
+        "name": "Outlaw",
+        "summary": "A home console port of 1976 Outlaw for the Atari 2600 by then-Atari employee David Crane. This version is more directly comparable to Midway's Gun Fight, allowing two players to engage in a shoot-out using 2600's joysticks. There are also multiple types of play that differ slightly from the arcade game, including target practice and versions with obstacles that must be shot around or shot through.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6s9b.jpg",
+        "release_date": 283910400,
+        "rating": 54.16650886249433,
+        "rating_count": 13,
+        "genres": "Shooter",
+        "platform_ids": "52,59",
+        "external_url": "https://www.igdb.com/games/outlaw",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 16759,
+        "name": "Combat",
+        "summary": "Combat is an early video game by Atari, Inc. for the Atari 2600. It was based on two earlier black-and-white coin-operated arcade games produced by Atari. Combat had color graphics and numerous gameplay variations. The 27 game modes featured a variety of different combat scenarios, including tanks, biplanes, and jet fighters. The tank games had interesting options such as bouncing munitions (\"Tank-Pong\") and invisibility. The biplane and jet games also allowed for variation, such as multiple planes per player and an inventive game with a squadron of planes versus one giant bomber.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6s9a.jpg",
+        "release_date": 242784000,
+        "rating": 69.91080035116079,
+        "rating_count": 32,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/combat",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 17019,
+        "name": "Demons to Diamonds",
+        "summary": "Players attempt to shoot demons in a \"cosmic carnival\" and then pick up the diamonds left behind by them, while dodging shots from enemy skulls. The player operates a laser base at the bottom of a multi-row playfield, using the paddle controller to move it from side to side and the controller's action button to fire a laser beam vertically up the playfield. The player can control how far onto the playfield the beam advances by releasing the button at the desired height. The player receives one point for each demon and ten points for each diamond successfully shot. Points are multiplied by the distance from the base to the target. For example, a demon shot one row above the player is worth one point, while a demon shot four rows above the player is worth four points.\n\nIn multiplayer mode, the second player operates a laser base at the top of the screen, firing from top to bottom. Again, the second player must shoot demons that match the color of its gun in order to produce diamonds. However, diamonds may be shot by either player. Also, skulls are capable of shooting both up and down the playfield. In select variations of the game, the players can shoot their opponent's laser gun in order to deplete their stock of extra lives.\n\nIn both single and multiplayer versions, players begin with five lives. One life is lost when the player's laser base is hit by a laser beam fired by a skull or by an opponent, depending on the game variation being played. The game ends when all lives are lost; in multiplayer versions, the surviving player receives a bonus for each life remaining.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co35q8.jpg",
+        "release_date": 394329600,
+        "rating": 48.12780131798596,
+        "rating_count": 8,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/demons-to-diamonds",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 17024,
+        "name": "Flag Capture",
+        "summary": "Flag Capture was one of the eleven Atari 2600 titles that were part of the second wave of games released in 1978. It can best be compared to a very early and primitive Minesweeper. One or two players must attempt to discover which tile a flag is hidden under. Players are given clues such as directional arrows which indicate the flags location, or numeric tiles which indicate the flag's distance. Players must also watch out for bombs which explode if revealed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3uw.jpg",
+        "release_date": 283910400,
+        "rating": 39.15640516560609,
+        "rating_count": 5,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/flag-capture",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 17025,
+        "name": "Human Cannonball",
+        "summary": "In Human Cannonball your goal is to fire a man out of a cannon and have him land in a bucket of water. To do this you need to adjust your cannon so the position, angle, and firing speed are just right. You score a point for each successful landing, and the game ends after seven attempts. Several game variations are included which allow you to have the position, angle and speed all set by the player, or have one or more of these in a fixed position, or have one or more of these randomly set by the computer. If you wish to make the game more challenging, you can also set a moving wall in front of the bucket which will make your timing more critical.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co986t.jpg",
+        "release_date": 283910400,
+        "rating": 37.5685633046215,
+        "rating_count": 10,
+        "genres": "Strategy,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/human-cannonball",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 17240,
+        "name": "Radar Lock",
+        "summary": "You're locked in fight-to-the-death air combat with the enemy! You may be outnumbered -- somehow you've been separated from your buddies -- but this is far from your first mission. You've been flying your trusty little delta-wing fighter for more months than you care to remember.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3605.jpg",
+        "release_date": 628473600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/radar-lock",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 17254,
+        "name": "Backgammon",
+        "summary": "This is the game backgammon and its variant, acey deucey.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/m2vfqabngtm7rxk62b0r.jpg",
+        "release_date": 315446400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Quiz/Trivia,Card & Board Game",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/backgammon--3",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 17258,
+        "name": "Basic Math",
+        "summary": "Basic Math (aka Fun With Numbers) is a video game cartridge developed by Atari for its Video Computer System (later known as the Atari 2600). The game was one of the nine launch titles offered when the Atari 2600 went on sale in September 1977. The player's objective is simple: solve basic arithmetic problems. Game variations determine whether the player solves addition, subtraction, multiplication, or division problems, and whether he/she could select the top number (the console randomly selects the lower number). The player uses the joystick to enter a guess, with sound effects signaling whether it is right or wrong.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lcw.jpg",
+        "release_date": 241920000,
+        "rating": 39.96027805362463,
+        "rating_count": 8,
+        "genres": "Puzzle",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/basic-math",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 17259,
+        "name": "Hangman",
+        "summary": "Hangman was one of the eleven Atari 2600 titles that were part of the second wave of games released in 1978. It is based on the old words guessing game played with paper and pen. The player must guess which letters compose a word. Every wrong guess adds to the diagram of a man being hung, or in the case of this game, a monkey hanging from a bar. Eleven wrong guesses ends the game. Games can be played as one or two player games, and different grade levels of words. Two players can even provide the words for one another.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98gz.jpg",
+        "release_date": 283910400,
+        "rating": 40.04783524275033,
+        "rating_count": 9,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/hangman",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18003,
+        "name": "Video Checkers",
+        "summary": "An early video game version of the game Checkers.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/yyttoxymb7xktjchelvq.jpg",
+        "release_date": 347068800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/video-checkers",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18004,
+        "name": "Video Chess",
+        "summary": "Video Chess is a video game released by Atari in 1979 for the Atari 2600, based on the rules of chess.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co988b.jpg",
+        "release_date": 315446400,
+        "rating": 43.30576457343063,
+        "rating_count": 5,
+        "genres": "Strategy,Card & Board Game",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/video-chess",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18007,
+        "name": "Double Dunk",
+        "summary": "Double Dunk is a simulation of two-on-two, half-court basketball. Teams have two on-screen characters, a shorter \"outside\" man and a taller \"inside\" man. In a single-player game, the player controls the on-screen character closest to the ball, either the one holding the ball (on offense) or the one guarding the opponent with the ball (on defense). In two-player games, each player may control one of the two teams as in a one-player game, or both players may play on the same team against a computer-controlled opponent. At the start of each possession, both offense and defense select from a number of plays (such as the \"pick and roll\" on offense), then attempt to score or regain possession of the ball by intercepting or stealing it from the offense. The game offers a number of player-selectable options. Games can be set to last a certain amount of time or until one team scores a certain number of points. Three-point shots can be turned on or off, as can a ten-second shot clock. Players may also choose to include foul detection and/or a three-second lane violation.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31zr.jpg",
+        "release_date": 609984000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/double-dunk",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18032,
+        "name": "Barnstorming",
+        "summary": "The player must pilot a biplane through a series of barns in the shortest time possible while dodging windmills, weather vanes, and geese. Bumping into anything slows down the plane for a couple of seconds, increasing the overall time. There are four levels of play determined by the game select switch. Game 1 is Hedge Hopper (10 barns), game 2 is Crop Duster (15 barns), game 3 is Stunt Pilot (15 barns), and game 4 is Flying Ace (25 barns). In the first three games, the course layout of barns, windmills, and even geese do not change, making it easy to memorize the layout. Game 4 is the only game with a random course.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93cf.jpg",
+        "release_date": 410140800,
+        "rating": 59.44989774485195,
+        "rating_count": 7,
+        "genres": "Racing,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/barnstorming",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18033,
+        "name": "Starmaster",
+        "summary": "In the game the player pilots a starfighter, with the purpose of destroying a number of enemy ships before they destroy four friendly starbases. Gameplay is presented mostly in first person cockpit view, which is achieved with surprisingly good effect given the 2600's primitive graphics capabilities. The starfighter carries laser weapons, shields, and a faster-than-light drive. The fighter also carries a limited energy supply, which is drained by firing the lasers, being hit by enemy fire, warping, or simply flying around. If the ship's energy drops to zero it is destroyed, and the game ends. Enemy fire can knock out the fighter's subsystems (such as weapons) on top of draining energy. The game \"universe\" is a square-shaped galaxy mapped into a grid of 36 sectors. Each sector can be home to some enemy ships, a starbase, both, or nothing. The player \"warps\" the fighter to a sector to engage enemy ships; once they are all destroyed, the player moves on to another. The player can also warp to a sector with a starbase, and dock with it (a rather tricky process) to replenish energy and repair damaged subsystems. Enemy ships in turn maneuver through the galaxy as they home in to destroy the starbases. The game is won when all enemy ships are destroyed, or lost if either the player's fighter or all four starbases are destroyed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/unsqsl9ojtpbetjesm6m.jpg",
+        "release_date": 410140800,
+        "rating": 22.64325926092692,
+        "rating_count": 6,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/starmaster",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18034,
+        "name": "Laser Blast",
+        "summary": "The object of Laser Blast is to destroy a series of land-based enemies. The player controls a fleet of flying saucers, operating one at a time. On the planet surface below are a group of three mobile laser bases, guarded by an invisible force field that prevents the player's saucer from getting too close to the surface. Both the player and the enemy bases are armed with laser blasters, which may fire a single continuous beam at a time. If the player's saucer is hit, it will lose altitude and crash to the ground; however, the player may direct this fall, potentially into one of the bases, destroying it as well. Each succeeding wave of enemy bases moves faster and targets the player's saucers more quickly, while the force field becomes stronger and decreases the amount of space in which the saucer can move. Players score points for each base destroyed, with points multiplying each wave up to a maximum of 90 points per base. Players earn extra flying saucers with each 1000 points scored and may keep a maximum of six extra saucers in reserve. When the score of 999,999 is reached, the digits in the score turn to exclamation points, and the game ends.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9iuu.jpg",
+        "release_date": 378604800,
+        "rating": 55.74206789811918,
+        "rating_count": 6,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/laser-blast",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18036,
+        "name": "Raiders of the Lost Ark",
+        "summary": "Based on the movie itself.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co987a.jpg",
+        "release_date": 404956800,
+        "rating": 66.4636796162367,
+        "rating_count": 9,
+        "genres": "Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/raiders-of-the-lost-ark",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18045,
+        "name": "Freeway",
+        "summary": "Freeway is a video game designed by David Crane for the Atari 2600 video game console. It was published by Activision in 1981. One or two players control chickens who can be made to run across a ten lane highway filled with traffic in an effort to \"get to the other side.\" Every time a chicken gets across a point is earned for that player. If hit by a car, a chicken is forced back either slightly, or pushed back to the bottom of the screen, depending on what difficulty the switch is set to. The winner of a two player game is the player who has scored the most points in the two minutes, sixteen seconds allotted. The chickens are only allowed to move up or down. A cluck sound is heard when a chicken is struck by a car. Comparisons are often made to Frogger, which has also features crossing a street filled with moving vehicles. Similarities did help sales when Frogger was popular in the arcades and a home version was not yet available.\n\nFreeway was made available on Microsoft's Game Room service for its Xbox 360 console and for Windows-based PCs on August 18, 2010.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co986i.jpg",
+        "release_date": 378604800,
+        "rating": 53.5649555771797,
+        "rating_count": 8,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/freeway",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18103,
+        "name": "Grand Prix",
+        "summary": "The player drives a Formula One car in a time trial on one of four race tracks, each of which has a different difficulty level. Difficulty is gauged by the length of the course, the number of cars and oil slicks on the track, and the number of bridges to cross. The player views the race from a top-down perspective, and the screen scrolls from right to left. The player's car maneuvers only on a vertical axis, and loses a little speed when it does so. The joystick's button is the throttle: Depressing it accelerates, and releasing it decelerates. Pressing the joystick leftward applies the brake. The transmission audibly shifts as the player's car accelerates and decelerates. Grand Prix is a time trial, and the competing cars are obstacles rather than competition for the finish line. The player's car can easily outpace the other cars, but if it collides with one, its speed drops lower than that of the impacted car. Driving over an oil slick causes the player's car to skid slightly sideways, but does not slow it down. Once every scale mile, the player crosses a narrow bridge over blue water. Colliding with any wall of the bridge stops the car, and the player must slowly gain speed to continue.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6i2b.jpg",
+        "release_date": 410140800,
+        "rating": 53.92078778068513,
+        "rating_count": 10,
+        "genres": "Racing,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/grand-prix",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18105,
+        "name": "Fishing Derby",
+        "summary": "In Fishing Derby, two fishermen sit on opposite docks over a lake filled with fish (and a shark that passes through). Using the joystick the player is able to move his line left right and up and down in the water. When a fish is hooked, the line slowly comes up to the surface of the water. Pressing the fire button on the joystick reels in the fish faster. However, if both fishermen have fish hooked, only one person can reel theirs in (the one who hooked theirs first). The shark that roams the water will try to eat hooked fish before they surface. The objective for both fishermen is to reach 99 pounds of fish first. There are six rows of fish; the top two rows have 2 lb. fish, the middle two rows have 4 lb. fish, and the two bottom rows have 6 lb. fish. The more valuable fish sit at the bottom, but they are harder to bring in as they run a higher risk of being eaten by the shark. The game's two variants are simply single player and multi-player. In both games the objective is to reach 99 lb. of fish first.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5qhq.jpg",
+        "release_date": 347068800,
+        "rating": 69.64045981665727,
+        "rating_count": 12,
+        "genres": "Simulator,Sport,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/fishing-derby",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18286,
+        "name": "Halo 2600",
+        "summary": "Halo 2600 is an action-adventure video game developed for the Atari 2600 video game console, inspired by the Halo series of video games. Halo 2600 was written by Ed Fries, former vice president of game publishing at Microsoft, who was involved in Microsoft's acquisition of Halo developers Bungie Studios. Fries decided to create a version of Halo for the Atari 2600 after being inspired by a book called Racing the Beam: The Atari Video Computer System by Ian Bogost and Nick Montfort. The Atari 2600 had such limited RAM, only 128 bytes, that drawing Master Chief was difficult, and creating a game with other characters was even more so. Fries later stated that making the game taught him that constraint is sometimes a fuel for creativity.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7fwh.jpg",
+        "release_date": 1278547200,
+        "rating": 70.01004718587461,
+        "rating_count": 5,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/halo-2600",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18287,
+        "name": "Fast Food",
+        "summary": "The objective of the game is to eat as much fast food as you can by devouring the junk food that is approaching your huge mouth from the left of the screen. While doing that you should be careful to avoid the purple pickles - after having eaten six of those it is game over.\n\nFast Food was written by Don Ruffcorn.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7wds.jpg",
+        "release_date": 392083200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/fast-food--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18408,
+        "name": "Chopper Command",
+        "summary": "Chopper Command is a video game by Activision released for the Atari 2600 in June 1982. It was designed and programmed by Bob Whitehead.\n\nIn Chopper Command the player controls a military helicopter in a desert scenario protecting a convoy of trucks. The goal is to destroy all enemy fighter jets and helicopters that attack the player's helicopter and the friendly trucks traveling below, ending the current wave. The game ends when the player loses all of his or her lives or reaches 999,999 points. A radar, called a Long Range Scanner in the instruction manual, shows all enemies, including those not visible on the main screen.\n\nA player who achieved 10,000 points could send in a photo of the TV screen and receive a \"Chopper Commandos\" patch.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6s9s.jpg",
+        "release_date": 410140800,
+        "rating": 66.82782402296526,
+        "rating_count": 8,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/chopper-command",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18410,
+        "name": "Plaque Attack",
+        "summary": "Plaque Attack is a 1983 video game for the Atari 2600 that was made by Activision. Loosely based on Space Invaders, the player must prevent food from destroying teeth in a person's mouth. Steve Cartwright, who designed the game, said that game was meant to help people develop good dental habits.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97gu.jpg",
+        "release_date": 414720000,
+        "rating": 57.02350424388597,
+        "rating_count": 8,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/plaque-attack",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18415,
+        "name": "Miniature Golf",
+        "summary": "This is a computer game simulation of a miniature golf course. It attempts to refine your sense of timing and your perceptiveness in judging distance. As in a traditional miniature golf course, a variety of obstacles are placed in your path to the cup. Depending on the game that is selected, the course can be played solo, or a two player competition can be initiated.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wf7.jpg",
+        "release_date": 315446400,
+        "rating": 40.5909506934809,
+        "rating_count": 7,
+        "genres": "Simulator,Sport,Strategy",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/miniature-golf",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18420,
+        "name": "RealSports Volleyball",
+        "summary": "RealSports Volleyball is an enhanced version of programmer Bob Polaro's never released game Volleyball. He asked to make several improvements on it, including better animations and more colourful backgrounds. It is part of the RealSports series of games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3qav.jpg",
+        "release_date": 404956800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/realsports-volleyball",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18421,
+        "name": "Slot Machine",
+        "summary": "Slot Machine is a Casino-game from 1979 for the Atari 2600.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/f7q3rvqxlivklebahiqb.jpg",
+        "release_date": 315446400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/slot-machine",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18422,
+        "name": "Slot Racers",
+        "summary": "Slot Racers is a joystick-controlled action game, with a total of nine game variations programmed within the cartridge. The object of the game is to pilot your car through a maze, while attempting to fire missiles at your opponent's car, as well as evading the missiles your opponent fires at your car. Each time one of the respective cars is struck by a missile, the player controlling the other car receives one point. Victory is achieved through the scoring of twenty-five points. The game itself has four different mazes, and options concerning missile speed, and other factors, within the context of its nine variants, selectable via the Game Select switch. The Difficulty Switches control the rate of fire each car is capable of.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9iu9.jpg",
+        "release_date": 283910400,
+        "rating": 36.94955074517119,
+        "rating_count": 5,
+        "genres": "Racing",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/slot-racers",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18424,
+        "name": "Star Ship",
+        "summary": "Star Ship is a First-person shooter video game cartridge developed by Atari, Inc. for its Video Computer System (later known as the Atari 2600). The game was one of the nine launch titles offered when the Atari 2600 went on sale. It was designed and programmed by Bob Whitehead. It was based on the Atari arcade game Starship 1.\nThe re-branded Sears TeleGames version was titled \"Outer Space\".",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yah.jpg",
+        "release_date": 241920000,
+        "rating": 39.68332953344103,
+        "rating_count": 9,
+        "genres": "Shooter",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/star-ship",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18427,
+        "name": "Stellar Track",
+        "summary": "Stellar Track is a text- and turn-based strategy game where the player controls a Terran Super Warship that must clear out alien ships from all quadrants of a galaxy. It was a conversion of a college mainframe Star Trek game released by Sears in 1981. It is a suitably primitive game where you have to run scans to locate enemies and starbases on a 6 x 6 galactic map. You run scans to find the enemies then must warp to their quadrant to confront them with either phasers or photon torpedoes. You use the joystick to determine the numerals of where you intend you to travel to.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/pjxnkbvu6pcetswzpou3.jpg",
+        "release_date": 378604800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator,Strategy,Turn-based strategy (TBS),Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/stellar-track",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18479,
+        "name": "Fire Fighter",
+        "summary": "The objective of the game is to save a person trapped in a burning building. In order to do so you have to extinguish the fire with your fire hose. To complicate matters further the fire will spread to the next floors and you only have a limited water supply. After extinguishing the fire you have to allign the ladder of your fire truck to the floor where the person is on so that he can climb to safety. In subsequnt levels the building has fewer floors resulting in a higher difficulty level.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yi3.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/fire-fighter",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18480,
+        "name": "Riddle of the Sphinx",
+        "summary": "The land of Eypt is cursed and it is up to the pharaoh's son to lift the curse. In order to do so he has to wander through the hot desert and collect treasure from ancient pyramids and temples. He will encounter poisonous scorpions, violent thieves who will steal the prince's collected items and the evil and invincible god Anubis himself. To make matters worse, the prince has to fight thirst in finding some of the rare oases scattered throughout the desert. But the prince will also encounter the good goddess Thetis and friendly traders who will give up willingly some of their items in order the help the prince on his quest. Only if he solves the riddle and brings the right items to the Great Sphinx he will eventually lift the curse.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ztghqgdacwq8qbfcgco1.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Puzzle,Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/riddle-of-the-sphinx",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18501,
+        "name": "Lost Luggage",
+        "summary": "This Kaboom!-clone takes place in an airport. Instead of catching bombs before they hit the ground you have to catch suitacses which are thrown from a luggage carrousel gone haywire. The games becomes progressively harder as more and more suitcases are hurled towards the ground. In addition to that you can chose between two difficulty levels which let you control one or two baggage handlers. You should also watch out for suitcases containing bombs - failing to catch those results in instant death.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ovovzq0p0x8o1bc1or63.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/lost-luggage",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18503,
+        "name": "Spacechase",
+        "summary": "You are on a moon-based scouting mission in a Mark 16 Starcruiser. Suddenly, enemy alien ships teleport in and start firing neutron missiles, which can destroy you upon impact. You must destroy enemy ships until reinforcements arrive from Earth. The enemy also have laser-directed heat-seeking proton missiles which are fired sparingly. Be aware that as the battle progresses, the aliens will become more desperate and will use the laser-directed heat-seeking proton missiles more often.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/f3plne7eaqrduplepuai.jpg",
+        "release_date": 378604800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/spacechase",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18529,
+        "name": "Sky Jinks",
+        "summary": "You control a small plane and have to fly slalom around a preset amount of pylons. You have to pass the red pylons on the right side and the blue ones on the left side. Missing a pylon will result in a three second penalty. Flying into the pylons, trees or hot-air balloons will cost you time as well. There are five different game modes: The first four game modes only differ in terms of the number of pylons you have to pass (25, 50, 75, 99). In th fifth game mode you still have to pass 99 pylons but they are placed along the course randomly. You can also change the difficulty level from easy to hard which will place obstacles like trees either directly in your line of flight or out of your way.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94rl.jpg",
+        "release_date": 406166400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/sky-jinks",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18530,
+        "name": "Spider Fighter",
+        "summary": "Spider Fighter is a Space Invaders style game. It is your mission to prevent space spiders from stealing your food reserves which are located on the top right of the screen. The spiders hatch from cocoons which are dropped from the top left of the screen. Since the spiders are able to attack you, your reactions are tested quite soon as you attempt to dodge the enemies and their bullets while trying to shoot them down. If you you lose all your food reserves or your lifes, it's game over. The enemy moves faster the more progress you make in the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/gysloluhxd1xocw1ttb4.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/spider-fighter",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18534,
+        "name": "Mines of Minos",
+        "summary": "You are a robot - the last \"survivor\" in the mines of Minos. In order to still win against the overwhelming enemy you must collect robot spare parts to build yourself a small army. In order to achieve this you rummage through the maze-like mines in search for the spare parts while the enemy is hunting you. You can kill your pursuers in dropping a grenade but have to keep in mind that you only can drop one grenade at a time. After the enemy is killed it will respawn somewhere in the maze. After having found a spare part you must carry it to a predesignated safe place. You can move to different levels in the mine while pressing the joystick button and leaving the screen through the exits on the left and right sides of the screen. In order to win the game you have to get level five where you have to run into three stationary enemies. To accomplish this, you need at least two spare robots, since you will destroy one of yours every time you hit one of the three targets.\n\nThe two-player mode lets one player control the robot and the other player an enemy. However, running into the robot will cause player two to lose, except he takes control of another monster shortly before the impact by pressing the joystick button, hoping player one will run into the just release enemy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/wwiui39alvfzdk1ibqud.jpg",
+        "release_date": 403488000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Tactical,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/mines-of-minos",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18564,
+        "name": "Phaser Patrol",
+        "summary": "Defeat the Dracon Armada in challenging, realistic battle action. Featuring a real-time clock, energy indicator, Alien proximity indicator, torpedo status indicator, combat-range scanner, torpedo target-lock, Dracon fighter ships, shield status indicator, message display.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/poloups9nllwh9fxnltd.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/phaser-patrol",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18565,
+        "name": "Fireball",
+        "summary": "Juggle the red hot Fireball... before it becomes too hot to handle! Featuring: Up to six randomly moving Fireballs; Up to four players; Automatic indication of high scores for each player in the current session; Catch, aim, and release the Fireball. Five exciting games: Firetrap, Marching Blocks, Knock-a-Block, Migrating Blocks, and Cascade.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ghdyw2uzhp7ruinsjfxc.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/fireball",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18567,
+        "name": "Escape from the Mindmaster",
+        "summary": "Are you smart (and fast) enough to escape from the maze of the MindMaster? Featuring realistic first-person graphics, four separate Multi Load segments, maze maps, real-time clock, Alien stalker, direction indicator, sliding force field obstacles, and more!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/jk5rv7cwvqvyrthps9z3.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "68,59",
+        "external_url": "https://www.igdb.com/games/escape-from-the-mindmaster",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18568,
+        "name": "Dragonstomper",
+        "summary": "Battle your way along the trail of enchantment to the lair of the evil dragon! Detailed fantasy gamescapes. Three separate Multi Load game chapters. Inventories of your strength, gold, dexterity, and articles of magic. Full-screen interiors of shops, caves, and hospitals.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/tjifljkp2k2vhnqjltbb.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/dragonstomper",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18580,
+        "name": "Oink!",
+        "summary": "Oink! is based on the fairy tale of the three little pigs. The big bad wolf is trying to blow down each of the pigs houses. You control each pig one at a time. The wolf is at the bottom of the screen and will blow a hole in the house one section at a time. Each time a hole is formed, the pig must patch it up quickly so the wolf can't get in. New materials are located at the top of the screen, and you need to grab them and place them in the holes as they are formed. The longer you last, the tougher the wolf will become! You start the game controlling the pig whose house is made of straw; when he is caught, you move on to the pig in the house made of sticks. Finally you will control the pig in the house made of bricks. When all three pigs have been caught by the wolf, the game is over.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/tgyrf7xftjzu3mtgp50u.jpg",
+        "release_date": 433814400,
+        "rating": 51.1339092329881,
+        "rating_count": 5,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/oink",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18672,
+        "name": "No Escape!",
+        "summary": "Jason has taken the Golden Fleece from the gods! They are naturally upset and have imprisoned Jason in the Temple of Aphrodite with deadly Furies running overhead. You control Jason and your goal is to eliminate all of the Furies to move on to the next level. The Furies can be destroyed if they are hit with a magical brick from the roof of the temple. You are armed with an unlimited supply of stones, throwing a stone at the roof will cause a brick to fall (be careful, you'll lose a life if you hit yourself with a falling brick instead of the Furies). When a Fury is hit by a brick it is destroyed, but if you accidentally hit a Fury with a stone then it will multiply! The Furies will also be firing at you, and if you'll lose a life if hit. The game ends when you have no more lives left in reserve. Several difficulty levels are available.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co50j5.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/no-escape",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18675,
+        "name": "Robot Tank",
+        "summary": "There are numerous enemy tanks crossing the countryside, destroying everything in their path! Your job is to command a robot tank to stop them. Robot Tank is a first person perspective arcade style action game. There are twelve squadrons of tanks to destroy, each containing twelve tanks. Each time you destroy a complete squadron, you earn an extra reserve tank before moving on to the next, more difficult squadron. The game takes place twenty four hours a day; gameplay will alternate from early morning to mid afternoon to late at night. In addition to the constantly changing time of day, the weather can also change unexpectedly. Snow, rain, and fog will appear occasionally making it tougher to spot your targets. Luckily your tank is equipped with radar to help locate the enemy when visibility is poor. As your tank takes damage you will lose some capabilites, such as speed, the radar, or your canons. If your tank takes too much damage, it will be destroyed; the game ends when all of your reserve tanks are gone.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3grx.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/robot-tank",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18679,
+        "name": "Space Jockey",
+        "summary": "You are the Space Jockey, pilot of an attack saucer which is positioned on the left side of the screen and can move up and down. From the right side of the screen, a barrage of tanks, jet planes, prop planes and helicopters will fire upon and try to crash into your ship. Your job is to shoot or dodge them. In addition to the aforementioned enemies, houses, balloons and trees litter the screen. These three types of obstacles don't fire, but they are deadly to the touch and can be destroyed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/hcaqsekkidhbdev8bnzq.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/space-jockey",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18695,
+        "name": "Frostbite",
+        "summary": "You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0°. You have four lives.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6s9t.jpg",
+        "release_date": 429667200,
+        "rating": 62.92902884982908,
+        "rating_count": 10,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/frostbite",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18711,
+        "name": "Superman",
+        "summary": "Superman is an action adventure game for the Atari 2600. It was one of the first single-player games for the system and one of the earliest licensed video games. Superman is one of the first to utilize multiple screens as playing areas.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co987r.jpg",
+        "release_date": 315446400,
+        "rating": 30.77911193208548,
+        "rating_count": 24,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/superman--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18763,
+        "name": "King Kong",
+        "summary": "Rescue the lady from King Kong's clutches atop the Empire State Building. You must climb to the top of the building while avoiding (jumping) the bombs King Kong is throwing at you. The quicker you save her, the greater the bonus.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/du5bhh1ecpvzpvobwpfi.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/king-kong",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18771,
+        "name": "Towering Inferno",
+        "summary": "The downtown skyscraper has burst into flames, and only you can rescue the helpless hundreds trapped within. Quickly, you helicopter to the scene, and dispatch your men to battle the deadly flames. How many survivors can you save?\n\nPlay TOWERING INFERNO and find out!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ylb.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/towering-inferno",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18801,
+        "name": "Sssnake",
+        "summary": "You are a daring big game hunter on an expedition into the heart of the Amazon's legendary lost world. But you find that the game being hunted is you -- by Pterodactyls, Trachodons, and other prehistoric creatures. Luckily you find refuge in an ancient abandoned fortress, where you're protected from the jungle outside. Or are you...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/hrntvvlbqvq0omhuohjt.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Puzzle,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/sssnake",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 18848,
+        "name": "The Texas Chainsaw Massacre",
+        "summary": "You play the role of Leatherface and go around and kill innocent people. Just watch out for those wheelchairs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4vwq.jpg",
+        "release_date": 416448000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/the-texas-chainsaw-massacre",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22415,
+        "name": "Journey Escape",
+        "summary": "You're on the road with the rock band Journey! After each concert, your goal is to guide the five band members to the escape vehicle so they can get to the next concert on time. You start with $50,000 from the concert and need to guide one band member at a time; the screen scrolls vertically, and you need to get past the crowds and various obstacles before time runs out. Trying to slow you down are numerous fans, reporters, promoters, and photographers. Running into each of these will cause you to lose some of the money you start with, and also precious time! Stage barriers and fences will also cause you to lose time, but you won't lose any money if you hit one of these. To help you out, roadies and your manager are also in the crowds. They will give you temporary invulnerability allowing you to run straight through any obstacles. The game ends when a band member doesn't make it to the escape vehicle before the timer runs out. As the game advances, there will be bigger and bigger crowds to avoid, and they will be more aggressive about getting in your way!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/mgwgwhlgevsu5k19mupz.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/journey-escape",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22556,
+        "name": "Worm War I",
+        "summary": "Your mission, as a master tank commander, is to drive through the city of Teriyaki and blast away as many Worms and Blocks as possible without running out of fuel.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/inafnktzqyabhwv3fn5m.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59,65",
+        "external_url": "https://www.igdb.com/games/worm-war-i",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22697,
+        "name": "G.I. Joe: Cobra Strike",
+        "summary": "In the single-player mode, the player controls a G.I. Joe training camp on the bottom of the screen protected by a barrier and armed with two laser cannons. In this mode the goal is to keep the giant Cobra-operated robot snake from destroying the shield and thus the training camp by hitting it eight times. The Cobra robot shoots venom and laser beams.\n\nIn two-player cooperative mode control of the G.I. Joe training game is split between two players as they work to destroy the Cobra robot. In the two-player competition mode one player controls the Cobra robot and another player controls the training camp.\n\nCobra Strike was the first video game to use the G.I. Joe license. The U.K. version of the game was renamed Action Man: Action Force.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co961w.jpg",
+        "release_date": 412905600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/gi-joe-cobra-strike",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22733,
+        "name": "Dolphin",
+        "summary": "Listen! An endangered dolphin is calling you! Only by learning the dolphin's sonic language can you guide her through schools of seahorses, battling a monstrous squid, to gain magic powers from and elusive seagull. Hurry! Lend an ear...\n\nYou will guide your dolphin through openings in the seahorse schools by listening to sonic tones and catching waves. Pay attention to the following:\n\nTHE SEAGULL:\nPeriodically, a seagull will fly overhead. You'll know he's coming when the squid changes color. Have your dolphin leap up, touch the seagull and then quickly turn and chase the squid. This is the best way to gain points. Also, the game resets at the next difficulty level putting distance between your dolphin and the squid.\n\nTHE SLIP:\nAnother great way to outsmart the squid is by giving him \"the slip\". If the squid is right on your tail, wait until he catches a good wave. Then, reverse your dolphin's direction and swim under him immediately. As long as the squid's good wave remains on the screen, he won't be able to reverse and catch you.\n\nSCORING:\nPoints are earned in a variety of ways. Every time your dolphin touches a seagull, or a squid, you score points. The number of points depends on the color of the squid. Scoring peaks at 800 per seagull and 8000 per squid.\n\nAlso, you'll score 100 points each time your dolphin catches a good wave or each time you run the squid into a bad wave. And, when your dolphin swims through the seahorses, you'll score 0 to 50 points, depending on your degree of accuracy in getting her through the opening.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co988x.jpg",
+        "release_date": 441676800,
+        "rating": 54.14738448231211,
+        "rating_count": 7,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/dolphin",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22757,
+        "name": "Tunnel Runner",
+        "summary": "Get a move on, TUNNEL RUNNER. Those monstrous Maze Zots have picked up your scent and there's only one item on their menu --- you! You've been running up and down tunnels like a rat for so long, you're starting to develop a taste for cheese. Oh sure, you can get out . . . you just haven't been able to find the Key to the right Escape Door, that's all. Wait! There it is!\n\nQuickly --- pick it up and start making tracks for that door! You can hear one of those Zots hot on your heels! No time to check the map --- this better be the right way! There's a door up ahead. You did it! You're free!\n\nSorry, Tunnel Runner, not quite...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qumfmlkrqmbybljklgfg.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/tunnel-runner",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22760,
+        "name": "Revenge of the Beefsteak Tomatoes",
+        "summary": "Your objective is to trap the Tomato Plants at the bottom of the screen by building three walls above them. At the same time you must avoid or shoot down all flying Tomatoes, dodge Tomato Bombs and stop the Brick-Eaters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/icvprrhn72a6zd9dhn8b.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Puzzle,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/revenge-of-the-beefsteak-tomatoes",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22763,
+        "name": "Frankenstein's Monster",
+        "summary": "In the cold dark night you make your way through the ghoulish castle of Dr. Frankenstein. There you must prevent him from completing his creation.\n\nYour only chance is to gather stones from the dungeon and bring them to the tower where you must build a barricade around the monster before he has accumulated enough energy to come alive.\n\nYou start at the top floor of the castle and must make your way to the dungeon to get a stone to wall in the monster, all the while avoiding ghosts, giant tarantulas, trapdoors, spiders and a pool of acid. Once you have the stone, you must make your way back to the top, again avoiding these obstacles. When you get near the monster, you switch to a new screen where you must make your way past bats to place the stone. You must do this four times and each time gets harder, with more ghosts, more and bigger tarantulas, and a harder to cross acid pool.\n\nYou have three lives and falling into the acid pool will lose you one. You are also timed (see Difficulty settings) and you are trying to get and not lose points",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co986b.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/frankensteins-monster",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22764,
+        "name": "Gopher",
+        "summary": "The gopher tunnels left and right and up to the surface. When he makes a hole to the surface he will attempt to steal a carrot. The farmer must hit the gopher to send him back underground or fill in the holes to prevent him from reaching the surface. If gopher has taken any of the three carrots, a pelican will occasionally fly overhead and drop a seed which, if the farmer catches it, he can plant it in the place of the missing carrot. The longer the game, the faster the gopher gets. The game ends when the gopher successfully removes all three carrots. There are two skill levels and is for one or two players, giving a total of four game variations.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/rl4oklhtqfrzgxhzbac6.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/gopher",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22765,
+        "name": "Eggomania",
+        "summary": "Eggomania is similar to the game Kaboom. At the top of the screen is a bird which is throwing eggs at you! You need to catch them in your hat before they hit the bottom of the screen. If you miss any eggs, they will break and yolk starts collecting at the bottom of the screen. Miss too many, and the game will be over. At the end of each round you will be given an opportunity to earn bonus points; you now get to throw all of the eggs you caught back at the bird! As the levels progress, the games speed will increase. There are two difficulty levels available, in the easier variation you get a larger hat to catch the eggs with.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gmw.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/eggomania",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22820,
+        "name": "Entombed",
+        "summary": "Hunted by some foes you have to escape a maze.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/essgvbvar0mbgoqs39xh.jpg",
+        "release_date": 415324800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy,Tactical,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/entombed",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 22838,
+        "name": "Name This Game",
+        "summary": "You have discovered a long-sought-after buried treasure, and just when you thought you have discovered a long-sought-after troubles were over, things get really tough! There's a persistent shark who thinks that the treasure belongs to him, and he is after you! As if that were not enough to contend with, there's a big old octopus sitting right above your trove who keeps reaching down to check things out.\n\nThere you are, shooting at the shark, fighting off the octopus tentacles, and you realize your oxygen supply is running low. Your partner, in the boat, keeps dropping you a line, and you better run over and fill up.\n\nIt is not going to be easy to hold on to your treasure now that you've found it, but we're sure you are not going to give it up without a fight.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/vjcofwouuoxmfujft2on.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/name-this-game",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 23199,
+        "name": "Stargunner",
+        "summary": "Horizontal space shooter",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nof.jpg",
+        "release_date": 410227200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/stargunner--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 23843,
+        "name": "Crackpots",
+        "summary": "We're infested! A bug barrage is swarming out of the sewer, chomping away at every building in town. Entire neighborhoods are now crumb piles! Over in Brooklyn, Potsy, the rooftop gardener, is defeating his beloved building with his only weapon - potted petunias. Be a good neighbor. Help him take potshots at the insect invaders... Quick! When too many bugs crawl into the windows, they'll start eating you out of house and home!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/khyok43rplaxo40njwrr.jpg",
+        "release_date": 421891200,
+        "rating": 71.00396924486303,
+        "rating_count": 5,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/crackpots",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 23854,
+        "name": "Star Fox",
+        "summary": "Star Fox is a video game for the Atari 2600 console, developed and published by Mythicon in 1983. Although the front cover of the game states \"Game 1 in Star Fox Series,\" no sequels were ever made, which is most likely because it received negative reception",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6af5.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/star-fox--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 24015,
+        "name": "Quick Step",
+        "summary": "Quick Step! is a unique take on the Q*Bert formula by adding two player action and a more frantic pace. You are a kangaroo who loves to paint trampolines green. However, a squirrel likes to paint them blue. Naturally, this can result in some hectic competition between the two. Jumping on one of the trampolines will turn it the color of your character and earn you points. During the game the trampolines scroll down to the bottom of the screen before they disappear. Naturally, you must avoid being on a trampoline when it disappears, otherwise you will lose a life.\n\nOccasionally, you may find a special square that will cause your character to flash. If you jump onto a trampoline where the other character is, they will be stunned briefly, giving you an opportunity to make them lose a life. What is truly unique is how the computer player also has a limited number of lives just like the human player does. After one player loses all of their lives, the other player is awarded extra points for his or her remaining lives. If you want to get big points, you have to adopt a different strategy to avoid having your opponent lose all their lives. Truly a unique and fun experience, although the game can be frustrating to play against the computer as you'll find it easy to stay alive longer than the computer.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co835d.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/quick-step",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 24454,
+        "name": "Great Escape",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/oy63t0yzf1cqgzwqghne.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/great-escape",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 24455,
+        "name": "Z-Tack",
+        "summary": "As in Imagic's Atlantis, the city is under attack, but in this case, you are the invader. Destroy the installations while they try to stop you. Many of the installations are hidden in caverns, so you'll need a precision shot to hit them.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cnqixbefzhg6npqle3wp.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/z-tack",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 24468,
+        "name": "Rabbit Transit",
+        "summary": "You are a rabbit who is just trying to get to where you can get a mate and make like a mathematician by multiplying. First you must get through the meadow and across the ledges without losing life and limb.\n\nYou start in a screen called The Mysterious Meadow. You must hop from the top to the river, landing on the turtle while avoiding snakes and choppers that will lose you a life and butterflies that will send you back to start. Do not dally as you are timed and if time runs out, you lose a life. Once you get to the turtle, he will take you to The Land of Ledges. Here you must hop from ledge to ledge and change their color, ala Q*Bert. Beware of the man at the top of the screen, as he will drop stones that will lose you a life. In later levels, he will change some ledges back to their original color, forcing you to retrace your steps. You are still timed so don't delay. After you finish The Land of Ledges, it is off to The Bunny Bushes. This is just a cinematic of you finding a mate and family. You can skip this if you press fire. Then the game starts back at the beginning, but more difficult this time!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/argbibrad8egyvqzq8wq.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/rabbit-transit",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 24495,
+        "name": "Mangia'",
+        "summary": "Your mother has been cooking all day preparing your favorite pasta dish, but then nothing is too good for her favorite! Now, it's only fair that you put a smile on her face, a gleam in her eyes, and a glow in her heart. How? How else! Eat! Eat! - Mangia! Mangia! Come on, it's good for you!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/xkkwg7pm0y4xdnquvsla.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/mangia",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 25732,
+        "name": "Pressure Cooker",
+        "summary": "Business is booming at \"The Grille\". Hamburger orders are just pouring in. But back in the Assembly Room, the Food Dispenser is pouring out condiments everywhere. Help Short-Order Sam fill each order with the proper combination of tomatoes, onions, lettuce and cheese. And don't forget the bun! Then, rush the completed orders to the Wrapping Room fast. Alright cooks, grab your spatulas!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ts9bvuwnsqd86yib0txu.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/pressure-cooker",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 25833,
+        "name": "Private Eye",
+        "summary": "You choose from five different cases to work, each with its own requirements. For example, the first case, \"Safecracker Suite,\" requires you to locate the gun used in a crime and have it verified at the gun store, then locate stolen money and return it to the bank and then capture Henri Le Fiend and turn him into the police station. You have only a limited amount of time before the statute of limitations runs out and Henri Le Fiend gets away.\n\nHindering your investigation are a number of obstacles, including potholes, falling objects, unfriendly animals, and knife-throwing thugs, to name a few.\n\nYou drive around the city in your modified 1935 Model A, which can jump as high as two stories. It can also make 90 and 180 degree turns on a dime. When you make the car jump, you also launch yourself out of it, enabling you to nab suspects in upper story windows.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/jlu6e02byueu9jkrx0gs.jpg",
+        "release_date": 473299200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/private-eye--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40575,
+        "name": "Pigs in Space",
+        "summary": "Prior to starting, players can choose which of the three mini-games they would like to play by selecting the icon for Captain Link, First Officer Piggy, or Dr. Strangepork. Players begin with five lives and receive an extra life at 10,000 points.\n\nCaptain Link's level is a Space Invaders clone that finds Captain Link battling egg-dropping chickens. Bonus points can be scored by shooting Gonzo's spinning head as it crosses the top of the screen. Unlike Space Invaders, the alien chickens do not advance to the bottom of the screen, and the game ends either when Captain Link destroys all the chickens, or all of your lives have depleted.\n\nFirst Officer Piggy's level closely resembles Frogger, in that you must maneuver her up the screen to the Swinetrek before it crosses the screen. Hindering your progress is space spaghetti and meatballs, which fly quickly from the left and right. The meatballs can be eaten if timed right, but if the cosmic pasta hits First Officer Piggy, she tumbles back down the screen. One life will be lost if the Swinetrek is not reached in time.\n\nThe final level is Dr. Strangepork's, who pilots the Swinetrek through a treacherous canyon lined with laser-firing Gonzoids. Destroy the Gonzoids by using the Swinetrek's boomer-ray, a cannon that fires boomerang-like missiles.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ylq.jpg",
+        "release_date": 423619200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/pigs-in-space",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40577,
+        "name": "Solaris",
+        "summary": "Solaris is a space combat game for the Atari 2600 published in 1986 by Atari Corporation. It was developed by Doug Neubauer, who owns the copyright and the Solaris trademark. The game is a sequel to Neubauer's Atari 8-bit family game Star Raiders from 1979. Both games feature an enemy race known as Zylons, but Star Raiders uses a first-person perspective while Solaris is in third-person.\n\nSolaris was at one point going to be based on The Last Starfighter, while the Atari 8-bit version of The Last Starfighter was renamed Star Raiders 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pgx.jpg",
+        "release_date": 531187200,
+        "rating": 51.58157533584846,
+        "rating_count": 7,
+        "genres": "Shooter,Simulator",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/solaris",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40598,
+        "name": "Cosmic Commuter",
+        "summary": "WAY BACK IN THE TWENTIETH CENTURY, a bunch of Ivy League Professors sat around inventing space colonies. They were lauded as visionaries and went on as lecture tours. Do you think they thought about traffic jams in space?\n\nSomehow, we don't think they did.\n\nWe're the G.T.A --- Galactic Travel Authority. The movers of the daily grind, circa 2075 A.D.\n\nAnd we're glad you're working for us now.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5yme.jpg",
+        "release_date": 444441600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/cosmic-commuter",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40603,
+        "name": "Wabbit",
+        "summary": "You are a farmer, named Billie Sue, trying to protect your crops. One patch in particular is giving you trouble. It's surrounded by ten holes from which wabbits dart into your field. Scare off the pesky creatures by throwing rotten eggs at them.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xk6.jpg",
+        "release_date": 399686400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/wabbit",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40615,
+        "name": "Skeet Shoot",
+        "summary": "Pull! The trap springs, and the clay pegeon -- alive with flight -- soars away from you at an unexpected angle. With a fluid motion, you raise your gun to your shoulder as you pivot toward you target. You lead your pegeon, finger on the trigger...your mind racing...challenged by the speeding target before you. Will your reactions be too slow? Too fast? Or right on course? Suddenly you squeeze the trigger!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7myh.jpg",
+        "release_date": 349833600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Sport",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/skeet-shoot",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40618,
+        "name": "Tax Avoiders",
+        "summary": "You are John Q and you want to be rich.\n\nIn this game, you start out on the income screen where you try to collect the money (dollar signs) while avoiding the governmental red tape (look like red snakes). You have only one year to get your money and invest it. Each second, a day goes by. My, how time flies.\n\nOnce a season, you are sent to the investment/tax shelter screen, where you must collect an icon representing an investment and then grab your portfolio (briefcase). Investments have a 50/50 chance of making or losing money. Also on this screen is a character whose color changes.\n\nWhat color he is determines who he is:\nBlack=Eggie, the IRS agent. If he catches you, he will audit you. In these audits, you always lose. You are then taxed at 50% of your income and sent back to the income screen.There are no appeals to tax court.\nPink=Waggie, the CPA. If he catches you (or you go to him), he will charge you $1,000.00 but whatever tax sheltered investment you have, he will put you in a better one.\nGreen=Toodles, the registered investment adviser. If you two meet, he will put you in the best tax sheltered investment available, thus making you the most profit.\n\nAfter each season, you are taxed to an amount determined by your tax shelter. The object is to have $1,000,000.00 at the end of the year after taxes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/xyk0br2qayfhi5jfiryv.jpg",
+        "release_date": 381369600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/tax-avoiders",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40627,
+        "name": "Codebreaker",
+        "summary": "This one's not for stupid people. The goal of codebreaker is to guess a 3 or 4 digit number in 12 tries. The computer lets you know when your on the right track with some vague clues. In the second game, NIM, you and your opponent strategically remove blocks in an attempt to be the one to remove the last block.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/jjgpbkddab7xuidnhoxj.jpg",
+        "release_date": 278726400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/codebreaker",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40628,
+        "name": "Chase the Chuck Wagon",
+        "summary": "In the 80's, the popular commercial for Purina dog food included a dog chasing a tiny chuckwagon across the kitchen floor. Inspired by this, Chase the Chuckwagon was produced by Spectravision and released as a promotional item from the Ralston Purina Company. Buy lots of dog food and you could own this. The simple rarity of this game combined with its historical coolness makes it one of the \"holy grail\" games. The object is to navigate the dog through a maze in an effort to reach the chuckwagon, while avoiding the dog catcher and other obstacles. If he makes it, an animation shows the dog chasing after the chuckwagon and stopping to eat the dog food that falls out of it.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/viyzhnranipz6dcd9pjb.jpg",
+        "release_date": 436492800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/chase-the-chuck-wagon",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40633,
+        "name": "Big Bird's Egg Catch",
+        "summary": "Two chickens are laying eggs. You'll know one's about to drop when a chicken stands up. As they drop down the chutes, Farmer Big Bird moves back and forth to catch them. Different chute patterns make the game more difficult. This kids game is based on the classic Sesame Street character. It is intended for use with the kids controller, which is an oversized keyboard controller into which you insert the included overlay for this game. If you don't have a kids controller, the keyboard controller works fine, but you'll have to figure out what the buttons do",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/xub7eyv7spqbjlsu70is.jpg",
+        "release_date": 436492800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/big-birds-egg-catch",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40650,
+        "name": "A Knight on the Town",
+        "summary": "The object of the game is to save the lovely princess, held captive in the castle tower, and become the object of her affections in the least possible time. You accomplish this by maneuvering your knight (who's not in shining armor) to build a bridge across the moat, avoiding the dangers of the beast, a crocodile, and in the more difficult version a flying dragon who drops fireballs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1scc.jpg",
+        "release_date": 391737600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/a-knight-on-the-town",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40660,
+        "name": "Party Mix",
+        "summary": "Call some friends and mix it up with five wild and crazy games: Bop a Buggy, Tug of War, Wizards' Keep, Down on the Line, and Handcar. Go head-to-head, or in teams of two. Compete against people, not a cold computer. Everyone plays at once.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ykr.jpg",
+        "release_date": 412905600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/party-mix",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40678,
+        "name": "Parachute",
+        "summary": "Guide the parachutist through various obstacles to safety below.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5yfs.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/parachute",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40695,
+        "name": "Sorcerer's Apprentice",
+        "summary": "Help! You are on a magical rescue mission. Your task? Help Mickey stop an army of brooms from flooding the Sorcerer's cavern with water. How? Stop the brooms, and stop the stars from creating more brooms. Turn meteors into empty buckets to bail out water. Where? Meet Mickey in the mountains. When? Immediately!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/rnmptih2cewiswodfdzm.jpg",
+        "release_date": 439084800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/sorcerers-apprentice",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40698,
+        "name": "Save Mary",
+        "summary": "Save Mary is an Atari 2600 action game that revolves around creating platforms to save Mary, the damsel in distress. The character is a humble construction worker who must pick up crates to use as platforms to get Mary to climb up, eventually leading to the top of the valley. The villain of the story is a mustachioed fiend who keeps Mary at the bottom of the valley for his own perverse pleasure.\n\nThe player controls a crane at the top of the valley that moves picks up crates when the button is pressed. Bonus items can be picked up for extra points. The level can be restarted in the following ways:\n\n- The water reaches above Mary's head\n- A crate is knocked into/dropped on Mary\n- Mary is dropped from a high place.\n\nThere is no definite ending, since once all the levels are completed, the game starts over. Therefore, the game loops on into eternity. Save Mary was in production for over 2 years, longer than any other Atari 2600 game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wdi.jpg",
+        "release_date": 1135987200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/save-mary",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40713,
+        "name": "Quadrun",
+        "summary": "Go around the edges of the screen to shoot up at the Captors, rescue Runts, and catch your bullets in this very difficult, and equally rare 2600 action/shooter.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5y1w.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/quadrun",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40716,
+        "name": "Medieval Mayhem",
+        "summary": "Fans of the popular four-player Atari 2600 game Warlords (itself based on an arcade game of the same name) will be happy to learn that 2600 enthusiast Darrell Spice Jr. has created a new 2600 homebrew titled Medieval Mayhem, an updated take on Warlords. While the original version from Atari is still a blast to play, Medieval Mayhem adds arcade features such as the launch dragon, multiple fireballs and a level of polish missing from the original 2600 release. It also includes a menu to select options before starting the game. Medieval Mayhem is a frenetic multi-player game that you can enjoy against your friends (up to four people may play) or against the computer AI!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ieifnbebopdv1xs0cgmu.jpg",
+        "release_date": 1138752000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/medieval-mayhem",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40723,
+        "name": "A Game of Concentration",
+        "summary": "The game is played using a matrix of numbered panels, either 4 x 4 (for 16 panels) or 5 x 6 (for 30 panels). Using the keypad, players enter the number of the panels they wish to reveal. If the images behind the two panels match, the panels are removed and the player scores 1 or 2 points, depending on what difficulty the switch is set to, along with an extra turn.\n\nThe game has a total of eight variations, four each for each matrix size and four have wild cards. Each matrix can be played by either a single player or by two players taking turns; in single-player games, the player attempts to clear the matrix with as few incorrect matches as possible. Also, players can enable wild cards that will match any image on the board.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/gjdnmnguio2umao9fmxo.jpg",
+        "release_date": 283910400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/a-game-of-concentration",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40727,
+        "name": "Sword of Saros",
+        "summary": "Work your way through the evil wizard's maze-like dungeon to find the pieces of the Sword of Saros. When you've found all of the pieces, you can exit the dungeon, ending the game. However, the wizard has sent a bat to hunt you down. When the bat finds you, the wizard will teleport to your spot and send waves of skeletons after you. You must avoid the skeletons to reach the wizard and send him off looking for you again. Magical items you find along the way will help you in your quest.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qzdz9b6h3sbqye8almgl.jpg",
+        "release_date": 431222400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/sword-of-saros",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40734,
+        "name": "Oystron",
+        "summary": "Oystron is an action game in which the player controls a ship using the joystick controller, firing at enemies and collecting pearls dropped by \"space oysters\". The player's ship initially appears on the left side of the screen, and enemies attack from the right. Shooting the space oysters reveals a pearl; the player then collides with the pearl and brings it to the \"pearl zone\" on the left side of the screen. Other enemies appear that attempt to steal the pearls. Collecting eight pearls earns the player a bomb.\n\nAt the end of each level, a boss named \"Oystron\" appears; the player can defeat the Oystron by placing a bomb in its path, or waiting until it changes into a space oyster. Following the appearance of the Oystron is a warp phase, in which the player travels at high speed and must avoid colliding with enemies. The player is given four ships at the beginning of a game, and earns an additional ship every 4000 points",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4luy.jpg",
+        "release_date": 855964800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/oystron",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40771,
+        "name": "Space Canyon",
+        "summary": "Space Cavern is a 1982 shooter video game for the Atari 2600 developed and released by Games by Apollo. Players control a spaceship commander who has landed on a planet and must defend the ship against its hostile creatures. Games by Apollo founder Pat Roper was impressed by the game Demon Attack and tasked Apollo member Dan Oliver with making a game very similar to it. The game was later rereleased as Space Canyon.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5yk7.jpg",
+        "release_date": 391910400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/space-canyon",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40772,
+        "name": "Revenge of the Apes",
+        "summary": "Planet of the Apes, later released as Revenge of the Apes, is a video game originally developed in 1983 by 20th Century Fox for the Atari 2600. Planned as the Planet of the Apes franchise's first video game, it was still in the prototype phase when Fox shuttered its game division during the video game crash of 1983. It went unreleased and was assumed lost until 2002, when collectors identified a mislabeled cartridge as the missing Planet of the Apes game. It was completed and released as Revenge of the Apes by Retrodesign in 2003.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ni0azstvt1rwcx6b8wpt.jpg",
+        "release_date": 1054425600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/revenge-of-the-apes",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40773,
+        "name": "Red Sea Crossing",
+        "summary": "Red Sea Crossing was created by an independent programmer in 1983 and was discovered by the seller at a garage sale in 2007.\n\"It turns out this game was not even known to exist until I found it,\" the seller wrote in the auction's description. \"An AtariAge member used the internet to track down the programmer and I spoke with him and got some more information. He said from what he could remember he advertised it in a local religious magazine but couldn't remember the name. In August of 2011 another AtariAge member found the original ad laying to rest that the game was indeed released in 1983.\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qbwveugnwojvhi4ztbul.jpg",
+        "release_date": 423273600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/red-sea-crossing",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40777,
+        "name": "Gigolo",
+        "summary": "You're a woman who looks for 7 different men.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5yk6.jpg",
+        "release_date": 391737600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/gigolo",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40789,
+        "name": "I Want My Mommy",
+        "summary": "Poor Teddy. He's had a bad dream and now he wants his mommy. How about giving him a hand? Steer him toward the magical stardust ladders. Help him avoid the nasty dream demons who try to block his path. (Mom's sending special kisses to help him out too.) Now if the little guy can just make it up a couple of big mountains, he'll get a big bear hug.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2z79.jpg",
+        "release_date": 412905600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/i-want-my-mommy",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 40790,
+        "name": "Halloween",
+        "summary": "A homicidal maniac has escaped from a mental institution. On Halloween night, the killer returns to his home town to wreak havoc! You are babysitting for a family in a large, two story house. Somehow the vengeful murderer has gotten inside! Can you protect the children and yourself from the fury of his knife?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co986k.jpg",
+        "release_date": 433814400,
+        "rating": 48.55643044619423,
+        "rating_count": 5,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/halloween",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 41108,
+        "name": "Secret Quest",
+        "summary": "It started with one station, then three, then eight. If something isn't done, the aliens will overrun Earth. It is up to you to destroy the stations by setting their self destructs.\n\nYou move from room to room, fighting any enemies you encounter. When you beat an enemy, you get an energy pod or oxygen bottle. Fighting aliens depletes you energy and/or oxygen so kill quickly. Each weapon inflicts different damage, and depletes a different amount of energy. As a rule, the stronger a weapon is, the more energy it requires. You also use oxygen at the rate of one bottle per minute while exploring. Along the way, you will sometimes find sonic keys, and energy sword, sonic blaster or particle beam. Sonic keys are needed for certain doors you encounter in later stations.\n\nOnce you set the self destruct code, a clock starts and you must make it to the teleporter before the time runs out. The game ends when you destroy all eight stations, run out of oxygen or do not get off a station before it self destructs. If you run out of energy, the game does not end but you will not be able to use any weapon so you can't kill monsters so you can't replenish oxygen. Hence, the game won't go long if you run out of energy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pzj.jpg",
+        "release_date": 602294400,
+        "rating": 44.0,
+        "rating_count": 5,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/secret-quest",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 41530,
+        "name": "Blackjack",
+        "summary": "Atari's Blackjack employs a variant of blackjack rules that is so extremely unfavorable to the player, that it would almost certainly never be seen in a real casino because no one would play with them. Splitting pairs is not allowed, and even more substantially, draws are won by the dealer (your bet is not returned to you if you and the dealer get the same card total and neither busts). This represents over a 10% house advantage. The player uses the paddle controller to enter a bet of up to 25 chips from an initial pot of 200. An up card is then presented, and the player decides whether to \"hit\" (accept another card) or stand. The player breaks the bank by obtaining a score of 1,000 chips, or is \"busted\" upon losing everything.\n\nDue to a glitch in the program, while a player is selecting among the options of what to do with the current hand by pressing left or right with the paddle controller, the amount of the player's next bet is modified even though it is defined by a variable that will not be visible until the end of the hand, requiring the player to carefully re-enter it at the start of every hand without pressing the button carelessly or risk wagering an unintended amount.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wey.jpg",
+        "release_date": 241920000,
+        "rating": 34.38461538461539,
+        "rating_count": 7,
+        "genres": "Card & Board Game",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/blackjack",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 46877,
+        "name": "Video Pinball",
+        "summary": "Video Pinball is a loose simulation of an arcade pinball machine: ball launcher, flippers, bumpers, and spinners.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31zy.jpg",
+        "release_date": 347068800,
+        "rating": 44.95412844036697,
+        "rating_count": 6,
+        "genres": "Simulator,Pinball,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/video-pinball",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 46880,
+        "name": "Wall-Defender",
+        "summary": "The mission - you are defending the wall from attacking aliens. Don't let them hit as they make the wall weaker. This sounds simplistic and is, but highly addictive as you score points for every alien destroyed. If a segment of the outer wall is destroyed (by the aliens kamikaze into it) if this happens enough times the outer wall flashes and you need to move in a level, post haste. If you don't, you drift off to space and all is lost. Don't fret though you have a chance to regain lost wall space by simply staying alive. If you stay alive long enough with no more incidents, you can regain that which has been lost...precious wall.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ylc.jpg",
+        "release_date": 412905600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/wall-defender",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 46884,
+        "name": "Word Zapper",
+        "summary": "Word Zapper is a one or two-player, full color, action game with 24 variations, designed to be played on the ATARI (R) Video Computer System (TM) or Sears Video Arcade.\n\nThe Joystick Controller links you with a most profound vehicle of amusement, the rotary wing Word Zapper. It is armed with vertical and horizontal firing lasers and capable of incredible maneuverability.\n\nOpposing you is the Scroll -- a diabolic device designed to wear out the wrist an boggle the mind. The Scroll parades the alphabet across the screen, taunting you to duplicate a word or scrambled letters flashed at the bottom of the screen.\n\nYou must shoot each letter in perfect order, and you must match three words or letter combinations within 99 seconds.\n\nSounds easy? Wait until you meet the Scroll's friend, the Asteroids.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/fv0n5wqysvthiukok6c3.jpg",
+        "release_date": 381369600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/word-zapper",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 46885,
+        "name": "Dragster",
+        "summary": "You have in your hand one of the most exciting video games ever designed. One word of caution: this game takes a little time to learn because it's so challenging. It's very tricky. So, please read these directions and give yourself some practice time. Then you can aim for the World Record.\n\nGame 1: Straight-ahead Dragster, one or two players.\nGame 2: Steerable Dragster, one or two players.\n\nYour Joystick Controller is both the clutch and gear shift for your Dragster; the red button is your gas pedal. Use left Joystick for the top car; right one for bottom car. Hold Joystick with button at the upper left.\n\nTo shift gears, clutch by pushing Joystick to the left and shift by letting the Joystick spring back to the center.\n\nYour car starts each race in neutral (N). There are four gear positions--1, 2, 3, 4--and you must clutch and shift between each gear. You cannot downshift.\n\nWhen the countdown reaches 0, you can start. If you drop into gear too soon, before the end of the countdown, EARLY will appear on the screen and you have to wait for the next race. You can clutch during the countdown, but you cannot drop into 1st until the countdown reaches 0.\n\nThe object of Dragster is to beat your opponent across the screen, or to race against the clock for best time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kth.jpg",
+        "release_date": 318211200,
+        "rating": 42.89308176100631,
+        "rating_count": 6,
+        "genres": "Racing",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/dragster",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 46901,
+        "name": "Dishaster",
+        "summary": "Dishaster is an action game released for the Atari 2600 in 1983 by Zimag. Another version of the game was released by Bit Corporation under the name Dancing Plates which features oriental-themed graphics and adds eight game variations. Dishaster was inspired by the circus tradition of keeping spinning plates suspended on poles. The player controls a girl attempting to keep a group of several spinning plates balanced on poles from falling. The game received negative reviews; criticism focused on the game's repetition and monotony. The girl can stabilize wobbling dishes by pressing the button on the controller. If a plate falls, the player is able to capture it if the girl touches it before it hits the ground, and a new one appears at the top of the pole. The number of poles to spin varies between the selected skill level; there are six on the easiest setting, and ten on the hardest. The player loses if they let four dishes hit the ground",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ylf.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/dishaster",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 54792,
+        "name": "Space War",
+        "summary": "This video game is an Atari 2600 port of Spacewar!, the famous 1962 computer game by Steve Russell. The cartridge comes programmed with 17 game variations. Variations 1 to 13 are duels between two ships and 14 to 17 are for one player. In some of the variations the ships fight near a planet which has gravitational attraction. This concept was used in the Star Control series of games.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ipu.jpg",
+        "release_date": 283910400,
+        "rating": 47.32280819617063,
+        "rating_count": 10,
+        "genres": "Simulator,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/space-war",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 54796,
+        "name": "Submarine Commander",
+        "summary": "You're the commander of a submarine in enemy waters. Use your skills, radar, and luck to take down the enemy ships. With 8 difficulty settings there is a lot of the game to master as you must start to keep an eye on your fuel, torpedoes, radar, and enemy while avoiding depth charges as the difficulty rises. You can fire up to two torpedoes at a time. While enemy shows go by your periscope sink as many as you can. The periscope can turn 360 degrees and look off into the horizon or close to your sub. Some ships move slower than others, and one of the ships moves so fast that the only way to hit it is by tracking it by radar instead of visually.\n\nThis game was never released under any name by Atari. It was a Sears exclusive.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co38fx.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator,Strategy,Tactical",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/submarine-commander--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 54797,
+        "name": "Casino",
+        "summary": "Casino is a collection of three card games: Blackjack, Five-card stud poker, Poker Solitaire.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wn8.jpg",
+        "release_date": 283910400,
+        "rating": 34.83146067415731,
+        "rating_count": 5,
+        "genres": "Card & Board Game",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/casino",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 55104,
+        "name": "Skiing",
+        "summary": "In Skiing, your goal is to ski to the bottom of the mountain in the shortest time possible. The mountain is treacherous with plenty of trees and moguls in the way! There are two different modes of gameplay. In slalom mode, there are a series of gates you need to ski through; missing any will result in a penalty to your time. In downhill mode you just need to ski to the bottom as fast as possible. Each mode includes five different skill levels which affect the length of the course (and the number of gates in slalom mode.)",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3uz.jpg",
+        "release_date": 347068800,
+        "rating": 49.75605406085501,
+        "rating_count": 5,
+        "genres": "Sport,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/skiing--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 57656,
+        "name": "Ice Hockey",
+        "summary": "Ice Hockey is a game of two-on-two ice hockey. One player on each team is the goalie, and the other plays offensive (although, the goalie is not confined to the goal). As in the real sport, the object of the game is to take control of the puck and shoot it into the opposing goal to score points. When the puck is in player control, it moves left and right along the blade of the hockey stick. The puck can be shot at any of 32 angles, depending on the position of the puck when it's shot.\nHuman players take control of the skater in control of (or closest to) the puck. The puck can be stolen from its holder; shots can also be blocked by the blade of the hockey stick.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8354.jpg",
+        "release_date": 378604800,
+        "rating": 48.83246944294864,
+        "rating_count": 6,
+        "genres": "Sport,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/ice-hockey--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 65079,
+        "name": "Birthday Mania",
+        "summary": "This extremely rare game was sold in the U.S. state New Jersey by Personal Games Company. The company marketed it as a great birthday gift. About ten copies of the game were sold. The cartridge was sold with a three folded manual sheet.\n\nThe cartridge has a red label with blue balloons on it and an empty space to write your name on. Each game is personalized to the boy or girl celebrating his or her birthday. When the game loads up it shows his or her name on the opening screen. The basic object of this game is to blow out candles as they fall toward you.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8koi.jpg",
+        "release_date": 473299200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/birthday-mania",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 70265,
+        "name": "Maze Craze: A Game of Cops 'n Robbers",
+        "summary": "In Maze Craze, your goal is to be the first of two players to make it out of a maze! Each player controls a cop that starts on the left, and the first player to make it out the exit on the right wins. The game also includes of variety of options. The maze can be completely visible, completely invisible, or have just a few parts invisible. With invisible mazes you can optionally have the computer provide a sneak peak at the complete maze periodically. To make your task more challenging, one to five robbers may also be placed in the maze. If you are caught by one of the robbers, you will momentarily be stunned giving your opponent an advantage. You can also give your cop the ability to set up a blockade to confuse your opponent. This will look like a regular wall, however you can walk straight through it. The games speed can also be adjusted, from calculatingly slow to extremely fast.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co90mu.jpg",
+        "release_date": 347068800,
+        "rating": 58.8505124519757,
+        "rating_count": 5,
+        "genres": "Puzzle,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/maze-craze-a-game-of-cops-n-robbers",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 71703,
+        "name": "Obelix",
+        "summary": "Obelix is a game where you simultaneously play as Asterix and Obelix maintaining their favorite Gaulish sport of thumping the living daylights out of Roman soldiers. The objective of the game is to help Asterix stun Roman soldiers simply by running into them, and they turn white from blue, while you command good ol'Obelix to throws his oversized Menhirs down at stunned Romans with a splat.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5gpy.jpg",
+        "release_date": 439084800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/obelix--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 79301,
+        "name": "X-Man",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8oxd.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/x-man",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 93457,
+        "name": "Duck Attack!",
+        "summary": "Duck Attack! is an action-adventure video game developed by Will Nicholes for the Atari 2600 console and published by AtariAge. The game was released at the July 2010 Classic Gaming Expo in Las Vegas.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nqb.jpg",
+        "release_date": 1280534400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/duck-attack",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 100183,
+        "name": "Taz",
+        "summary": "Taz, hungry as ever, tries to grab as many snacks as possible.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48kp.jpg",
+        "release_date": 441676800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/taz",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 250219,
+        "name": "Karate",
+        "summary": "Karate is a video game for the Atari 2600 originally published by Ultravision in 1982 for NTSC systems, then re-released in the latter half of the 1980s by Froggo. Supposedly the game was designed by black belt Joseph Amelio. In 1991, Digital Press chose Karate as one of the worst Atari 2600 games of all time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wv8.jpg",
+        "release_date": 410140800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/karate--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 266956,
+        "name": "Space Invaders",
+        "summary": "Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pna.jpg",
+        "release_date": 321494400,
+        "rating": 58.26561552456034,
+        "rating_count": 5,
+        "genres": "Shooter",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/space-invaders--17",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 292096,
+        "name": "Krull",
+        "summary": "Action tie-in with the movie of the same name.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7wyo.jpg",
+        "release_date": 436579200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/krull--1",
+        "cached_at": 1778663163
+      },
+      {
+        "id": 314530,
+        "name": "Gremlins",
+        "summary": "The Atari 2600 adaption of the 1984 film, \"Gremlins\".\n\nIn this version, on the first screen, Mogwai are jumping from the roof to get at hamburgers on the ground. You, as Billy, must catch them before the hit they ground. If you get them all, it is off to the next, faster, level. If you miss eight, then you go to a shooting screen.\n\nOn the shooting screen, gremlins are approaching from the distance. You must shoot them before they reach you. If one reaches you, you lose a life. After they are all dead, it is back to the first screen at a faster level. In later levels, puddles of water will divide the gremlins in two.\n\nA different version of the same name was also released for the 5200, Commodore 64 and Apple II.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pyg.jpg",
+        "release_date": 457488000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "59",
+        "external_url": "https://www.igdb.com/games/gremlins--1",
+        "cached_at": 1778663163
+      }
+    ]
+  }
+}

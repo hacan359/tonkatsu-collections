@@ -1,0 +1,2997 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Game Boy Color Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:12+00:00",
+  "description": "Games released exclusively on Game Boy Color, sourced from Wikipedia category \"Game Boy Color-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 969,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Resident_Evil_Gaiden"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1424,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Conker%27s_Pocket_Tales"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1464,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Perfect_Dark_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 1641,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2447,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Commander_Keen_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2760,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants%3A_Legend_of_the_Lost_Spatula"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2791,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Rugrats%3A_Time_Travelers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2815,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Dexter%27s_Laboratory%3A_Robot_Rampage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 2840,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Night_of_the_Living_Treehouse_of_Horror"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3246,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Powerpuff_Girls%3A_Bad_Mojo_Jojo"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3402,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Mobile_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 3729,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Kirby_Tilt_%27n%27_Tumble"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4068,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Pinball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 4862,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Inspector_Gadget%3A_Operation_Madkactus"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5345,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_New_Addams_Family_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5600,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Gear%3A_Ghost_Babel"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5885,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Powerpuff_Girls%3A_Paint_the_Townsville_Green"
+    },
+    {
+      "media_type": "game",
+      "external_id": 5916,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Mary-Kate_and_Ashley%3A_Get_A_Clue"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8057,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures%3A_Buster_Saves_the_Day"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8058,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures%3A_Dizzy%27s_Candy_Quest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 8128,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Mickey%27s_Racing_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18576,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Shrek%3A_Fairy_Tale_Freakdown"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18950,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Star_Wars_Episode_I%3A_Obi-Wan%27s_Adventures"
+    },
+    {
+      "media_type": "game",
+      "external_id": 21659,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Grandia%3A_Parallel_Trippers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 22228,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Hamtaro%3A_Ham-Hams_Unite%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 23467,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Yu-Gi-Oh%21_Dark_Duel_Stories"
+    },
+    {
+      "media_type": "game",
+      "external_id": 24164,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/International_Karate_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 25968,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Survival_Kids"
+    },
+    {
+      "media_type": "game",
+      "external_id": 36878,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tomb_Raider_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45167,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Barbie%3A_Magic_Genie_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45168,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Barbie_Fashion_Pack_Games"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45201,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Batman%3A_Chaos_in_Gotham"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49831,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Project_S-11"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49832,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Powerpuff_Girls%3A_Battle_Him"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49836,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Bust-a-Move_Millennium"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49837,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_Quest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49838,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Bomberman_Max"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49854,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Looney_Tunes_Collector%3A_Martian_Revenge%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49855,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Wendy%3A_Every_Witch_Way"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49856,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Dragon_Ball_Z%3A_Legendary_Super_Warriors"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49858,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Return_of_the_Ninja"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49860,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Monster_Rancher_Explorer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49861,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Pitfall%3A_Beyond_the_Jungle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49863,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Aliens%3A_Thanatos_Encounter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49864,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Papyrus_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49865,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Oddworld_Adventures_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49868,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Action_Man%3A_Search_for_Base_X"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49872,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Metal_Walker"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49874,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Warlocked"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49875,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tetris_DX"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49876,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Test_Drive_2001"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49878,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Snoopy_Tennis"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49882,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Looney_Tunes_Collector%3A_Martian_Alert%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49884,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Stuart_Little%3A_The_Journey_Home"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49887,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/X-Men%3A_Mutant_Wars"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49891,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Motocross_Maniacs_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49892,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Quest%3A_Brian%27s_Journey"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49893,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Diva_Starz%3A_Mall_Mania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49898,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Chase_H.Q.%3A_Secret_Police"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49899,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/X-Men%3A_Wolverine%27s_Rage"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49901,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Ultimate_Paintball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49903,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/NBA_Jam_2001"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49904,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/NBA_3_on_3_featuring_Kobe_Bryant"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49906,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Test_Drive_Cycles"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49907,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Road_Champs%3A_BXS_Stunt_Biking"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49908,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/International_Rally"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49912,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Men_in_Black_2%3A_The_Series"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49913,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Billy_Bob%27s_Huntin%27-n-Fishin%27"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49915,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Babe_and_Friends"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49919,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Little_Mermaid_II%3A_Pinball_Frenzy"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49920,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Lil%27_Monster"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49925,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Hexcite"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49927,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Hands_of_Time_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49928,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Gobs_of_Games"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49929,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Gex_3%3A_Deep_Pocket_Gecko"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49931,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/F-18_Thunder_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49940,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Dragon_Dance_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49941,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Dracula%3A_Crazy_Vampire"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49947,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Rhino_Rumble"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49949,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Quest_for_Camelot_%281998_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49950,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Quest%3A_Fantasy_Challenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49952,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Pro_Pool"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49957,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/NASCAR_Challenge"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49958,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Jim_Henson%27s_Muppets_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49962,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Millennium_Winter_Sports"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49965,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Mask_of_Zorro_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49967,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tasmanian_Devil%3A_Munching_Madness"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49969,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Spawn_%281999_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49970,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Speedy_Gonzales%3A_Aztec_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49971,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Spider-Man_2%3A_The_Sinister_Six"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49979,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Zebco_Fishing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49980,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Xtreme_Wheels"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49981,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/WWF_Betrayal"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49982,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Winnie_the_Pooh%3A_Adventures_in_the_100_Acre_Wood"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49986,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tweety%27s_High-Flying_Adventure_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49987,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Trouballs"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49989,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Trick_Boarder"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49991,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Toonsylvania_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49993,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tomb_Raider%3A_Curse_of_the_Sword"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49995,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tech_Deck_Skateboarding"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49997,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Qix_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50007,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Robopon_Sun%2C_Star%2C_and_Moon_Versions"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50010,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Little_Nicky_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50016,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_%282000_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50017,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Elevator_Action_EX"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50022,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Robot_Wars%3A_Metal_Mayhem"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50023,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Rip-Tide_Racer"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50026,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Monkey_Puncher"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50032,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Cool_Bricks"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50034,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Merlin_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50037,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Fish_Files"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50058,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tweenies%3A_Doodles%27_Bones"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50069,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Supercross_Freestyle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50549,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Noddy_and_the_Birthday_Party"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50550,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/O%27Leary_Manager_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 50557,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Super_Chinese_Fighter_EX"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65512,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Ferret_Monogatari%3A_Watashi_no_Okini_Iri"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65546,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Dokapon_MillenniumQuest"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65583,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Disney%27s_Beauty_and_the_Beast%3A_A_Board_Game_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65584,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Dinosaur%27us"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65681,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Armada_F/X_Racers"
+    },
+    {
+      "media_type": "game",
+      "external_id": 66342,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Carl_Lewis_Athletics_2000"
+    },
+    {
+      "media_type": "game",
+      "external_id": 67718,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Evel_Knievel_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 67765,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Power_Quest_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 69114,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Tales_of_Phantasia%3A_Narikiri_Dungeon"
+    },
+    {
+      "media_type": "game",
+      "external_id": 70497,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Animorphs_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 71725,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Antz_Racing"
+    },
+    {
+      "media_type": "game",
+      "external_id": 78875,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gear_Pocket_2"
+    },
+    {
+      "media_type": "game",
+      "external_id": 79920,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Chee-Chai_Alien"
+    },
+    {
+      "media_type": "game",
+      "external_id": 80764,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Daikatana_%28GBC_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 87746,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Hoyle_Card_Games"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92272,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/3D_Pocket_Pool"
+    },
+    {
+      "media_type": "game",
+      "external_id": 92273,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/10-Pin_Bowling_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93363,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Klustar"
+    },
+    {
+      "media_type": "game",
+      "external_id": 93431,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Top_Gear_Pocket"
+    },
+    {
+      "media_type": "game",
+      "external_id": 94622,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Antz_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 96797,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Pocket_Bowling"
+    },
+    {
+      "media_type": "game",
+      "external_id": 97487,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Spirou%3A_The_Robot_Invasion"
+    },
+    {
+      "media_type": "game",
+      "external_id": 104241,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Monster_Rancher_Battle_Card_GB"
+    },
+    {
+      "media_type": "game",
+      "external_id": 118557,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Mission%3A_Impossible_%281999_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 129173,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Ganbare_Goemon%3A_Mononoke_D%C5%8Dch%C5%AB_Tobidase_Nabe-Bugy%C5%8D%21"
+    },
+    {
+      "media_type": "game",
+      "external_id": 142996,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Turok_3%3A_Shadow_of_Oblivion_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 143008,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Croc_%282000_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 143578,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 146696,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Turok_2%3A_Seeds_of_Evil_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 146987,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Turok%3A_Rage_Wars_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 165236,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Croc_2_%282001_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 165365,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Uno_%28Game_Boy_Color_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 165581,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Toy_Story_2_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 206690,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%282000_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 209817,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Land_Before_Time_%282001_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 248746,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Gex%3A_Enter_the_Gecko_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 259482,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Woody_Woodpecker_Racing_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 265046,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/The_Grinch_%28Game_Boy_Color_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 272020,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Dragon%27s_Lair_%28GBC_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 282666,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Sweet_Ange"
+    },
+    {
+      "media_type": "game",
+      "external_id": 298504,
+      "platform_id": 22,
+      "comment": "https://en.wikipedia.org/wiki/Mary-Kate_and_Ashley%3A_Pocket_Planner"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 969,
+        "name": "Resident Evil Gaiden",
+        "summary": "Resident Evil Gaiden is a Resident Evil game for the Game Boy Color. It is non-canon, as its plot is contradicted by the main series in key parts and its events are ignored. The game features three playable characters and consists of exploring areas, collecting items and combating enemies in the process. Unlike previous entries in the series, Resident Evil Gaiden assumes a top-down perspective for the environment portions that, upon approaching an enemy, changes to a first-person combat mode with a reticle constantly moving to the left and right. To attack, the player has to press the action button while the reticle is in range of the enemy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2xix.jpg",
+        "release_date": 990403200,
+        "rating": 55.4481030871229,
+        "rating_count": 26,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/resident-evil-gaiden",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 1424,
+        "name": "Conker's Pocket Tales",
+        "summary": "It's Conker's birthday and someone crashed his party! The Evil Acorn has stolen all of Conker's presents and kidnapped his best chipmunk friend, Berri. Now you must take on the role of the bushy-tailed hero, pursuing your nemesis throughout 6 visually-stunning worlds to rescue Berri and save your birthday from complete disaster. Strain your brain to solve challenging puzzles, battle the Evil Acorn's horde of minions with your trusty slingshot, and even flex your muscles in sporting events as you track your foe to the final showdown!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4smz.jpg",
+        "release_date": 928800000,
+        "rating": 52.85085557355116,
+        "rating_count": 13,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/conker-s-pocket-tales",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 1464,
+        "name": "Perfect Dark",
+        "summary": "Perfect Dark is an action video game developed by Rare and released for the Game Boy Color handheld console in 2000. As a prequel to its Nintendo 64 counterpart, the game follows agent Joanna Dark as she completes her training at the Carrington Institute research centre and uncovers information against rival corporation dataDyne. The gameplay revolves around shooting opponents and completing objectives such as rescuing hostages or recovering items. The game also includes a multiplayer mode where two players may compete against each other in several deathmatch modes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ui8.jpg",
+        "release_date": 965088000,
+        "rating": 62.12990050960017,
+        "rating_count": 9,
+        "genres": "Shooter,Tactical,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/perfect-dark--2",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 1641,
+        "name": "James Bond 007: The World Is Not Enough",
+        "summary": "James Bond 007: The World Is Not Enough is based off of the 1999 James Bond film of the same name. In contrast to the Nintendo 64 and Playstation versions, this game only has eight missions and features a 2D overhead view instead of a 3D first-person. There is no multiplayer, no difficulty levels, and no save feature. Passwords are used to skip to later levels and unlock certain cheats.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5xsq.jpg",
+        "release_date": 1000166400,
+        "rating": 73.46240312716824,
+        "rating_count": 35,
+        "genres": "Shooter",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/james-bond-007-the-world-is-not-enough",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 2447,
+        "name": "Commander Keen",
+        "summary": "To the kids at school, you're 8-year-old Billy Blaze. To alien enemies in the galaxy you're superhero Commander Keen and it's up to you to save the Earth from destruction. As you put on your brother's football helmet you'll blast away on your Megarocket to space-worlds far away from home. Your mission: Face off against intergalactic creatures, recover the lost plasma crystals and save humanity -- it's all in a days work. Created by the game masterminds at id SoftwareTM, Commander Keen in the ultimate outer space blast-a-thon!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tph.jpg",
+        "release_date": 990057600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/commander-keen",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 2760,
+        "name": "SpongeBob SquarePants: Legend of the Lost Spatula",
+        "summary": "SpongeBob SquarePants makes his first appearance on Game Boy Color in the Legend of the Lost Spatula. As the wacky-but-popular character from the TV cartoon you'll head out on an undersea quest to find the Flying Dutchman's Golden Spatula in order to become the ocean's greatest short-order cook. More than 10 stages full of adventure and side-scrolling action make up this epic treasure hunt. Along the way, you'll meet and interact with many of the show's popular recurring characters like Mr. Krabs, Squidward, Sandy Cheeks, and Patrick Star. Keep an eye out for hidden clues to the Golden Spatula's whereabouts as you make your way through each stage, but also be wary of enemies and obstacles. Colorful cutscenes tell the story between levels, and you can use the password system to save your progress through the game. SPONGEBOB SQUAREPANTS: Legend of the Lost Spatula is only compatible with Game Boy Color systems.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4uqg.jpg",
+        "release_date": 983750400,
+        "rating": 58.94273832647649,
+        "rating_count": 5,
+        "genres": "Platform,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/spongebob-squarepants-legend-of-the-lost-spatula",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 2791,
+        "name": "Rugrats: Time Travelers",
+        "summary": "The Rugrats are about to find out that the only thing more exciting than traveling through your own backyard is traveling through time. After discovering a time machine, the kids accidentally scatter themselves throughout history, and you're the only one who can reunite the famous babies with their beloved cohorts. Each of the game's 12 levels puts you in charge of a different character, charging you with tasks like finding a lost toy, locating fellow Rugrats, or tracking down mysterious items. The whole debacle begins when Chuckie won't enter the time machine with the other babies, but he changes his mind as soon as the rest if the gang disappears and leaves him all alone. Chuckie's attempt to track down the others puts him in the 1800s, but none of his friends are there. In fact, Tommy is in ancient Egypt, Angelica is at an old circus, Phil is trapped in prehistory, and Dil is, somehow, lost in space! Can you collect all of the lost items and round up the babies before it's too late?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9bxk.jpg",
+        "release_date": 941414400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/rugrats-time-travelers",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 2815,
+        "name": "Dexter's Laboratory: Robot Rampage",
+        "summary": "Robots are running amok in Dexter's lab! Based on the popular cartoon series, DEXTER'S LABORATORY: Robot Rampage for the Game Boy Color puts you in the little boots of the Dexter as he tries to reclaim his lab from Mandark's invading mechanical mayhem. You'll have to ride elevators, dive down shafts, hide in shadows, and occasionally blast the robotic intruders as you hunt down your evil nemesis. There are three different outfits you can wear to make infiltrating the lab easier: wear your standard lab-coat or one of two special robo-suits, depending on what the situation calls for. You can also use Dexter's high-tech weapons to dispatch the enemy through level after level of fast and furious action.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4zc4.jpg",
+        "release_date": 974160000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/dexter-s-laboratory-robot-rampage",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 2840,
+        "name": "The Simpsons: Night of the Living - Treehouse of Horror",
+        "summary": "The Simpsons: Night of the Living - Treehouse of Horror is a platform game for the Game Boy Color. The game features seven side-scrolling levels in which the player controls the members of the Simpson family. The game features seven levels, each one of which re-creates a tale from the annual Treehouse of Horror episodes. All five members of the Simpson family have their own level, except for Homer who has three.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co499b.jpg",
+        "release_date": 985564800,
+        "rating": 69.43807184147033,
+        "rating_count": 5,
+        "genres": "Platform,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/the-simpsons-night-of-the-living-treehouse-of-horror",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 3246,
+        "name": "Powerpuff Girls: Bad Mojo Jojo",
+        "summary": "The Powerpuff Girls make their first appearance on the Game Boy Color with POWERPUFF GIRLS: Bad Mojo Jojo. You take the role of Blossom, who is known for her intelligence. Blossom must punch and kick her way through levels filled with puzzles that need solving, and she's got to collect all of the icons in each level. Some of them are power-ups that allow Blossom to use an ice beam to temporarily freeze her enemies, while others are artwork that can be traded between the three POWERPUFF GIRLS games. Ultimately, Blossom must come face to face with her nemesis, Mojo Jojo. Will Blossom be able to save Townsville from certain doom? Find out by playing POWERPUFF GIRLS: Bad Mojo Jojo.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5qbe.jpg",
+        "release_date": 973036800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/powerpuff-girls-bad-mojo-jojo",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 3402,
+        "name": "Mobile Golf",
+        "summary": "A spin-off of the Mario Golf series. Much like the Game Boy Color version of Mario Golf, the player started out with four human characters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3e8y.jpg",
+        "release_date": 989539200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/mobile-golf",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 3729,
+        "name": "Kirby Tilt 'n' Tumble",
+        "summary": "Peacefully sleeping in his Dream Land, Kirby drifts lazily amongst the beauty of the sky. A beauty that King Dedede cannot abide with. Jealous of the sky's wondrous splendor, King Dedede has acquired a tool that will let him steal the night's stars, plunging the world into eternal drab daylight. When Kirby awoke, he found that it was still daytime. And evermore, it would be daytime, unless Kirby made the journey to find King Dedede and recover the stars to restore the night's sky. So begins the latest Kirby adventure, another action adventure with the morphing marshmallow in a starnge fantasy world. However, the one thing separating this latest adventure is the control scheme. Here, you don't control Kirby directly. Instead, you guide Kirby by tipping your system to roll the little round pink puff through a series of mazes. If you get in a jam you can make Kirby jump by a controller press, and Kirby can still acquire weapons from other enemies, but the real skill is using the tilting to your advantage.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wbo.jpg",
+        "release_date": 966988800,
+        "rating": 70.14444205226677,
+        "rating_count": 11,
+        "genres": "Puzzle",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/kirby-tilt-n-tumble",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 4068,
+        "name": "Pokémon Pinball",
+        "summary": "There are two tables in the game, red and blue. Each table has its own details and gameplay elements.\n\nEach table has different \"locations\" that you play, which determine which Pokémon are available for capture. A subset of available locations are displayed slot-machine style in the beginning of a game, and pressing A will select your starting location and launch the first ball into play. After that, each table has its own mechanism for advancing to the next location, including the locations not available at the start of the game.\n\n\"Catch Mode,\" when activated, starts a 2 minute window of opportunity where you can attempt to capture a Pokémon. Once you activate \"catch mode,\" you must hit the pop bumpers 6 times. Each hit unlocks 1/6 of an image of the Pokémon currently up for capture. Once the image is complete, the Pokémon appears on the table, where it must be hit 4 times with the ball to capture it.\n\n\"Evolution Mode,\" when activated, starts a 2 minute window of opportunity where you select a captured Pokémon (from the current game in progress only) and attempt to evolve it into another form. This is the only way to add the evolved form to your Pokédex. Once you select a Pokémon, you must hit targets on the playfield. There are up to 6 targets, but only 3 of them have items in them you need to evolve a Pokémon. The others create a time-wasting sequence before you can hit targets again. If you hit a target with an item, the item appears on the playfield and must be collected with the ball. Once you've collected 3 items, the hole in the center of the board opens up. Sinking the ball in the hole successfully evolves the Pokémon.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4y.jpg",
+        "release_date": 924048000,
+        "rating": 67.90424251865554,
+        "rating_count": 119,
+        "genres": "Pinball,Arcade",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/pokemon-pinball",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 4862,
+        "name": "Inspector Gadget: Operation Madkactus",
+        "summary": "The evil Dr. Claw is about to unleash the deadly MadKactus virus on the world, and it's up to Inspector Gadget to stop him. Since Gadget always needs a little help, his niece Penny and their dog Brain are at the ready to make their contribution. You, as the enigmatic Inspector, will have to work your way through 20 levels that span five different worlds. Luckily, many of your famous devices are available to help out including the helicopter, spring arms, rocket-powered roller skates, and hammer hat. If there is something that you can't do as Gadget, you can switch characters and use Penny or Brain to get past an obstacle or solve a puzzle. Gather up your go-go gadgets and get ready to save the world from Dr. Claw in INSPECTOR GADGET.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ai2dzz281rywcg8nojo5.jpg",
+        "release_date": 975628800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/inspector-gadget-operation-madkactus",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 5345,
+        "name": "The New Addams Family",
+        "summary": "They're creepy, kooky, mysterious, spooky, and in trouble up to their ears! It seem that a nefarious real estate agent has designs on turning the family mansion into a high-rent amusement park, and the only way the Addams family can save their old haunt (no pun intended) is to win a court battle. Since courtroom dramas don't make for good video games, the object here is to help the well-meaning Addams clan locate the original ownership papers for the house in order to prove that the land is rightfully theirs. You'll be able to explore 30 massive levels of spooky territory making your way through the mansion, the high court, town hall, a greenhouse, a mineshaft, city streets, and more. There are plenty of power-ups available throughout the game, and each level sports a movie sequence featuring characters from the popular television series. You don't have to be even remotely strange or morbid to get plenty of thrills and chills from The New Addams Family.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5w6d.jpg",
+        "release_date": 1008547200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/the-new-addams-family",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 5600,
+        "name": "Metal Gear: Ghost Babel",
+        "summary": "Metal Gear: Ghost Babel is a Game Boy Color spinoff of the popular stealth action game Metal Gear Solid. This is not a port of said game but an original game made specifically for the Game Boy Color. Metal Gear: Ghost Babel is a non-canon game that serves as an alternate sequel to the events of the original Metal Gear.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobiso.jpg",
+        "release_date": 956534400,
+        "rating": 78.335800323211,
+        "rating_count": 40,
+        "genres": "Shooter,Tactical,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/metal-gear-ghost-babel--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 5885,
+        "name": "Powerpuff Girls: Paint the Townsville Green",
+        "summary": "The Powerpuff Girls return to the Game Boy Color with their second game, POWERPUFF GIRLS: Paint the Townsville Green. This time around, the evil Gangrene gang is causing trouble in the city and it is up to Buttercup to battle through the town and stop them. Since she is known for her physical strength, Buttercup uses it throughout the game to destroy enemies and anything else that gets in her way. Of course, all this fighting can wear on a girl, but the power-ups scattered throughout the levels will help aid the fight. Along with the power-ups, there are collectable items hidden in the game as well. After collecting these items you can trade them with the other two POWERPUFF games via link cable. Help Buttercup save the day in POWERPUFF GIRLS: Paint the Townsville Green.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5qbj.jpg",
+        "release_date": 975369600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/powerpuff-girls-paint-the-townsville-green",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 5916,
+        "name": "Mary-Kate & Ashley: Get a Clue!",
+        "summary": "Mary-Kate, Ashley, and their dog Clue are on the case in MARY-KATE & ASHLEY: Get a Clue! You take control of the adorable twins and their dog as they try to collect clues to solve five different mysteries. Each character has a special ability: Mary-Kate can bounce on her head and spring to high places, Ashley can flip switches or pick up Clue to use as a weapon, and Clue can travel through tight spaces and carry the girls on his head. In each of the 50 levels, the girls must collect puzzles pieces, which requires using all of the characters' special abilities. Should any one character die while trying to solve a stage, the stage has to be repeated from the beginning. Help the Olsen twins solve the cases with MARY-KATE & ASHLEY: Get a Clue!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/sfben17pkmhmrrgtj8mk.jpg",
+        "release_date": 959644800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Puzzle,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/mary-kate-ashley-get-a-clue",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 8057,
+        "name": "Tiny Toon Adventures: Buster Saves the Day",
+        "summary": "Can these cartoon cuties ever catch a break? Not in this tough game for the Game Boy Color. It seems that the nefarious Max has kidnapped the TINY TOONS bunch and imprisoned them somewhere on the campus of ACME Loonyversity. Buster is the only Toon that has managed to evade Max, and now you've got to help him rescue the other characters before it's too late. Guide everyone's favorite wisecracking rabbit through multiple stages of adventures, armed only with his ability to think quickly and hop. ACME Loonyversity makes for an excellent video game setting, using the campus as a springboard to utter hilarity. There are plenty of familiar faces along the journey, as well as a handful of power-ups to make your task a little less daunting. Designed specifically to appeal to younger gamers, cartoon fanatics, and folks with an offbeat sense of humor, Buster Saves the Day is one rollicking good time.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4zck.jpg",
+        "release_date": 993859200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tiny-toon-adventures-buster-saves-the-day",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 8058,
+        "name": "Tiny Toon Adventures: Dizzy's Candy Quest",
+        "summary": "This is a puzzle solving game in which the player (as Dizzy from the Tiny Toons Cartoon) has to collect and return different types of candy to a friendly robot that needs the candy to free himself from Montana Max.\n\nThe game is divided in 5 worlds (The Studios, Ice World, City, Gogo Dodo's world, Looniversity) with varying numbers of sublevels.\n\nGetting to the candy is made complicated by conveyor belts, trap doors and fans as well as dissolving bridges etc. To add to the trouble, clones of popular Tiny Toon characters (Plucky Hamton, Furrball etc.) are programmed to attack the player.\n\nExtras can be collected for extra energy, time etc. The game is presented from a top down perspective. Estimated playtime approx. 30 hours.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/e3mnk81rwj0n4gzbowou.jpg",
+        "release_date": 1001894400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tiny-toon-adventures-dizzys-candy-quest",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 8128,
+        "name": "Mickey's Racing Adventure",
+        "summary": "While everyone is preparing for the town carnival, Pete sends his henchmen to steal all of the decorations. Now, it is up to Mickey, Minnie, Donald, Daisy, and Goofy to race Pete's henchmen and reclaim the decorations. Race on 20 different courses that take place on land and water. By winning races, the characters earn coins that unlock bonuses. Put Pete and his cronies in their place with MICKEY'S RACING ADVENTURE.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dll.jpg",
+        "release_date": 943228800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/mickeys-racing-adventure",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 18576,
+        "name": "Shrek: Fairy Tale Freakdown",
+        "summary": "The wackiest computer-animated film of all time has its own classic hand-held game! Boasting fast-paced thrills and the most hilarious characters ever portrayed in a video game, SHREK: Fairy Tales Freakdown turns the story of the movie into a fighting game that players of all ages will love. Taking six familiar faces from the popular film, Fairy Tales Freakdown pits the unlikely combatants in a series of battles against one another each fight taking place in a classic SHREK environment. Solid gameplay will earn you the right to play as one of three locked characters, and each brawler is characterized by a unique (and highly comical) fighting style. The mostly non-violent fighting closely mirrors the humor of the film, resulting in some truly memorable melees. Using animations that are straight from the film, the game delivers the look and feel that made SHREK so successful. Play alone or take on a friend in this lighthearted, tournament-style fighting game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co987j.jpg",
+        "release_date": 991094400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/shrek-fairy-tale-freakdown",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 18950,
+        "name": "Star Wars: Episode I - Obi-Wan's Adventures",
+        "summary": "The Republic is in grave peril: the evil Trade Federation has Naboo in its clutches and all appears to be lost. The only hope is a lone Jedi Knight. In OBI WAN'S ADVENTURES, you take control of Obi Wan Kenobi and lead him through his treacherous battle to free the planet Naboo.\n\nDanger lurks around every corner in the form of Federation Droids and the nefarious Darth Maul. With lightsaber in hand and fueled by the power of the Force, Obi Wan will give his all to restore order to the Republic and eradicate the Sith Lord once and for all.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coby7u.jpg",
+        "release_date": 975283200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/star-wars-episode-i-obi-wans-adventures",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 21659,
+        "name": "Grandia: Parallel Trippers",
+        "summary": "This is the story of Yuuhi's journey to return home. To do this he must obtain three keys from different areas of the world so that he can unlock a seal in the Tower of White. The evil Gurgan, who is responsible for Yuuhi's appearance in this new world, must be defeated!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6irv.jpg",
+        "release_date": 977443200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/grandia-parallel-trippers",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 22228,
+        "name": "Hamtaro: Ham-Hams Unite!",
+        "summary": "Hamtaro: Ham-Hams Unite! is a Role-Playing game, developed by Pax Softonica and published by Nintendo, which was released in 2001.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qap.jpg",
+        "release_date": 987811200,
+        "rating": 79.82392514552015,
+        "rating_count": 5,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/hamtaro-ham-hams-unite",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 23467,
+        "name": "Yu-Gi-Oh! Dark Duel Stories",
+        "summary": "Yu-Gi-Oh! Dark Duel Stories, released in Japan as Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent, is a Game Boy Color video game and the third title in the Yu-Gi-Oh! Duel Monsters series of games. It was released in Japan on July 13, 2000, and it was the first Yu-Gi-Oh! video game to be released outside of Japan, with a United States release date of March 19, 2002.\n\nPlayers of the game can trade and battle with other players using a link cable.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yb0.jpg",
+        "release_date": 963446400,
+        "rating": 51.95816801850732,
+        "rating_count": 9,
+        "genres": "Strategy,Turn-based strategy (TBS),Card & Board Game",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/yu-gi-oh-dark-duel-stories",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 24164,
+        "name": "International Karate 2000",
+        "summary": "The classic karate fighter is back on the Game Boy Color, remade with the nostalgic gameplay that fans around the world will adore, and new play modes to keep the action fresh and exciting. Hiyah!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ax0.jpg",
+        "release_date": 940550400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/international-karate-2000",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 25968,
+        "name": "Survival Kids",
+        "summary": "You wash up on the shore of a deserted island after the cruise ship that you were on with your parents sank in a storm. Unfortunately, your parents are nowhere in sight. Starting with only a knife and a broken radio, you must learn how to survive on the island until someone can rescue you. Food, water, and rest are your main concerns. Luckily, there are plenty of berries, mushrooms, and meat around the island and fresh water flows in all of the streams. As another stroke of luck, there are hollow trees that provide a comfortable place to take a nap. Rather than spend your whole time looking for food and water, collect as many items that a scattered throughout the island. Rocks, sticks, leaves, and other items can be turned into tools that will make your life easier. Try to survive until you are rescued in SURVIVAL KIDS.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8hhx.jpg",
+        "release_date": 929577600,
+        "rating": 79.54466305796673,
+        "rating_count": 7,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/survival-kids",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 36878,
+        "name": "Tomb Raider Starring Lara Croft",
+        "summary": "Tomb Raider is an action-adventure video game released for the Game Boy Color. This release is significant as it is the first portable game in the Tomb Raider series. This version has the standard Tomb Raider gameplay of running, jumping and switch-flipping, but presented in a side-view 2D style, reminiscent of Flashback. At Lara's disposal are 25 or so moves, which are crammed onto the 2 GBC buttons. There are also game-save crystals at special points throughout the levels. Although it shares its title with the first entry in the series, Tomb Raider for Game Boy Color follows a different storyline.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hbn.jpg",
+        "release_date": 960422400,
+        "rating": 82.87082701797422,
+        "rating_count": 5,
+        "genres": "Platform,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tomb-raider-starring-lara-croft",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 45167,
+        "name": "Barbie: Magic Genie Adventure",
+        "summary": "Barbie: Magic Genie Adventure is an Action game, developed by Vicarious Visions and published by Mattel, which was released in 2000.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6t6u.jpg",
+        "release_date": 973036800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/barbie-magic-genie-adventure",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 45168,
+        "name": "Barbie: Fashion Pack Games",
+        "summary": "Discover a world of fashion fun with Barbie! Play the exciting games inside her virtual pink Back Pack! Activities & puzzles feature fashion items like jewelry, clothes & shoes! Complete each level to win special fashion accessories to dress up Barbie & her friends!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25bh.jpg",
+        "release_date": 970358400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/barbie-fashion-pack-games",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 45201,
+        "name": "Batman: Chaos in Gotham",
+        "summary": "The Batman returns on Game Boy Color with BATMAN: Total Chaos in Gotham City. Based on the popular animated BATMAN series, this single-player action game allows you to don the cowl of one of two Bat-heroes: Batman or Batgirl. Some of the Dark Knight's famous arch-villains have escaped and are causing serious trouble in Gotham, and it's up to you to put them back where they belong. Everyone from Poison Ivy to the Clown Prince of Crime the Joker himself is here to wreak havoc and keep the caped crusader busy. Grab your utility belt and assault 18 stages of varied action that take you on a tour of Gotham City. Much of the action is played from a side-scrolling perspective, but some levels have you taking out the Batmobile or the Batcycle in overhead high-speed excitement. Naturally, Batman and Batgirl are both packing their usual assortment of weapons and tools including the Batarang, the grappling hook, smoke bombs, and more.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ipw.jpg",
+        "release_date": 987379200,
+        "rating": 67.54223976555346,
+        "rating_count": 5,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/batman-chaos-in-gotham",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49831,
+        "name": "Project S-11",
+        "summary": "When a vicious crew of aliens decides to hone in on Earth and do some damage, you're the planet's only hope for salvation. You'd better be in top form as you command a killer spacecraft out into orbit in hopes of rescuing humanity from unthinkable misery. Each of the eight stages in PROJECT S-11 poses unique challenges, and each setting is more harrowing than the last. Although you're going it alone in this one, there are four different types of power-ups hidden throughout the game to give the boost you'll need to survive and wipe out the terrifying extra-terrestrials. You'll benefit from a complete statistical readout that adorns the right side of your screen, keeping you abreast of all necessary information: your score, your ship's armor level, and the number of bombs you have stored up for combat. The game's fast-paced action looks excellent in full color, and the intensity of it will have you breaking a sweat before you're through the first level. Those aliens had better look out with you at the controls, Earth stands a fighting chance.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4eqy.jpg",
+        "release_date": 979430400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/project-s-11",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49832,
+        "name": "The Powerpuff Girls: Battle HIM",
+        "summary": "One of three POWERPUFF GIRLS games released together on the Game Boy Color, THE POWER PUFF GIRLS: Battle Him cats you in the role of the lovable Bubbles. Bubbles' nurturing personality shines in the video game, as you help her collect power-ups and battle the infamous, evil \"Him.\" She might be an elementary school student, but she'll prove just how dedicated she is to crime fighting, as you help Bubbles shoot her way through level after level of original action. Many of the items that you collect throughout the adventure can be traded for others via friends playing the other POWERPUFF GIRLS games on their systems. Although it's a one-player game, the trading aspect gives the experience a significantly interactive element. Of course, the brilliant sense of humor from the cartoon series is present throughout the adventure, as are all of the other characters you've come to love. Handheld video games just don't get much more creative (or fun) than this.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5qbn.jpg",
+        "release_date": 985651200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/the-powerpuff-girls-battle-him",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49836,
+        "name": "Bust-A-Move Millennium",
+        "summary": "BUST-A-MOVE MILENNIUM EDITION on Game Boy Color brings a bevy of often-requested new features to this classic puzzler. Bubbles of different colors descend from the top of the screen in clumps. Using your blaster that fires colored bubbles of your own, you must attempt to clear the screen as best as you can. BUST-A-MOVE MILENNIUM EDITION offers five unique modes of play. In the returning Puzzle mode, you'll play through a huge number of new stages of bubble-busting action that require careful planning and fast reflexes. Challenge mode also returns to test your BUST-A-MOVE skills. In the brand new Story mode, you'll take on a series of increasingly difficult computer opponents in a battle to the finish. Also new is a mode that allows you to play as long as you can last. Of course, the biggest and best addition to BUST-A-MOVE MILENNIUM EDITION is the two-player link cable Versus mode. Now you can grab a friend and show off your BUST-A-MOVE skills! You get all of this plus enhanced graphics and other new options.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9kod.jpg",
+        "release_date": 971740800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/bust-a-move-millennium",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49837,
+        "name": "Bomberman Quest",
+        "summary": "Bomberman is on his way home when the engines on his ship are stolen. As a result, he must make an emergency landing on a strange planet. However, Bomberman is not traveling alone he's got all of the monsters he has captured on his adventures with him. After a rough crash landing, the monsters escaped. You must help Bomberman recapture the monsters and find his engines in order to return home. You'll travel to four different regions of the planet collecting bombs, finding items, and getting hints for how to proceed on your adventure. Along with the main quest a Two-Player mode is also included, in which you try to trap your opponent by setting bombs; the first person to be victimized by a bomb loses.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co44e1.jpg",
+        "release_date": 914457600,
+        "rating": 72.07823516325027,
+        "rating_count": 9,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/bomberman-quest",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49838,
+        "name": "Bomberman Max: Red Challenger",
+        "summary": "In Bomberman Max, your task is to jump through five zones with a dozen levels each. At the beginning of the round, you're given your quota to meet -- in some levels, you'll have to destroy all the enemies. In another, wipe out all the blocks in the land. In another, rescue the level's Charabomb. And in others, simply make your way to the target square in the set amount of time. But it won't be easy, since many enemies just don't stay still for you to walk up and plant a bomb next to them. It's all in the strategy of bomb-placement. Plus, once a level's complete, you'll have to pick the proper exit that appears. Released in two versions, Blue and Red.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7m7m.jpg",
+        "release_date": 945388800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/bomberman-max-red-challenger",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49854,
+        "name": "Marvin Strikes Back!",
+        "summary": "Looney Tunes: Marvin Strikes Back! (Looney Tunes Collector: Martian Revenge in Europe) is a Looney Tunes game published by Infogrames for the Game Boy Color in 2000. It is both a direct and spiritual sequel to \"Looney Tunes Collector: Alert!\", as both share near-identical gameplay. Its name could be a reference to Star Wars Episode V: The Empire Strikes Back.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xtl.jpg",
+        "release_date": 974937600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/marvin-strikes-back",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49855,
+        "name": "Wendy: Every Witch Way",
+        "summary": "She's been around for roughly 50 years, and Wendy the Good Little Witch finally has her own handheld video game. The laws of gravity have been upset, and Wendy is to blame! Help her trek through level after level of maddening obstacles and deadly enemies in order to set things right. There are hidden Moon Stones that Wendy must find in order to get things back to normal, but they're spread out over four vast levels of harrowing action. Packed with strange locations and tough mysteries to solves, WENDY: Every Witch Way features four bonus levels hat have you earning points by flying through the air on a broom, avoiding flying objects, and taking out would-be deterrents with a magic wand. Boasting detailed, cartoon-style graphics and some of the most original gameplay you've ever laid eyes on, WENDY: Every Witch Way is a truly magical experience for gamers of all ages.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rv7.jpg",
+        "release_date": 1001635200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/wendy-every-witch-way",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49856,
+        "name": "Dragon Ball Z: Legendary Super Warriors",
+        "summary": "Dragon Ball Z: Legendary Super Warriors is a mixture of a card game and a turn-based fighting game for the Game Boy Color. The game is played with original in-game cards for attacks, techniques and support items and initially has only two modes trade and story. Legendary Super Warriors’ story spans from the Saiyan saga to the end of the Buu Saga. Once beaten, a battle mode is unlocked, allowing players to square off with random enemies. Once the game is beaten, any character is usable in any battle, such as Frieza vs. Cell.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wb5.jpg",
+        "release_date": 1027987200,
+        "rating": 73.3760688221994,
+        "rating_count": 16,
+        "genres": "Fighting,Role-playing (RPG),Strategy,Turn-based strategy (TBS),Card & Board Game",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/dragon-ball-z-legendary-super-warriors",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49858,
+        "name": "Return of the Ninja",
+        "summary": "What your enemy fears the most is something it cannot see: You!\n\nA mysterious army has attacked the land of Koga and stolen an ancient and sacred scroll. As a highly trained ninja, it's up to you to find out who is behind the trouble and recover Koga's precious treasure. To accomplish this, you'll need to recover six secret ninja tools hidden from the invaders. The enemy army may outnumber you a thousand to one, but you are a master of stealth-- and every military leader knows that a blind enemy is a vanquished foe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7wh9.jpg",
+        "release_date": 988588800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/return-of-the-ninja",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49860,
+        "name": "Monster Rancher Explorer",
+        "summary": "The MONSTER RANCHER franchise returns with this thoroughly entertaining adventure for handheld gamers. Help the well-meaning Cox fight through 60 enormous, puzzle-filled levels, fending off certain monsters while allying yourself with others. Each level requires you to find a hidden key in order to advance to the next stage, a task that becomes increasingly difficult as things progress. Luckily, you're not going at it alone. You can unlock such friendly beasts as Gali, Hare, Mocchi, Suezo, and Tiger in order to help you fend off all enemies. Each of the friendly monsters serves as a power-up of sorts, increasing your overall speed, granting you temporary invincibility, and more. Fans of the series know just how fun collecting and utilizing monsters can be, and the premise is at its absolute best in this GBA installment. Cool, anime-style graphics abound throughout the massive gaming experience, which allows you to play alone or square off against a fellow Rancher.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/try5qydksrfyaouuy5r5.jpg",
+        "release_date": 973036800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/monster-rancher-explorer",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49861,
+        "name": "Pitfall: Beyond the Jungle",
+        "summary": "An evil force known as Scourge is manipulating the Red Lucense in order to take over the jungle. Now it is up to Pitfall Harry Jr. to use the Blue Lucense to restore peace to the land. You control Harry as he battles through 15 levels that span jungles, volcanoes, prisons, and caverns. Each world has unique variations; for example, you have to swing from vines in the jungle stages, while using a pickaxe to battle scorpions and other monsters. For some additional help, Harry has quick reflexes to allow him to dodge bullets and jump over some of the bad guys. In addition to Harry's innate skills, there are power-ups scattered throughout the levels including extra lives, gold bars, crystals, and extra health. Help Harry restore peace to the jungle in PITFALL: Beyond the Jungle.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/mkp6flla3yvfbiuyq6po.jpg",
+        "release_date": 915148800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/pitfall-beyond-the-jungle",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49863,
+        "name": "Aliens: Thanatos Encounter",
+        "summary": "Prepare for horror and fright beyond your wildest nightmares, as you step into the world of ALIENS: Thanatos Encounter. The terrifying creatures made famous by the popular ALIENS movies come to Game Boy Color in a totally new adventure. You play as one of five space marines who are sent to explore an abandoned freighter. Naturally, the situation is far worse than your squad expected the ship is completely infested with thousands of vicious aliens. In this single-player shooter, you'll make your way through the various sections of the ship in 12 missions. Discover the solution to the mystery of the aliens' reappearance through the cinematic cutscenes you'll see throughout the game. You can use a variety of alien-busting weapons like machine guns and flame-throwers to fend off the incoming horde and, if all else fails, turn tail and run as fast as you can! Battle a wide variety of different breeds of aliens, including some all-new hybrids.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3j7s.jpg",
+        "release_date": 988588800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/aliens-thanatos-encounter",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49864,
+        "name": "Papyrus",
+        "summary": "Papyrus is an Action game, developed by Planet Interactive and published by Ubisoft, which was released in Europe in 2000.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/xv3dyrs3hoycadsdxgju.jpg",
+        "release_date": 949363200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/papyrus",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49865,
+        "name": "Oddworld Adventures 2",
+        "summary": "Abe thought he had saved the Mudokons from the evil Glukkons with the destruction of Rupture Farms. However, a new threat has arisen: the Glukkons who run Soul Storm Brewery have created an addictive drink made from Mudokon bones. To get all of the bones they need, Soul Storm has an army of Mudokon slaves excavating the Mudokon City of Death; when one of the slaves is worked to death, he becomes part of the product. The only person who can put a stop to this is Abe. You will guide Abe as he travels through the brewery and tries to destroy the boilers. Along the way, he must also try to save his people. Luckily, Abe can talk to his people and get them to help defeat the enemies and solve puzzles he faces along the way. Help Abe save the Mudokons in Oddworld Adventures 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gu6.jpg",
+        "release_date": 948240000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/oddworld-adventures-2",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49868,
+        "name": "Action Man: Search For Base X",
+        "summary": "Alex \"Action Man\" Mann makes a stop over onto the Game Boy Color where once again he must stop the world from falling into the clutches of the evil Dr. X. The player takes control of Action Man as they travel through seven different levels ranging for jungles to the Arctic, battling an army of robots with a variety of weapons and battle suits in search of Base X and stop Dr. X from launching a terrifying new weapon that could very well bring an end to the world.\n\nThe gameplay is a standard side-scrolling action platformer where the player advances throughout the level, destroying enemies and avoiding pit falls. Along the way they can pick up more powerful guns as well as a bow and arrow and even different suits that can help them on their quest. Additionally, players can find these weapons and suits by taking different paths throughout the levels.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dlo.jpg",
+        "release_date": 983836800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/action-man-search-for-base-x",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49872,
+        "name": "Metal Walker",
+        "summary": "Although Metal Walker is a console RPG, battles are fought in a pinball or billiards-like atmosphere in a top-down perspective arena. As each turn of the battle starts, players decide which direction a Metal Walker will move and how hard they will move. Players are encouraged to form strategies that allow Metal Walkers to hit a single enemy, bounce off a wall, and then hit another enemy, all in a single turn. On the battlefield, players can throw several different types of items onto the field. The items are used when a Metal Walker hits them. Capsules and healing items strengthen and heal Metal Walkers, whereas attack items, such as Napalm, are only useful when the enemy hits them. There also exist Analyzers, which provide the player with Scan Data for any Metal Walker that is bounced into them. Scrap metal won after the battle can then be used with the Scan Data to create new Metal Walkers or purchase items. When an enemy is destroyed, the player's Metal Walker will gain experience points and an item might be obtained. If the player's Metal Walker runs out of Hit points, the player will lose half of the carried scraps and have to start from the last save point.\n\nOutside of battle, players explore a top-down overworld where they can explore various towns and dungeons. Most battles occur as random encounters. The overworld has several interactable elements, such as water, which the player needs a certain number of Cores to cross. The player can only carry one Metal Walker at a time and it will follow the main character on the overworld. By defeating the game's bosses, players earn Core Units, which allow Metal Walkers to evolve into new, stronger forms.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s03.jpg",
+        "release_date": 945993600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/metal-walker",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49874,
+        "name": "Warlocked",
+        "summary": "Play as either Humans or Beasts as you plot battle strategies. Harvest resources and construct buildings, then raise an army and order your troops into battle. Search for secret maps and train Dragons to fight on your behalf. With a powerful army at your command, you'll be ready to besiege castles, conquer enemy hordes and drive your foe from the land.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u69.jpg",
+        "release_date": 964396800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Real Time Strategy (RTS),Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/warlocked",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49875,
+        "name": "Tetris DX",
+        "summary": "Tetris DX has everything you need to satisfy your puzzle appetite. Play marathon, the classic Tetris game. Try your hand at ultra or 40 lines, two Tetris games with a twist. The vs. game will have you playing for hours!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3a6u.jpg",
+        "release_date": 908928000,
+        "rating": 92.36934043924003,
+        "rating_count": 20,
+        "genres": "Puzzle,Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tetris-dx",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49876,
+        "name": "Test Drive 2001",
+        "summary": "All of the action and excitement of sports car racing comes to the Game Boy Color with TEST DRIVE 2001. You can choose from 13 real world cars including the Lotus Elise, Dodge Viper, Jaguar XK-R, and a 1985 Ford Mustang and customize any of them to meet your driving style. Then you can hit one of 48 tracks in 12 different locations. While on the track, you need to watch out for jumps, shortcuts, and traffic that will ram into your vehicle. Try to learn all of curves of a track in a Single Race, or if you are looking for extended competition, try to win a Tournament. For the ultimate challenge, try to catch speeding criminals in the Cop Chase. If your friends want to race you, they can with the link cable option. Get a car and lay some rubber on the street in TEST DRIVE 2001.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/xyburhilugdezmu0lh9g.jpg",
+        "release_date": 978652800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/test-drive-2001",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49878,
+        "name": "Snoopy Tennis",
+        "summary": "It's a tennis game, Charlie Brown! The PEANUTS gang have packed up their rackets and headed to the courts for some fun tennis action in SNOOPY TENNIS for Game Boy Color. Choose from an initial selection of four characters Snoopy, Charlie Brown, Linus, and Lucy and take to one of four courts: clay, hard, and two different grass courts. Five gameplay modes await you: in Normal mode you play a quick best-of-three or best-of-five match up against a computer or human opponent; Sudden Win gives you an instant victory if you gain two games on your opponent; in Point Race mode, you'll race to see how many points you can score in a minute; Special mode throws a variety of power-ups into the mix; and Championship mode has you battling several opponents in order to become champion and unlock four new characters and courts. In addition, three different difficulty levels allow players of all skill levels to enjoy the game. SNOOPY TENNIS is for Game Boy Color only.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7x7a.jpg",
+        "release_date": 989107200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/snoopy-tennis",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49882,
+        "name": "Looney Tunes Collector: Alert!",
+        "summary": "Marvin the Martian's faithful companion K-9 cleaned out the flying saucer. In doing so, K-9 accidentally threw out 10 pieces of the teleporter that are required to execute Marvin's plan to destroy the Earth. Bugs Bunny happens to overhear the Martian's plan, and now he must travel throughout the world and collect the other Looney Tunes characters 47 in all. While Bugs can perform basic tasks, solving all of the game's puzzles and collecting all 10 teleporter pieces requires the special skills and talents of each character. For example, Elmer Fudd can blast obstacles with his gun, while Daffy Duck can swim and dive into deep water. Learning how and when to use each character is the key to success in LOONEY TUNES COLLECTOR: Alert!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xtn.jpg",
+        "release_date": 964396800,
+        "rating": 74.01451443151595,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/looney-tunes-collector-alert",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49884,
+        "name": "Stuart Little: The Journey Home",
+        "summary": "This little mouse has one big journey ahead of him, and you're just the one to help him out. Unfortunately, the Little family didn't foresee the possible conflict of interest in keeping a cat and mouse on the same household when they adopted Stuart, and that's proving to be a bit of a problem. Between newfound enemies and domestic obstacles, the tiny mouse is having one heck of a time! There are eight gigantic levels to conquer in The Journey Home, and each one is based on a scene from the box office smash STUART LITTLE movies (which are, of course, based on the book by E.B. White). You'll end up tackling a mini-golf course, Central Park, a model boat race, a bunch of toy cowboys, and more in this epic quest for peace. In addition, here are plenty of platforms and hazards to run, jump, and flip through, and three difficulty settings ensure that younger gamers and experienced veterans alike will find the game appealing.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i6c.jpg",
+        "release_date": 1001289600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/stuart-little-the-journey-home",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49887,
+        "name": "X-Men: Mutant Wars",
+        "summary": "Released in 2000 for the Game Boy Color, X-Men: Mutant Wars is a side-scrolling beat 'em-up game and the second X-Men title for the system. Its launch was synchronized with the release of the X-Men film on DVD.\n\nThe game's narrative revolves around a menace posed by cyborgs terrorising the planet. Convinced that Magneto is behind the cyborgs' actions, the X-Men are tasked with defeating him. Players can control characters like Wolverine, Storm, Cyclops, Iceman, and Gambit as they gear up for the impending battle to save the planet.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9810.jpg",
+        "release_date": 973641600,
+        "rating": 69.91157150464863,
+        "rating_count": 5,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/x-men-mutant-wars",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49891,
+        "name": "Motocross Maniacs 2",
+        "summary": "The action of motocross comes to the Game Boy Color with MOTOCROSS MANIACS 2. Hop on a motorcycle and hit the bumps, jumps, and loops of each track. Try to earn the fastest time in the Time Trial mode or take on five different tracks in the Championship mode. No matter how you play, there are power-ups scattered throughout the tracks including nitros, mini riders, jets, gasoline, super suspension, speed, and radials. If you don't like any of the 10 packaged tracks, you can create your own with the Track Editor option. There are a total of 255 obstacles and 32 different items that can be placed on any of the three tracks that you create. Once you have a masterpiece, share it with a friend via a link cable. Get motocross action with MOTOCROSS MANIACS 2.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co81mn.jpg",
+        "release_date": 939859200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/motocross-maniacs-2",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49892,
+        "name": "Quest: Brian's Journey",
+        "summary": "Brian lives in a peaceful and quiet town where nothing ever happens, which is the way everyone likes it. Suddenly, hordes of evildoers overrun the town and start wreaking havoc in this once-sleepy community. The town is counting on Brian to go on a quest to restore peace and harmony. You take control of the unlikely hero and set out on the adventure of a lifetime. While traveling, you will discover something more nefarious is happening, and you'll have your hands full of monsters and enemies. Throughout your journey you will have to battle these monsters and enemies in turn-based combat with a twist. The twist is that you can move between turns to dodge attacks, and you can also combine spells and attacks to create special moves. Help Brian save his town, and maybe even the world, in QUEST RPG: Brian's Journey.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8kyt.jpg",
+        "release_date": 947894400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/quest-brians-journey",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49893,
+        "name": "Diva Starz: Mall Mania",
+        "summary": "Diva Starz: Mall Mania is an Action game, developed by Digital Illusions and published by VU Games, which was released in 2001.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dz4.jpg",
+        "release_date": 1010016000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/diva-starz-mall-mania",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49898,
+        "name": "Chase H.Q.: Secret Police",
+        "summary": "The chase is on in CHASE HQ: Secret Police for the Game Boy Color. Loosely adapted from the arcade game of the same name, CHASE HQ is a unique mix of racing and action for one or two players. In the One-Player mode, you'll lead a handpicked team of undercover cops, each with unique talents. You'll be shown what kind of vehicle the suspect is driving, and then you'll hit the streets to find him. When you finally locate the perp, you'll switch to a behind-the-vehicle view as you try to shoot or bump the criminal off the road. Once you've managed to lower their life-bar far enough, they'll pull over and you'll make the arrest. There are 10 levels of single-player action, so you'll be plenty busy as you try to collar the criminals. You can also grab a friend to play Head-to-Head using a link cable, with one person playing the cop and the other playing the bad guy.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5v6f.jpg",
+        "release_date": 962323200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/chase-h-dot-q-secret-police",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49899,
+        "name": "X-Men: Wolverine's Rage",
+        "summary": "X-Men: Wolverine's Rage is a side-scrolling video game designed for the Game Boy Color. The game's plot centres around Wolverine as he pursues Lady Deathstrike, Sabretooth, and Cyber.\n\nUpon discovering schematics that enable her to construct a weapon capable of melting Wolverine's adamantium skeleton, Lady Deathstrike resolves to proceed with the machine. Wolverine must undertake any necessary actions to locate her and prevent the impending threat.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co980z.jpg",
+        "release_date": 990576000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/x-men-wolverines-rage",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49901,
+        "name": "Ultimate Paintball",
+        "summary": "Be careful when you wade into enemy territory or they will take you out of the game in ULTIMATE PAINTBALL. To win, you must capture the enemy's flag, and in order to accomplish this you will have drive deep into enemy territory and take out hoards of foot soldiers. Luckily, there are four different weapons to choose from that make eliminating the opposition easier. But don't get caught-up in the shooting, or you will run out of time and your flag will be captured. Fortunately, eliminating the enemies reveals arrows that show the way to the flag. While the game starts out with one flag, there will eventually be three flags to find. Try to capture the flag without getting shot in ULTIMATE PAINTBALL.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8439.jpg",
+        "release_date": 970358400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/ultimate-paintball",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49903,
+        "name": "NBA Jam 2001",
+        "summary": "Get even more arcade-style basketball action with NBA JAM 2001. Choose from all 29 NBA teams -- over 140 professional players in all. Get used to the controls and action with the Practice mode, and when you are ready for some real action, try to become NBA champion by playing through the Season. If the Season is giving you a headache, you can skip it and go straight to the Playoffs. No matter what mode you play in, there will be plenty of fastbreaks and rim-rattling jams. Throw even more action into the game with the Fun mode that includes Hot Spots, Hang Time, Half Court Dunks, and On Fire. You can also unlock secret teams like the East and West All-Star teams. Get all of the basketball action you want in the palm of your hand with NBA JAM 2001.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2v7u.jpg",
+        "release_date": 978307200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/nba-jam-2001",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49904,
+        "name": "NBA 3 on 3 Featuring Kobe Bryant",
+        "summary": "Experience the wide-open nature of three-on-three basketball with NBA 3-ON-3 FEATURING KOBE BRYANT. You can choose your squad from all of the NBA teams that include actual rosters. Once you have chosen your favorite team, play a Pick-Up game to get accustomed to the game style and controls. When you are ready for some competition, try to win the NBA championship in a 14, 28, 56, or 82-game Season mode. If you don't want to waste your time playing a full season, you can go straight to the Playoffs. No matter what mode you play, the rules of the game can be adjusted, including shot clock violations, backcourt violations, and the maximum number of points that can be scored. If you want to put yourself into the game, you can with the Create-A-Player option. Now you can try to conquer the NBA in NBA 3-ON-3 FEATURING KOBE BRYANT.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vfb.jpg",
+        "release_date": 947203200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/nba-3-on-3-featuring-kobe-bryant",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49906,
+        "name": "Test Drive Cycles",
+        "summary": "If you want the thrill of riding at high speeds on two wheels on a tight track with deadly curves and bone-jarring jumps, look no further TEST DRIVE CYCLES has all of that and more! You've got an assortment of bikes from licensed manufacturers such as Harley Davidson, BMW, Moto Guzzi, and Bimota. Once you've selected your speed machine, head to the track in one of 12 different racing circuits. Each course is packed with twists, turns, and jumps that will test your skill and push you to the edge. Watch out for other racers and obstacles as you speed to the finish line, or you may end up wrecking your fancy ride. By winning races, you can upgrade your bike with various parts that will increase your speed and handling. If you're looking for multiplayer action, link up to race against another player in a Head-to-Head race to the finish. There is also the Cop Chase mode, where you must avoid being pulled over by the fuzz. TEST DRIVE CYCLES is compatible only with Game Boy Color systems.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabd8.jpg",
+        "release_date": 964569600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/test-drive-cycles",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49907,
+        "name": "Road Champs: BXS Stunt Biking",
+        "summary": "Stunt biking makes an appearance on the Game Boy Color with ROAD CHAMPS BXS STUNT BIKING. When you start the game, you will have to progress through a 26-stage Training mode that teaches you how to perform all 50 moves in the game. After getting through training, you will be able take on a Single-Run, Career, or Tournament. The Single-Run mode allows you to work one course and master stringing tricks together, while Career mode has you compete in competitions to move from the amateur ranks to the world of the professionals. You can also compete in the Tournament mode to become the world champion. There are total of 64 unique levels spread throughout the game do you have what it takes to master ROAD CHAMPS BXS STUNT BIKING?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/fjb3cn19hwkumsambrmy.jpg",
+        "release_date": 978652800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/road-champs-bxs-stunt-biking",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49908,
+        "name": "International Rally",
+        "summary": "International Rally is a Racing game, developed by Konami Computer Entertainment Nagoya and published by Konami, which was released in 1999.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6hmr.jpg",
+        "release_date": 970358400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/international-rally",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49912,
+        "name": "Men in Black 2: The Series",
+        "summary": "Based on the cartoon series of the same name, MEN IN BLACK: The Series 2 starts with aliens invading the Earth. It is up to a covert organization, known only as Men In Black, to stop the invasion. You take the role of Agent J as he hunts down 12 different alien races, including the Skraaldians and the Fmeck. Luckily, J has a wide range of weapons to help him put an end to the alien menace; most notable is the Noisy Cricket. While most aliens are relatively easy to spot, some can change shape and will not reveal themselves until J gets close to them...so keep your eyes peeled. When a stage is cleared, you are treated to an animated sequence that advances the plot. Will the Agent J be able to save the world? Play MEN IN BLACK: The Series 2 and find out.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2d0z.jpg",
+        "release_date": 965779200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/men-in-black-2-the-series",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49913,
+        "name": "Billy Bob's Huntin'-n-Fishin'",
+        "summary": "In BILLY BOB'S HUNTIN' AND FISHIN' for Game Boy Color, you play the role of a hapless guy named Billy Bob, who is trying to impress a girl. She'll ask Billy Bob to fetch her rabbits or bass, and it's up to you to help Billy Bob get them. Obviously, to get the things she wants you'll have to either go hunting or fishing. Not so fast though, because you need bullets for hunting, bait for fishing, and a license to do either of the two activities. Luckily, you can earn these items by playing a variety of mini-games. The games vary in their gameplay, but the usual assortment of speed and reflex tests are the common thread. You'll need to clear four mini-games each to go hunting and fishing. Once you've finally cleared them and gotten the items you need, you'll head out to catch your real prize. BILLY BOB'S HUNTIN' AND FISHIN' is for one player and is compatible only with Game Boy Color",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co83ui.jpg",
+        "release_date": 945388800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/billy-bobs-huntin-n-fishin",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49915,
+        "name": "Babe and Friends",
+        "summary": "Puzzle fans that enjoyed the BABE movie series will find a lot to like here. BABE AND FRIENDS, a single-player puzzle game for Game Boy Color, has the little porcine hero guiding his herd through 40 levels that span such locations as the farm, the airport, and the city. In each level there is a checkered flag, to which Babe must take a herd. The sheep aren't very good at finding their own paths, so Babe has to walk them through every step of the way. Clear obstacles, set up roadblocks to make detours, and generally do what you have to in order to make a safe route for the sheep. Watch out for obstructions such as carts in the airport and rushing rivers on the farm. Detailed still-screens of all of Babe's friends appear between the levels to move the story along. A password save system is included if you need to take a break from the brain-bending action. Can Babe save the day once again?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/wolhfrrpb5mpcwfvff4o.jpg",
+        "release_date": 944006400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/babe-and-friends",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49919,
+        "name": "Disney's The Little Mermaid II: Pinball Frenzy",
+        "summary": "This game is basically Pokémon Pinball minus all the pokémon plus Ariel and her young daughter, Melody -- and a lot of minigames.\n\nThe game features four-player support via alternating tables, as well as a battery-powered rumble feature for those who absolutely must feel every tilt and tumble of the table.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7x2p.jpg",
+        "release_date": 972345600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Pinball",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/disneys-the-little-mermaid-ii-pinball-frenzy",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49920,
+        "name": "Lil' Monster",
+        "summary": "The world is filled with energy crystals, which can be turned into monsters, using a special tin can. For centuries humans have trained the monsters to battle each other. However, a trainer named Cool Joe keeps breaking the rules of battle, and it's up to you to find out what he is up to. Collect crystals and turn them into monsters. Make your monster battle other monsters to gain experience and improve its abilities. You can also capture more crystals by winning battles. In addition to creating monsters, the crystals can be used by the monster to learn attacks and healing abilities. With over 60 monsters to collect, there is plenty to keep you busy. Try to find the truth regarding Cool Joe in LIL' MONSTER.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cfw5lscnzr4yobbpbpjt.jpg",
+        "release_date": 967766400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/lil-monster",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49925,
+        "name": "Hexcite: The Shapes of Victory",
+        "summary": "The world's best strategy games have two things in common: they start with a deceptively simple board and the goal of taking territory from your opponents. Now HEXCITE brings a whole new shape to strategy games. In HEXCITE, 1 or 2 players battle to dominate the board with pieces of different shapes and sizes. Like any great strategy game, HEXCITE is simple to learn, but challenging to master. And every round is unpredictable until the last play. Who knows? HEXCITE could be the shape of things to come!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pxh.jpg",
+        "release_date": 908928000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/hexcite-the-shapes-of-victory",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49927,
+        "name": "Hands of Time",
+        "summary": "Hands of Time is an Action game, developed by Mirage and published by Titus Software, which was released in 2001.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob4m6.jpg",
+        "release_date": 1004659200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/hands-of-time",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49928,
+        "name": "Gobs of Games",
+        "summary": "GOBS OF GAMES brings many childhood games to the Game Boy Color. The 16 different games are broken into four categories: Paper games, Peg games, Puzzle games, and Board games. The Paper games include Hangman, Dot Boxes, Triangle Boxes, Share, Color Snakes, and Tic-Tac-Toe. Peg Game is a series of boards in which the goal is to remove all of the pegs by jumping over them. Scramble and Move It are Puzzle games, and the only Board game is Checkers. All of the games can be played solo, but some can also played against another person via a link cable. Try to relive your younger days with GOBS OF GAMES.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/aupvdvao3yy4a8cgdvgx.jpg",
+        "release_date": 970358400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/gobs-of-games",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49929,
+        "name": "Gex 3: Deep Pocket Gecko",
+        "summary": "Even a lost island hideaway in the wet South Pacific isn't far enough away from the long arm of Rez. While GEX was whiling away the hours living on the fruits of his recent successes, the madman of the Media Dimension was working on his new hobby - secret agent-napping. Agent Xtra was now struggling for her freedom as a hostage in the lair of Rez. As a master of disguise, GEX had his work cut out for him. Another descent into bad TV movies is at hand. To the GEXCaves!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa47u.jpg",
+        "release_date": 946684800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/gex-3-deep-pocket-gecko",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49931,
+        "name": "F-18 Thunder Strike",
+        "summary": "Supersonic jet dogfighting comes to the small screen in F-18 THUNDERSTRIKE for the Game Boy Color. In this one-player flight sim, you take the role of a daring pilot who's flying an elite fighter jet. Slide into an inside-the-cockpit view, battle against multiple enemies, and practice your aerial combat and evasion maneuvers to prove your air superiority. You can play in either Arcade or Simulation mode, each affording you a unique experience. Arcade mode offers looser controls that make things easier for rookie pilots, while experts will want to jump right into Simulation mode, which will challenge the ability of even the most experienced flyboy. Head into multiple missions of dogfighting action and perform aerial tricks that will break the sound barrier, but don't think that it's all fun and games. When the mission's complete, you'll have to carefully land your jet on an aircraft carrier.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/fpjqxykvdzzr5b3frcdr.jpg",
+        "release_date": 959817600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/f-18-thunder-strike",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49940,
+        "name": "Dragon Dance",
+        "summary": "Addictive breakout-style action meets fast and furious arcade fun. With 100 levels, challenging end bosses and multiple power-ups, Dragon Dance is the game you can't put down! Head-to-head combat with boss enemies every 10th level. Random events like earthquakes shake up the gameplay. Dragon control and length add to the complexity of each puzzle. Enjoy Vs. mode and play with friends via Game Link Cable.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4za6.jpg",
+        "release_date": 913939200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/dragon-dance",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49941,
+        "name": "Dracula: Crazy Vampire",
+        "summary": "Dracula: Crazy Vampire is an Action game, developed by Planet Interactive and published by DreamCatcher Interactive, which was released in 2001.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3z1k.jpg",
+        "release_date": 1005264000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/dracula-crazy-vampire",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49947,
+        "name": "Rhino Rumble",
+        "summary": "It's amazing what some animals will do just to get a drink of water. Take Rocky the Rhino, for instance: Positively parched (he ate way too many peppers at a local jungle party), the little fellow is willing to traverse 19 enormous levels in the hope of quenching his mighty thirst. Help the adorable Rocky get through seven unique worlds, fending off all who would stand in his way. Many of the jungle's inhabitants are convinced that Rocky will drink up the water supply, you see, so they're all working against you from the outset. Make your way through forests and caves, using unique artillery like fireball breath and belly jumps to squelch the attempts of your foes and get to the magical spring. In addition to your weaponry, you'll have the assistance of various boats, planes, trampolines, and wagons to reach the end of each level.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48zv.jpg",
+        "release_date": 1020038400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/rhino-rumble",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49949,
+        "name": "Quest for Camelot",
+        "summary": "King Arthur has lost his legendary sword, Excalibur. Now the evil Sir Ruber is out to claim Camelot. Since the King is unable to fight, he trusts a young girl named Kayley to fight for him and save his Kingdom. You take the role of Kayley as you explore nine worlds and a total of 60 areas in search of Excalibur. Along the way, you will have to learn how to use several devices including a slingshot, snorkel, and grappling hook to perform tasks and solve puzzles. Naturally, Sir Ruber has henchmen out to stop you, but use your sword to dispatch them. As the game progresses, you will learn a powerful spin-attack as well as dart- and lunge-attacks. Will Kayley be able to save Camelot? Will finding Excalibur be enough to help King Arthur? Find the answers to these questions by playing QUEST FOR CAMELOT.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25vj.jpg",
+        "release_date": 912470400,
+        "rating": 44.65576904867947,
+        "rating_count": 9,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/quest-for-camelot",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49950,
+        "name": "Quest: Fantasy Challenge",
+        "summary": "As you're leaving a party at the castle, you're suddenly attacked by a swarm of evil monsters. Now you must fight your way through the monsters to get home. In each of the 20 levels, you must collect gems and open chests that are scattered throughout. However, there are a large number of enemies on your tail including Hellhounds, Apophis, Bumbershoot, Rocky, Skeletons, and Scorpions. Luckily, you have a magic wand that will destroy them, but there's a catch it must recharge between shots. There are also a multitude of power-ups like Fresh Bread, Mint Leaves, Honey Leaves, Dew Drops, Spirit Light, Healing Potion, Heroes Drink and the Dragon's Potion that will help you along the way. Try to collect all of the items and get home safely in QUEST FANTASY CHALLENGE.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/to5phtnnmagnywdp3kfy.jpg",
+        "release_date": 925516800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/quest-fantasy-challenge",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49952,
+        "name": "Pro Pool",
+        "summary": "Exciting billiards action comes to the Game Boy Color with PRO POOL. Play a match against the computer or a friend, or play the Single-Player Speed Match and try to clear all of the balls off of the table as quickly as possible. In Hustle mode, you take the role of a pool hustler, traveling from bar to bar placing bets on games. Ultimately, you want to win enough money to buy your own bar. In all of these modes, six different games can be played: 8 Ball, 9 Ball, 6 Ball, 3 Ball, straight pool, and speed pool. And the competition will never get stale thanks to the 64 different computer opponents to play. Plus, an outstanding physics engine makes this the most realistic pool game available for the Game Boy Color. Try to become a great hustler with PRO POOL.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2v9j.jpg",
+        "release_date": 971308800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/pro-pool",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49957,
+        "name": "NASCAR Challenge",
+        "summary": "The thrill of victory and the agony of smashing into another car comes to the Game Boy Color in NASCAR CHALLENGE. Hop in and take on the best NASCAR has to offer including Jeff Gordon, Dale Jarret, and Rusty Wallace. Try to master Topeka, Sonoma, and Seneca raceways in the Practice mode, and when you're ready for some competition, try to survive six laps on any of the tracks. To prevail in the championship, you will have to try to win the pole position on each track and beat the pack to the finish line. Depending on how well you finish in each race, you are awarded points. The driver with the most points at the end of all three races is declared the champion. Can you handle all of the excitement and action in NASCAR CHALLENGE?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ydj.jpg",
+        "release_date": 946684800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/nascar-challenge",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49958,
+        "name": "Jim Henson's The Muppets",
+        "summary": "Dr. Bunsen Honeydew has developed a new time machine, so he invites all of the Muppets over to see the new invention. However, something goes awry and the Muppets are sent back in time. Fortunately, Kermit and Animal were running late and were not involved in the mishap. Now these two must travel back in time and rescue their friends. You will take control of Kermit and Animal as they travel through six different time periods that contain a total of 24 levels. Help Kermit defeat enemies with paper airplanes, and use his super jump to collect items. Animal will pound enemies into submission with drumsticks and will shake items loose with his stomp. Will the two heroes be able to save the gang? Find out by playing JIM HENSON'S MUPPETS.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/wnejrp1ve948glbfynza.jpg",
+        "release_date": 957139200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/jim-hensons-the-muppets",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49962,
+        "name": "Millennium Winter Sports",
+        "summary": "MILLENNIUM WINTER SPORTS allows you to experience the thrill of victory and the agony of defeat in eight winter sports. Try to get through the course as fast a possible in the bobsled; out-skate your opponent to the finish line in speed skating; see who can jump the farthest in two separate ski-jumping events; see if you can pull off twists and flips while flying through the air in the aerials competition; strap on the skis and navigate the downhill course; or strap on a snowboard to navigate the giant slalom course. For the ultimate in snowboarding action, try to impress the judges with your performance on the halfpipe. Practice any of the events in the Challenge mode or try to become the best winter athlete in the world with the Championship mode. All of the action of winter sports can be yours with MILLENNIUM WINTER SPORTS.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/krduzdl8bnvdzj8zfloh.jpg",
+        "release_date": 957139200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/millennium-winter-sports",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49965,
+        "name": "The Mask of Zorro",
+        "summary": "The sly and evil Don Rafael Montero has devised a scheme to take control of California. The people need a hero, and that is when Zorro appears. You take the role of Zorro, using your sword and cunning to fight your way through 30 levels of action, exploring towns and mines and facing many treacherous enemies. Every wound you receive depletes Zorro's life bar a little bit, but finding hearts or kissing Elena, Zorro's beloved and Don Rafael's daughter, will allow Zorro to regain his health. A soundtrack of Spanish guitar rhythms will make you think that you are in 1820s California. Guide Zorro as he tries to save the people of California from the rule of Don Rafael in THE MASK OF ZORRO.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/x9yydfq3pm2c1zv0n1xc.jpg",
+        "release_date": 950486400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/the-mask-of-zorro",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49967,
+        "name": "Tazmanian Devil: Munching Madness",
+        "summary": "LOONEY TUNES: TAZ MUNCHING MADNESS features Taz from the timeless cartoons from Warner Brothers in his first adventure on Game Boy Color. Playing the game gives the player the same feel as watching the cartoon show with Taz's signature twist and amusing moments. Presented in a 2D look, the graphics, and scenes on every level have a colorfully appealing view from the top down over the game play. Taz must embark on a mission to save his friend, Wendal T. Wolf from Bull Gator and his crony, Axl. Taz ventures away from his home in Tasmania and must pass through the Amazon Jungle, Amsterdam, Switzerland, the Greek Islands, China, Australia, and more. Those familiar with Taz's character on the Looney Tunes cartoons will recognize the fact that Taz hasn't lost his taste for strange and unusual objects as his food source and continues with that practice in his game. Taz literally has to eat his way through each level in order to advance to the next level. Food has significant importance how victorious Taz will be in his mission and even becomes functional at some points. The more food Taz consumes, the faster he will advance and the closer he will get to rescuing his friend. The road to the rescue will be littered with obstacles and challenges from Taz's enemies. Fans of the Looney Tunes cartoons will want to own this game as well as anyone who enjoys colorful, fast-paced and challenging game play.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9883.jpg",
+        "release_date": 943920000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tazmanian-devil-munching-madness",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49969,
+        "name": "Spawn",
+        "summary": "Special agent Al Simmons was tricked by his team and assassinated. After traveling to Hell, Simmons make a deal with the devil to get revenge. However, the deal was twisted and Simmons became a minion of Hell he became Spawn. Rather than accept this fate, Spawn searches for the opportunity to free himself from his misguided deal. You take control of Spawn as he fights his way through nine levels of action. In each of the stages, Spawn must eliminate the bad guys using punches, kicks, and any weapons he can find. However, there is always a chain weapon attached to Spawn's chest that can be used to eliminate nearby enemies. Occasionally, Spawn will have to chase evil down while riding a motorcycle. Help defeat the devil, and set SPAWN free.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wd6.jpg",
+        "release_date": 939945600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/spawn",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49970,
+        "name": "Speedy Gonzales: Aztec Adventure",
+        "summary": "Sylvester has kidnapped all of the mice in Mexico and it's up to Speedy Gonzales to rescue them. To get all the mice back, Speedy must collect the cheese in 18 different stages. However, the cheese will not be easy to collect, as along the way Speedy will have to make death-defying jumps while avoiding spikes, lava, and bottomless pits. In addition to those hazards, there are a number of enemies that are glad the mice are gone and don't want Speedy to rescue them. As luck would have it, there are power-ups and weapons scattered throughout the stages. After completing several stages, Speedy will have to face and defeat a boss character. Will Speedy be able to collect all of the cheese and defeat his enemies? Find out by playing SPEEDY GONZALES: Aztec Adventure.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/lvadbwubcm4aavaqqdui.jpg",
+        "release_date": 948844800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/speedy-gonzales-aztec-adventure",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49971,
+        "name": "Spider-Man 2: The Sinister Six",
+        "summary": "Spider-Man 2: The Sinister Six (or Spider-Man 2: Enter the Sinister Six in Europe) is a 2001 platform video game based on the Marvel Comics character Spider-Man. It was developed by Torus Games and published by Activision for the Game Boy Color. It is an alternative sequel to Spider-Man (2000) and mostly follows the events of the Game Boy Color version of that game. Though it has a similar format, it is not related to Spider-Man: Return of the Sinister Six (1992).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5qh7.jpg",
+        "release_date": 989884800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/spider-man-2-the-sinister-six",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49979,
+        "name": "Zebco Fishing!",
+        "summary": "You are out on the lake, and everything is quiet. Suddenly, a fish hits your lure. The fish pulls the line while you fight it, trying to reel it in. It dives deep and flies out of the water; you give the line some slack, and then reel it in. Eventually, the fish loses this fight. You can have this kind of excitement with ZEBCO FISHING! for the Game Boy Color. Hit one of two lakes with a choice of 11 different fishing lures. Try to catch the biggest bass possible in the Tournament mode, and for an extra challenge, try to catch exactly 21 pounds of bass in the Blackjack Bass mode. In both modes, catching fish other than bass has no effect on the outcome. Try to become a fishing champion with ZEBCO FISHING!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u74.jpg",
+        "release_date": 937353600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/zebco-fishing",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49980,
+        "name": "Xtreme Wheels",
+        "summary": "Are you bad enough to handle the best? The world's top BMX racers are ready to take you on, and you have no choice but to answer the call. You'll start at the bottom of the rankings, trying to work your way up the ladder by mastering 20 grueling courses and nailing difficult tricks. The object is to earn as many licenses as possible, which will earn you the right to compete in higher classes. Needless to say, the competition will get smarter and quicker as you advance through the ranks, so you'll need to bring your sharpest skills to the table. There are four different classes to stretch your abilities, and you can actually earn new riders by notching a few victories. XTREME WHEELS is packed with varied hills, jumps, and terrain, so you might want to start off in Exclusive Training mode to get a grip on the handling and realistic physics that the game engine delivers. If you want to be the ultimate Xtreme racer, you'd better get cracking.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u7v.jpg",
+        "release_date": 988243200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/xtreme-wheels",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49981,
+        "name": "WWF Betrayal",
+        "summary": "It seems that there's a conspiracy afoot in the WWF! All of the other wrestlers have conspired against you, kidnapped Stephanie McMahon, and stolen the WWF Heavyweight Title belt. Choose to play as the Rock, Triple H, the Undertaker, or Stone Cold Steve Austin in this story-based wrestling game. You'll roam the streets, taking down thugs and seeking out valuable information along your journey to redemption. There'll be plenty of objects to pick up and throw, scenery to destroy, and havoc to wreak, but the only weapons you'll be given are your own bare fists and a solid pair of boots. Other weapons (steel pipes, cakes, and mailboxes) are available, though you'll have to defeat a few foes to earn them. Tons of power-ups are strewn throughout the game, but you'll be lucky if you can free up the time and energy to get to them. Awesome graphics, tough boss characters, and a great story make this one unique wrestling title.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co988u.jpg",
+        "release_date": 997142400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport,Hack and slash/Beat 'em up",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/wwf-betrayal",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49982,
+        "name": "Winnie the Pooh: Adventures in the 100 Acre Wood",
+        "summary": "Join Winnie the Pooh and his friends as they come to the Game Boy Color in WINNIE THE POOH: Adventures in the 100 Acre Wood. You must help Pooh get to a certain place on the game board within a specified number of dice rolls. Along the way, he will encounter his friends Tigger, Piglet, Rabbit, and Eeyore, who will play along with Pooh and open mini-games for the loveable bear to store in his cupboard. The mini-games will have the player helping Pooh look for honey, exercise, fish, get unstuck from Rabbit's hole, bounce with Tigger, and catch acorns. The more you play WINNIE THE POOH: Adventures in the 100 Acre Wood, the greater the chances of finding a new path or mini-game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nbg.jpg",
+        "release_date": 957139200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/winnie-the-pooh-adventures-in-the-100-acre-wood",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49986,
+        "name": "Tweety's High-Flying Adventure",
+        "summary": "Are you ready to knock out some bad 'ol puttytats? You had better be ready for action if you want to survive the frantic, side-scrolling mayhem of TWEETY'S HIGH-FLYING ADVENTURE for the Game Boy Color. You play as the lovable Tweety Bird in an adventure to save an endangered orphanage. In an animated take on AROUND THE WORLD IN 80 DAYS, you travel to 10 different locales and collect pawprints from 80 cats spread across exotic foreign cities. You'll need to bop these kitty cats with weapons and power-ups like spatulas, plunger guns, oil slicks, banana peels, and more. Just be careful to avoid chomping plants, squirmy worms, bugs, bees, and butterflies along the way. Lola Bunny updates the action with humorous newscasts between levels as you run, jump, and fly your way to victory. You'll need quick, button-smashing reflexes and platform-hopping skills of the highest degree to save the kids in TWEETY'S HIGH-FLYING ADVENTURE.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/udobzeejevyklwuvka9e.jpg",
+        "release_date": 975628800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tweetys-high-flying-adventure",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49987,
+        "name": "Trouballs",
+        "summary": "If you're ready for explosive, mind-twisting puzzle-action mayhem then grab a copy of TROUBALLS from Capcom. In this massively addictive game developed exclusively for the Game Boy Color, it's up to you to gain as many points as you can while the clock ticks down. Here's how it works: different colored balls are attached to moving gears; you rotate the gears in an attempt to get four balls of the same color aligned (in a 2x2 square grid at the bottom of the screen), which blows them to smithereens. This clears the stage and advances you to the next level. There's no time to rest though, as each successive round of sphere-blasting fun is more difficult than the last. You'll listen to five original songs in the challenging, pop-and-bop gameplay that confronts you on more than 100 fast-moving levels. If you couldn't get enough of TETRIS or BUST-A-MOVE, then you'll love TROUBALLS to pieces.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vg9.jpg",
+        "release_date": 1004659200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/trouballs",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49989,
+        "name": "Trick Boarder",
+        "summary": "Send yourself speeding down a hill to claim first place in TRICK BOARDER. Choose from eight snowboarders, each with different attributes. Learn how to navigate all nine tracks and set speed records in the Time Trial mode. When you want to compete, try to claim the championship in the Grand Prix mode, where you earn points by finishing well on all nine tracks. If you have friends that are into snowboarding, you can challenge them to a race via the link cable. No matter what mode you play, you must keep an eye out for obstacles, or you will lose precious speed and time. Luckily, you can pick up icons that will give you turbo boosts, and you can perform tricks or go through slalom gates that will award additional speed boosts as well. Work your way through the ranks to become a snowboarding champion in TRICK BOARDER.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/d8p6wtwajym3ulngyuxc.jpg",
+        "release_date": 963532800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/trick-boarder",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49991,
+        "name": "Toonsylvania",
+        "summary": "Having grown tired of being a mad scientist's assistant, Igor creates four inventions: the diving suit, the helmet lamp, the propeller helmet, and the fireproof helmet. Wanting to test them, he has Phil (a gentle Frankenstein-type monster) put them all on. Unfortunately, the combination of all four inventions causes Phil to explode. You must guide Igor through 15 levels as he searches for all of Phil's parts, as well as all four of his inventions to complete the quest. However, getting through the levels is no walk in the park, as enemies lurk behind every corner. Fortunately, there are plenty of weapons to collect and throw at them. Will Igor be able to restore Phil before the mad scientist comes home? Find the answer by playing TOONSYLVANIA for the Game Boy Color",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9nx.jpg",
+        "release_date": 962409600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/toonsylvania",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49993,
+        "name": "Tomb Raider: Curse of the Sword",
+        "summary": "Tomb Raider: Curse of the Sword is a video game based on the Tomb Raider series. It is a sequel to the first Tomb Raider for the same system. You'll experience the usual amounts of ledge jumping and rope climbing that one expects from a game in the Tomb Raider series, as well as a number of activities unique to this particular release, such as boss battles, demolitions, and submarine piloting.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21sp.jpg",
+        "release_date": 993427200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tomb-raider-curse-of-the-sword",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49995,
+        "name": "Tech Deck Skateboarding",
+        "summary": "Tech Deck Skateboarding challenges you to pull off the same tricks that regular skaters do just smaller. You play as the inimitable Thumb Guy, a lovable mascot who can pull off the fingerboard moves with the best of 'em. Featuring arcade-style play and animations, the game lets you whip out grinds, ollies, and flips with extreme flair. All of the licensed decks from real manufacturers are here, so you'll be skating in style on your Tony Hawk deck. You'll have access to a limited number of boards at the game's outset, but as you get further and further along the road to glory you'll be able to unlock more responsive outfits and other hidden goodies. With cool graphics, real decks, and totally original gameplay, it's hardcore skating for hardcore fans!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw4i.jpg",
+        "release_date": 988156800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tech-deck-skateboarding",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 49997,
+        "name": "Qix Adventure",
+        "summary": "Can you trap the elusive line of energy that's bouncing all around? Based on the coin-operated classic, QIX, this GBC sequel to the puzzle-based original offers similar gaming styles and a few welcome updates. In this take, you'll use a cursor to draw boxes on the screen, avoiding the Qix. If you can draw a compete box without the Qix touching its perimeter, that area of the screen will disappear and get you one step closer to advancing. Adding an element of story, QIX ADVENTURE casts you in the role of Speedy, a treasure hunter who's traveled to a mysterious island. Each level that you pass will help you in your quest to rid the island of all its strange creatures. Easy to learn but extremely difficult to master, QIX ADVENTURE is addicting fun for puzzle lovers and other gamers. Are you quick enough for Qix? Find out alone or against a friend.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6it8.jpg",
+        "release_date": 973641600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/qix-adventure",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50007,
+        "name": "Robopon: Sun Version",
+        "summary": "Robopon are robotic creatures that inhabit the planet alongside humans. They can be captured and trained to battle other Robopon. You have just inherited Robopon Dispatching Company from your grandfather, but the business is failing. To start earning a profit, you must become the greatest Robopon master in the world. To do this, you must travel the globe, battling other Robopon masters and collecting the 150 species of Robopon. As Robopon battle, they gain experience and evolve into more powerful types. The cartridge also has an infrared sensor that will allow new attributes to be unlocked by shooting remote control beams into it. An internal clock is built in and will notify you of time-sensitive events. Try to catch them all in ROBOPON: Sun Version",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co38zb.jpg",
+        "release_date": 912729600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/robopon-sun-version",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50010,
+        "name": "Little Nicky",
+        "summary": "Satan wants to appoint a new ruler in Hell. However, nobody meets his high standards, so the dark prince must remain atop Hell's throne. Displeased by their father's lack of confidence in them, Adrian and Cassius leave Hell and go to Earth to create a new Hell. Since Satan has no time to deal with Adrian and Cassius, he sends his other son Nicky to stop them. You take the role of Nicky as he travels through 24 levels, where he must collect a certain number of items or destroy demons. However, the key to making it through all of the levels is Nicky's power. When Nicky gets close to fire, his powers increase. He will run faster, jump higher, and spit fireballs. Should he get too hot, Nicky will be unable to control his powers until he cools down. Help Nicky capture Adrian and Cassius in LITTLE NICKY.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7x6x.jpg",
+        "release_date": 978307200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/little-nicky",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50016,
+        "name": "Alice in Wonderland",
+        "summary": "A true translation right from the Disney movie, Alice finds herself in the wonderland that she's expected to.\n\nOver the course of the game Alice meets major characters from the story, who will have either lost an item or need some help in some sort, for which Alice will volunteer to help.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ph9.jpg",
+        "release_date": 973296000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/alice-in-wonderland--7",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50017,
+        "name": "Elevator Action EX",
+        "summary": "Elevator Action EX is an update to the Game Boy version of Elevator Action published by Taito in 1991. In addition to colour, players can choose between three characters: Mike, Guy and Sarah.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4m7f.jpg",
+        "release_date": 972777600,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/elevator-action-ex",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50022,
+        "name": "Robot Wars: Metal Mayhem",
+        "summary": "Robot Wars: Metal Mayhem is the first video game based on the British game show Robot Wars. In the game, a competitor robot from the series, or a robot created by the player, is entered into combat against a robot controlled by the game. A bout finishes when one robot's health bar is fully depleted.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co488l.jpg",
+        "release_date": 978825600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/robot-wars-metal-mayhem",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50023,
+        "name": "Rip-Tide Racer",
+        "summary": "Rip-Tide Racer is a Racing game, developed and published by Cryo Interactive, which was released in Europe in 2000.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7m9n.jpg",
+        "release_date": 965088000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/rip-tide-racer",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50026,
+        "name": "Monkey Puncher",
+        "summary": "Monkey Puncher is a video game for the Game Boy Color, developed by Atelier Double, published by Taito, and released in March 2000. The game's goal is to train a monkey to fight in organised boxing matches in order to save the main character's father and sibling.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bsf.jpg",
+        "release_date": 953856000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting,Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/monkey-puncher",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50032,
+        "name": "Cool Bricks",
+        "summary": "Cool Bricks is a puzzle game that requires the player to use a bat to guide a ball to break bricks to progress. Compared to Breakout, Cool Bricks features the inclusion of varied weapons, such as laser guns, missiles, grenade launchers, larger bats or multiple balls, and the addition of power-ups with positive and negative effects, such as a 'poison mode' that creates involuntary player movement. The game features 160 levels with a password system to allow for returning to certain stages.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7osy.jpg",
+        "release_date": 944006400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/cool-bricks",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50034,
+        "name": "Merlin",
+        "summary": "Join Merlin, the greatest magician of all time, in his quest to save the five mystical worlds from the evil Dragon. Legend's told of the Dragon who would emerge from his sleep every thousand years to reign over the Earth, peace and harmony would give way to war and disaster. Already kindly magical creatures of the worlds have been enslaved by the dragon to carry out his evil designs. \nCan Merlin restore peace and harmony to the mystical realms?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1hkm.jpg",
+        "release_date": 981072000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/merlin",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50037,
+        "name": "The Fish Files",
+        "summary": "The player takes control on Dante, a college student in search of his kidnapped fish, Ramada. His quest takes him to various cities, towns and other time periods.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4za5.jpg",
+        "release_date": 1007164800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Point-and-click,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/the-fish-files",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50058,
+        "name": "Tweenies Doodles' Bones",
+        "summary": "A game based on the BBC children's programme.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ejvdyd4vzhs11yjehalu.jpg",
+        "release_date": 1003449600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tweenies-doodles-bones",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50069,
+        "name": "Supercross Freestyle",
+        "summary": "Supercross Freestyle is a dirt bike racing game. The game features three game modes: Freestyle, Supercross and Arcade. Freestyle is all about making impressive jumps and tricks with your bike. Supercross and Arcade are racing modes, where Arcade has different courses and power-ups that can change the odds. The game features 24 different tracks and 16 different tricks.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7mjg.jpg",
+        "release_date": 949363200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/supercross-freestyle",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50549,
+        "name": "Noddy and the Birthday Party",
+        "summary": "It's Big-Ears' birthday! Can you help Noddy collect things for the party? Will Noddy earn enough pocket money to buy Big-Ears a really big cake? Explore Toyland, meet your favourite characters, and take part in 10 exciting adventures. Help Noddy find the party invitations--but watch out for Bumpy Dog. Go to the Dark Wood where Sly and Gobbo have hidden all the party hats. From gathering hidden eggs in Farmer Straw's field to jumping over rolling fruit in the market square, help Noddy get everything for Big-Ears' Birthday party. Watch out for Sly and Gobbo, who always seem to be up to mischief, and even Master Tubby Bear, Bumpy Dog and Clockwork Mouse, who accidentally get in the way sometimes.\n\nEncourages recognition of left and right, numbers, colours and objects. There are different skill levels which cater to a range of abilities and ages from 3 upwards.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co836g.jpg",
+        "release_date": 967766400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/noddy-and-the-birthday-party",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50550,
+        "name": "O'Leary Manager 2000",
+        "summary": "O'Leary Manager 2000 is a football player-manager game released in 2000 for the Game Boy Color. The player can choose whether they want to focus on the management side of football, play the matches themselves on the game's 2D match engine, or combine the two features for a more in-depth experience. It is endorsed by Irish football manager David O'Leary, who was managing Leeds United A.F.C. at the time of the game's release.\n\nThe management side of O'Leary Manager 2000 is very comprehensive when compared to similar Game Boy Color games. The player can choose from 240 fully licensed teams from the top two leagues in England, France, Italy, Spain, Germany and the Netherlands to play as or manage, with each team having 16 players in their squad. There is also the option to promote a number of fictional youth team players. However, most of the youth team players are of low ability, so could only realistically be used for back-up when managing a decent quality team.\n\nAs with any football management game, the transfer market can often play a key role in whether the team achieves success. The player's selected team starts with either 10.5m or 5.5m to spend, depending on whether they were in the first or second tier of their country's football hierarchy. The player can also recoup some money by selling players to other teams. This is done by first offering the footballer for sale at a chosen price, from which interested clubs would then place offers that the player could choose to accept or not. Once a price is agreed, the footballer transfers clubs instantly. The values of footballers alternate greatly during the game, with the then Real Betis striker Denílson being the most expensive player at the start of the game. An unfortunate bug in the game allows the player to gain a huge sum of money (around 70m) if the club goes into a certain amount of debt, which pretty much negates the need for financial planning.\n\nThe club's board of directors constantly give assessments as to how they think the club is progressing under your management. This involves a short statement visible at the menu screen. Other features available the menu screen include options to change you team line-up, formation and tactics; all vital when creating a successful team.\n\nSimilarly, you can decide what methods of training your team will undertake for the coming week. You have the option to \"do training\", which generally increase the statistics of your players (but at the risk of injuring them) or to concentrate on fitness training (which helps players stay fit and injured players to recover quicker). Alternatively, you may choose to skip training entirely for the week. You also have the option to view various statistics, such as league tables from around the world, top goalscorers and to view the squads of all available teams on the game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/p26lapqrmna33r2qkz5p.jpg",
+        "release_date": 971568000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/oleary-manager-2000",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 50557,
+        "name": "Super Chinese Fighter EX",
+        "summary": "Super Chinese Fighter EX is a fighting video game for the Game Boy Color released by Culture Brain in 1999. It is part of the Super Chinese series and is the final Fighter game in the series.\n\nUnlike most of the Super Chinese games, Fighter EX is not an action game or role-playing video game. The game features several characters from the Super Chinese series, including the main characters, Jack and Ryu.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7m1g.jpg",
+        "release_date": 945993600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/super-chinese-fighter-ex",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 65512,
+        "name": "Ferret Monogatari: Watashi no Okini Iri",
+        "summary": "A Japanese Game Boy Color game about raising ferrets.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ifioqwj26zcqjkhnbnbv.jpg",
+        "release_date": null,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": null,
+        "external_url": "https://www.igdb.com/games/ferret-monogatari-watashi-no-okini-iri",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 65546,
+        "name": "Dokapon?! Millennium Quest",
+        "summary": "Dokapon?! Millennium Quest is a Japanese RPG game for the Game Boy Color.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6irn.jpg",
+        "release_date": 963532800,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/dokapon-millennium-quest",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 65583,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "summary": "Disney's Beauty and the Beast: A Board Game Adventure is a game for the Game Boy Color. There are two modes of play. In the first you play on a big game board, where each square represents a Disney character. When you land on a square you play a mini-game against or inspired by him or her. For instance if you land on the square showing the inventor father you will have to play a game where his new log chopping device cuts firewood and he has to bounce it across the screen on a spring. These mini-games range from 2D platform game segments to memory or reflex games. There are a total of seven boards to play on. You can play with up to four players.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w2a.jpg",
+        "release_date": 940809600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Quiz/Trivia,Arcade",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/disneys-beauty-and-the-beast-a-board-game-adventure",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 65584,
+        "name": "Dinosaur'us",
+        "summary": "Dinosaur'us is a game developed by RFX Interactive and co-published by Electronic Arts and Light & Shadow Productions for the Game Boy Color platform. Dinosaur'us was never released outside of Europe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30dl.jpg",
+        "release_date": 981072000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/dinosaurus",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 65681,
+        "name": "Armada F/X Racers",
+        "summary": "Put adventure into overdrive, as you captain a futuristic vehicle, and race through six alien worlds to face off in a battle of wills, thrills, chills and spills. Take on opposing high-tech vehicles, obstacles and obstructions - all as you approach a final showdown against multiple-bosses in a good 'ol game of bumper cars, minus the bumpers.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/krwhbrr9tskg4wydmghj.jpg",
+        "release_date": 967161600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/armada-f-slash-x-racers",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 66342,
+        "name": "Carl Lewis Athletics 2000",
+        "summary": "A track and field game for the Game Boy Color based around the Decathlon. It was only released in Europe.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9azo.jpg",
+        "release_date": 967766400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/carl-lewis-athletics-2000",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 67718,
+        "name": "Evel Knievel",
+        "summary": "You are in the boots of daredevil Evel Knievel. Keep your head cool and your bike level as you ramp your way through four different cities.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/rexzjlkwnbsejjwvooli.jpg",
+        "release_date": 946598400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/evel-knievel",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 67765,
+        "name": "Power Quest",
+        "summary": "A fighting game where the player fights using model robots.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95zi.jpg",
+        "release_date": 912124800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Fighting",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/power-quest",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 69114,
+        "name": "Tales of Phantasia: Narikiri Dungeon",
+        "summary": "Tales of Phantasia: Narikiri Dungeon is a Dungeon RPG. It is the first sequel in the Tales series, which normally does not have connected storylines. The story begins 205 years after the beginning of Tales of Phantasia.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6sw4.jpg",
+        "release_date": 973814400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/tales-of-phantasia-narikiri-dungeon",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 70497,
+        "name": "Animorphs",
+        "summary": "The best-received of the three Animorphs games, this RPG made much better use of the series' extended cast and universe. Battles play out similar to the Pokémon series, with turn-based battles and \"capturing\" morphs.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wny.jpg",
+        "release_date": 978220800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/animorphs",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 71725,
+        "name": "Antz Racing",
+        "summary": "Antz Racing is a racing game for the Game Boy Color.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co81my.jpg",
+        "release_date": 1009756800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/antz-racing",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 78875,
+        "name": "Top Gear Pocket 2",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82qb.jpg",
+        "release_date": 949190400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/top-gear-pocket-2",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 79920,
+        "name": "Chee-Chai Alien",
+        "summary": "Chee-Chai Alien is a Japanese only Game Boy Color game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s7s.jpg",
+        "release_date": 983232000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/chee-chai-alien",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 80764,
+        "name": "Daikatana",
+        "summary": "Unlike the first-person shooter for PC and Nintendo 64, the Game Boy Color version of Daikatana was a top-down action-adventure game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b51.jpg",
+        "release_date": 970185600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle,Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/daikatana--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 87746,
+        "name": "Hoyle Card Games",
+        "summary": "Hoyle Card Games is a Game Boy Color-only video game that was developed by Sandbox Studios and published by Sierra On-Line under their Sierra Attractions label.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wmm.jpg",
+        "release_date": 975628800,
+        "rating": 50.0,
+        "rating_count": 1,
+        "genres": "Strategy,Card & Board Game",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/hoyle-card-games--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 92272,
+        "name": "3D Pocket Pool",
+        "summary": "The game itself is a typical billiard variation. You can see your character and your enemy interacting at the top of the screen. Also the game has a freely rotatable 3D billiard table and realtime physics.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co203v.jpg",
+        "release_date": 985910400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/3d-pocket-pool",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 92273,
+        "name": "10-Pin Bowling",
+        "summary": "Congratulations! You now own your very own bowling alley, in the palm of your hand! Imagine going for a 7-10 split, or trying for that perfect game while surrounded by the sights, sounds and nostalgia of the classic American institution, the bowling alley, 10-PIN BOWLING does just that, immersing the player into a virtual bowling experience, anytime, anywhere. No waiting for an alley here. This classic pastime is synthetically recreated with exquisite detail right down to the polished mahogany lanes. So what are you waiting for? Let's get working on our average before the leagues begin...",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co91de.jpg",
+        "release_date": 933465600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22,33",
+        "external_url": "https://www.igdb.com/games/10-pin-bowling",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 93363,
+        "name": "Klustar",
+        "summary": "In Klustar, you control a magic block being inundated by shapes of various block configurations that appear from the sides of the screen. These blocks stick to your block and form a klustar, which you can rotate clockwise and counterclockwise. The goal is to keep your klustar as small as possible by fitting blocks together to form squares of at least 3 x 3 blocks. Once these square matrixes are created, they disappear. Shapes that do not attach to the klustar build up on the edges of the screen. Gameplay continues until your klustar becomes so big that it touches the sides of screen or cannot move, or when there is no room for shapes to enter the screen.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wok.jpg",
+        "release_date": 923011200,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/klustar",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 93431,
+        "name": "Top Gear Pocket",
+        "summary": "Rally race through the city streets, grasslands and sandy terrain against eight other racers (or a friend) to the finish line. The higher you rank at the end of each race, the more new tracks you open up (including tracks full of ice). Time trial mode also allows you to test the time on each track.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82qa.jpg",
+        "release_date": 946598400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/top-gear-pocket",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 94622,
+        "name": "Antz",
+        "summary": "Antz is a side-scrolling platformer based on the movie of the same name. You take the role of Z, and you set out to win the heart of Princess Bala. Each of the 19 levels is based on situations in the movie. Your character has a variety of actions: crouching down, going through tunnels, hiding from enemies, jumping over obstacles, hanging from trees, climbing ropes and more. You also encounter boss characters.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4zbx.jpg",
+        "release_date": 922838400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/antz",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 96797,
+        "name": "Pocket Bowling",
+        "summary": "Pocket Bowling for the Game Boy Color brings the popular blue collar sport to the tips of your fingers (and thumbs). You can choose from six bowlers, including a secret android character who appears only after you reach a certain level. Each bowler is rated on power and technique and uses a different weight of bowling ball. Apparently, all the bowlers are ambidextrous because each one can bowl right- or left-handed.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwd0.jpg",
+        "release_date": 909100800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/pocket-bowling",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 97487,
+        "name": "Spirou: The Robot Invasion",
+        "summary": "Spirou: The Robot Invasion is a 2D side'scrolling platform game based on the Franco-Belgian comic Spirou et Fantasio.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1l8g.jpg",
+        "release_date": 976752000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/spirou-the-robot-invasion",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 104241,
+        "name": "Monster Rancher Battle Card GB",
+        "summary": "A trading card RPG based on the Monster Rancher franchise.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfpu.jpg",
+        "release_date": 945993600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/monster-rancher-battle-card-gb",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 118557,
+        "name": "Mission: Impossible",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ldd.jpg",
+        "release_date": 951350400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/mission-impossible--2",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 129173,
+        "name": "Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou!",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co56s7.jpg",
+        "release_date": 945302400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG)",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 142996,
+        "name": "Turok 3: Shadow of Oblivion",
+        "summary": "Turok 3: Shadow of Oblivion is an action video game developed by Bit Managers and published by Acclaim Entertainment. It was released for the Game Boy Color handheld game console in 2000 alongside its Nintendo 64 counterpart.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zcf.jpg",
+        "release_date": 964656000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/turok-3-shadow-of-oblivion--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 143008,
+        "name": "Croc",
+        "summary": "This Game Boy Color port of Croc: Legend of the Gobbos adapts the 3D platforming adventure into a 2D side-scrolling format. Players guide the young crocodile on his mission to rescue captured Gobbo friends from Baron Dante's castle. The adventure spans across 30 levels through jungles, deserts, ice worlds, and castle environments. Players use Croc's jumping, tail-whipping, and pouncing abilities to defeat enemies while collecting crystals for protection and exploring hidden areas for keys and rewards. The journey is complemented by bonus rounds featuring sliding puzzles between main stages.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9cij.jpg",
+        "release_date": 960249600,
+        "rating": 79.51027117092099,
+        "rating_count": 5,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/croc",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 143578,
+        "name": "Heroes of Might and Magic",
+        "summary": "The game is a port of Heroes of Might and Magic: A Strategic Quest, but without multiplayer capabilities.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tes.jpg",
+        "release_date": 956966400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Role-playing (RPG),Strategy,Turn-based strategy (TBS)",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/heroes-of-might-and-magic",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 146696,
+        "name": "Turok 2: Seeds of Evil",
+        "summary": "The Amaranthine Accordance is trying to bring a massive Dinosoid army to Earth from the Lost Land in an effort to restore dinosaurs to their rightful home.\n\nThe new Turok, Joshua Fireseed, must stop them from sending four deadly Bionosaurs through the portal and prevent them from conquering the planet.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zcg.jpg",
+        "release_date": 908928000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/turok-2-seeds-of-evil--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 146987,
+        "name": "Turok: Rage Wars",
+        "summary": "Turok: Rage Wars is a 2D action-adventure video game for the Game Boy Color, developed by Bit Managers and published by Acclaim Entertainment. Unlike its Nintendo 64 counterpart, Turok: Rage Wars is a single player game that serves as a direct sequel to the Game Boy Color version of Turok 2: Seeds of Evil.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zqw.jpg",
+        "release_date": 941414400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/turok-rage-wars--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 165236,
+        "name": "Croc 2",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4mt6.jpg",
+        "release_date": 980380800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/croc-2--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 165365,
+        "name": "Uno",
+        "summary": "UNO, the classic card game of skips, draw-twos, and reverses, has come to the Game Boy Advance. There are two modes of play: Standard and Challenge. Standard has the players keep going until they reach a specified number of points, usually 1000. However, a player only scores points when he gets rid of all the cards in his hand. The points are the total value of the cards left in the opposition's hands. In Challenge, each player has a set number of points, and a player is eliminated when he reaches the point total. Play continues until one player is left standing. In both modes, you can play against up to three computer-controlled opponents. You can also play a single human opponent via a link cable. As an added bonus, there are three new cards that are not part of the real-world game. Now you can play UNO by yourself.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4eri.jpg",
+        "release_date": 946598400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/uno--7",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 165581,
+        "name": "Toy Story 2",
+        "summary": "The Game Boy Color version is a side-scrolling platform game unrelated to the other versions. The player controls Buzz, who can jump, run, and shoot his laser at enemies. It features 11 levels, including two bonus levels that can be accessed if the player collects all the coins located in certain levels. Because the Game Boy Color has only two action buttons, Buzz's running and jumping are both done through the B button. While standing motionless, the player can jump and move across gaps, whereas running is initiated by pressing the B button while moving. Gameplay is saved through a password feature",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5srx.jpg",
+        "release_date": 943228800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/toy-story-2",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 206690,
+        "name": "Buffy the Vampire Slayer",
+        "summary": "Fight against the vampires to save mankind, or at least around Sunnydale.\n\nPunch and kick your way through 8 side-scrolling levels as Buffy the Vampire Slayer, beating back the vamps and staking them when the time is right. Comic book style cutscenes help to explain the story as you play, as if an episode of the TV show was on the handheld.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uql.jpg",
+        "release_date": 969408000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/buffy-the-vampire-slayer--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 209817,
+        "name": "The Land Before Time",
+        "summary": "There's a rumbling at your feet. Is it a vicious T-Rex? Maybe it's an erupting volcano! No time to panic. Littlefoot, Cera, Spike, Ducky and Petrie need you! Your friends are trapped in the Mysterious Beyond and it's up to your to get them back to the safety of The Great Valley. Predators are lurking everywhere. The terrain is treacherous. Teamwork is the key. It's an amazing adventure that takes you through The Land Before Time!\n\nThe Land Before Time is a 2D platforming game developed by Eclipse Entertainment for the Game Boy Color. It was first released in Europe in June 2001, with a North American release the following month, both published by Conspiracy Entertainment. The game received mostly lower reviews, earning a 40% average from aggregate review website GameRankings.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9bz6.jpg",
+        "release_date": 993945600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/the-land-before-time--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 248746,
+        "name": "Gex: Enter the Gecko",
+        "summary": "A conversion of the 3D platform title, this game features all the same levels shrunk down onto the Game Boy Color screen.\n\nGex is sucked into his TV, and must explore all of the TV style levels, find the remote controls and save the world of television from Rez, who is planning to take over the world's TV networks, as well as return home. Each level is based on a popular TV genre, such as horror, sci-fi and comedy, and has mentions of well known programs and movies along the way.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ppo.jpg",
+        "release_date": 912470400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "22,33",
+        "external_url": "https://www.igdb.com/games/gex-enter-the-gecko--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 259482,
+        "name": "Woody Woodpecker Racing",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ve9.jpg",
+        "release_date": 975628800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/woody-woodpecker-racing--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 265046,
+        "name": "The Grinch",
+        "summary": "As the Grinch, your mission is to undo Whoville's Holiday preparations in a most mischievous way. With help from lovable Max the Dog, you'll creep stealthily about Whoville, stealing presents and decorations. But be careful, those pesky Whos are determined to stop your despicable acts!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co966h.jpg",
+        "release_date": 972864000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/the-grinch--1",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 272020,
+        "name": "Dragon's Lair",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co790i.jpg",
+        "release_date": 978220800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/dragons-lair--4",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 282666,
+        "name": "Sweet Ange",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7mjh.jpg",
+        "release_date": 945388800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/sweet-ange",
+        "cached_at": 1778663172
+      },
+      {
+        "id": 298504,
+        "name": "Mary-Kate and Ashley: Pocket Planner",
+        "summary": "Is your life totally disorganized? Do you lose track of what you need to do? Have you lost the phone number of the cutest guy in school? Get organized with MARY-KATE & ASHLEY: Pocket Planner for the Game Boy Color. Use the calendar to keep track of all those really important messages and never forget a phone number with the phone book. You can also write super-secret messages to your friends and beam them to another Game Boy Color. In addition to these features, several games have been included. You can help raise Mary-Kate and Ashley's dog, Clue. If you have a question, go to Ask Ashley, and she will check her crystal ball for an answer. If you are completely unorganized and need some help, run out and get MARY-KATE & ASHLEY: Pocket Planner.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co83uy.jpg",
+        "release_date": 974764800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Arcade",
+        "platform_ids": "22",
+        "external_url": "https://www.igdb.com/games/mary-kate-and-ashley-pocket-planner--1",
+        "cached_at": 1778663172
+      }
+    ]
+  }
+}

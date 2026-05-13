@@ -1,0 +1,983 @@
+{
+  "version": 2,
+  "format": "full",
+  "name": "Master System Exclusives",
+  "author": "tonkatsu-collections",
+  "created": "2026-05-13T09:06:14+00:00",
+  "description": "Games released exclusively on Master System, sourced from Wikipedia category \"Master System-only games\" and verified via IGDB.",
+  "items": [
+    {
+      "media_type": "game",
+      "external_id": 10218,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/The_Cyber_Shinobi"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18141,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Zillion_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18143,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Pro_Wrestling_%28Master_System_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 18145,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Rambo_III_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19486,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Asterix_%281992_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19490,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Sega_Chess"
+    },
+    {
+      "media_type": "game",
+      "external_id": 19511,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Running_Battle"
+    },
+    {
+      "media_type": "game",
+      "external_id": 29132,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/World_Grand_Prix_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 29136,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/TransBot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 36898,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Kung_Fu_Kid"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37175,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Rocky_%281987_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 37176,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Astro_Warrior"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45649,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Ghost_House_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45653,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Cyborg_Hunter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45655,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Champions_of_Europe"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45656,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Casino_Games"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45657,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Buggy_Run"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45659,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Double_Hawk"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45662,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Bomber_Raid"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45663,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Blade_Eagle_3-D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45664,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Danan%3A_The_Jungle_Fighter"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45667,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Basketball_Nightmare"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45668,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Aztec_Adventure"
+    },
+    {
+      "media_type": "game",
+      "external_id": 45673,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Golfamania"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46101,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Tecmo_World_Cup_%2793"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46104,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Zaxxon_3-D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46112,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Alex_Kidd%3A_High-Tech_World"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46113,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Pit_Pot"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46114,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Zillion_II"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46117,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Assault_City"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46118,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Snail_Maze"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46124,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/SpellCaster_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46126,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Space_Harrier_3-D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46128,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Sega_World_Tournament_Golf"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46131,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Psycho_Fox"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46134,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Poseidon_Wars_3-D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46136,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/OutRun_3-D"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46142,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Great_Ice_Hockey"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46145,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Great_Baseball"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46149,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Hoshi_wo_Sagashite..."
+    },
+    {
+      "media_type": "game",
+      "external_id": 46151,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Arcade_Smash_Hits"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46337,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Power_Strike"
+    },
+    {
+      "media_type": "game",
+      "external_id": 46671,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Lord_of_the_Sword"
+    },
+    {
+      "media_type": "game",
+      "external_id": 49152,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Penguin_Land"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65579,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Kenseiden"
+    },
+    {
+      "media_type": "game",
+      "external_id": 65580,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/ALF_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 75090,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Wanted_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 81281,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Slap_Shot_%28video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 131548,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Monopoly_%281988_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 136620,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/Ninja_Gaiden_%281992_video_game%29"
+    },
+    {
+      "media_type": "game",
+      "external_id": 245217,
+      "platform_id": 64,
+      "comment": "https://en.wikipedia.org/wiki/20_em_1"
+    }
+  ],
+  "media": {
+    "games": [
+      {
+        "id": 10218,
+        "name": "The Cyber Shinobi",
+        "summary": "The Cyber Shinobi is the SEGA Master System exclusive sequel to Shinobi. In some context the game has the subtitle Shinobi Part 2. It was the first Shinobi game to not have an Arcade counterpart.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30io.jpg",
+        "release_date": 662601600,
+        "rating": 69.44192180647343,
+        "rating_count": 6,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/the-cyber-shinobi",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 18141,
+        "name": "Zillion",
+        "summary": "Zillion is a space adventure platform video game designed for the Sega Master System as a companion for the Zillion anime series in 1987. The game is a free-scrolling platform/adventure, similar to Epyx's Impossible Mission, in which objects must be inspected to enable things by accessing codes.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xxj.jpg",
+        "release_date": 548812800,
+        "rating": 65.51702692361728,
+        "rating_count": 8,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/zillion",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 18143,
+        "name": "Pro Wrestling",
+        "summary": "Pro Wrestling is a professional wrestling video game released for the Sega Master System in 1986 by Sega. It centers around tag team wrestling, with four duos that players can select and guide to various championship titles around the world.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cpib8axeemftpw3tpaae.jpg",
+        "release_date": 522201600,
+        "rating": 69.77379007811928,
+        "rating_count": 8,
+        "genres": "Sport,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/pro-wrestling--1",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 18145,
+        "name": "Rambo III",
+        "summary": "Rambo III is a shooting game developed and published by Sega for the Sega Master System, making use of the Light Phaser peripheral. It is based upon the film Rambo III.\n\nJohn Rambo, America's favorite soldier, makes a daring rescue attempt on a Russian military base deep in war-torn Afghanistan. A fast-shooting Light Phaser game that tests your fighting skills to the limit.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4odh.jpg",
+        "release_date": 596937600,
+        "rating": 62.23929639599784,
+        "rating_count": 8,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/rambo-iii--1",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 19486,
+        "name": "Astérix",
+        "summary": "The Romans have kidnapped Getafix, who is the only one that can brew the magic potion the Gauls need to stand against the Romans. Asterix and Obelix embark on a journey to free him. You can play as either Asterix or Obelix which play slightly differently (Obelix is slower, but can manipulate objects, Asterix moves faster).",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3k58.jpg",
+        "release_date": 691545600,
+        "rating": 79.52856277487024,
+        "rating_count": 20,
+        "genres": "Platform,Adventure",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/asterix--2",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 19490,
+        "name": "Sega Chess",
+        "summary": "Patience, cunning and a desire to be the best - the keys to becoming a master of chess. Sega Chess gives even the most seasoned player the game of a lifetime!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/u7pg3sg0xrqq4u09d06e.jpg",
+        "release_date": 694137600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Strategy",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/sega-chess",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 19511,
+        "name": "Running Battle",
+        "summary": "A beat-em-up in which you take control of policeman Grey, who sets out to avenge the murder of his partner Brody and destroy the gang \"Soldiers of Darkness\" lead by \"M\".",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/r1q2zxnrbnx7fsxcrhrh.jpg",
+        "release_date": 694137600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Hack and slash/Beat 'em up",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/running-battle",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 29132,
+        "name": "World Grand Prix",
+        "summary": "Feel the excitement of the starting line up and take in the atmosphere before letting your throttle unleash to send your formula one-style vehicle around the courses at incredible speeds! In the amazing World Grand Prix you must battle your way up the pack to snatch pole position and maintain it for as long as possible to whoosh over the finish line first in each race to become the true tarmac racing champion!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7e8y.jpg",
+        "release_date": 473299200,
+        "rating": 67.94033005278212,
+        "rating_count": 7,
+        "genres": "Racing,Arcade",
+        "platform_ids": "52,84,64,27",
+        "external_url": "https://www.igdb.com/games/world-grand-prix",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 29136,
+        "name": "TransBot",
+        "summary": "Thwart an underground invasion with your transforming weaponry. The ground is scarred by craters, a reminder of the recent Dalaus invasion. And continuous acid rains give the sky an eerie irridescence. You are the only Transbot pilot left from the now defunct regime. So you must battle wave after wave of orbiting debris. To try to get to the notorious Dalaus artificial intelligence computer. Fortunately, your astro-plane can go through 6 different transformations. Turn into a robot warrior and more. By the time you transform, you should be able to penetrate the fortress of Dalaus. And rid the galaxy of her evil influence forever!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7e94.jpg",
+        "release_date": 504057600,
+        "rating": 49.85440879768765,
+        "rating_count": 9,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "52,64",
+        "external_url": "https://www.igdb.com/games/transbot",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 36898,
+        "name": "Kung Fu Kid",
+        "summary": "A beat-'em-up game developed and published by Sega for the Sega Master System. It is a sequel to the SG-1000 game Dragon Wang (ドラゴン・ワン), in which the player reprises the role of Wang, a kung fu master.\n\nIn Brazil this game was re-released as Sapo Xulé O Mestre do Kung Fu in 1995, complete with graphical changes.\n\nThis can be played for free in the browser at the Internet Archive.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7e96.jpg",
+        "release_date": 548208000,
+        "rating": 60.219757014011,
+        "rating_count": 6,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/kung-fu-kid",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 37175,
+        "name": "Rocky",
+        "summary": "Rocky Super Action Boxing is the first licensed video game based on the popular Rocky film series. The game is based on Rocky III and was designed by Coleco. In the game, the player can play as either Rocky Balboa or Clubber Lang in the game, either against the computer in a one player game, or against each other in a \"Head to Head\" two player mode. There is also a \"Demo\" mode if the player wants to watch Rocky and Clubber Lang fight.\n\nSince Rocky Super Action Boxing is one of the later ColecoVision titles released, it includes a pause feature for the game.\n\nEach boxing match consists of, according to the skill level chosen, two, five, ten, or fifteen rounds each lasting one minute each. During gameplay, the player's movement is restricted to three positions or \"lanes\" vertically, and from each player's side of the ring to the front of their opponent horizontally.\n\nThe 4 button controller allows for (independently) offensive hits to the body or head, defensive blocking for the head and body, and ducking.\n\nPoints are scored in the game by hitting the opponent's guard (1 point), or with a punch connecting with the opponent's head or body (2 points for either hit).\n\nVictory can be achieved in two ways, either by knockout, or by point count if the fight goes all the way to the end.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ebd.jpg",
+        "release_date": 545788800,
+        "rating": 60.03542793212753,
+        "rating_count": 6,
+        "genres": "Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/rocky--1",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 37176,
+        "name": "Astro Warrior",
+        "summary": "Basic Sega shoot-em-up in which you must guide your ship through three zones while avoiding hazards. Your only weapon are bullets as your only defense, but if you shoot the flashing red pieces on the terrain, chances are that a green ship will approach you, and if you collect this ship, your weapons will be upgraded so that you shoot a laser beam instead. Keep collecting ships and you can shoot up to three laser beams at once.\n\nAt the end of each zone, you will come across a boss that takes multiple hits to kill. If you manage to conquer all three zones, you are back to where you started. The whole point of this game is to earn as many points you can without losing all of your lives.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7e99.jpg",
+        "release_date": 534902400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/astro-warrior",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45649,
+        "name": "Ghost House",
+        "summary": "The player controls Mick, a young vampire hunter out to destroy five vampires in each stage before proceeding to the next.\n\nEverything is out to stop Mick from completing this tasks and making his way out of the mansion. The player has to punch, or jump on, his enemies to defeat them. Arrows will be flying from either direction and will attempt to hit Mick on the head, and he must either duck or jump on them for extra points. Players can jump or touch lights to freeze everything on screen for a few seconds. Rather than punching, the player can collect a sword on the lower level by jumping on it as it flies past him.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/r21xjqvm3iff8ok7en2r.jpg",
+        "release_date": 514425600,
+        "rating": 62.04476366020583,
+        "rating_count": 8,
+        "genres": "Platform",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/ghost-house",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45653,
+        "name": "Cyborg Hunter",
+        "summary": "The Year: 2242. You're the toughest bounty hunter in the galaxy. You've amassed a fortune by defeating the most vicious creatures known to man. And now, deep inside the enemy Cyborg Fortress, you can almost taste your next paycheck. But there's a little work to be done before you cash in. Like blasting swarms of deadly Cyborgs with your powerful psycho gun. And a battle-to-the-death showdown with Vipron, the vile Cyborg leader. Prepare yourself for one explosive payday!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co91zd.jpg",
+        "release_date": 596937600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Hack and slash/Beat 'em up",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/cyborg-hunter",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45655,
+        "name": "Champions of Europe",
+        "summary": "Your chance to be a champion has arrived! Compete against Europe's finest teams in the football game for 1992. Fast-paced action, multiple options, \"instinctive\" controls and superb animation make Champions of Europe - The official game of UEFA '92 rock solid soccer!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4se1.jpg",
+        "release_date": 570672000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/champions-of-europe",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45656,
+        "name": "Casino Games",
+        "summary": "Welcome to Sega Royale, where fortunes can be made or lost with the turn of a card. You have $500 to play the games of your choice. Which will they be? Challenge high stakes gamblers in a game of poker. Beat the dealer in a fast-moving game of Black Jack. Enter the world of the rich and famous in the famous game of Baccarat. Run the gambit with Lady Luck on the Sega slot machines, or just relax with a game of pinball! Bet as little as $1, up to $1,000, in your living room. Casino Games even has a Password save so you can keep your winnings for your next gambling trip! If you lose all your cash, remember; at Sega Royale experience is the greatest reward. There's always tomorrow...and another $500 to play!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa79i.jpg",
+        "release_date": 602294400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport,Strategy",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/casino-games",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45657,
+        "name": "Buggy Run",
+        "summary": "Buggy Run is a game that lets players race dune buggies in a championship over 15 possible tracks (plus 4 in 2 player mode) each winning money that can be used for dune buggy upgrades. There are 4 different modes that can be played in single player mode that includes Race, Vs Com, Freerun, and Battle.\n\nIn the main mode Race the player is given $20,000 starting cash that can be used to upgrade the buggy. The upgradable features of the buggy are Tyres (grip), Engine (speed), Suspension (limits bounce), Steering (cornering), Transmission (performance). All the upgrades cost $10,000 for level 2, $30,000 for level 3, and $50,000 for level 4 however the player doesn’t need to get them in order. There are also special upgrades to buy that includes $5000 for a mine (drops behind and if another car hits then it is blown up until reset), $5000 for Nitoro (gives the players car a short speed boost), and $10,000 for extra capacity of special items (starts with 2 slots to a max of 6). Special Items must be used in the order they're placed in the slots.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ifl.jpg",
+        "release_date": 754704000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/buggy-run",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45659,
+        "name": "Double Hawk",
+        "summary": "You control the action as John and Jack, two warriors hand-picked by the United Nations, attempt to bring down a terrorist organization which is responsible for a worldwide wave of violence! The terrorists are capable of launching attacks from the sky, the sea, and by land. Are you the one person who can end this reign of terror?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/wpowmcgfl7wotvwhpcno.jpg",
+        "release_date": 633830400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/double-hawk",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45662,
+        "name": "Bomber Raid",
+        "summary": "Fly your plane through five levels, shooting enemy planes, submarines, helicopters, and other enemies along the way, and use your equipped cluster bombs if necessary. You need to destroy a target that is outlined in your mission briefing. You have three lives and limited cluster bombs. To help you along the way, you can shoot a power pod to score points, increase your firepower, and gain some help from fellow squadrons.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacwr.jpg",
+        "release_date": 599616000,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/bomber-raid",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45663,
+        "name": "Blade Eagle 3-D",
+        "summary": "Blade Eagle 3-D is a vertical shoot-em-up which has no story involved. You just have to shoot your way on three planets (you have to travel through space first), blasting as many enemies as possible. Along the way, there are several bosses that you have to defeat. The later ones drop a power-up, which you can use to upgrade your ship. Some of the power-ups include double shots and laser beams. Another power-up gives you the ability to have an extra ship on your side and will join the fight, and will later serve as a backup. Blade Eagle is designed for play in conjunction with the Sega 3-D Glasses. If you play without the 3-D glasses, it will look like as if there are two of your ships, not just one. If there are four enemies approaching you, they will look like eight.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8i8r.jpg",
+        "release_date": 567993600,
+        "rating": 49.12347887647782,
+        "rating_count": 5,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/blade-eagle-3-d",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45664,
+        "name": "Danan: The Jungle Fighter",
+        "summary": "Danan, the infant who was rescued from the remains of a wrecked airplane by Jimba, a young Amazon tribesman, came home from hunting one day to find his guardian mortally wounded! What happened to Jimba? Who would do such a thing? Help Danan to find the answers — stalk the hot, wet jungles of the Amazon, putting the pieces together as you go, and avenge Jimba's death!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co922w.jpg",
+        "release_date": 633830400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/danan-the-jungle-fighter",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45667,
+        "name": "Basketball Nightmare",
+        "summary": "Basketball Nightmare is a basketball game where the player plays basketball against strange humanoid creatures on the court where the creature lives. The player must play and defeat each creature before moving onto a new place with a new harder opponent. The player starts of playing against Wolfs in the Forest and then, upon defeating that opponent, moves on to play Frogs at the Pond, One Eyed Aliens at the Waterfall, Vampires in the Skeleton Cave, Geishas in the Bamboo Forest, before finally playing against Samurais at the Shrine. If the player loses a match then that match can be replayed until won.\n\nThe player at the start of each match gets to pick how long the match duration is out of the options of 15, 30, or 45 minutes (not in real time) before being placed on the court. When on the court the player always plays towards the right of the court. First the player tries to get the ball from a throw by a well timed button press. When the player has the ball the player has the option to move, pass the ball, and jump. When jumping the player can shoot, with the accuracy of the shot depending on the timing, or just simply pass. When defending the player can cycle through the field or just simply run into the opponent to challenge for the ball. There are a few penalties that the player can get including but not limited to Travelling (not passing after jumping), Charging (Sometimes called when the player with the ball runs into an opponent), and Pushing (Sometimes called when the player without the ball runs into an opponent) with all the penalties resulting with the other team getting the ball on the side of the court.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacwp.jpg",
+        "release_date": 602294400,
+        "rating": 76.66256394230358,
+        "rating_count": 5,
+        "genres": "Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/basketball-nightmare",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45668,
+        "name": "Aztec Adventure",
+        "summary": "Gameplay involves the player trying to reach Paradise by exploring ten different lands, including desert, marshes, ruins, underground waterways, and forest. While exploring you can collect weapons, by destroying plants. A variety of in-game weapons can be found, some more powerful than others. Some weapons can be used against bosses, which can take a certain amount of hits from the player's default weapon, unless he has companions. The player's companions need to be hired with gold, and until he pays them they remain your enemies. Players must either bribe them or battle them to make them join his quest.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacwm.jpg",
+        "release_date": 559094400,
+        "rating": 70.08836615991872,
+        "rating_count": 8,
+        "genres": "Adventure",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/aztec-adventure",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 45673,
+        "name": "Golfamania",
+        "summary": "You'll need sharp eyes, a smooth swing, and perfect judgment if you're going to master Golfamania. Out on the links you'll have to consider the distance, the wind, the lie of the ball, where to hit the ball and which club to use. Then watch that power meter and swing for the pin!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co659w.jpg",
+        "release_date": 633830400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/golfamania",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46101,
+        "name": "Tecmo World Cup '93",
+        "summary": "Twenty-four teams from around the globe have come to participate in this soccer showcase. Pick one and match your skills against the computer in an exhibition match, take on a friend, or put it all on the line in the World Cup Tournament! The action never stops!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ofrgtszkyahkqsbrxlyv.jpg",
+        "release_date": 759974400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/tecmo-world-cup-93",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46104,
+        "name": "Zaxxon 3-D",
+        "summary": "The enemy has built battle fortresses in the farthest reaches of space. There's only one way in... and one way out. Your Mission: To infiltrate the enemy's defenses and destroy their motherships!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/z49oiwkan5qqkascliy2.jpg",
+        "release_date": 563241600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/zaxxon-3-d",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46112,
+        "name": "Alex Kidd: High-Tech World",
+        "summary": "Life isn't always easy for the Crown Prince of Radactian. When the High-Tech World arcade opened up, someone in your castle tore the map into eight pieces! But it's such a cool arcade, you have to go there. It's a challenge worthy of any Kidd!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co91g6.jpg",
+        "release_date": 553651200,
+        "rating": 50.02364892996663,
+        "rating_count": 16,
+        "genres": "Platform,Puzzle,Quiz/Trivia,Adventure",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/alex-kidd-high-tech-world",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46113,
+        "name": "Pit Pot",
+        "summary": "Pit Pot is an Action game, developed and published by Sega, which was released in Japan in 1985.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/ogwnnvr9vwekw2jg7p3m.jpg",
+        "release_date": 503366400,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/pit-pot",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46114,
+        "name": "Zillion II: The Tri Formation",
+        "summary": "They're at it again. The dreaded Norsa Empire is back... and stronger than ever before. This time they won't make any mistakes. Others have tried to stop them and all have failed. The evil Baron Ricks knows you are coming. And it's a trap! But you're the galaxy's last hope. Can you do what's never been done before?",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co91g4.jpg",
+        "release_date": 566352000,
+        "rating": 69.00350238284359,
+        "rating_count": 7,
+        "genres": "Shooter,Platform,Racing",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/zillion-ii-the-tri-formation",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46117,
+        "name": "Assault City",
+        "summary": "Robots Go Berserk! Dateline: Assault City, 2092. It's a robot mutiny! Central Computer Control is in chaos. Armed KillerBots are running amok, blasting loyal Bots into metal junk and piles of whining servomotors!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacwk.jpg",
+        "release_date": 633830400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/assault-city",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46118,
+        "name": "Snail Maze",
+        "summary": "Snail Maze is a 1986 video game by Sega, part of the Sega Master System. Instead of being released on a cartridge, it was built into the system's BIOS and could be played by starting the system without a game cartridge inserted and holding Up and buttons 1 and 2 simultaneously. The later \"Master System II\" model did not include Snail Maze, it instead included a built in Alex Kidd in Miracle World. Snail Maze was never released in cartridge or card format.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9mod.jpg",
+        "release_date": 525916800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Puzzle",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/snail-maze",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46124,
+        "name": "SpellCaster",
+        "summary": "He has been summoned by Daikak, the great leader of the Summit Temple, to stop a war between factions of warlords. The player explores temples and defeats enemies like ghosts, ninja, and feral beasts. There are also villages to explore and people to talk to as the player assembles clues on who desecrated his home town's temple and killed its guardians. The quest takes the player across medieval Japan and to the Underworld. Unlike most games, death does not lead to game over or even a loss of money or experience points. Instead, the player has to use a password in order to resurrect themselves from the dead.\n\nThe game is a port of the Japanese game Kujaku-ou, removing the anime license.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b8m.jpg",
+        "release_date": 620611200,
+        "rating": 69.97106144307197,
+        "rating_count": 7,
+        "genres": "Shooter,Platform,Role-playing (RPG),Hack and slash/Beat 'em up,Adventure",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/spellcaster",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46126,
+        "name": "Space Harrier 3-D",
+        "summary": "The intergalactic warrior Space Harrier returns... in an all-new 3D adventure! The peaceful Land of the Dragons is again under attack. Evil creatures fill the land and sky. Euria, the magnificent white dragon, is being held prisoner in a diabolical trap. Only you, the Space Harrier, can set him free. But this time, the challenge is greater than ever before! Put on your SegaScope 3D Glasses. The screen will come alive with new 3D graphics, enemies and wild new battle scenes! Only you stand between the peaceful dragons and defeat. Get ready for the battle of a lifetime!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gkq.jpg",
+        "release_date": 573091200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/space-harrier-3-d",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46128,
+        "name": "Sega World Tournament Golf",
+        "summary": "\"Challenging courses, a variety of modes and realistic gameplay - Sega World Tournament Golf has it all!\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmyb.jpg",
+        "release_date": 728524800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/sega-world-tournament-golf",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46131,
+        "name": "Psycho Fox",
+        "summary": "Psycho Fox must get to the right hand side of the level. However, there are many enemies in the way. He can use a Shinto stick to change into characters/animals like a hippopotamus, a monkey or a tiger, each of which has its own special ability. The hippopotamus is slow and cannot jump very high, but can punch through special destructible blocks in the game world. The monkey can jump higher than the other creatures and the tiger can run faster. Psycho also has an ally named Birdfly, who can be used as armor or as a boomerang. If Psycho is hit while carrying Birdfly, Birdfly goes away and the player does not lose a life.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3k59.jpg",
+        "release_date": 628473600,
+        "rating": 60.95033540575913,
+        "rating_count": 10,
+        "genres": "Platform",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/psycho-fox",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46134,
+        "name": "Poseidon Wars 3-D",
+        "summary": "Battle Stations! Battle Stations! Your country is being attacked. You'll be fighting on the U.S.S. Poseidon; an armor-plated attack cruiser with radar, sonar, 76mm cannons and surface-to-surface missiles. First come the training rounds. They'll throw everything they have at you... jets, cruisers, torpedoes, cannons. And then the fun really starts! Combat missions! You're on the open seas. You have blips on the radar. Line up your gunsights and let 'em have it. You pick up an enemy cruiser on your sonar. Get ready with an armor piercing missile and send them to Davey Jones locker. If you complete your missions, you will be awarded with the Navy's highest honor... a promotion to Fleet Admiral.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8flj.jpg",
+        "release_date": 599529600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Simulator,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/poseidon-wars-3-d",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46136,
+        "name": "OutRun 3-D",
+        "summary": "Strap yourself in and take a 3-D ride on the wild side. Sega's Out Run 3-D is so close to reality it will leave you breathless! As your car whips around treacherous curves and over hills, you can almost feel the engine screaming and the wind whipping through your hair!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6v68.jpg",
+        "release_date": 599529600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Racing,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/outrun-3-d",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46142,
+        "name": "Great Ice Hockey",
+        "summary": "Welcome to the Big Leagues. Here's a rough and tumble hockey game that takes a steady hand and quick reflexes. Because your mean opponents mean business. Teams line up in full defense. Tackle one another. Scramble for the puck. Drive relentlessly for a goal. Victory for your team depends on you. So you need sharp techniques. Quickness. Power. And smooth stick-shifting ability. Show you have the right touch, hit the puck straight into the goal. But just relax your guard, and see why they call the game of hockey \"wrestling on ice.\"",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/x4lqjubpw7apbo0tinn4.jpg",
+        "release_date": 536371200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/great-ice-hockey",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46145,
+        "name": "Great Baseball",
+        "summary": "You're the manager. And you can field a total of 26 ball teams to battle for league leadership. Pick the team of your choice. Designate the starting pitcher. Then, play ball! And get ready for some of the most exciting baseball since the game was invented. Will it be a slugging match? A pitching duel? Need a pinch hitter or relief pitcher? You decide. It just takes the right strategy. A cool head. And sure ball control. And if you want batting practice, call up The Home Run Contest. A great feature of Great Baseball that lets you swing at 20 perfect pitches. It's going... It's going... It's gone!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8hof.jpg",
+        "release_date": 503452800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Simulator,Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/great-baseball",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46149,
+        "name": "Hoshi wo Sagashite...",
+        "summary": "The game revolves around a dog and his family. Being one of the earliest adventure games for an 8-bit console system, the game tends to be simplistic compared to today's adventure games. As a Japan exclusive video game, literacy is required in the Japanese language in order to play the game. The character seems to have an anime-like influence as the people are watching out for the dog that is sitting on a log. Among the human beings, however, is an alien-like creature. While the literal translation would be Searching the Stars..., the actual alternative title is The Story of Mio.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxkh.jpg",
+        "release_date": 575942400,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/hoshi-wo-sagashite-dot-dot-dot",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46151,
+        "name": "Arcade Smash Hits",
+        "summary": "The game had a choice of 3 arcade games to play. They are Centipede, Breakout and Missile Command.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacwj.jpg",
+        "release_date": 504835200,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Arcade",
+        "platform_ids": "15,26,64",
+        "external_url": "https://www.igdb.com/games/arcade-smash-hits",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46337,
+        "name": "Power Strike II",
+        "summary": "Power Strike II is a top-down vertical shoot 'em up video game developed by Compile. It was published by Sega in 1993, only released in Europe and Brazil.\n\nThis game moves from the setting of previous games to a steampunk version of the 1930s, where the player controls the Falcon Flyer and fights against sky pirates.\n\nNot to be confused with Power Strike II / GG Aleste II for the Sega Game Gear.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co635m.jpg",
+        "release_date": 746841600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/power-strike-ii",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 46671,
+        "name": "Lord of the Sword",
+        "summary": "The followers of the evil Ra Goan have toppled the king from the throne. None are brave enough to take his place. The Elders have decreed that any man who can pass three tests will become King of Baljinya. Find the Tree of Merill. Defeat the Goblin of Balala Valley. Destroy the Statue of Evil. It sounds easy. But the followers of Ra Goan are waiting to stop you! It's an adventure that will take you across rivers and oceans, through swamps and over mountains. You have a sword and a bow. But magical weapons may become yours... for a price. Pass the tests and you shall be king. But remember: There's more to being a Lord of The Sword than hacking apart thine enemies!",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/py06fs26xvzogl5gpuaa.jpg",
+        "release_date": 581212800,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Adventure",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/lord-of-the-sword",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 49152,
+        "name": "Penguin Land",
+        "summary": "Penguin Land, known as Doki Doki Penguin Land Uchū Daibōken (どきどきペンギンランド宇宙大冒険? lit. \"Thump Thump Penguin Land: Great Outer Space Adventure\") in Japan, is a Sega Master System game and the second game in the Doki Doki Penguin Land series. In this game you play as a penguin going through a puzzle platformer stage and try to guide your egg around the polar bears, rocks and other hazards to the end of the stage. The game has a total of 50 stages and a level editor which can save up to 15 additional levels. The level editor data is stored on the game's battery back-up RAM.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93cg.jpg",
+        "release_date": 556243200,
+        "rating": 89.69686001266854,
+        "rating_count": 5,
+        "genres": "Platform,Puzzle",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/penguin-land",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 65579,
+        "name": "Kenseiden",
+        "summary": "A Master System side-scrolling platformer set in a fantasy version of feudal Japan featuring multiple paths to explore and crazy, potbellied monkeys to kill.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96g8.jpg",
+        "release_date": 581212800,
+        "rating": 69.98478757307329,
+        "rating_count": 8,
+        "genres": "Platform,Role-playing (RPG),Hack and slash/Beat 'em up",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/kenseiden",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 65580,
+        "name": "Alf",
+        "summary": "C64 \"R-Type\" style side scrolling shoot 'em up.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ebv.jpg",
+        "release_date": 631065600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Platform",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/alf",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 75090,
+        "name": "Wanted",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/pbdcu1lte1kx4p3ktkm6.jpg",
+        "release_date": 631065600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Shooter,Arcade",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/wanted--2",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 81281,
+        "name": "Slap Shot",
+        "summary": "A hockey game which has nothing to do with the 1977 movie of the same name.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/unqzdi6dts8nvtpmb3ff.jpg",
+        "release_date": 662601600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Sport",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/slap-shot--1",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 131548,
+        "name": "Monopoly",
+        "summary": "Based on the popular board game from Parker Brothers about acquiring real estate and earning rent from players that land on their properties. The goal is to bankrupt all other players but a time limit can also be set with the winner being the person with the most money/assets when time expires. Up to 10 players can compete or computer opponents can be added on one of three difficulty settings.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2y1m.jpg",
+        "release_date": 599529600,
+        "rating": null,
+        "rating_count": null,
+        "genres": "Card & Board Game",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/monopoly--6",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 136620,
+        "name": "Ninja Gaiden",
+        "summary": "Ninja Gaiden for Sega Master System was released in 1992 by SEGA. It is a different game from homonym NES game.",
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fy4.jpg",
+        "release_date": 702000000,
+        "rating": 78.72266388015129,
+        "rating_count": 6,
+        "genres": "Platform,Hack and slash/Beat 'em up",
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/ninja-gaiden--3",
+        "cached_at": 1778663174
+      },
+      {
+        "id": 245217,
+        "name": "20 em 1: Game 1",
+        "summary": null,
+        "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8r5.jpg",
+        "release_date": 820368000,
+        "rating": null,
+        "rating_count": null,
+        "genres": null,
+        "platform_ids": "64",
+        "external_url": "https://www.igdb.com/games/20-em-1-game-1",
+        "cached_at": 1778663174
+      }
+    ]
+  }
+}
